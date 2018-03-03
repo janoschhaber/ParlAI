@@ -376,4 +376,11 @@ task_list = [
         "description": "Dump of Wikipedia articles from 2/3/18",
         "notes": "Specify ':full' for the full articles to be returned, otherwise defaults to ':summary', which provides the first paragraphs. To put the article in the labels and the title in the text, specify ':key-value' at the end (for a title/content key-value association)"
     },
+    {
+        "id": "DMG_Pilot",
+        "display_name": "Partner Specificity in Visually Grounded Dialogue",
+        "task": "dmg_pilot_mturk",
+        "tags": ["All", "Goal-Oriented", "Multi-Round", "Visual"],
+        "description": "Mutli-round image marking game for goal oriented dialog. Pilot of the Dialogue Modeling Group of ILLC, University of Amsterdam"
+    },
 ]

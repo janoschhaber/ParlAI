@@ -1129,7 +1129,7 @@ class MTurkManager():
             hit_reward=self.opt['reward'],
             # Set to 30 minutes by default
             assignment_duration_in_seconds=self.opt.get(
-                'assignment_duration_in_seconds', 30 * 60),
+                'assignment_duration_in_seconds', 60 * 60),
             is_sandbox=self.opt['is_sandbox'],
             qualifications=qualifications,
         )

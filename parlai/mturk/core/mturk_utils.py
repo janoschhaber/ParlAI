@@ -277,7 +277,8 @@ def create_hit_type(hit_title, hit_description, hit_keywords, hit_reward,
             {'Country': 'CA'},
             {'Country': 'GB'},
             {'Country': 'AU'},
-            {'Country': 'NZ'}
+            {'Country': 'NZ'},
+            {'Country': 'NL'}
         ],
         'RequiredToPreview': True
     }]
