@@ -83,6 +83,8 @@ def main():
             try:
                 with open('records/worker_record.json', 'r') as infile:
                     worker_record = json.load(infile)
+                    worker_record = defaultdict(list, worker_record)
+                    print("Loaded worker records.")
             except FileNotFoundError:
                 pass
             try:
@@ -345,16 +347,6 @@ def main():
                 while not world.episode_done():
                     world.parley()
 
-                agent1_done, agent2_done = False, False
-                world.agents[0].observe({'text': '<buffer>'})
-                world.agents[1].observe({'text': '<buffer>'})
-                while not agent1_done or not agent2_done:
-                    if not agent1_done and world.agents[0].act(blocking=False) is not None:
-                        agent1_done = True
-                    if not agent2_done and world.agents[1].act(blocking=False) is not None:
-                        agent2_done = True
-                    time.sleep(0.1)
-
             world = MTurkDMGDialogWorld(
                 opt=opt,
                 agents=agents,
@@ -366,6 +358,10 @@ def main():
             # Loop over all five rounds of the game
             for r in range(5):  # TODO: Set to 5
                 if VERBOSE: print("--- Starting round {} ---".format(r+1))
+
+                if r == 0 and len(worker_record[agents[0].worker_id]) == 1 and len(worker_record[agents[1].worker_id]) == 1:
+                    world.flush_buffer()
+
                 while not world.episode_done():
                     world.parley()
 
@@ -386,15 +382,7 @@ def main():
                     world.doneCounter = 0
                     world.episodeDone = False
 
-                    agent1_done, agent2_done = False, False
-                    world.agents[0].observe({'text': '<buffer>'})
-                    world.agents[1].observe({'text': '<buffer>'})
-                    while not agent1_done or not agent2_done:
-                        if not agent1_done and world.agents[0].act(blocking=False) is not None:
-                            agent1_done = True
-                        if not agent2_done and world.agents[1].act(blocking=False) is not None:
-                            agent2_done = True
-                        time.sleep(0.1)
+                    world.flush_buffer()
 
                 else:
                     world.shutdown()

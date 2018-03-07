@@ -249,6 +249,7 @@ task_config['task_description'] = \
         var warm_up = false;
         var real_deal = false;
         var finished = false;
+        var finish_warmup = true
                     
         function makeInput(images) {
             $('#preview').html("");
@@ -338,11 +339,12 @@ task_config['task_description'] = \
                         add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Since it is the first time you are playing, we will start with a small warming-up round.", false);
                     } else {
                         real_deal = true;  
+                        finish_warmup = false
                     }
                     
-                    // var display = $('#test').html();
-                    // display += "Message: " + String(num_messages)
-                    // $('#test').html(display);
+                    //var display = $('#test').html();
+                    //display += "Message: " + String(num_messages)
+                    //$('#test').html(display);
             
                     if (num_messages == 0) {
                         playPing();
@@ -368,11 +370,11 @@ task_config['task_description'] = \
                 } else if (message.solution) {
                     showFeedback(solution);      
                 } else if (text.startsWith('<selection>')) {    
-                } else if (text.startsWith('<next_round>')) {    
+                } else if (text.startsWith('<next_round>')) {   
                 } else if (text.startsWith('<feedback>')) {      
                 } else if (text.startsWith('<buffer>')) { 
-                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to continue to next round", false);
-                    display_message_buffer(cur_agent_id);  
+                    // add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+                    // display_message_buffer(cur_agent_id);  
                 } else if (text) {
                     num_messages++;
                     message.id = (was_this_agent ? "YOU:" : "THEM:");
@@ -508,21 +510,20 @@ task_config['task_description'] = \
                 true,
                 function(msg) {}
             );
+            
+            add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+            display_message_buffer(cur_agent_id); 
         }
         
         function finishGame() {
         
-            if (warm_up && !real_deal) {
+            if (finish_warmup) {
+                finish_warmup = false
                 $("button#finish").hide();                 
-
-                // $('#test').html("RESET");
                 num_messages = -1;
                 real_deal = true;
-               
                 nextRound();               
-                            
-            } else {
-        
+            } else {        
                 $('#title').html('Feedback Form');   
                
                 var feedback_form = '<h3>Please rate the following statements.</h3> ';

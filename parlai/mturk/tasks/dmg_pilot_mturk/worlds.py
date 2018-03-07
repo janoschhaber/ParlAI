@@ -314,6 +314,15 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         """
         self.game_id = id
 
+    def flush_buffer(self):
+        agents_done = [False for _ in self.agents]
+        while sum(agents_done) < len(self.agents):
+            for idx, agent in enumerate(self.agents):
+                if not agents_done[idx] and agent.act(blocking=False) is not None:
+                    agent.observe(validate({'text': '<buffer>'}))
+                    agents_done[idx] = True
+            time.sleep(0.1)
+
     def shutdown(self):
         """
         Shuts down all mturk agents in parallel
@@ -459,7 +468,14 @@ class MTurkDMGDialogOnboardWorld(MTurkTaskWorld):
             self.episodeDone = True
             return True
 
-
+    def flush_buffer(self):
+        agents_done = [False for _ in self.agents]
+        while sum(agents_done) < len(self.agents):
+            for idx, agent in enumerate(self.agents):
+                if not agents_done[idx] and agent.act(blocking=False) is not None:
+                    agent.observe(validate({'text': '<buffer>'}))
+                    agents_done[idx] = True
+            time.sleep(0.1)
 
     def send_feedback(self):
         """

@@ -16,7 +16,7 @@ import shutil
 import subprocess
 
 region_name = 'us-east-1'
-user_name = getpass.getuser()
+user_name = 'janosch'
 
 parent_dir = os.path.dirname(os.path.abspath(__file__))
 server_source_directory_name = 'server'
