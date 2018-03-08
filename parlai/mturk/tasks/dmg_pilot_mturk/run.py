@@ -356,7 +356,7 @@ def main():
 
             log_timestamp = time.time()
             # Loop over all five rounds of the game
-            for r in range(5):  # TODO: Set to 5
+            for r in range(5):
                 if VERBOSE: print("--- Starting round {} ---".format(r+1))
 
                 if r == 0 and len(worker_record[agents[0].worker_id]) == 1 and len(worker_record[agents[1].worker_id]) == 1:
@@ -373,7 +373,7 @@ def main():
                 with open('logs/dmg_pilot_data_{}_{}.json'.format(world.game_id, log_timestamp), 'w') as f:
                     json.dump(copy(world.conversation_log), f)
 
-                if not r == 4:  # TODO: Set to 4. Set task_config line 418 to 5.
+                if not r == 4:  
                     # Reset the world for the next round
                     world.selections = defaultdict(lambda: dict())
                     world.round_log = world.reset_round_log()
@@ -408,7 +408,8 @@ def main():
         }]
         mturk_manager.create_hits(qualifications=agent_qualifications)
         mturk_manager.set_onboard_function(onboard_function=None)
-        mturk_manager.ready_to_accept_workers()
+        # Increasing restart time
+        mturk_manager.ready_to_accept_workers(timeout_seconds=30)
 
         eligibility_function = {
             'func': check_workers_eligibility,

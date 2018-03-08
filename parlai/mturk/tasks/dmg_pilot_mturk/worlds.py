@@ -34,7 +34,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         shuffled_names = [names[i] for i in order]
         self.agents = shuffled_agents
         self.names = shuffled_names
-
+        self.assignment_ids = [agents[0].assignment_id, agents[1].assignment_id]
         self.acts = [None] * len(agents)
         self.task = DMGMultiRoundTeacher(opt=opt)
         self.game_id = game_id
@@ -51,9 +51,11 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.last_agent = None
 
         self.conversation_log = {
-            'game_id': self.game_id,
+            'game_id': agents[0].assignment_id + agents[1].assignment_id,
+            'domain_id': self.game_id,
             'players': self.players,
             'agent_labels': self.player_labels,
+            'assignment_ids': self.assignment_ids,
             'agent_ids' :[],
             'rounds': [],
             'feedback': {}

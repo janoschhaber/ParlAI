@@ -43,31 +43,36 @@ task_config['task_description'] = \
             <ul>
                 <li> Try to identify the <i>common</i> and <i>different</i> images as fast as possible! </li>
                 <li> The chat is turn-based. You can only type if it is your turn. </li>
+                <li> Please use normal English language and refrain from using abbreviations or code.</li>
                 <li> A full game consists of five rounds with the same partner and will take about 15 minutes. </li>
                 <li> After the game, we will ask you to give us some quick feedback. </li>
                 <li> If you play this game multiple times, you will get a bonus payment of 0.25 USD after each subsequent game. </li>
                 <li> Every worker can play a maximum of 10 games. </li>
             </ul>
         </p>    
+        
+        <h2>HIT Details</h2>
+        <p>
+            This HIT is designed for research by Janosch Haber, under the supervision of Dr. Raquel Fernández and Dr. Elia Bruni 
+            of the Dialogue Modeling Group (DMG) at the Institute of Logic, Language and Computation (ILLC) at the University of Amsterdam (UvA), the Netherlands.
+            For questions, please contact <a href="mailto:dmg.illc.amsterdam@gmail.com">dmg.illc.amsterdam@gmail.com</a>.
+        </p>
+        <b>Payment details</b></br>
+            We are aware that this is an exceptionally long HIT and want to provide fair payment. To do so, we follow the 
+            following payment guidelines:
+            <ul>
+                <li> If a worker disconnects during the first two rounds of the game, we will automatically cancel payments for both workers </li>
+                <li> If a worker disconnects during one of the later rounds, we will cancel his or her payment. The other worker receives full payment </li>
+                <li> In a game, the two players can score a total of 60 points. Since this should not be a problem if you communicate well, we will 
+                     automatically cancel payments for both players if the total score is below 50 points (5 mistakes each).</li>  
+            </ul>
+        </p>
         <p>
             <b> 
-                When you are ready, please click "Accept" to start this task. 
+                If you accept this and are ready to play, please click "Accept" to start this task. 
             </b> </br>
             Pairing might take a moment. We will let you know once you are paired. If you turn on your speakers, 
             you will hear a sound indicating that the HIT is ready for you. 
-        </p>
-        
-        <h2>Game Instructions</h2>
-        <p>
-            <b>
-                Label each image as <i>common</i> or <i>different</i> by chatting with your partner.
-            </b>
-            <ul>
-                <li> The number of <i>common</i> and <i>different</i> images changes every round. </li>
-                <li> As soon as you identify a <i>common</i> or <i>different</i> image, click the respective checkbox under the image. </li>
-                <li> Please use normal English language and refrain from using abbreviations or code.</li>
-                <li> Also, please do not just list descriptions of all your images.</li>
-            </ul>
         </p>
         <p>
             If this is the first time you are doing this HIT, we will match you with another new player and 
