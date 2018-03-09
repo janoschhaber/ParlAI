@@ -38,7 +38,7 @@ task_config['task_description'] = \
         <h2> About this HIT </h2>
         <p>
             <b> You will have a conversation with another player to find out which of the six images on your display are 
-                shown to the both of you - and which ones are not.
+                shown to both players - and which are only shown to you.
             </b> 
             <ul>
                 <li> Try to identify the <i>common</i> and <i>different</i> images as fast as possible! </li>
@@ -237,14 +237,15 @@ task_config['task_description'] = \
 
     <script type="text/javascript">
 
-        var game_header = "Label each image as <i>common</i> or <i>different</i> by chatting with your partner. ";
-        game_header += "The number of common and different images changes every round. </br>";
-        game_header += "As soon as you identify a common or different image, click the respective checkbox under the image. </br>";
+        var game_header = "Chat with your partner to find out which images are shown to the both of you (<i>common</i>) ";
+        game_header += "and which ones are shown to you only (<i>different</i>). Image positions are random and ";
+        game_header += "the number of <i>common</i> and different</i> <i>images changes every round. </br>";
+        game_header += "Click the respective checkbox under an image to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
         game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or code.</li> ";
         game_header += "<li>Also, please do not just list descriptions of all your images.</li></ul>";
         game_header += "Remember that the chat is turn-based. If you see an hourglass, the other player is currently typing.";        
         
-        var git_path = "../../../../data/dmg_full/";
+        var git_path = "https://dmg-full.s3.eu-central-1.amazonaws.com/dmg_full/";
         
         var num_messages = 0;
         var round_counter = 0;        
@@ -374,7 +375,11 @@ task_config['task_description'] = \
                     display_message_buffer(cur_agent_id)                     
                 } else if (message.solution) {
                     showFeedback(solution);      
-                } else if (text.startsWith('<selection>')) {    
+                } else if (text.startsWith('<selection>')) {  
+                } else if (text.startsWith('<preview>')) {  
+                      playPing();
+                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'The Game is ready for you! Please carefully read the instructions on the left and then enter anything in the textbox to start.', false);
+                      display_message_buffer(cur_agent_id)
                 } else if (text.startsWith('<next_round>')) {   
                 } else if (text.startsWith('<feedback>')) {      
                 } else if (text.startsWith('<buffer>')) { 

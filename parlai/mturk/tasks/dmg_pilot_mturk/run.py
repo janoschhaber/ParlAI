@@ -368,18 +368,18 @@ def main():
                     if world.parley():
                         disconnected = True
                         break
+
+                # Write the log data to file
+                if VERBOSE: print("Writing log to file")
+                if not os.path.exists("logs"):
+                    os.makedirs("logs")
+                with open('logs/dmg_pilot_data_{}_{}.json'.format(world.assignment_ids[0], world.assignment_ids[1]), 'w') as f:
+                    json.dump(copy(world.conversation_log), f)
+
                 if disconnected:
                     world.shutdown()
                     if VERBOSE: print("Game ended due to disconnect.")
                     break
-
-                # Write the log data to file
-
-                if VERBOSE: print("Writing log to file")
-                if not os.path.exists("logs"):
-                    os.makedirs("logs")
-                with open('logs/dmg_pilot_data_{}_{}.json'.format(world.game_id, log_timestamp), 'w') as f:
-                    json.dump(copy(world.conversation_log), f)
 
                 if not r == 4:
                     # Reset the world for the next round
@@ -417,7 +417,7 @@ def main():
         mturk_manager.create_hits(qualifications=agent_qualifications)
         mturk_manager.set_onboard_function(onboard_function=None)
         # Increasing restart time
-        mturk_manager.ready_to_accept_workers(timeout_seconds=30)
+        mturk_manager.ready_to_accept_workers(timeout_seconds = 120)
 
         eligibility_function = {
             'func': check_workers_eligibility,

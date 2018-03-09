@@ -382,6 +382,15 @@ class MTurkDMGDialogOnboardWorld(MTurkTaskWorld):
     def parley(self):
         # If a new round has started, load the game data (if necessary) and send it to the players
         if self.turn_nr == -1:
+
+            # Send a welcome message with the game data to all players
+            for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
+                action = {}
+                action['text'] = '<preview>'
+                agent.observe(validate(action))
+
+            self.flush_buffer()
+
             # Send a welcome message with the game data to all players
             counter = 0
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
