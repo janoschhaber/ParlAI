@@ -373,7 +373,7 @@ def main():
                 with open('logs/dmg_pilot_data_{}_{}.json'.format(world.game_id, log_timestamp), 'w') as f:
                     json.dump(copy(world.conversation_log), f)
 
-                if not r == 4:  
+                if not r == 4:
                     # Reset the world for the next round
                     world.selections = defaultdict(lambda: dict())
                     world.round_log = world.reset_round_log()
