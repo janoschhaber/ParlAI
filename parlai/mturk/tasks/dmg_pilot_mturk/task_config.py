@@ -244,7 +244,7 @@ task_config['task_description'] = \
         game_header += "<li>Also, please do not just list descriptions of all your images.</li></ul>";
         game_header += "Remember that the chat is turn-based. If you see an hourglass, the other player is currently typing.";        
         
-        var git_path = "https://raw.githubusercontent.com/janoschhaber/psivgd/master/dmg_pilot_mturk/";
+        var git_path = "../../../../data/dmg_full/";
         
         var num_messages = 0;
         var round_counter = 0;        

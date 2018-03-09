@@ -32,10 +32,10 @@ class DMGMultiRoundTeacher(Teacher):
     def __init__(self, opt, shared=None):
         super().__init__(opt, shared)
         self.datatype = opt['datatype'].split(':')[0]
-        filename = 'dmg_pilot_mturk_games'
+        filename = 'dmg_full'
         self.random = self.datatype == filename
         build(opt)
-        data_path = os.path.join(opt['datapath'], 'dmg_pilot', 'dmg_pilot_mturk', filename + '.json')
+        data_path = os.path.join(opt['datapath'], 'dmg_full', filename + '.json')
 
         if shared and 'data' in shared:
             self.episodes = shared['episodes']

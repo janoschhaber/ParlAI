@@ -345,7 +345,8 @@ def main():
                 )
                 if VERBOSE: print("--- Starting Warming-Up Round ---")
                 while not world.episode_done():
-                    world.parley()
+                    if world.parley():
+                        break
 
             world = MTurkDMGDialogWorld(
                 opt=opt,
@@ -362,8 +363,15 @@ def main():
                 if r == 0 and len(worker_record[agents[0].worker_id]) == 1 and len(worker_record[agents[1].worker_id]) == 1:
                     world.flush_buffer()
 
+                disconnected = False
                 while not world.episode_done():
-                    world.parley()
+                    if world.parley():
+                        disconnected = True
+                        break
+                if disconnected:
+                    world.shutdown()
+                    if VERBOSE: print("Game ended due to disconnect.")
+                    break
 
                 # Write the log data to file
 

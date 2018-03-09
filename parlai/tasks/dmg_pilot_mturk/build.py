@@ -10,7 +10,7 @@ import parlai.core.build_data as build_data
 import os
 
 def build(opt):
-    dpath = os.path.join(opt['datapath'], 'dmg_pilot')
+    dpath = os.path.join(opt['datapath'])
     version = '1'
 
     if not build_data.built(dpath, version_string=version):
@@ -22,9 +22,9 @@ def build(opt):
         build_data.make_dir(dpath)
 
         # Download the data from github
-        fname = 'coco_selection.zip'
+        fname = 'dmg_full.zip'
         # url = ('https://raw.githubusercontent.com/janoschhaber/psivgd/166953fd1a5c15d1b164fcf1fcafe28e87440e0c/coco_selection.zip')
-        url = 'https://raw.githubusercontent.com/janoschhaber/psivgd/d4ebee8de4b241d89d8ad7acaf7d21a2bd062573/dmg_pilot_mturk.zip'
+        url = 'https://github.com/janoschhaber/ParlAI/blob/master/data/dmg_full.zip?raw=true'
         print('[downloading data from: ' + url + ']')
         build_data.download(url, dpath, fname)
         build_data.untar(dpath, fname)

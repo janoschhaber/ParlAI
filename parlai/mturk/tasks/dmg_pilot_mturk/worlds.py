@@ -49,6 +49,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.doneCounter = 0
         self.rounds_random = nprand.permutation(5)
         self.last_agent = None
+        self.disconnected = False
 
         self.conversation_log = {
             'game_id': agents[0].assignment_id + agents[1].assignment_id,
@@ -56,9 +57,10 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             'players': self.players,
             'agent_labels': self.player_labels,
             'assignment_ids': self.assignment_ids,
-            'agent_ids' :[],
+            'agent_ids':[],
             'rounds': [],
-            'feedback': {}
+            'feedback': {},
+            'disconnected': {"A": False, "B": False}
         }
 
         for i, agent in enumerate(agents):
@@ -79,7 +81,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         print("PARLEY!")
         # If a new round has started, load the game data (if necessary) and send it to the players
         if self.turn_nr == -1:
-            print("Loading Data ot MTurk")
+            print("Loading Data to MTurk")
             # Load a new game (data) if no game is running yet
             if self.round_nr == -1 and not self.data:
                 self.data = self.task.episodes[self.game_id % len(self.task.episodes)]
@@ -126,6 +128,10 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                         action = agent.act()
 
                     is_done = self.parse_action(agent, player, player_label, action)
+
+                    if self.disconnected:
+                        self.episodeDone = True
+                        return True
                     if is_done: break
 
                 self.last_agent = agent
@@ -211,7 +217,9 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         # Check if episode ended due to disconnection or timeout or a returned HIT
         else:
             self.episodeDone = True
-            print("RECEIVED A DISCONNECT ERROR!")
+            self.conversation_log['disconnected'][player_label] = True
+            self.disconnected = True
+            print("PLAYER DISCONNETED!")
             return True
 
         return False
