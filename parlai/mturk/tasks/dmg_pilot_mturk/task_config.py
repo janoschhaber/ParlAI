@@ -237,8 +237,8 @@ task_config['task_description'] = \
 
     <script type="text/javascript">
 
-        var game_header = "Chat with your partner to find out which images are shown to the both of you (<i>common</i>) ";
-        game_header += "and which ones are shown to you only (<i>different</i>). Image positions are random and ";
+        var game_header = "Chat with your partner to find out which images are shown to the both of you <i>(common)</i> ";
+        game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and ";
         game_header += "the number of <i>common</i> and different</i> <i>images changes every round. </br>";
         game_header += "Click the respective checkbox under an image to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
         game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or code.</li> ";
@@ -337,9 +337,10 @@ task_config['task_description'] = \
             
                     round_counter = Number(text.split(' ').slice(1,2).join(''));
                     $('#title').html(text.split(' ').slice(0,2).join(' ')); 
-                    // $('#test').html("Round: " + String(round_counter));
+                    $('#test').html("Round: " + String(round_counter));
                     
                     if (text.startsWith('<warm-up>')) {
+                        num_messages = 0;
                         round_counter = 5;
                         warm_up = true;
                         add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Since it is the first time you are playing, we will start with a small warming-up round.", false);
@@ -348,9 +349,9 @@ task_config['task_description'] = \
                         finish_warmup = false
                     }
                     
-                    //var display = $('#test').html();
-                    //display += "Message: " + String(num_messages)
-                    //$('#test').html(display);
+                    var display = $('#test').html();
+                    display += "Message: " + String(num_messages)
+                    $('#test').html(display);
             
                     if (num_messages == 0) {
                         playPing();
@@ -379,7 +380,8 @@ task_config['task_description'] = \
                 } else if (text.startsWith('<preview>')) {  
                       playPing();
                       add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'The Game is ready for you! Please carefully read the instructions on the left and then enter anything in the textbox to start.', false);
-                      display_message_buffer(cur_agent_id)
+                      display_message_buffer(cur_agent_id);
+                      num_messages = 0;
                 } else if (text.startsWith('<next_round>')) {   
                 } else if (text.startsWith('<feedback>')) {      
                 } else if (text.startsWith('<buffer>')) { 
