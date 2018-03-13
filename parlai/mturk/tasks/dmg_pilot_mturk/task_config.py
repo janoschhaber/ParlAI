@@ -337,7 +337,7 @@ task_config['task_description'] = \
             
                     round_counter = Number(text.split(' ').slice(1,2).join(''));
                     $('#title').html(text.split(' ').slice(0,2).join(' ')); 
-                    $('#test').html("Round: " + String(round_counter));
+                    //$('#test').html("Round: " + String(round_counter));
                     
                     if (text.startsWith('<warm-up>')) {
                         num_messages = 0;
@@ -349,9 +349,9 @@ task_config['task_description'] = \
                         finish_warmup = false
                     }
                     
-                    var display = $('#test').html();
-                    display += "Message: " + String(num_messages)
-                    $('#test').html(display);
+                    //var display = $('#test').html();
+                    //display += "Message: " + String(num_messages)
+                    //$('#test').html(display);
             
                     if (num_messages == 0) {
                         playPing();
