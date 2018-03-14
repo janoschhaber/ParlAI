@@ -7,6 +7,7 @@
 # Code by Janosch Haber, University of Amsterdam. 2018
 
 from parlai.mturk.core.worlds import MTurkTaskWorld
+from parlai.mturk.core.worlds import MTurkOnboardWorld
 from parlai.core.worlds import validate
 from parlai.tasks.dmg_pilot_mturk.agents import DMGMultiRoundTeacher
 from parlai.tasks.dmg_pilot_mturk.agents import WELCOME_MESSAGE
@@ -352,7 +353,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             (delayed(shutdown_agent)(agent) for agent in self.agents)
 
 
-class MTurkDMGDialogOnboardWorld(MTurkTaskWorld):
+class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
     def __init__(self, opt, agents=None, names=("Kelsey", "Robin"), shared=None):
         order = nprand.permutation(len(agents))
@@ -382,14 +383,6 @@ class MTurkDMGDialogOnboardWorld(MTurkTaskWorld):
     def parley(self):
         # If a new round has started, load the game data (if necessary) and send it to the players
         if self.turn_nr == -1:
-
-            # Send a welcome message with the game data to all players
-            for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
-                action = {}
-                action['text'] = '<preview>'
-                agent.observe(validate(action))
-
-            self.flush_buffer()
 
             # Send a welcome message with the game data to all players
             counter = 0
@@ -558,3 +551,15 @@ class MTurkDMGDialogOnboardWorld(MTurkTaskWorld):
         :return: True if the current game round (episode) is done
         """
         return self.episodeDone
+
+
+class MTurkDMGDialogOnboardWorld(MTurkOnboardWorld):
+    def parley(self):
+        # Send a welcome message with the game data to all players
+        action = {}
+        action['text'] = '<preview>'
+        action['id'] = 'INSTRUCTOR'
+
+        self.mturk_agent.observe(action)
+        self.mturk_agent.act()
+        self.episodeDone = True

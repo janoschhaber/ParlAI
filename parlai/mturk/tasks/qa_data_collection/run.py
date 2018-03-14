@@ -42,7 +42,7 @@ def main():
             world.parley()
         world.shutdown()
 
-    mturk_manager.set_onboard_function(onboard_function=None)
+    mturk_manager.set_onboard_function(onboard_function=run_onboard)
 
     try:
         mturk_manager.start_new_run()

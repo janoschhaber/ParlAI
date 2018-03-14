@@ -10,6 +10,7 @@ from parlai.core.params import ParlaiParser
 from parlai.mturk.core.mturk_manager import MTurkManager
 from parlai.mturk.tasks.dmg_pilot_mturk.worlds import MTurkDMGDialogWorld
 from parlai.mturk.tasks.dmg_pilot_mturk.worlds import MTurkDMGDialogOnboardWorld
+from parlai.mturk.tasks.dmg_pilot_mturk.worlds import MTurkDMGDialogWarmupWorld
 from parlai.tasks.dmg_pilot_mturk.agents import DMGMultiRoundTeacher
 from parlai.agents.local_human.local_human import LocalHumanAgent
 import parlai.mturk.core.mturk_utils as mturk_utils
@@ -339,7 +340,7 @@ def main():
 
             # If the workers never played before, start with the warm-up round
             if len(worker_record[agents[0].worker_id]) == 1 and len(worker_record[agents[1].worker_id]) == 1:
-                world = MTurkDMGDialogOnboardWorld(
+                world = MTurkDMGDialogWarmupWorld(
                     opt=opt,
                     agents=agents,
                 )
@@ -408,6 +409,17 @@ def main():
         load_records()
         print("Loaded records.")
 
+        def run_onboard(worker):
+            global worker_record
+
+            if worker.worker_id not in worker_record.keys():
+                world = MTurkDMGDialogOnboardWorld(opt=opt, mturk_agent=worker)
+                while not world.episode_done():
+                    world.parley()
+                world.shutdown()
+
+        mturk_manager.set_onboard_function(onboard_function=run_onboard)
+
         mturk_manager.start_new_run()
         agent_qualifications = [{
             'QualificationTypeId': qualification_id,
@@ -415,7 +427,7 @@ def main():
             'RequiredToPreview': True
         }]
         mturk_manager.create_hits(qualifications=agent_qualifications)
-        mturk_manager.set_onboard_function(onboard_function=None)
+
         # Increasing restart time
         mturk_manager.ready_to_accept_workers(timeout_seconds = 120)
 

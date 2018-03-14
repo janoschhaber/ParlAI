@@ -36,7 +36,7 @@ task_config['task_description'] = \
     '''
     <div id='preview'>
         <h2> About this HIT </h2>
-        <p>
+        <p id='preview_placeholder'>
             <b> You will have a conversation with another player to find out which of the six images on your display are 
                 shown to both players - and which are only shown to you.
             </b> 
@@ -379,8 +379,29 @@ task_config['task_description'] = \
                 } else if (text.startsWith('<selection>')) {  
                 } else if (text.startsWith('<preview>')) {  
                       playPing();
-                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'The Game is ready for you! Please carefully read the instructions on the left and then enter anything in the textbox to start.', false);
+                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'Hi! Welcome aboard. Please carefully read the instructions on the left. Enter anything in the textbox to start or return this HIT if you do not want to participate.', false);
                       display_message_buffer(cur_agent_id);
+                      
+                      var amazon_path = "https://dmg-full.s3.eu-central-1.amazonaws.com/"
+                      
+                      var onboard_screen = "<b> You will have a conversation with another player to find out which of the images on your display are ";
+                      onboard_screen += "shown to both players - and which ones are only shown to you. </b> </br>";
+                      onboard_screen += "</p> <p> Consider the following example: Players A and B both see three images, as displayed here</br> <img src='";
+                      onboard_screen += amazon_path + "screen.jpg' width='700' style='padding:25px 50px 25px 100px'> </br>By chatting with one another, they find out that they both have the image ";
+                      onboard_screen += "with the girl in the car and the one with the surfer, but that they have different images of people on motorcycles. ";
+                      onboard_screen += "They mark the images accordingly and the submit button becomes available.</br> <img src='";
+                      onboard_screen += amazon_path + "screen2.jpg' width='700' style='padding:25px 50px 25px 100px'> </br> Once both players submit their selection, the correct answer is shown. <img src='";
+                      onboard_screen += amazon_path + "screen3.jpg' width='700' style='padding:25px 50px 25px 100px'> </br> In a real game round, you will see six instead of three images.";
+                      
+                      //onboard_screen += "<ul> <li> Try to identify the <i>common</i> and <i>different</i> images as fast as possible! </li> ";
+                      //onboard_screen += "<li> The chat is turn-based. You can only type if it is your turn. </li> ";
+                      //onboard_screen += "<li> Please use normal English language and refrain from using abbreviations or code.</li> ";
+                      //onboard_screen += "<li> A full game consists of five rounds with the same partner and will take about 15 minutes. </li> ";
+                      //onboard_screen += "<li> After the game, we will ask you to give us some quick feedback. </li> ";
+                      //onboard_screen += "<li> If you play this game multiple times, you will get a bonus payment of 0.25 USD after each subsequent game. </li> ";
+                      //onboard_screen += "<li> Every worker can play a maximum of 10 games. </li> </ul> ";                    
+                      
+                      $('#preview_placeholder').html(onboard_screen);                      
                       num_messages = 0;
                 } else if (text.startsWith('<next_round>')) {   
                 } else if (text.startsWith('<feedback>')) {      
