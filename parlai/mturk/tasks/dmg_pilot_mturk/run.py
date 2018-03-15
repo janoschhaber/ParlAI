@@ -16,6 +16,7 @@ from parlai.agents.local_human.local_human import LocalHumanAgent
 import parlai.mturk.core.mturk_utils as mturk_utils
 from parlai.core.agents import create_agent
 from task_config import task_config
+from copy import deepcopy
 
 from collections import defaultdict
 from random import randint
@@ -371,6 +372,12 @@ def main():
                         break
 
                 # Write the log data to file
+                if VERBOSE: print("Logging data")
+                world.round_log['round_nr'] = world.round_nr
+                world.round_log['images'] = {world.player_labels[0]: world.data[world.player_labels[0]][world.round_nr],
+                                             world.player_labels[1]: world.data[world.player_labels[1]][world.round_nr]}
+                world.conversation_log['rounds'].append(deepcopy(world.round_log))
+
                 if VERBOSE: print("Writing log to file")
                 if not os.path.exists("logs"):
                     os.makedirs("logs")
@@ -388,7 +395,6 @@ def main():
                     world.round_log = world.reset_round_log()
                     world.turn_nr = -1
                     world.round_nr += 1
-                    world.doneCounter = 0
                     world.episodeDone = False
 
                     world.flush_buffer()

@@ -46,8 +46,8 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.selections = defaultdict(lambda: dict())
         self.data = None
         self.common = None
+        self.otherDone = False
         self.episodeDone = False
-        self.doneCounter = 0
         self.rounds_random = nprand.permutation(5)
         self.last_agent = None
         self.disconnected = False
@@ -167,15 +167,13 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             if self.all_selected():
                 scores = self.send_feedback()
                 self.round_log['score'] = scores
+                if self.round_nr != 4:
+                    self.episodeDone = True
                 return True
             else:
                 agent.observe(validate({'text': "<hint>"}))
 
-        # Player wants to move to the next round. Check if the previous round is finished
-        # and wait for second player
-        elif message[0] == NEXT_ROUND_TOKEN and self.all_selected() and self.doneCounter == 0:
-            if VERBOSE: print("One player clicked continue")
-
+        elif message[0] == "<usr_feedback>":
             # If it was the last round and the player gave feedback, save it to the log
             try:
                 feedback = "".join(message[1:])
@@ -183,29 +181,11 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             except:
                 pass
 
-            self.doneCounter += 1
-            return True
+            if self.otherDone:
+                self.episodeDone = True
+            else:
+                self.otherDone = True
 
-        # Second player also wants to continue. Check if the previous round is finished and continue
-        elif message[0] == NEXT_ROUND_TOKEN and self.all_selected() and self.doneCounter == 1:
-
-            # If it was the last round and the player gave feedback, save it to the log
-            try:
-                feedback = "".join(message[1:])
-                self.conversation_log['feedback'][player_label] = feedback
-            except:
-                pass
-
-            if VERBOSE: print("Logging data")
-            self.round_log['round_nr'] = self.round_nr
-            self.round_log['images'] = {self.player_labels[0]: self.data[self.player_labels[0]][self.round_nr],
-                                        self.player_labels[1]: self.data[self.player_labels[1]][self.round_nr]}
-            self.conversation_log['rounds'].append(deepcopy(self.round_log))
-
-            self.doneCounter = 0
-            self.episodeDone = True
-            if VERBOSE: print("Done.")
-            return True
 
         # Regular text message. Display it to the other players and break the while loop
         elif not action['episode_done']:
@@ -446,25 +426,11 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         elif message[0] == FEEDBACK_TOKEN:
             if self.all_selected():
                 _ = self.send_feedback()
+                print("Episode done.")
+                self.episodeDone = True
                 return True
-
             else:
                 agent.observe(validate({'text': "<hint>"}))
-
-        # Player wants to move to the next round. Check if the previous round is finished
-        # and wait for second player
-        elif message[0] == NEXT_ROUND_TOKEN and self.all_selected() and self.doneCounter == 0:
-            if VERBOSE: print("One player clicked continue")
-
-            self.doneCounter += 1
-            return True
-
-        # Second player also wants to continue. Check if the previous round is finished and continue
-        elif message[0] == NEXT_ROUND_TOKEN and self.all_selected() and self.doneCounter == 1:
-
-            self.doneCounter = 0
-            self.episodeDone = True
-            return True
 
         # Regular text message. Display it to the other players and break the while loop
         elif not action['episode_done']:
@@ -472,7 +438,6 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
             for other_agent in self.agents:
                 if other_agent != agent:
                     other_agent.observe(validate(action))
-
             return True
 
         # Check if episode ended due to disconnection or timeout or a returned HIT

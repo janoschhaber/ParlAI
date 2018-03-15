@@ -493,7 +493,9 @@ task_config['task_description'] = \
             } 
         
             if (round_counter < 5 && !warm_up) {
-                $("button#next_round").show();
+                add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+                display_message_buffer(cur_agent_id); 
+                // $("button#next_round").show();
             } else {
                 $("button#finish").show();                
                 $("button#image_selection").hide();
@@ -544,8 +546,7 @@ task_config['task_description'] = \
                 function(msg) {}
             );
             
-            add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
-            display_message_buffer(cur_agent_id); 
+            
         }
         
         function finishGame() {
@@ -555,7 +556,9 @@ task_config['task_description'] = \
                 $("button#finish").hide();                 
                 num_messages = -1;
                 real_deal = true;
-                nextRound();               
+                add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+                display_message_buffer(cur_agent_id); 
+                // nextRound();               
             } else {        
                 $('#title').html('Feedback Form');   
                
@@ -595,7 +598,6 @@ task_config['task_description'] = \
                       
                 $("button#finish").hide();  
                 $("button#send_feedback").show();  
-                $("button#send_feedback").show();  
             }
         }
         
@@ -616,7 +618,7 @@ task_config['task_description'] = \
             send_packet(
                 TYPE_MESSAGE,
                 {
-                  text: '<next_round> ' + feedback_message,
+                  text: '<usr_feedback> ' + feedback_message,
                   id: cur_agent_id,
                   message_id: new_message_id,
                   episode_done: false
