@@ -473,7 +473,7 @@ class MessengerManager():
                             time_in_pool = \
                                 agent_state.time_in_pool.get(world_type)
                             if time_in_pool and time.time() - time_in_pool \
-                                    > max_time_in_pool:
+                                    > max_time_in_pool[world_type]:
                                 # remove agent from agent_pool
                                 self.remove_agent_from_pool(
                                     agent_state, world_type)
@@ -541,3 +541,13 @@ class MessengerManager():
     def observe_payload(self, receiver_id, data):
         """Send a payload through the message manager"""
         return self.message_socket.send_fb_payload(receiver_id, data)
+
+    def upload_attachment(self, payload):
+        """Uploads an attachment and returns an attachment ID
+        `payload` should be a dict of the format
+        {'type': <TYPE>, 'url': <URL>} or
+        {'type': <TYPE>, 'filename': <FILENAME>, 'format': <FILEFORMAT>}.
+        For example,
+        {'type': 'image', 'filename': 'test.png', 'format': 'png'}
+        """
+        return self.message_socket.upload_fb_attachment(payload)
