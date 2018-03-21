@@ -358,6 +358,8 @@ def main():
                     opt=opt,
                     agents=agents,
                 )
+                world.flush_buffer()
+
                 if VERBOSE: print("--- Starting Warming-Up Round ---")
                 while not world.episode_done():
                     if world.parley():
@@ -369,6 +371,8 @@ def main():
                 game_id=game_id,
                 names=names
             )
+
+            world.flush_buffer()
 
             get_pay = {agents[0].worker_id: False, agents[1].worker_id: False}
             disconnected = False
@@ -403,9 +407,9 @@ def main():
 
             if worker.worker_id not in worker_record.keys():
                 world = MTurkDMGDialogOnboardWorld(opt=opt, mturk_agent=worker)
-                while not world.episode_done():
-                    world.parley()
+                world.parley()
                 world.shutdown()
+                print("Warmup shut down.")
 
         mturk_manager.set_onboard_function(onboard_function=run_onboard)
 

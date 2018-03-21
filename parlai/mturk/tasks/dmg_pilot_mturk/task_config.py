@@ -34,50 +34,177 @@ and on the left side of the chat page. Supports HTML formatting.
 """
 task_config['task_description'] = \
     '''
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    
+    <script type="text/javascript">    
+        function required(fields) {
+            var valid = true;
+            fields.each(function () { // iterate all
+                var $this = $(this);
+                if (($this.is(':checkbox') && !$this.is(":checked")) || // checkbox
+                    (($this.is(':text') || $this.is('textarea')) && !$this.val()) || // text and textarea
+                    ($this.is(':radio') && !$('input[name='+ $this.attr("name") +']:checked').length)) { // radio
+                    valid = false;}
+            });
+            return valid;
+        }
+
+        function checkQuestions() {
+            // $('#test').html("Validating radiobuttons");
+            var fields = $("form :input:not(:hidden)"); // select required
+            if (required(fields)) {
+                {document.getElementById("submit_questions").disabled = false;} // action if all valid
+            } else {
+                {document.getElementById("submit_questions").disabled = true;} // action if not valid
+            }
+        }
+
+    </script>    
+
     <div id='preview'>
-        <h2> About this HIT </h2>
-        <p id='preview_placeholder'>
-            <b> You will have a conversation with another player to find out which of the six images on your display are 
-                shown to both players - and which are only shown to you.
+        <p>
+            You will be paired with another worker. Each of you then will see six images - 
+            some of them are the same for both players, and some of them are only shown to one of the players.
+            <b> Your task is to find out which of your images are shown to both players (common) - 
+                and which are only shown to you (different)  by chatting with your partner.
             </b> 
+        </p>   
+        <p>
+            A full game consists of five rounds with the same partner and will take about 15 minutes. 
+        </p>
+        <p>
+            <b>QUICK INSTRUCTIONS:</b>
             <ul>
-                <li> Try to identify the <i>common</i> and <i>different</i> images as fast as possible! </li>
-                <li> The chat is turn-based. You can only type if it is your turn. </li>
-                <li> Please use normal English language and refrain from using abbreviations or code.</li>
-                <li> A full game consists of five rounds with the same partner and will take about 15 minutes. </li>
-                <li> After the game, we will ask you to give us some quick feedback. </li>
-                <li> If you play this game multiple times, you will get a bonus payment of 0.25 USD after each subsequent game. </li>
-                <li> Every worker can play a maximum of 10 games. </li>
+                <li> The position of an image can be different for the two players and does not matter for this task.</li>
+                <li> The chat is turn-based, so you can only type if it is your turn. </li>
             </ul>
-        </p>    
+        </p>
+        <p>
+            <ul>
+                <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li>
+                <li> Only mention a single image per message.</li>
+                <li> Directly click on the common or different label of an image when you find out about it.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li> After the game, we will ask you to give us some quick feedback.</li>
+                <li> If you continue playing, you will get a bonus payment of 0.25 USD after each subsequent game.</li>
+                <li> Every worker can play a maximum of 5 games.</li>
+            </ul>
+        </p> 
+        <p>
+            <b>
+                If this is the first time you play, we will pair you with another new player and start with a 
+                short warming-up  game. The first game therefore might take a bit longer. 
+                Later games will be much quicker.
+            </b>
+        </p>   
+        <p>
+            <b>HIT DETAILS: </b> This HIT is designed for research by Janosch Haber, under the supervision of 
+            Dr. Raquel Fernández and Dr. Elia Bruni of the Dialogue Modeling Group (DMG) 
+            at the Institute of Logic, Language and Computation (ILLC) at the University of Amsterdam (UvA), 
+            the Netherlands.
+        </p>
+            For questions, please contact 
+            <a href="mailto:dmg.illc.amsterdam@gmail.com">dmg.illc.amsterdam@gmail.com</a>.
+        </p>
+     </div>
+    
+    <div id="onboarding_1" style="display: none;">
+        <p>
+            You will be paired with another worker. Each of you then will see six images - 
+            some of them are the same for both players, and some of them are only shown to one of the players.
+            <b> Your task is to find out which of your images are shown to both players (common) - 
+                and which are only shown to you (different)  by chatting with your partner.
+            </b> 
+        </p>   
+        <p>
+            <ul>
+                <li> The position of an image can be different for the two players and does not matter for this task.</li>
+                <li> The chat is turn-based, so you can only type if it is your turn. </li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li>
+                <li> Only mention a single image per message.</li>
+                <li> Directly click on the common or different label of an image when you find out about it.</li>
+            </ul>
+        </p>
+        <form id="warmup_question_form">
+            <p>          
+                <b> QUESTION 1:</b> How do you describe images to your partner?
+ 
+                <ul style="list-style: none;">
+                    <li> <input type="radio" id="q1_a" name="q1" value="q1_a" onclick="checkQuestions();"> 
+                         As many as possible in a single message. </li>
+                    <li id="correct_1"> <input type="radio" id="q1_b" name="q1" value="q1_b" onclick="checkQuestions();"> 
+                         One image per message. </li>
+                    <li> <input type="radio" id="q1_c" name="q1" value="q1_c" onclick="checkQuestions();"> 
+                         By mentioning the position on my screen. </li>
+                </ul>
+            <p id="answer_1"></p>
+            </p> 
+            <p>          
+                <b> QUESTION 2: </b> When do you click the common label of an image?  
+                <ul style="list-style: none;">
+                    <li> <input type="radio" id="q2_a" name="q2" value="q2_a" onclick="checkQuestions();"> 
+                         When I can see a similar image on my screen. </li>
+                    <li> <input type="radio" id="q2_b" name="q2" value="q2_b" onclick="checkQuestions();"> 
+                         When my partner has a similar image in the same position on her/his screen. </li>
+                    <li id="correct_2"> <input type="radio" id="q2_c" name="q2" value="q2_c" onclick="checkQuestions();"> 
+                         When my partner has the same image somewhere on her/his screen. </li>
+                </ul>                
+            <p id="answer_2"></p>
+            </p>   
+        </form>
         
-        <h2>HIT Details</h2>
+        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="submit_questions" onclick="warmup_check_questions();" disabled="disabled"> Submit </button>
+        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="continue_warmup" onclick="continue_warmup();"> Continue </button>
+        
+        <script type="text/javascript">
+            $("button#continue_warmup").hide();
+            $('#left-pane').css("background-color", "white");
+            $('#left-pane').css("padding", "0px");
+            $('#left-pane').css("width", "800px"),
+            $('#id_text_input').css("width", "70%");
+        </script>
+       </div>
+    
+    <div id="onboarding_2" style="display: none;">
         <p>
-            This HIT is designed for research by Janosch Haber, under the supervision of Dr. Raquel Fernández and Dr. Elia Bruni 
-            of the Dialogue Modeling Group (DMG) at the Institute of Logic, Language and Computation (ILLC) at the University of Amsterdam (UvA), the Netherlands.
-            For questions, please contact <a href="mailto:dmg.illc.amsterdam@gmail.com">dmg.illc.amsterdam@gmail.com</a>.
+            <b> A full game consists of five game rounds, but the common and different labels of an image only 
+                depend on the images shown in the current round. 
+            </b>            
         </p>
-        <b>Payment details</b></br>
-            We are aware that this is an exceptionally long HIT and want to provide fair payment. To do so, we follow the 
-            following payment guidelines:
+        <p>
+            <b>EXAMPLE:</b> You see the following screen:
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/screen.png' width='700' style='padding:25px 50px 25px 100px'>
+        <p>
+            Your partner sends the following message:
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/message.png' width='700' style='padding:25px 50px 25px 100px'>
+        <p>
+            In this case you should
             <ul>
-                <li> If a worker disconnects during the first two rounds of the game, we will automatically cancel payments for both workers </li>
-                <li> If a worker disconnects during one of the later rounds, we will cancel his or her payment. The other worker receives full payment </li>
-                <li> In a game, the two players can score a total of 60 points. Since this should not be a problem if you communicate well, we will 
-                     automatically cancel payments for both players if the total score is below 50 points (5 mistakes each).</li>  
+                <li> Realize that your partner probably means the middle image </li>
+                <li> Mark it as common since your partner has it as well </li>
+                <li> Reply to your partner that you also have that image. </li>
             </ul>
         </p>
         <p>
-            <b> 
-                If you accept this and are ready to play, please click "Accept" to start this task. 
-            </b> </br>
-            Pairing might take a moment. We will let you know once you are paired. If you turn on your speakers, 
-            you will hear a sound indicating that the HIT is ready for you. 
-        </p>
-        <p>
-            If this is the first time you are doing this HIT, we will match you with another new player and 
-            start with a short warming-up round so you can get used to the game mechanics.
-        </p>     
+            <b> If you are not sure about an image described by your partner, you can also ask for more details.
+            </b>
+        </p>   
+        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="start_game" onclick="start_game();"> Start HIT </button>    
+        <script type="text/javascript">
+            $('#left-pane').css("background-color", "white");
+            $('#left-pane').css("padding", "0px");
+            $('#left-pane').css("width", "800px"),
+            $('#id_text_input').css("width", "70%");
+        </script>
     </div>
     
     <audio id="ping" style="display:none;">
@@ -87,13 +214,10 @@ task_config['task_description'] = \
     
     <div id='test'></div>
     <div id='game_window'></div>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
     <script type="text/javascript">
     
         function textCounter( field, maxlimit ) {
-        validateRealTime();
         // $('#test').html(String(field.value.length));
          if ( field.value.length > maxlimit ) {
           field.value = field.value.substring( 0, maxlimit );
@@ -106,31 +230,26 @@ task_config['task_description'] = \
         }
 
         $(document).ready(function(){
-            required = function(fields) {
-                    var valid = true;
-                fields.each(function () { // iterate all
-                    var $this = $(this);
-                    if (($this.is(':checkbox') && !$this.is(":checked")) || // checkbox
-                        (($this.is(':text') || $this.is('textarea')) && !$this.val()) || // text and textarea
-                        ($this.is(':radio') && !$('input[name='+ $this.attr("name") +']:checked').length)) { // radio
-                        valid = false;
-                }
-            });
-                return valid;
-            }
 
-            validateRealTime = function () {
-                // $('#test').html("Validating radiobuttons");
+            function checkSelection() {
+                //$('#test').html("Validating radiobuttons");
                 var fields = $("form :input:not(:hidden)"); // select required
-                fields.on('keyup change keypress blur', function () {
-                    if (required(fields)) {
-                        {document.getElementById("image_selection").disabled = false;} // action if all valid
-                    } else {
-                        {document.getElementById("image_selection").disabled = true;} // action if not valid
-                    }
-                });
+                if (required(fields)) {
+                    {document.getElementById("image_selection").disabled = false;} // action if all valid
+                } else {
+                    {document.getElementById("image_selection").disabled = true;} // action if not valid
+                }
             }
-            validateRealTime();
+            
+            function checkFeedback() {
+                //$('#test').html("Validating radiobuttons");
+                var fields = $("form :input:not(:hidden)"); // select required
+                if (required(fields)) {
+                    {document.getElementById("image_selection").disabled = false;} // action if all valid
+                } else {
+                    {document.getElementById("image_selection").disabled = true;} // action if not valid
+                }
+            }
             
             $('#left-pane').css("background-color", "white");
             $('#left-pane').css("padding", "0px");
@@ -228,11 +347,11 @@ task_config['task_description'] = \
     <script type="text/javascript">
 
         var game_header = "Chat with your partner to find out which images are shown to the both of you <i>(common)</i> ";
-        game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and ";
+        game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and do not matter for this task.";
         game_header += "the number of <i>common</i> and different</i> <i>images changes every round. </br>";
         game_header += "Click the respective checkbox under an image to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
-        game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or code.</li> ";
-        game_header += "<li>Also, please do not just list descriptions of all your images.</li></ul>";
+        game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or chat language.</li> ";
+        game_header += "<li>Please only mention a single image per message.</li></ul>";
         game_header += "Remember that the chat is turn-based. If you see an hourglass, the other player is currently typing.";        
         
         var git_path = "https://dmg-full.s3.eu-central-1.amazonaws.com/dmg_full/";
@@ -268,7 +387,7 @@ task_config['task_description'] = \
                 string += '_common" name="';
                 string += String(image_id);
                 string += '" value="common" '
-                string += 'onclick="validateRealTime(); '            
+                string += 'onclick="checkSelection(); '            
                 string += 'sendSelectionMessage(&apos;<com>&apos;, &apos;' 
                 string += image_path 
                 string += '&apos;);"' 
@@ -277,7 +396,7 @@ task_config['task_description'] = \
                 string += '_different" name="';
                 string += String(image_id);
                 string += '" value="different" '
-                string += 'onclick="validateRealTime(); '            
+                string += 'onclick="checkSelection(); '            
                 string += 'sendSelectionMessage(&apos;<dif>&apos;, &apos;' 
                 string += image_path 
                 string += '&apos;);"'
@@ -302,7 +421,6 @@ task_config['task_description'] = \
         (function() {
             // Override handle_new_message function
             handle_new_message = function() {
-                validateRealTime();
                 var new_message_id = arguments[0];
                 var message = arguments[1];
                 var agent_id = message.id;
@@ -370,31 +488,17 @@ task_config['task_description'] = \
                 } else if (text.startsWith('<selection>')) {  
                 } else if (text.startsWith('<preview>')) {  
                       playPing();
-                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'Hi! Welcome aboard. Please carefully read the instructions on the left. Enter anything in the textbox to start or return this HIT if you do not want to participate.', false);
+                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'Hi! Welcome aboard. Please carefully read the instructions on the left and answer the questions to start.', false);
                       display_message_buffer(cur_agent_id);
-                      
-                      var amazon_path = "https://dmg-full.s3.eu-central-1.amazonaws.com/"
-                      
-                      var onboard_screen = "<b> You will have a conversation with another player to find out which of the images on your display are ";
-                      onboard_screen += "shown to both players - and which ones are only shown to you. </b> </br>";
-                      onboard_screen += "</p> <p> Consider the following example: Players A and B both see three images, as displayed here</br> <img src='";
-                      onboard_screen += amazon_path + "screen.jpg' width='700' style='padding:25px 50px 25px 100px'> </br>By chatting with one another, they find out that they both have the image ";
-                      onboard_screen += "with the girl in the car and the one with the surfer, but that they have different images of people on motorcycles. ";
-                      onboard_screen += "They mark the images accordingly and the submit button becomes available.</br> <img src='";
-                      onboard_screen += amazon_path + "screen2.jpg' width='700' style='padding:25px 50px 25px 100px'> </br> Once both players submit their selection, the correct answer is shown. <img src='";
-                      onboard_screen += amazon_path + "screen3.jpg' width='700' style='padding:25px 50px 25px 100px'> </br> In a real game round, you will see six instead of three images.";
-                      
-                      //onboard_screen += "<ul> <li> Try to identify the <i>common</i> and <i>different</i> images as fast as possible! </li> ";
-                      //onboard_screen += "<li> The chat is turn-based. You can only type if it is your turn. </li> ";
-                      //onboard_screen += "<li> Please use normal English language and refrain from using abbreviations or code.</li> ";
-                      //onboard_screen += "<li> A full game consists of five rounds with the same partner and will take about 15 minutes. </li> ";
-                      //onboard_screen += "<li> After the game, we will ask you to give us some quick feedback. </li> ";
-                      //onboard_screen += "<li> If you play this game multiple times, you will get a bonus payment of 0.25 USD after each subsequent game. </li> ";
-                      //onboard_screen += "<li> Every worker can play a maximum of 10 games. </li> </ul> ";                    
-                      
-                      $('#preview_placeholder').html(onboard_screen);                      
+                      $('#title').html("About this HIT"); 
+                      $('#preview').css("display", "none");
+                      $('#onboarding_1').css("display", "");
+                                          
                       num_messages = 0;
                 } else if (text.startsWith('<next_round>')) {  
+                } else if (text.startsWith('<pairing>')) {  
+                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "You are now paired with another player. Please stand by...", false);
+                    display_message_buffer(cur_agent_id);  
                 } else if (text.startsWith('<buffer>')) {   
                     add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Next Round!", false);
                     display_message_buffer(cur_agent_id);
@@ -413,6 +517,39 @@ task_config['task_description'] = \
                 }        
             };
         })();
+        
+        function warmup_check_questions() {
+            $('#correct_1').css("background-color", "#8dcf8d")
+            $('#correct_2').css("background-color", "#8dcf8d")
+            $('#answer_1').html("<b>ANSWER:</b> Please only mention a single image per message so we can better process the data.")
+            $('#answer_2').html("<b>ANSWER:</b> An image has the common label if it is shown to both players - independent  of its position.")
+            $("button#submit_questions").hide();
+            $("button#continue_warmup").show();
+            jQuery("#warmup_question_form input:radio").attr('disabled',true);
+        }
+        
+        function continue_warmup() {
+            $('#onboarding_1').css("display", "none");
+            $('#onboarding_2').css("display", "");        
+        }
+        
+        function start_game() {
+            $("button#start_game").hide();
+        
+            new_message_id = uuidv4();     
+            send_packet(
+                TYPE_MESSAGE,
+                {
+                  text: '<start>',
+                  id: cur_agent_id,
+                  message_id: new_message_id,
+                  episode_done: true
+                },
+                false,
+                false,
+                function(msg) {}
+            );
+        }
         
         function add_to_message_buffer(agent_id, label, text, was_this_agent){
         
@@ -561,27 +698,27 @@ task_config['task_description'] = \
                 feedback_form += 'please scroll down in this panel.</p> <form id="feedback_form"> ';
                 
                 feedback_form += ' <label class="statement">Overall collaboration with my partner worked well.</label> ';
-                feedback_form += ' <ul class="likert"> <li> <input onclick="validateRealTime_feedback();" type="radio" name="collaboration" value="5"> ';
-                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="collaboration" value="4"> ';
-                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="collaboration" value="3"> ';
-                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="collaboration" value="2"> ';
-                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="collaboration" value="1"> ';
+                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="5"> ';
+                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="4"> ';
+                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="3"> ';
+                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="2"> ';
+                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="1"> ';
                 feedback_form += ' <label>Strongly disagree</label> </li> </ul>';
                 
                 feedback_form += ' <label class="statement">I understood the descriptions of my partner well.</label> ';
-                feedback_form += ' <ul class="likert"> <li> <input onclick="validateRealTime_feedback();" type="radio" name="self_u" value="5"> ';
-                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="self_u" value="4"> ';
-                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="self_u" value="3"> ';
-                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="self_u" value="2"> ';
-                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="self_u" value="1"> ';
+                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="5"> ';
+                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="4"> ';
+                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="3"> ';
+                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="2"> ';
+                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="1"> ';
                 feedback_form += ' <label>Strongly disagree</label> </li> </ul>';
                 
                 feedback_form += ' <label class="statement">My partner seemed to understand me well.</label> ';
-                feedback_form += ' <ul class="likert"> <li> <input onclick="validateRealTime_feedback();" type="radio" name="partner_u" value="5"> ';
-                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="validateRealTime_feedback();" type="radio" name="partner_u" value="4"> ';
-                feedback_form += ' <label>Agree</label> </li> <li> <input <input onclick="validateRealTime_feedback();" type="radio" name="partner_u" value="3"> ';
-                feedback_form += ' <label>Neutral</label> </li> <li> <input <input onclick="validateRealTime_feedback();" type="radio" name="partner_u" value="2"> ';
-                feedback_form += ' <label>Disagree</label> </li> <li> <input <input onclick="validateRealTime_feedback();" type="radio" name="partner_u" value="1"> ';
+                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback;" type="radio" name="partner_u" value="5"> ';
+                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="partner_u" value="4"> ';
+                feedback_form += ' <label>Agree</label> </li> <li> <input <input onclick="checkFeedback;" type="radio" name="partner_u" value="3"> ';
+                feedback_form += ' <label>Neutral</label> </li> <li> <input <input onclick="checkFeedback;" type="radio" name="partner_u" value="2"> ';
+                feedback_form += ' <label>Disagree</label> </li> <li> <input <input onclick="checkFeedback;" type="radio" name="partner_u" value="1"> ';
                 feedback_form += ' <label>Strongly disagree</label> </li> </ul>';        
                 
                 feedback_form += ' <p> Do you have any comments on the HIT? <textarea id="feedback_text" name="feedback" ';

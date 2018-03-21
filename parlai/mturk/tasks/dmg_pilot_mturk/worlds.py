@@ -373,6 +373,16 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         Parallel(n_jobs=len(self.agents), backend='threading')\
             (delayed(shutdown_agent)(agent) for agent in self.agents)
 
+    def flush_buffer(self):
+        print("Flushing buffer for {} agents".format(len(self.agents)))
+        agents_done = [False for _ in self.agents]
+        while sum(agents_done) < len(self.agents):
+            for idx, agent in enumerate(self.agents):
+                if not agents_done[idx] and agent.act(blocking=False) is not None:
+                    agent.observe(validate({'text': '<buffer>'}))
+                    agents_done[idx] = True
+            time.sleep(0.1)
+
 
 class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
@@ -575,6 +585,16 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         """
         return self.episodeDone
 
+    def flush_buffer(self):
+        print("Flushing buffer for {} agents".format(len(self.agents)))
+        agents_done = [False for _ in self.agents]
+        while sum(agents_done) < len(self.agents):
+            for idx, agent in enumerate(self.agents):
+                if not agents_done[idx] and agent.act(blocking=False) is not None:
+                    agent.observe(validate({'text': '<buffer>'}))
+                    agents_done[idx] = True
+            time.sleep(0.1)
+
 
 class MTurkDMGDialogOnboardWorld(MTurkOnboardWorld):
     def parley(self):
@@ -584,5 +604,20 @@ class MTurkDMGDialogOnboardWorld(MTurkOnboardWorld):
         action['id'] = 'INSTRUCTOR'
 
         self.mturk_agent.observe(action)
-        self.mturk_agent.act()
-        self.episodeDone = True
+
+        while True:
+            action = self.mturk_agent.act(timeout=None)
+            message = action["text"]
+            print("Got message: {}".format(message))
+            message = message.split(" ")
+            if message[0] == "<start>":
+                print("Got start token")
+
+                action = {}
+                action['text'] = '<pairing>'
+                action['id'] = 'INSTRUCTOR'
+                self.mturk_agent.observe(action)
+
+                break
+
+        print("Warmup done.")
