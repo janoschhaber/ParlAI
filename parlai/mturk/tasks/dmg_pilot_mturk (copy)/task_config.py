@@ -91,19 +91,6 @@ task_config['task_description'] = \
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
     <script type="text/javascript">
-    
-        function textCounter( field, maxlimit ) {
-        validateRealTime();
-        // $('#test').html(String(field.value.length));
-         if ( field.value.length > maxlimit ) {
-          field.value = field.value.substring( 0, maxlimit );
-          field.blur();
-          field.focus();
-          return false;
-         } else {
-          document.getElementById("counter").value = maxlimit - field.value.length;
-         }
-        }
 
         $(document).ready(function(){
             required = function(fields) {
@@ -120,7 +107,6 @@ task_config['task_description'] = \
             }
 
             validateRealTime = function () {
-                // $('#test').html("Validating radiobuttons");
                 var fields = $("form :input:not(:hidden)"); // select required
                 fields.on('keyup change keypress blur', function () {
                     if (required(fields)) {
@@ -131,6 +117,30 @@ task_config['task_description'] = \
                 });
             }
             validateRealTime();
+            
+            required_feedback = function(fields) {
+                    var valid = true;
+                fields.each(function () { // iterate all
+                    var $this = $(this);
+                    if (($this.is(':checkbox') && !$this.is(":checked")) || // checkbox
+                        ($this.is(':radio') && !$('input[name='+ $this.attr("name") +']:checked').length)) { // radio
+                        valid = false;
+                }
+            });
+                return valid;
+            }
+
+            validateRealTime_feedback = function () {
+                var fields = $("form :input:not(:hidden)"); // select required
+                fields.on('keyup change keypress blur', function () {
+                    if (required(fields)) {
+                        {document.getElementById("send_feedback").disabled = false;} // action if all valid
+                    } else {
+                        {document.getElementById("send_feedback").disabled = true;} // action if not valid
+                    }
+                });
+            }
+            validateRealTime_feedback();
             
             $('#left-pane').css("background-color", "white");
             $('#left-pane').css("padding", "0px");
@@ -302,7 +312,6 @@ task_config['task_description'] = \
         (function() {
             // Override handle_new_message function
             handle_new_message = function() {
-                validateRealTime();
                 var new_message_id = arguments[0];
                 var message = arguments[1];
                 var agent_id = message.id;
@@ -394,14 +403,11 @@ task_config['task_description'] = \
                       
                       $('#preview_placeholder').html(onboard_screen);                      
                       num_messages = 0;
-                } else if (text.startsWith('<next_round>')) {  
-                } else if (text.startsWith('<buffer>')) {   
-                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Next Round!", false);
-                    display_message_buffer(cur_agent_id);
+                } else if (text.startsWith('<next_round>')) {   
                 } else if (text.startsWith('<feedback>')) {      
-                } else if (text.startsWith('<waiting>')) { 
-                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Waiting for other player to continue...", false);
-                    display_message_buffer(cur_agent_id);  
+                } else if (text.startsWith('<buffer>')) { 
+                    // add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+                    // display_message_buffer(cur_agent_id);  
                 } else if (text) {
                     num_messages++;
                     message.id = (was_this_agent ? "YOU:" : "THEM:");
@@ -457,7 +463,7 @@ task_config['task_description'] = \
                   message_id: new_message_id,
                   episode_done: false
                 },
-                false,
+                true,
                 false,
                 function(msg) {}
             );
@@ -485,10 +491,11 @@ task_config['task_description'] = \
                     $('#' + descriptor).css("background-color", "#FF6E65");
                 }    
             } 
-            
         
             if (round_counter < 5 && !warm_up) {
-                $("button#next_round").show();
+                add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+                display_message_buffer(cur_agent_id); 
+                // $("button#next_round").show();
             } else {
                 $("button#finish").show();                
                 $("button#image_selection").hide();
@@ -505,8 +512,6 @@ task_config['task_description'] = \
         }
         
         function getFeedback() {
-        
-            jQuery("#image_selection_form input:radio").attr('disabled',true);
                                        
             new_message_id = uuidv4();  
             $("button#image_selection").hide();     
@@ -518,8 +523,8 @@ task_config['task_description'] = \
                   message_id: new_message_id,
                   episode_done: false
                 },
-                false,
-                false,
+                true,
+                true,
                 function(msg) {}
             );           
         }
@@ -536,8 +541,8 @@ task_config['task_description'] = \
                   message_id: new_message_id,
                   episode_done: false
                 },
-                false,
-                false,
+                true,
+                true,
                 function(msg) {}
             );
             
@@ -551,8 +556,9 @@ task_config['task_description'] = \
                 $("button#finish").hide();                 
                 num_messages = -1;
                 real_deal = true;
-                warm_up = false;
-                nextRound();               
+                add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Enter anything to start to next round", false);
+                display_message_buffer(cur_agent_id); 
+                // nextRound();               
             } else {        
                 $('#title').html('Feedback Form');   
                
@@ -586,7 +592,7 @@ task_config['task_description'] = \
                 
                 feedback_form += ' <p> Do you have any comments on the HIT? <textarea id="feedback_text" name="feedback" ';
                 feedback_form += ' placeholder="Input here..."> </textarea> </form>';
-                feedback_form += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="send_feedback" onclick="sendFeedback();"> Send Feedback </button>';
+                feedback_form += ' <button class="btn btn-primary" disabled="disabled" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="send_feedback" onclick="sendFeedback();"> Send Feedback </button>';
                     
                 $('#game_window').html(feedback_form); 
                       
@@ -617,8 +623,8 @@ task_config['task_description'] = \
                   message_id: new_message_id,
                   episode_done: false
                 },
-                false,
-                false,
+                true,
+                true,
                 function(msg) {}
             );
         }

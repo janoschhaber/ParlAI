@@ -18,13 +18,11 @@ from parlai.tasks.dmg_pilot_mturk.agents import NEXT_ROUND_TOKEN
 from parlai.tasks.dmg_pilot_mturk.agents import FEEDBACK_TOKEN
 
 from joblib import Parallel, delayed
-from copy import copy, deepcopy
+from copy import deepcopy
 from collections import defaultdict
 from numpy import random as nprand
+import random
 import time
-import os
-import json
-import numpy as np
 
 VERBOSE = True
 
@@ -53,10 +51,6 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.rounds_random = nprand.permutation(5)
         self.last_agent = None
         self.disconnected = False
-        self.submits = {self.players[0]: False, self.players[1]: False}
-        self.players_done = {self.players[0]: False, self.players[1]: False}
-        self.total_score = 0
-        self.roundDone = False
 
         self.conversation_log = {
             'game_id': agents[0].assignment_id + agents[1].assignment_id,
@@ -67,7 +61,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             'agent_ids':[],
             'rounds': [],
             'feedback': {},
-            'disconnected': {self.players[0]: False, self.players[1]: False}
+            'disconnected': {agents[0].id: False, agents[1].id: False}
         }
 
         for i, agent in enumerate(agents):
@@ -84,8 +78,8 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         Main communication loop for the agents involved in the task
         :return: Nothing
         """
-        print(self.turn_nr)
 
+        print("PARLEY!")
         # If a new round has started, load the game data (if necessary) and send it to the players
         if self.turn_nr == -1:
             print("Loading Data to MTurk")
@@ -99,8 +93,6 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                                .intersection(self.data[self.player_labels[1]][self.rounds_random[self.round_nr]]))
 
             # Send a welcome message with the game data to all players
-            if VERBOSE: print("--- Starting round {} ---".format(self.round_nr + 1))
-
             counter = 0
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
@@ -123,8 +115,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         else:
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
-                if self.episodeDone or self.roundDone:
-                    self.roundDone = False
+                if self.episodeDone:
                     print("Episode done!")
                     break
 
@@ -173,53 +164,14 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
 
         # Player requests feedback. Check if round is completed and provide it
         elif message[0] == FEEDBACK_TOKEN:
-            self.submits[player] = True
-            if self.all_selected() and self.both_submitted():
+            if self.all_selected():
                 scores = self.send_feedback()
                 self.round_log['score'] = scores
-                for score in scores.values():
-                    self.total_score += score
-                    print("Total score is {}".format(self.total_score))
+                if self.round_nr != 4:
+                    self.episodeDone = True
+                return True
             else:
                 agent.observe(validate({'text': "<hint>"}))
-
-        elif message[0] == NEXT_ROUND_TOKEN:
-            self.players_done[player] = True
-            print("{} is done".format(player))
-
-            if self.both_done():
-                # Write the log data to file
-                if VERBOSE: print("Logging data")
-                self.round_log['round_nr'] = self.round_nr
-                self.round_log['images'] = {self.player_labels[0]: self.data[self.player_labels[0]][self.round_nr],
-                                             self.player_labels[1]: self.data[self.player_labels[1]][self.round_nr]}
-                self.conversation_log['rounds'].append(deepcopy(self.round_log))
-
-                if VERBOSE: print("Writing log to file")
-                if not os.path.exists("logs"):
-                    os.makedirs("logs")
-                with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]),
-                          'w') as f:
-                    json.dump(copy(self.conversation_log), f)
-
-                if self.round_nr < 4:
-                    # Reset some variables
-                    if VERBOSE: print("Resetting variables")
-                    self.selections = defaultdict(lambda: dict())
-                    self.round_log = self.reset_round_log()
-                    self.submits = {self.players[0]: False, self.players[1]: False}
-                    self.players_done = {self.players[0]: False, self.players[1]: False}
-                    self.turn_nr = -2
-                    self.round_nr += 1
-                    self.roundDone = True
-
-                    for agent in self.agents:
-                        agent.observe(validate({'text': '<buffer>'}))
-
-            else:
-                agent.observe(validate({'text': "<waiting>"}))
-
-            return True
 
         elif message[0] == "<usr_feedback>":
             # If it was the last round and the player gave feedback, save it to the log
@@ -233,7 +185,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                 self.episodeDone = True
             else:
                 self.otherDone = True
-            return True
+
 
         # Regular text message. Display it to the other players and break the while loop
         elif not action['episode_done']:
@@ -284,6 +236,12 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                     feedback += "incorrect.\n"
                     solutions.append([image_id, 0])
 
+            try:
+                assert len(solutions) == 6
+            except:
+                print("Not all images marked yet!")
+                continue
+
             action = {}
             action['text'] = feedback
             action['solution'] = solutions
@@ -309,14 +267,6 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             'message': message
         }
         return entry
-
-    def both_done(self):
-        print(self.players_done)
-        return all(value == True for value in self.players_done.values())
-
-    def both_submitted(self):
-        print(self.submits)
-        return  all(value == True for value in self.submits.values())
 
     def all_selected(self):
         """
@@ -355,6 +305,15 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         """
         self.game_id = id
 
+    def flush_buffer(self):
+        agents_done = [False for _ in self.agents]
+        while sum(agents_done) < len(self.agents):
+            for idx, agent in enumerate(self.agents):
+                if not agents_done[idx] and agent.act(blocking=False) is not None:
+                    agent.observe(validate({'text': '<buffer>'}))
+                    agents_done[idx] = True
+            time.sleep(0.1)
+
     def shutdown(self):
         """
         Shuts down all mturk agents in parallel
@@ -384,13 +343,6 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         self.names = shuffled_names
         self.episodeDone = False
         self.selections = defaultdict(lambda: dict())
-        self.players = [agents[0].id, agents[1].id]
-        self.player_labels = ["A", "B"]
-
-        self.submits = {self.players[0]: False, self.players[1]: False}
-        self.players_done = {self.players[0]: False, self.players[1]: False}
-        self.roundDone = False
-        self.turn_nr = -1
 
         self.data = {"A": ["person_donut/COCO_train2014_000000490481.jpg",
                            "person_donut/COCO_train2014_000000011282.jpg",
@@ -402,8 +354,11 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         self.common = ["person_donut/COCO_train2014_000000490481.jpg",
                        "person_donut/COCO_train2014_000000117884.jpg"]
 
+        self.players = [agents[0].id, agents[1].id]
+        self.player_labels = ["A", "B"]
 
-
+        self.turn_nr = -1
+        self.doneCounter = 0
 
     def parley(self):
         # If a new round has started, load the game data (if necessary) and send it to the players
@@ -432,9 +387,8 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         else:
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
-                if self.episodeDone or self.roundDone:
+                if self.episodeDone:
                     print("Episode done!")
-                    self.roundDone = False
                     break
 
                 print("Entering regular dialogue mode")
@@ -470,26 +424,13 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
         # Player requests feedback. Check if round is completed and provide it
         elif message[0] == FEEDBACK_TOKEN:
-            self.submits[player] = True
-            if self.all_selected() and self.both_submitted():
+            if self.all_selected():
                 _ = self.send_feedback()
+                print("Episode done.")
+                self.episodeDone = True
+                return True
             else:
                 agent.observe(validate({'text': "<hint>"}))
-
-        elif message[0] == NEXT_ROUND_TOKEN:
-            self.players_done[player] = True
-            print("{} is done".format(player))
-
-            if self.both_done():
-                for agent in self.agents:
-                    agent.observe(validate({'text': '<buffer>'}))
-                self.episodeDone = True
-
-            else:
-                agent.observe(validate({'text': "<waiting>"}))
-
-            return True
-
 
         # Regular text message. Display it to the other players and break the while loop
         elif not action['episode_done']:
@@ -503,6 +444,15 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         else:
             self.episodeDone = True
             return True
+
+    def flush_buffer(self):
+        agents_done = [False for _ in self.agents]
+        while sum(agents_done) < len(self.agents):
+            for idx, agent in enumerate(self.agents):
+                if not agents_done[idx] and agent.act(blocking=False) is not None:
+                    agent.observe(validate({'text': '<buffer>'}))
+                    agents_done[idx] = True
+            time.sleep(0.1)
 
     def send_feedback(self):
         """
@@ -549,14 +499,6 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
         print("Scores for this round are {}".format(scores))
         return scores
-
-    def both_done(self):
-        print(self.players_done)
-        return all(value == True for value in self.players_done.values())
-
-    def both_submitted(self):
-        print(self.submits)
-        return  all(value == True for value in self.submits.values())
 
     def all_selected(self):
         """

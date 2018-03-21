@@ -69,7 +69,7 @@ def main():
     # Remove qualification blocks
     # mturk_utils.delete_qualification('33DUYNETVPNVNFT4X22Z6F584M1WCM', is_sandbox)
 
-    qual_name = 'DMG_Pilot_:_Max_Games_Reached_TEMP4'
+    qual_name = 'DMG_Pilot_:_Max_Games_Reached_TEMP3'
     qual_desc = ('Qualification for a worker who completed the maximum number of games in the DMG Pilot')
     qualification_id = mturk_utils.find_or_create_qualification(qual_name, qual_desc, is_sandbox, True)
     print('Created qualification: ', qualification_id)
@@ -313,8 +313,8 @@ def main():
                         agent.approve_work()
                         print("Paying bonus as well!")
                 else:
-                    print("Not paying agent {} as he or she disconnected (too early) or score is too low.".format(agent.worker_id))
-                    agent.reject_work(reason='Disconnected before end of HIT or scored too low')
+                    print("Not paying agent {} as he or she disconnected (too early).".format(agent.worker_id))
+                    agent.reject_work(reason='Disconnected before end of HIT')
 
 
         def run_conversation(mturk_manager, opt, workers):
@@ -370,30 +370,64 @@ def main():
                 names=names
             )
 
-            get_pay = {agents[0].worker_id: False, agents[1].worker_id: False}
-            disconnected = False
-            while not world.episode_done():
-                if world.parley():
-                    disconnected = True
+            log_timestamp = time.time()
+            # Loop over all five rounds of the game
+            get_pay = {agents[0]: False, agents[1]: False}
+            for r in range(5):
+                if VERBOSE: print("--- Starting round {} ---".format(r+1))
+
+                if r == 0 and len(worker_record[agents[0].worker_id]) == 1 and len(worker_record[agents[1].worker_id]) == 1:
+                    world.flush_buffer()
+
+                disconnected = False
+                while not world.episode_done():
+                    if world.parley():
+                        disconnected = True
+                        break
+
+                # Write the log data to file
+                if VERBOSE: print("Logging data")
+                world.round_log['round_nr'] = world.round_nr
+                world.round_log['images'] = {world.player_labels[0]: world.data[world.player_labels[0]][world.round_nr],
+                                             world.player_labels[1]: world.data[world.player_labels[1]][world.round_nr]}
+                world.conversation_log['rounds'].append(deepcopy(world.round_log))
+
+                if VERBOSE: print("Writing log to file")
+                if not os.path.exists("logs"):
+                    os.makedirs("logs")
+                with open('logs/dmg_pilot_data_{}_{}.json'.format(world.assignment_ids[0], world.assignment_ids[1]), 'w') as f:
+                    json.dump(copy(world.conversation_log), f)
+
+                if disconnected:
+                    if r > 2:
+                        get_pay = world.conversation_log['disconnected']
+
+                    world.shutdown()
+                    if VERBOSE: print("Game ended due to disconnect.")
                     break
 
-            if disconnected:
-                if VERBOSE: print("Game ended due to disconnect.")
-                if world.round_nr > 2:
-                    get_pay = world.conversation_log['disconnected']
+                if not r == 4:
+                    # Reset the world for the next round
+                    world.selections = defaultdict(lambda: dict())
+                    world.round_log = world.reset_round_log()
+                    world.turn_nr = -1
+                    world.round_nr += 1
+                    world.episodeDone = False
 
-            else:
-                if world.total_score > 50:
-                    get_pay = {agents[0].worker_id: True, agents[1].worker_id: True}
+                    world.flush_buffer()
+
                 else:
-                    print("Score too low!")
+                    world.shutdown()
+                    get_pay = {agents[0]: True, agents[1]: True}
+                    if VERBOSE: print("Game ended.")
 
-            world.shutdown()
-            if VERBOSE: print("Game ended.")
             save_conversation_duration(conversation_start_time)
             save_records()
+
             pay_workers(agents, get_pay)
+
             print("Conversation closed.")
+
 
         load_records()
         print("Loaded records.")

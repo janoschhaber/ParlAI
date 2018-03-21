@@ -44,9 +44,11 @@
         </div>
         <div id="response-type-text-input" class="response-type-module" style="padding-left: 35px; padding-top: 30px; padding-bottom: 30px; padding-right: 35px; float: left; display:none">
             <div style="height: 50px; width: 100%; display: block; float: left; ">
-                <input id="id_text_input" type="text" style="width: 80%; height: 100%; float: left; font-size: 16px" class="form-control" value="" placeholder="Please enter here...">
+                <input id="id_text_input" type="text" maxlength="80" style="width: 80%; height: 100%; float: left; font-size: 16px" class="form-control" value="" placeholder="Please enter here..." onblur="textCounter(this, 80);" onkeyup="textCounter(this, 80);" >
                 <button class="btn btn-primary" style="width: 100px; height: 100%; font-size: 16px; float: left; margin-left: 10px; padding: 0px;" id="id_send_msg_button">Send</button>
             </div>
+            <input disabled onfocus="this.blur();" tabindex="999" maxlength="3" size="3" value="80" name="counter" id="counter">
+            <small>characters remaining.</small>
         </div>
         <div id="response-type-done" class="response-type-module" style="padding-left: 35px; padding-top: 30px; padding-bottom: 30px; padding-right: 35px; float: left; display:none">
             <span id="inactive" style="font-size: 14pt;margin-right: 15px"></span>
@@ -372,6 +374,7 @@
 
   // Updates the UI to allow worker input, focuses onto the text box
   function wait_for_worker_input() {
+    validateRealTime();
     update_UI_for_response_type('text_input');
     $("div#waiting-for-message").css("display", "none");
     $("input#id_text_input").focus();
@@ -394,6 +397,7 @@
     if (response_type == 'idle') {
       $("div#response-type-idle").css("display", "");
       $("div#waiting-for-message").css("display", "");
+      $("div#response-type-text-input").css("display", "none");
     } else if (response_type == 'text_input') {
       $("div#response-type-text-input").css("display", "");
     } else if (response_type == 'done') {
@@ -428,6 +432,7 @@
     $("div#message_thread").css("display", "");
     scroll_conversation_to_bottom();
     $("div#waiting-for-message").css("display", "");
+    $("div#response-type-text-input").css("display", "none");
   }
 
   // Done button click submits to MTurk
@@ -454,6 +459,7 @@
 
     update_UI_for_response_type('idle');
     $("div#waiting-for-message").css("display", "");
+    $("div#response-type-text-input").css("display", "none");
     $("div#left-pane").removeClass('col-xs-12');
     $("div#left-pane").addClass('col-xs-4');
 
@@ -730,6 +736,7 @@
           $("button#id_send_msg_button").prop("disabled", false);
           $("input#id_text_input").val("");
           $("div#response-type-text-input").css("display", "none");
+          validateRealTime();
           // push the message into the conversation
           handle_new_message(new_message_id, msg.data);
           after_send_packet();
