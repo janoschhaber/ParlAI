@@ -566,7 +566,7 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
     def both_submitted(self):
         print(self.submits)
-        return  all(value == True for value in self.submits.values())
+        return all(value == True for value in self.submits.values())
 
     def all_selected(self):
         """
@@ -605,19 +605,19 @@ class MTurkDMGDialogOnboardWorld(MTurkOnboardWorld):
 
         self.mturk_agent.observe(action)
 
-        while True:
-            action = self.mturk_agent.act(timeout=None)
-            message = action["text"]
-            print("Got message: {}".format(message))
-            message = message.split(" ")
-            if message[0] == "<start>":
-                print("Got start token")
+        action = self.mturk_agent.act(timeout=None)
+        message = action["text"]
+        print("Got message: {}".format(message))
+        message = message.split(" ")
+        if message[0] == "<start>":
+            print("Got start token")
 
-                action = {}
-                action['text'] = '<pairing>'
-                action['id'] = 'INSTRUCTOR'
-                self.mturk_agent.observe(action)
+            action = {}
+            action['text'] = '<pairing>'
+            action['id'] = 'INSTRUCTOR'
+            self.mturk_agent.observe(action)
 
-                break
+            self.episodeDone = True
 
-        print("Warmup done.")
+    def episode_done(self):
+        return self.episodeDone

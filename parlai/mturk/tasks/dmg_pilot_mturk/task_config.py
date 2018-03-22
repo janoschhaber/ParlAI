@@ -58,7 +58,16 @@ task_config['task_description'] = \
                 {document.getElementById("submit_questions").disabled = true;} // action if not valid
             }
         }
-
+        
+        function checkFeedback() {
+            //$('#test').html("Checking if feedback form is complete...");
+            var fields = $("form :input:not(:hidden)"); // select required
+            if (required(fields)) {
+                {document.getElementById("send_feedback").disabled = false;} // action if all valid
+            } else {
+                {document.getElementById("send_feedback").disabled = true;} // action if not valid
+            }
+        }
     </script>    
 
     <div id='preview'>
@@ -110,7 +119,7 @@ task_config['task_description'] = \
             <a href="mailto:dmg.illc.amsterdam@gmail.com">dmg.illc.amsterdam@gmail.com</a>.
         </p>
      </div>
-    
+     
     <div id="onboarding_1" style="display: none;">
         <p>
             You will be paired with another worker. Each of you then will see six images - 
@@ -206,19 +215,20 @@ task_config['task_description'] = \
             $('#id_text_input').css("width", "70%");
         </script>
     </div>
-    
+
     <audio id="ping" style="display:none;">
         <source src="https://raw.githubusercontent.com/janoschhaber/psivgd/master/dmg_pilot_mturk/ping.mp3" type="audio/mpeg">
         <embed height="50" width="100" src="https://raw.githubusercontent.com/janoschhaber/psivgd/master/dmg_pilot_mturk/ping.mp3">
     </audio>
-    
+
     <div id='test'></div>
     <div id='game_window'></div>
-    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
     <script type="text/javascript">
-    
+
         function textCounter( field, maxlimit ) {
-        // $('#test').html(String(field.value.length));
          if ( field.value.length > maxlimit ) {
           field.value = field.value.substring( 0, maxlimit );
           field.blur();
@@ -230,33 +240,38 @@ task_config['task_description'] = \
         }
 
         $(document).ready(function(){
+            required = function(fields) {
+                    var valid = true;
+                fields.each(function () { // iterate all
+                    var $this = $(this);
+                    if (($this.is(':checkbox') && !$this.is(":checked")) || // checkbox
+                        (($this.is(':text') || $this.is('textarea')) && !$this.val()) || // text and textarea
+                        ($this.is(':radio') && !$('input[name='+ $this.attr("name") +']:checked').length)) { // radio
+                        valid = false;
+                }
+            });
+                return valid;
+            }
 
-            function checkSelection() {
-                //$('#test').html("Validating radiobuttons");
+            validateRealTime = function () {
+                // $('#test').html("Validating radiobuttons");
                 var fields = $("form :input:not(:hidden)"); // select required
-                if (required(fields)) {
-                    {document.getElementById("image_selection").disabled = false;} // action if all valid
-                } else {
-                    {document.getElementById("image_selection").disabled = true;} // action if not valid
-                }
+                fields.on('keyup change keypress blur', function () {
+                    if (required(fields)) {
+                        {document.getElementById("image_selection").disabled = false;} // action if all valid
+                    } else {
+                        {document.getElementById("image_selection").disabled = true;} // action if not valid
+                    }
+                });
             }
-            
-            function checkFeedback() {
-                //$('#test').html("Validating radiobuttons");
-                var fields = $("form :input:not(:hidden)"); // select required
-                if (required(fields)) {
-                    {document.getElementById("image_selection").disabled = false;} // action if all valid
-                } else {
-                    {document.getElementById("image_selection").disabled = true;} // action if not valid
-                }
-            }
-            
+            validateRealTime();
+
             $('#left-pane').css("background-color", "white");
             $('#left-pane').css("padding", "0px");
             $('#left-pane').css("width", "800px"),
             $('#id_text_input').css("width", "70%");
         });
-        
+
     </script>
 
     <style>
@@ -294,7 +309,7 @@ task_config['task_description'] = \
             font-size: 16px;
             resize: none;
         }
-        
+
         form .statement {
           display:block;
           font-size: 18px;
@@ -302,7 +317,7 @@ task_config['task_description'] = \
           padding: 10px 0 0 0%;
           margin-bottom:10px;
         }
-        
+
         form .likert {
           list-style:none;
           width:100%;
@@ -311,9 +326,9 @@ task_config['task_description'] = \
           display:block;
           border-bottom:2px solid #efefef;
         }
-        
+
         form .likert:last-of-type {border-bottom:0;}
-        
+
         form .likert:before {
           content: '';
           position:relative;
@@ -324,14 +339,14 @@ task_config['task_description'] = \
           height:4px;
           width:78%;
         }
-        
+
         form .likert li {
           display:inline-block;
           width:19%;
           text-align:center;
           vertical-align: top;
         }
-        
+
         form .likert li input[type=radio] {
           display:block;
           position:relative;
@@ -339,13 +354,12 @@ task_config['task_description'] = \
           left:50%;
           margin-left:-6px;          
         }
-        
+
         form .likert li label {width:100%;}
-        
+
     </style>
 
     <script type="text/javascript">
-
         var game_header = "Chat with your partner to find out which images are shown to the both of you <i>(common)</i> ";
         game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and do not matter for this task.";
         game_header += "the number of <i>common</i> and different</i> <i>images changes every round. </br>";
@@ -387,7 +401,7 @@ task_config['task_description'] = \
                 string += '_common" name="';
                 string += String(image_id);
                 string += '" value="common" '
-                string += 'onclick="checkSelection(); '            
+                string += 'onclick="validateRealTime(); '            
                 string += 'sendSelectionMessage(&apos;<com>&apos;, &apos;' 
                 string += image_path 
                 string += '&apos;);"' 
@@ -396,7 +410,7 @@ task_config['task_description'] = \
                 string += '_different" name="';
                 string += String(image_id);
                 string += '" value="different" '
-                string += 'onclick="checkSelection(); '            
+                string += 'onclick="validateRealTime(); '            
                 string += 'sendSelectionMessage(&apos;<dif>&apos;, &apos;' 
                 string += image_path 
                 string += '&apos;);"'
@@ -421,6 +435,7 @@ task_config['task_description'] = \
         (function() {
             // Override handle_new_message function
             handle_new_message = function() {
+ 
                 var new_message_id = arguments[0];
                 var message = arguments[1];
                 var agent_id = message.id;
@@ -490,10 +505,10 @@ task_config['task_description'] = \
                       playPing();
                       add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'Hi! Welcome aboard. Please carefully read the instructions on the left and answer the questions to start.', false);
                       display_message_buffer(cur_agent_id);
+ 
                       $('#title').html("About this HIT"); 
                       $('#preview').css("display", "none");
                       $('#onboarding_1').css("display", "");
-                                          
                       num_messages = 0;
                 } else if (text.startsWith('<next_round>')) {  
                 } else if (text.startsWith('<pairing>')) {  
@@ -698,32 +713,32 @@ task_config['task_description'] = \
                 feedback_form += 'please scroll down in this panel.</p> <form id="feedback_form"> ';
                 
                 feedback_form += ' <label class="statement">Overall collaboration with my partner worked well.</label> ';
-                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="5"> ';
-                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="4"> ';
-                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="3"> ';
-                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="2"> ';
-                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="collaboration" value="1"> ';
+                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback();" type="radio" name="collaboration" value="5"> ';
+                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="collaboration" value="4"> ';
+                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="collaboration" value="3"> ';
+                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="collaboration" value="2"> ';
+                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="collaboration" value="1"> ';
                 feedback_form += ' <label>Strongly disagree</label> </li> </ul>';
                 
                 feedback_form += ' <label class="statement">I understood the descriptions of my partner well.</label> ';
-                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="5"> ';
-                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="4"> ';
-                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="3"> ';
-                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="2"> ';
-                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="self_u" value="1"> ';
+                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback();" type="radio" name="self_u" value="5"> ';
+                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="self_u" value="4"> ';
+                feedback_form += ' <label>Agree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="self_u" value="3"> ';
+                feedback_form += ' <label>Neutral</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="self_u" value="2"> ';
+                feedback_form += ' <label>Disagree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="self_u" value="1"> ';
                 feedback_form += ' <label>Strongly disagree</label> </li> </ul>';
                 
                 feedback_form += ' <label class="statement">My partner seemed to understand me well.</label> ';
-                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback;" type="radio" name="partner_u" value="5"> ';
-                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback;" type="radio" name="partner_u" value="4"> ';
-                feedback_form += ' <label>Agree</label> </li> <li> <input <input onclick="checkFeedback;" type="radio" name="partner_u" value="3"> ';
-                feedback_form += ' <label>Neutral</label> </li> <li> <input <input onclick="checkFeedback;" type="radio" name="partner_u" value="2"> ';
-                feedback_form += ' <label>Disagree</label> </li> <li> <input <input onclick="checkFeedback;" type="radio" name="partner_u" value="1"> ';
+                feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback();" type="radio" name="partner_u" value="5"> ';
+                feedback_form += ' <label>Strongly agree</label> </li> <li> <input onclick="checkFeedback();" type="radio" name="partner_u" value="4"> ';
+                feedback_form += ' <label>Agree</label> </li> <li> <input <input onclick="checkFeedback();" type="radio" name="partner_u" value="3"> ';
+                feedback_form += ' <label>Neutral</label> </li> <li> <input <input onclick="checkFeedback();" type="radio" name="partner_u" value="2"> ';
+                feedback_form += ' <label>Disagree</label> </li> <li> <input <input onclick="checkFeedback();" type="radio" name="partner_u" value="1"> ';
                 feedback_form += ' <label>Strongly disagree</label> </li> </ul>';        
                 
                 feedback_form += ' <p> Do you have any comments on the HIT? <textarea id="feedback_text" name="feedback" ';
                 feedback_form += ' placeholder="Input here..."> </textarea> </form>';
-                feedback_form += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="send_feedback" onclick="sendFeedback();"> Send Feedback </button>';
+                feedback_form += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="send_feedback" onclick="sendFeedback();" disabled="disabled"> Send Feedback </button>';
                     
                 $('#game_window').html(feedback_form); 
                       
@@ -743,7 +758,7 @@ task_config['task_description'] = \
             feedback_message += "<&>self_u:" + String(self_u) + "<&>text:" + String(feedback_text);    
             
             $("button#send_feedback").hide();  
-            $('#game_window').html("<h2>Thank You!</h2> <h3>TIP: If you continue playing, you will get a bonus payment for the next games!</h3> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window.");       
+            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. <h3>TIP: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
                 
             new_message_id = uuidv4();   
             send_packet(
@@ -770,8 +785,7 @@ task_config['task_description'] = \
         
             alert(info);
         }
-
+ 
     </script>
     '''
-
 
