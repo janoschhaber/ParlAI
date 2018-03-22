@@ -619,5 +619,9 @@ class MTurkDMGDialogOnboardWorld(MTurkOnboardWorld):
 
             self.episodeDone = True
 
+        elif action['episode_done']:
+            self.episodeDone = True
+
+
     def episode_done(self):
         return self.episodeDone
