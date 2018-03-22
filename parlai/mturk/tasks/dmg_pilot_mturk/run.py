@@ -69,7 +69,7 @@ def main():
     # Remove qualification blocks
     # mturk_utils.delete_qualification('33DUYNETVPNVNFT4X22Z6F584M1WCM', is_sandbox)
 
-    qual_name = 'DMG_Pilot_:_Max_Games_Reached_TEMP4'
+    qual_name = 'DMG_Pilot_:_Max_Games_Reached_v1'
     qual_desc = ('Qualification for a worker who completed the maximum number of games in the DMG Pilot')
     qualification_id = mturk_utils.find_or_create_qualification(qual_name, qual_desc, is_sandbox, True)
     print('Created qualification: ', qualification_id)

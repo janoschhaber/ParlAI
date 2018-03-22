@@ -361,8 +361,8 @@ task_config['task_description'] = \
 
     <script type="text/javascript">
         var game_header = "Chat with your partner to find out which images are shown to the both of you <i>(common)</i> ";
-        game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and do not matter for this task.";
-        game_header += "the number of <i>common</i> and different</i> <i>images changes every round. </br>";
+        game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and do not matter for this task. ";
+        game_header += "The number of <i>common</i> and <i>different</i> images changes every round. </br>";
         game_header += "Click the respective checkbox under an image to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
         game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or chat language.</li> ";
         game_header += "<li>Please only mention a single image per message.</li></ul>";
