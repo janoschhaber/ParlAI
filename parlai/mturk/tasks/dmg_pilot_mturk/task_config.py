@@ -93,6 +93,7 @@ task_config['task_description'] = \
                 <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li>
                 <li> Only mention a single image per message.</li>
                 <li> Directly click on the common or different label of an image when you find out about it.</li>
+                <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
             </ul>
         </p>
         <p>
@@ -139,6 +140,7 @@ task_config['task_description'] = \
                 <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li>
                 <li> Only mention a single image per message.</li>
                 <li> Directly click on the common or different label of an image when you find out about it.</li>
+                <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
             </ul>
         </p>
         <form id="warmup_question_form">
@@ -207,7 +209,48 @@ task_config['task_description'] = \
             <b> If you are not sure about an image described by your partner, you can also ask for more details.
             </b>
         </p>   
-        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="start_game" onclick="start_game();"> Start HIT </button>    
+        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="continue_warmup_2" onclick="continue_warmup_2();"> Continue </button>    
+        <script type="text/javascript">
+            $('#left-pane').css("background-color", "white");
+            $('#left-pane').css("padding", "0px");
+            $('#left-pane').css("width", "800px"),
+            $('#id_text_input').css("width", "70%");
+        </script>
+    </div>
+    
+    <div id="onboarding_3" style="display: none;">
+        <p>
+            <b> A full game consists of five game rounds with the same partner and will take about 15 minutes.
+            </b>            
+        </p>
+        <p>
+            Since this is the first time you play, we will pair you with another new player and start with a short warming-up  game. The first game therefore might take a bit longer. Later games will be much quicker.
+        </p>
+        <p>
+            <ul>
+                <li> After the game, we will ask you to give us some quick feedback. </li>
+                <li> If you continue playing, you will get a bonus payment of 0.25 USD after each subsequent game. </li>
+                <li> Every worker can play a maximum of 5 games. </li>
+            </ul>
+        </p>
+        <p>
+            <b>PAYMENT DETAILS: </b> s a game takes about 15 minutes, this task is much longer than the usual HIT on Mechanical Turk. We want to provide fair payment for your work, but also want to make sure that the collected data is correct. We therefore will assess HITs based on the following criteria:
+        </p>
+        <p>
+            <ul>
+                <li> Players who do not follow the instructions will be rejected automatically without any pay. </li> 
+                <li> If a worker disconnects during the first two rounds of the game, we will cancel payments for both workers. </li> 
+                <li> If a worker disconnects during one of the later rounds, we will cancel his or her payment. The other worker receives full pay. </li>
+                <li> The two players can score a total of 60 points. The task is collaborative, so reaching this score should be easy. We will automatically cancel payments for both players if the total score is below 50 points (5 mistakes each). </li>
+            </ul>
+        </p>
+        <p>
+            <b> If you accept this and are ready to play, please click START WARM-UP. Otherwise please return the HIT.
+            </b>
+            Pairing might take a moment. We will let you know once you are paired.
+            If you turn on your speakers, you will hear a sound indicating that the HIT is ready for you.
+        </p>   
+        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="start_game" onclick="start_game();"> Start WARM-UP </button>    
         <script type="text/javascript">
             $('#left-pane').css("background-color", "white");
             $('#left-pane').css("padding", "0px");
@@ -477,7 +520,7 @@ task_config['task_description'] = \
                     //display += "Message: " + String(num_messages)
                     //$('#test').html(display);
             
-                    if (num_messages == 0) {
+                    if (warm_up || round_counter == 1) {
                         playPing();
                                                 
                         if (message.name) {
@@ -503,7 +546,7 @@ task_config['task_description'] = \
                 } else if (text.startsWith('<selection>')) {  
                 } else if (text.startsWith('<preview>')) {  
                       playPing();
-                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'Hi! Welcome aboard. Please carefully read the instructions on the left and answer the questions to start.', false);
+                      add_to_message_buffer(cur_agent_id, "INSTRUCTOR", 'Hi! Welcome aboard. Please carefully read the instructions on the left and answer the questions to start. Depending on your screen size, sometimes you will need to scroll to see the buttons.', false);
                       display_message_buffer(cur_agent_id);
  
                       $('#title').html("About this HIT"); 
@@ -546,6 +589,11 @@ task_config['task_description'] = \
         function continue_warmup() {
             $('#onboarding_1').css("display", "none");
             $('#onboarding_2').css("display", "");        
+        }
+        
+        function continue_warmup_2() {
+            $('#onboarding_2').css("display", "none");
+            $('#onboarding_3').css("display", "");     
         }
         
         function start_game() {
@@ -703,7 +751,6 @@ task_config['task_description'] = \
                 $("button#finish").hide();                 
                 num_messages = -1;
                 real_deal = true;
-                warm_up = false;
                 nextRound();               
             } else {        
                 $('#title').html('Feedback Form');   

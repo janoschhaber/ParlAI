@@ -383,8 +383,12 @@ def main():
 
             if disconnected:
                 if VERBOSE: print("Game ended due to disconnect.")
-                if world.round_nr > 2:
-                    get_pay = world.conversation_log['disconnected']
+                if world.round_nr > 1:
+                    print(world.conversation_log['disconnected'])
+                    disconnects = world.conversation_log['disconnected']
+                    get_pay = {}
+                    for p, t in disconnects.items():
+                        get_pay[p] = not t
 
             else:
                 if world.total_score > 50:

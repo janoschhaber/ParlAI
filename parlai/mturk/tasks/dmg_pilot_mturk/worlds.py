@@ -45,6 +45,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.turn_nr = -1
         self.players = [agents[0].id, agents[1].id]
         self.player_labels = ["A", "B"]
+        self.agent_ids = []
         self.selections = defaultdict(lambda: dict())
         self.data = None
         self.common = None
@@ -58,23 +59,24 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.total_score = 0
         self.roundDone = False
 
+        for i, agent in enumerate(agents):
+            try:
+                self.agent_ids.append(agent.worker_id)
+            except:
+                self.agent_ids.append(self.players[i])
+
         self.conversation_log = {
             'game_id': agents[0].assignment_id + agents[1].assignment_id,
             'domain_id': self.game_id,
             'players': self.players,
             'agent_labels': self.player_labels,
             'assignment_ids': self.assignment_ids,
-            'agent_ids':[],
+            'agent_ids': [],
             'rounds': [],
             'feedback': {},
-            'disconnected': {self.players[0]: False, self.players[1]: False}
+            'disconnected': {self.agent_ids[0]: False, self.agent_ids[1]: False}
         }
 
-        for i, agent in enumerate(agents):
-            try:
-                self.conversation_log['agent_ids'].append(agent.worker_id)
-            except:
-                self.conversation_log['agent_ids'].append(self.player_labels[i])
         self.round_log = self.reset_round_log()
 
         if VERBOSE: print("Game ID is {}".format(game_id))
@@ -85,6 +87,8 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         :return: Nothing
         """
         print(self.turn_nr)
+        print("Disconnect status is")
+        print(self.conversation_log['disconnected'])
 
         # If a new round has started, load the game data (if necessary) and send it to the players
         if self.turn_nr == -1:
@@ -188,19 +192,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             print("{} is done".format(player))
 
             if self.both_done():
-                # Write the log data to file
-                if VERBOSE: print("Logging data")
-                self.round_log['round_nr'] = self.round_nr
-                self.round_log['images'] = {self.player_labels[0]: self.data[self.player_labels[0]][self.round_nr],
-                                             self.player_labels[1]: self.data[self.player_labels[1]][self.round_nr]}
-                self.conversation_log['rounds'].append(deepcopy(self.round_log))
-
-                if VERBOSE: print("Writing log to file")
-                if not os.path.exists("logs"):
-                    os.makedirs("logs")
-                with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]),
-                          'w') as f:
-                    json.dump(copy(self.conversation_log), f)
+                self.log_data()
 
                 if self.round_nr < 4:
                     # Reset some variables
@@ -230,6 +222,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                 pass
 
             if self.otherDone:
+                self.log_data()
                 self.episodeDone = True
             else:
                 self.otherDone = True
@@ -246,12 +239,27 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         # Check if episode ended due to disconnection or timeout or a returned HIT
         else:
             self.episodeDone = True
-            self.conversation_log['disconnected'][agent.id] = True
+            self.conversation_log['disconnected'][agent.worker_id] = True
             self.disconnected = True
             print("PLAYER DISCONNETED!")
             return True
 
         return False
+
+    def log_data(self):
+        # Write the log data to file
+        if VERBOSE: print("Logging data")
+        self.round_log['round_nr'] = self.round_nr
+        self.round_log['images'] = {self.player_labels[0]: self.data[self.player_labels[0]][self.round_nr],
+                                    self.player_labels[1]: self.data[self.player_labels[1]][self.round_nr]}
+        self.conversation_log['rounds'].append(deepcopy(self.round_log))
+
+        if VERBOSE: print("Writing log to file")
+        if not os.path.exists("logs"):
+            os.makedirs("logs")
+        with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]),
+                  'w') as f:
+            json.dump(copy(self.conversation_log), f)
 
     def send_feedback(self):
         """
