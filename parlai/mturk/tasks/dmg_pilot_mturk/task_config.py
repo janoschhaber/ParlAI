@@ -805,7 +805,7 @@ task_config['task_description'] = \
             feedback_message += "<&>self_u:" + String(self_u) + "<&>text:" + String(feedback_text);    
             
             $("button#send_feedback").hide();  
-            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. <h3>TIP: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
+            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> <b> If the HIT took you longer than the 15 minutes we aimed at, we will compensate you through a bonus payment that is calculated based on the time spent on this HIT. </b> <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
                 
             new_message_id = uuidv4();   
             send_packet(
