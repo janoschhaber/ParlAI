@@ -110,6 +110,10 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             # Send a welcome message with the game data to all players
             if VERBOSE: print("--- Starting round {} ---".format(self.round_nr + 1))
 
+            if self.round_nr == 2:
+                for agent in self.agents:
+                    agent.getpay = True
+
             counter = 0
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 

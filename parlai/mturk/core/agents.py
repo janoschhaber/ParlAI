@@ -33,6 +33,7 @@ class MTurkAgent(Agent):
         super().__init__(opt)
 
         self.conversation_id = None
+        self.getpay = False
         self.manager = manager
         self.id = None
         self.state = AssignState()

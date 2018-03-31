@@ -291,12 +291,12 @@ class MTurkManager():
         elif not agent.state.is_final():
             # Update the assignment state
             agent.some_agent_disconnected = True
-            agent_messages = [m for m in agent.state.messages
-                              if 'id' in m and m['id'] == agent.id]
-            if len(agent_messages) < self.minimum_messages:
+            if not agent.getpay:
+                print("PARTNER DISCONNECT EARLY")
                 agent.state.status = \
                     AssignState.STATUS_PARTNER_DISCONNECT_EARLY
             else:
+                print("PARTNER DISCONNECT")
                 agent.state.status = AssignState.STATUS_PARTNER_DISCONNECT
 
             # Create and send the command

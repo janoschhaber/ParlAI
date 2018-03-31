@@ -36,7 +36,7 @@ task_config['task_description'] = \
     '''
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
-     <script src="https://s3.eu-central-1.amazonaws.com/dmg-full/gradient-progress-bar.js"></script>
+    <script src="https://s3.eu-central-1.amazonaws.com/dmg-full/gradient-progress-bar.js"></script>
     
     <script type="text/javascript">    
         function required(fields) {
@@ -84,9 +84,11 @@ task_config['task_description'] = \
 
         </p>
         <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_1.png' width='700' style='padding-left: 30px'>
-        <p>   
-            Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
-            You have to find this out by describing those highlighted photos to your partner. 
+        <p>  
+            <b> 
+                Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
+                You have to find this out by describing those highlighted photos to your partner. 
+            </b>
         </p>
         <p>    
             You do not need to describe the gray images - but your partner faces the same task with different highlighted photos, 
@@ -144,8 +146,10 @@ task_config['task_description'] = \
         </p>
         <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_1.png' width='700' style='padding-left: 30px'>
         <p>   
-            Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
-            You have to find this out by describing those highlighted photos to your partner. 
+            <b>
+                Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
+                You have to find this out by describing those highlighted photos to your partner. 
+            </b>
         </p>
         <p>    
             You do not need to describe the gray images - but your partner faces the same task with different highlighted photos, 
@@ -695,6 +699,7 @@ task_config['task_description'] = \
         
         function startTimer() {        
   
+            /*
           if (downloadTimer) {
             clearInterval(downloadTimer);
           }
@@ -715,7 +720,8 @@ task_config['task_description'] = \
               timeleft = timeleft - (timeleft * 0.0005)
               $('.progress-bar').gradientProgressBar({ value : timeleft });
             }, 10 
-          );             
+          );    
+          */         
         }
         
         function add_to_message_buffer(agent_id, label, text, was_this_agent){
