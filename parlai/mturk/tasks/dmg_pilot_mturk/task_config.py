@@ -77,13 +77,14 @@ task_config['task_description'] = \
         <p>
             For this HIT you will be paired with another worker. Both of you will get a digital photo book. </br>
             Each photo book has 5 pages with 6 photos on each page. </br>
-            Your photo books are different, but on each page you have some photos in common.
+            Your photo books are different, but on each page you have some photos in common. </br>
+            Each of you can only see your own photo book.
         </p>
         <p> 
-            For example, you may see the page on the left, while your partner sees the page on the right: 
-
+            For example, you may see the page on the left, while your partner sees the page on the right 
+            (for simplicity, here we use drawings rather than real photos): 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_1.png' width='700' style='padding-left: 30px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
         <p>  
             <b> 
                 Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
@@ -91,9 +92,8 @@ task_config['task_description'] = \
             </b>
         </p>
         <p>    
-            You do not need to describe the gray images - but your partner faces the same task with different highlighted photos, 
-            so he or she might ask about them. Therefore, to succeed, the two of you need to collaborate by chatting.  
-
+            Your partner faces the same task with different highlighted photos. 
+            Therefore, to succeed, the two of you need to collaborate by chatting.
         </p>
         <p>
             <b>
@@ -134,42 +134,93 @@ task_config['task_description'] = \
      </div>
      
     <div id="onboarding_1" style="display: none;">
-        <b>QUICK INSTRUCTIONS:</b>
+           <b>QUICK INSTRUCTIONS:</b>
         <p>
             For this HIT you will be paired with another worker. Both of you will get a digital photo book. </br>
             Each photo book has 5 pages with 6 photos on each page. </br>
-            Your photo books are different, but on each page you have some photos in common.
+            Your photo books are different, but on each page you have some photos in common. </br>
+            Each of you can only see your own photo book.
         </p>
         <p> 
-            For example, you may see the page on the left, while your partner sees the page on the right: 
-
+            For example, you may see the page on the left, while your partner sees the page on the right 
+            (for simplicity, here we use drawings rather than real photos): 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_1.png' width='700' style='padding-left: 30px'>
-        <p>   
-            <b>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
+        <p>  
+            <b> 
                 Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
                 You have to find this out by describing those highlighted photos to your partner. 
             </b>
         </p>
         <p>    
-            You do not need to describe the gray images - but your partner faces the same task with different highlighted photos, 
-            so he or she might ask about them. Therefore, to succeed, the two of you need to collaborate by chatting.  
-
+            Your partner faces the same task with different highlighted photos. 
+            Therefore, to succeed, the two of you need to collaborate by chatting.
         </p>
         <p> 
-            In the given example, your highlighted photos <b>B</b> and <b>C</b> are also shown to your partner 
-            (it does not matter that <b>B</b> is not highlighted for your partner), so you mark them as <i>common</i> (here shaded blue). 
-            <b>H</b> is only shown to you, so you have to mark it as <i>different</i> (shaded red).        
+            <b>
+                Your goal is to chat with your partner in order to mark the highlighted photos on your page as either 
+                <i>common</i> or <i>different</i>. </br>
+            </b>
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_2.png' width='700' style='padding-left: 30px'>
+        <p>     
+             In this example, the correct solution for both you and your partner would be the following: 
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
         <p>
-            Your partner did the same for the highlighted photos <b>F</b>, <b>E</b> and <b>C</b>. You also have image <b>C</b>, so it is <i>common</i>, 
-            but you do not have images <b>F</b> and <b>E</b>, so they were marked as <i>different</i>.
+            More concretely, assuming you see the photos below on your current page, a chat may proceed like this:
         </p>
+        
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='700' style='padding-left: 30px'>
         <p>
-            You compare the books page-by-page. Images from previous pages do not matter. </br>
-            The order of the photos on the page also does not matter.
+            <b> You want to find out if your partner also has the photos highlighted in yellow.</b></br>
+            As an example, a chat may proceed like this: 
+         </p>
+        <p>  
+            <b> YOU: </b> I have a photo of a little girl sleeping in a car with a teddy bear.
         </p>
+        <p>   
+            <b> PARTNER: </b> I have that one, too.             
+        </p>
+        <p>  
+            <b> YOU: </b> OK
+        </p>
+        <p>   
+            [You mark the photo as <i>common</i> and go on with the conversation]
+        </p>
+        <p>    
+            <b> PARTNER: </b> Do you have a man on a motorcycle?
+        </p>
+        <p>    
+            <b> YOU: </b> Yes, a red motorcycle.
+        </p>
+        <p>    
+            <b> PARTNER: </b> Great.
+        </p>
+        <p>    
+            [You don't have to mark it, because it is not highlighted on your page]
+        </p>
+        <p>    
+            <b> YOU: </b> My other highlighted photo is a guy sitting on a beach with a surfboard.
+        </p>
+        <p>    
+            <b> PARTNER: </b> I don't have the guy on the beach. 
+        </p>
+        <p>    
+            [This time, you mark the photo as <i>different</i>]
+        </p>
+        <p> 
+            You are done now and can click the submit button. 
+            Once your partner has also submitted, you will see whether your solution was correct.
+        </p>
+        
+        <p> 
+            <b> 
+                Remember that an actual photo book has 5 pages and 6 photos on each page. 
+                You compare them page-by-page, so images from previous pages do not matter. 
+                The order of the photos on the page also does not matter.
+            </b> 
+        </p>        
         <p>
         <b>DETAILS:</b>
             <ul>
@@ -224,73 +275,12 @@ task_config['task_description'] = \
         </script>
        </div>
     
-    <div id="onboarding_2" style="display: none;">
-        <p>
-        <b> EXAMPLE:  </b>
-        
-            On the current page of your photo book, you see these images          
-        </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='700' style='padding-left: 30px'>
-        <p>
-            <b> You want to find out if your partner also has the photos highlighted in yellow.</b></br>
-            As an example, a chat may proceed like this: 
-         </p>
-        <p>  
-            <b> YOU: </b> I have a photo of a little girl sleeping in a car with a teddy bear.
-        </p>
-        <p>   
-            <b> PARTNER: </b> I have that one, too.             
-        </p>
-        <p>  
-            <b> YOU: </b> OK
-        </p>
-        <p>   
-            [You mark the photo as <i>common</i> and go on with the conversation]
-        </p>
-        <p>    
-            <b> PARTNER: </b> Do you have a man on a motorcycle?
-        </p>
-        <p>    
-            <b> YOU: </b> Yes, a red motorcycle.
-        </p>
-        <p>    
-            <b> PARTNER: </b> Great.
-        </p>
-        <p>    
-            [You don't have to mark it, because it is not highlighted on your page]
-        </p>
-        <p>    
-            <b> YOU: </b> My other highlighted photo is a guy sitting on a beach with a surfboard.
-        </p>
-        <p>    
-            <b> PARTNER: </b> I don't have the guy on the beach. 
-        </p>
-        <p>    
-            [This time, you mark the photo as <i>different</i>]
-        </p>
-        <p> 
-            You are done now and can click the submit button. 
-            Once your partner has also submitted, you will see whether your solution was correct.
-        </p>
-
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen_2.png' width='700' style='padding-left: 30px'>
-        
-        <p> <b> Remember that a photo book has 5 pages and 6 photos on each page. You compare them page-by-page.</b> </p>
-        
-        <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="continue_warmup_2" onclick="continue_warmup_2();"> Continue </button>    
-        <script type="text/javascript">
-            $('#left-pane').css("background-color", "white");
-            $('#left-pane').css("padding", "0px");
-            $('#left-pane').css("width", "800px"),
-            $('#id_text_input').css("width", "70%");
-        </script>
-    </div>
-    
     <div id="onboarding_3" style="display: none;">
         <p>
             <b>
-            Since this is the first time you play, you see this instructions and we will pair you with another new player and start with a short warming-up task. 
-            The first HIT might therefore take a bit longer. Later ones will be much quicker.
+            You see these instructions because this is the first time you are doing this HIT.
+            As a next step, we will pair you with another new player so you can start with a short warming-up task. 
+            The first HIT might therefore take a bit longer. The next ones will be much quicker because you won't get the full instructions and warming-up again.
             </b>
         </p>
         <p>
@@ -302,18 +292,20 @@ task_config['task_description'] = \
             </ul>
         </p>
         <p>
-            <b>PAYMENT: </b> As a task takes about 15 minutes, this task is much longer than the usual HIT on Mechanical Turk. We want to provide fair payment for your work, but also want to make sure that the collected data is correct. We therefore will assess HITs based on the following criteria:
+            <b>PAYMENT: </b> As a task takes about 15 minutes, this HIT is much longer than the usual HIT on Mechanical Turk. 
+            We want to provide fair payment for your work, but also want to make sure that the collected data is correct. 
+            We therefore assess HITs based on the following criteria:
         </p>
         <p>
             <ul>
                 <li> Players who do not follow the instructions will be rejected automatically without any pay. </li> 
-                <li> If a worker disconnects during the first two pages, we will accept the other players' work but don't provide full payment. </li> 
+                <li> If a worker disconnects during the first two pages, we will let the other worker return the HIT without consequences </li> 
                 <li> If a worker disconnects during one of the later pages, the other worker receives full pay. </li>
                 <li> The two players can score a total of 30 points. The task is collaborative, so reaching this score should be easy. We will automatically cancel payments for both players if the total score is below 24 points (3 mistakes each). </li>
             </ul>
         </p>
         <p>
-            <b> If you accept this and are ready to play, please click START WARM-UP. Otherwise please return the HIT.
+            <b> If you accept this and are ready to work, please click START WARM-UP. Otherwise please return the HIT.
             </b>
             Pairing might take a moment. We will let you know once you are paired.
             If you turn on your speakers, you will hear a sound indicating that the HIT is ready for you.
@@ -671,7 +663,7 @@ task_config['task_description'] = \
         
         function continue_warmup() {
             $('#onboarding_1').css("display", "none");
-            $('#onboarding_2').css("display", "");        
+            $('#onboarding_3').css("display", "");        
         }
         
         function continue_warmup_2() {
