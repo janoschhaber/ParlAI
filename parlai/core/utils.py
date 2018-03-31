@@ -39,7 +39,7 @@ class Predictor(object):
         for k, v in kwargs.items():
             args.append('--' + str(k).replace('_', '-'))
             args.append(str(v))
-        parser = ParlaiParser(True, True, model_argv=args)
+        parser = ParlaiParser(True, True)
         self.opt = parser.parse_args(args)
         self.agent = create_agent(self.opt)
 
@@ -456,7 +456,7 @@ class PaddingUtils(object):
 
             if random.random() > (1 - report_freq):
                 # log sometimes
-                print('TEXT: ', observations[valid_inds[i]]['text'].replace('__END__', ''))
+                print('TEXT: ', observations[valid_inds[i]]['text'])
                 print('PREDICTION: ', curr_pred, '\n~')
         return
 
