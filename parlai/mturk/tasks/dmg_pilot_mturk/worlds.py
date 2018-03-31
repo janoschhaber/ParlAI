@@ -24,10 +24,10 @@ from numpy import random as nprand
 import time
 import os
 import json
+import sys
 import numpy as np
 
 VERBOSE = True
-
 
 class MTurkDMGDialogWorld(MTurkTaskWorld):
 
@@ -99,8 +99,13 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                 self.round_nr = 0
 
             # Determine the common images
-            self.common = list(set(self.data[self.player_labels[0]][self.rounds_random[self.round_nr]])
-                               .intersection(self.data[self.player_labels[1]][self.rounds_random[self.round_nr]]))
+            self.images = {self.player_labels[0]: [entry[0] for entry in self.data[self.player_labels[0]][self.rounds_random[self.round_nr]]],
+                           self.player_labels[1]: [entry[0] for entry in self.data[self.player_labels[1]][self.rounds_random[self.round_nr]]]}
+
+            self.higlighted = {self.player_labels[0]: [entry[1] for entry in self.data[self.player_labels[0]][self.rounds_random[self.round_nr]]],
+                               self.player_labels[1]: [entry[1] for entry in self.data[self.player_labels[1]][self.rounds_random[self.round_nr]]]}
+
+            self.common = list(set(self.images[self.player_labels[0]]).intersection(set(self.images[self.player_labels[1]])))
 
             # Send a welcome message with the game data to all players
             if VERBOSE: print("--- Starting round {} ---".format(self.round_nr + 1))
@@ -109,15 +114,14 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
                 image_list = ""
-                for image in self.data[player_label][self.rounds_random[self.round_nr]]:
-                    image_list += "{} \n".format(image)
+                for entry in self.data[player_label][self.rounds_random[self.round_nr]]:
+                    image_list += "{}, {} \n".format(entry[0], entry[1])
 
                 action = {}
                 action['text'] = WELCOME_MESSAGE.format(self.round_nr+1, player, image_list)
-                action['images'] = self.data[player_label][self.rounds_random[self.round_nr]]
+                action['images'] = self.images[player_label]
+                action['highlighted'] = self.higlighted[player_label]
                 action['name'] = self.names[counter]
-                if VERBOSE: print("Worker {} name: {}".format(player, action['name']))
-                if VERBOSE: print("Your images are: {}".format(action['images']))
                 agent.observe(validate(action))
                 counter += 1
 
@@ -332,7 +336,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         :return: True if all players selected all images
         """
         for agent in self.agents:
-            if len(self.selections[agent]) < 6:
+            if len(self.selections[agent]) < 3:
                 return False
         return True
 
@@ -410,18 +414,24 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         self.roundDone = False
         self.turn_nr = -1
 
-        self.data = {"A": ["person_donut/COCO_train2014_000000490481.jpg",
-                           "person_donut/COCO_train2014_000000011282.jpg",
-                           "person_donut/COCO_train2014_000000117884.jpg"],
-                     "B": ["person_donut/COCO_train2014_000000490481.jpg",
-                           "person_donut/COCO_train2014_000000117884.jpg",
-                           "person_donut/COCO_train2014_000000399480.jpg"]}
+        self.data =   {"A": [["person_donut/COCO_train2014_000000490481.jpg", True],
+                               ["person_donut/COCO_train2014_000000011282.jpg", False],
+                               ["person_donut/COCO_train2014_000000117884.jpg", True]],
+                       "B": [["person_donut/COCO_train2014_000000490481.jpg", True],
+                               ["person_donut/COCO_train2014_000000117884.jpg", False],
+                               ["person_donut/COCO_train2014_000000399480.jpg", True]]}
 
         self.common = ["person_donut/COCO_train2014_000000490481.jpg",
                        "person_donut/COCO_train2014_000000117884.jpg"]
 
+        self.images = {"A": ["person_donut/COCO_train2014_000000490481.jpg",
+                           "person_donut/COCO_train2014_000000011282.jpg",
+                           "person_donut/COCO_train2014_000000117884.jpg"],
+                       "B": ["person_donut/COCO_train2014_000000490481.jpg",
+                           "person_donut/COCO_train2014_000000117884.jpg",
+                           "person_donut/COCO_train2014_000000399480.jpg"]}
 
-
+        self.highlighted = {"A" : [True, False, True], "B" : [True, False, True]}
 
     def parley(self):
         # If a new round has started, load the game data (if necessary) and send it to the players
@@ -432,15 +442,14 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
             for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
                 image_list = ""
-                for image in self.data[player_label]:
-                    image_list += "{} \n".format(image)
+                for entry in self.data[player_label]:
+                    image_list += "{}, {} \n".format(entry[0], entry[1])
 
                 action = {}
                 action['text'] = "<warm-up> Warming-up game"
-                action['images'] = self.data[player_label]
+                action['images'] = self.images[player_label]
+                action['highlighted'] = self.highlighted[player_label]
                 action['name'] = self.names[counter]
-                if VERBOSE: print("Worker {} name: {}".format(player, action['name']))
-                if VERBOSE: print("Your images are: {}".format(action['images']))
                 agent.observe(validate(action))
                 counter += 1
 
@@ -554,7 +563,7 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
                     solutions.append([image_id, 0])
 
             try:
-                assert len(solutions) == 3
+                assert len(solutions) == 2
             except:
                 print("Not all images marked yet!")
                 continue
@@ -582,7 +591,7 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         :return: True if all players selected all images
         """
         for agent in self.agents:
-            if len(self.selections[agent]) < 3:
+            if len(self.selections[agent]) < 2:
                 return False
         return True
 

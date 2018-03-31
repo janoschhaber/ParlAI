@@ -36,6 +36,8 @@ task_config['task_description'] = \
     '''
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
+     <script src="https://s3.eu-central-1.amazonaws.com/dmg-full/gradient-progress-bar.js"></script>
+    
     <script type="text/javascript">    
         function required(fields) {
             var valid = true;
@@ -71,47 +73,55 @@ task_config['task_description'] = \
     </script>    
 
     <div id='preview'>
+        <b>QUICK INSTRUCTIONS:</b>
         <p>
-            You will be paired with another worker. Each of you then will see six images - 
-            some of them are the same for both players, and some of them are only shown to one of the players.
-            <b> Your task is to find out which of your images are shown to both players (common) - 
-                and which are only shown to you (different)  by chatting with your partner.
-            </b> 
-        </p>   
-        <p>
-            A full game consists of five rounds with the same partner and will take about 15 minutes. 
+            For this HIT you will be paired with another worker. Both of you will get a digital photo book. </br>
+            Each photo book has 5 pages with 6 photos on each page. </br>
+            Your photo books are different, but on each page you have some photos in common.
         </p>
-        <p>
-            <b>QUICK INSTRUCTIONS:</b>
-            <ul>
-                <li> The position of an image can be different for the two players and does not matter for this task.</li>
-                <li> The chat is turn-based, so you can only type if it is your turn. </li>
-            </ul>
+        <p> 
+            For example, you may see the page on the left, while your partner sees the page on the right: 
+
         </p>
-        <p>
-            <ul>
-                <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li>
-                <li> Only mention a single image per message.</li>
-                <li> Directly click on the common or different label of an image when you find out about it.</li>
-                <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
-            </ul>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_1.png' width='700' style='padding-left: 30px'>
+        <p>   
+            Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
+            You have to find this out by describing those highlighted photos to your partner. 
         </p>
-        <p>
-            <ul>
-                <li> After the game, we will ask you to give us some quick feedback.</li>
-                <li> If you continue playing, you will get a bonus payment of 0.25 USD after each subsequent game.</li>
-                <li> Every worker can play a maximum of 5 games.</li>
-            </ul>
-        </p> 
+        <p>    
+            You do not need to describe the gray images - but your partner faces the same task with different highlighted photos, 
+            so he or she might ask about them. Therefore, to succeed, the two of you need to collaborate by chatting.  
+
+        </p>
         <p>
             <b>
                 If this is the first time you play, we will pair you with another new player and start with a 
-                short warming-up  game. The first game therefore might take a bit longer. 
-                Later games will be much quicker.
+                short warming-up task. The first HIT therefore might take a bit longer. 
+                Later HITs will be much quicker.
             </b>
         </p>   
         <p>
-            <b>HIT DETAILS: </b> This HIT is designed for research by Janosch Haber, under the supervision of 
+        <b>DETAILS:</b>
+            <ul>
+                <li> This HIT will take about 15 minutes. </li>
+                <li> The chat is turn-based, so you can only type if it is your turn. </li>
+                <li> Try to answer quickly so the conversation keeps flowing </li>
+                <li> Please use correct and grammatical English.</li> 
+                <li> Do not use abbreviations or chat language.</li>
+                <li> Only describe a single photo per message so your partner doesn't get confused.</li>
+                <li> Directly click on the <i>common</i> or <i>different</i> label of a photo when you find out about it.</li>
+                <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
+            </ul>
+        </p>        
+        <p>
+            <ul>
+                <li> After the task, we will ask you to give us some quick feedback.</li>
+                <li> If you continue playing, you will get a bonus payment of 0.25 USD after each subsequent task.</li>
+                <li> Every worker can play a maximum of 5 HITs.</li>
+            </ul>
+        </p>         
+        <p>
+            <b>CONTACT INFORMATION: </b> This HIT is designed for research by Janosch Haber, under the supervision of 
             Dr. Raquel Fernández and Dr. Elia Bruni of the Dialogue Modeling Group (DMG) 
             at the Institute of Logic, Language and Computation (ILLC) at the University of Amsterdam (UvA), 
             the Netherlands.
@@ -122,53 +132,80 @@ task_config['task_description'] = \
      </div>
      
     <div id="onboarding_1" style="display: none;">
+        <b>QUICK INSTRUCTIONS:</b>
         <p>
-            You will be paired with another worker. Each of you then will see six images - 
-            some of them are the same for both players, and some of them are only shown to one of the players.
-            <b> Your task is to find out which of your images are shown to both players (common) - 
-                and which are only shown to you (different)  by chatting with your partner.
-            </b> 
-        </p>   
+            For this HIT you will be paired with another worker. Both of you will get a digital photo book. </br>
+            Each photo book has 5 pages with 6 photos on each page. </br>
+            Your photo books are different, but on each page you have some photos in common.
+        </p>
+        <p> 
+            For example, you may see the page on the left, while your partner sees the page on the right: 
+
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_1.png' width='700' style='padding-left: 30px'>
+        <p>   
+            Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
+            You have to find this out by describing those highlighted photos to your partner. 
+        </p>
+        <p>    
+            You do not need to describe the gray images - but your partner faces the same task with different highlighted photos, 
+            so he or she might ask about them. Therefore, to succeed, the two of you need to collaborate by chatting.  
+
+        </p>
+        <p> 
+            In the given example, your highlighted photos <b>B</b> and <b>C</b> are also shown to your partner 
+            (it does not matter that <b>B</b> is not highlighted for your partner), so you mark them as <i>common</i> (here shaded blue). 
+            <b>H</b> is only shown to you, so you have to mark it as <i>different</i> (shaded red).        
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/book_2.png' width='700' style='padding-left: 30px'>
         <p>
-            <ul>
-                <li> The position of an image can be different for the two players and does not matter for this task.</li>
-                <li> The chat is turn-based, so you can only type if it is your turn. </li>
-            </ul>
+            Your partner did the same for the highlighted photos <b>F</b>, <b>E</b> and <b>C</b>. You also have image <b>C</b>, so it is <i>common</i>, 
+            but you do not have images <b>F</b> and <b>E</b>, so they were marked as <i>different</i>.
         </p>
         <p>
+            You compare the books page-by-page. Images from previous pages do not matter. </br>
+            The order of the photos on the page also does not matter.
+        </p>
+        <p>
+        <b>DETAILS:</b>
             <ul>
-                <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li>
-                <li> Only mention a single image per message.</li>
-                <li> Directly click on the common or different label of an image when you find out about it.</li>
+                <li> The chat is turn-based, so you can only type if it is your turn. </li>
+                <li> Try to answer quickly so the conversation keeps flowing </li>
+                <li> Please use correct and grammatical English.</li> 
+                <li> Do not use abbreviations or chat language.</li>
+                <li> Only describe a single photo per message so your partner doesn't get confused.</li>
+                <li> Directly click on the <i>common</i> or <i>different</i> label of a photo when you find out about it.</li>
                 <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
             </ul>
         </p>
         <form id="warmup_question_form">
             <p>          
-                <b> QUESTION 1:</b> How do you describe images to your partner?
+                <b> QUESTION 1: </b> What is your task in this HIT?  
+                <ul style="list-style: none;">
+                    <li> <input type="radio" id="q2_a" name="q2" value="q2_a" onclick="checkQuestions();"> 
+                         Rearrange the highlighted photos so that they are in the same order as in my partner's book. </li>
+                    <li> <input type="radio" id="q2_b" name="q2" value="q2_b" onclick="checkQuestions();"> 
+                         Make a list of all highlighted photos that are in my partner's photo book. </li>
+                    <li id="correct_2"> <input type="radio" id="q2_c" name="q2" value="q2_c" onclick="checkQuestions();"> 
+                         Find out which highlighted photos are on the same page of my partner's photo book. </li>
+                </ul>                
+            <p id="answer_2"></p>
+            </p>   
+        
+            <p>          
+                <b> QUESTION 2:</b> How do you describe photos to your partner?
  
                 <ul style="list-style: none;">
                     <li> <input type="radio" id="q1_a" name="q1" value="q1_a" onclick="checkQuestions();"> 
                          As many as possible in a single message. </li>
                     <li id="correct_1"> <input type="radio" id="q1_b" name="q1" value="q1_b" onclick="checkQuestions();"> 
-                         One image per message. </li>
+                         One photo per message. </li>
                     <li> <input type="radio" id="q1_c" name="q1" value="q1_c" onclick="checkQuestions();"> 
                          By mentioning the position on my screen. </li>
                 </ul>
             <p id="answer_1"></p>
             </p> 
-            <p>          
-                <b> QUESTION 2: </b> When do you click the common label of an image?  
-                <ul style="list-style: none;">
-                    <li> <input type="radio" id="q2_a" name="q2" value="q2_a" onclick="checkQuestions();"> 
-                         When I can see a similar image on my screen. </li>
-                    <li> <input type="radio" id="q2_b" name="q2" value="q2_b" onclick="checkQuestions();"> 
-                         When my partner has a similar image in the same position on her/his screen. </li>
-                    <li id="correct_2"> <input type="radio" id="q2_c" name="q2" value="q2_c" onclick="checkQuestions();"> 
-                         When my partner has the same image somewhere on her/his screen. </li>
-                </ul>                
-            <p id="answer_2"></p>
-            </p>   
+            
         </form>
         
         <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="submit_questions" onclick="warmup_check_questions();" disabled="disabled"> Submit </button>
@@ -185,30 +222,57 @@ task_config['task_description'] = \
     
     <div id="onboarding_2" style="display: none;">
         <p>
-            <b> A full game consists of five game rounds, but the common and different labels of an image only 
-                depend on the images shown in the current round. 
-            </b>            
+        <b> EXAMPLE:  </b>
+        
+            On the current page of your photo book, you see these images          
         </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='700' style='padding-left: 30px'>
         <p>
-            <b>EXAMPLE:</b> You see the following screen:
+            <b> You want to find out if your partner also has the photos highlighted in yellow.</b></br>
+            As an example, a chat may proceed like this: 
+         </p>
+        <p>  
+            <b> YOU: </b> I have a photo of a little girl sleeping in a car with a teddy bear.
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/screen.png' width='700' style='padding:25px 50px 25px 100px'>
-        <p>
-            Your partner sends the following message:
+        <p>   
+            <b> PARTNER: </b> I have that one, too.             
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/message.png' width='700' style='padding:25px 50px 25px 100px'>
-        <p>
-            In this case you should
-            <ul>
-                <li> Realize that your partner probably means the middle image </li>
-                <li> Mark it as common since your partner has it as well </li>
-                <li> Reply to your partner that you also have that image. </li>
-            </ul>
+        <p>  
+            <b> YOU: </b> OK
         </p>
-        <p>
-            <b> If you are not sure about an image described by your partner, you can also ask for more details.
-            </b>
-        </p>   
+        <p>   
+            [You mark the photo as <i>common</i> and go on with the conversation]
+        </p>
+        <p>    
+            <b> PARTNER: </b> Do you have a man on a motorcycle?
+        </p>
+        <p>    
+            <b> YOU: </b> Yes, a red motorcycle.
+        </p>
+        <p>    
+            <b> PARTNER: </b> Great.
+        </p>
+        <p>    
+            [You don't have to mark it, because it is not highlighted on your page]
+        </p>
+        <p>    
+            <b> YOU: </b> My other highlighted photo is a guy sitting on a beach with a surfboard.
+        </p>
+        <p>    
+            <b> PARTNER: </b> I don't have the guy on the beach. 
+        </p>
+        <p>    
+            [This time, you mark the photo as <i>different</i>]
+        </p>
+        <p> 
+            You are done now and can click the submit button. 
+            Once your partner has also submitted, you will see whether your solution was correct.
+        </p>
+
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen_2.png' width='700' style='padding-left: 30px'>
+        
+        <p> <b> Remember that a photo book has 5 pages and 6 photos on each page. You compare them page-by-page.</b> </p>
+        
         <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="continue_warmup_2" onclick="continue_warmup_2();"> Continue </button>    
         <script type="text/javascript">
             $('#left-pane').css("background-color", "white");
@@ -220,28 +284,28 @@ task_config['task_description'] = \
     
     <div id="onboarding_3" style="display: none;">
         <p>
-            <b> A full game consists of five game rounds with the same partner and will take about 15 minutes.
-            </b>            
+            <b>
+            Since this is the first time you play, you see this instructions and we will pair you with another new player and start with a short warming-up task. 
+            The first HIT might therefore take a bit longer. Later ones will be much quicker.
+            </b>
         </p>
         <p>
-            Since this is the first time you play, we will pair you with another new player and start with a short warming-up  game. The first game therefore might take a bit longer. Later games will be much quicker.
-        </p>
-        <p>
+        <b> SOME MORE DETAILS: </b>
             <ul>
-                <li> After the game, we will ask you to give us some quick feedback. </li>
-                <li> If you continue playing, you will get a bonus payment of 0.25 USD after each subsequent game. </li>
-                <li> Every worker can play a maximum of 5 games. </li>
+                <li> After the HIT, we will ask you to give us some quick feedback. </li>
+                <li> If you continue playing, you will get a bonus payment of 0.25 USD after each subsequent HIT. </li>
+                <li> Every worker can play a maximum of 5 HITs. </li>
             </ul>
         </p>
         <p>
-            <b>PAYMENT DETAILS: </b> s a game takes about 15 minutes, this task is much longer than the usual HIT on Mechanical Turk. We want to provide fair payment for your work, but also want to make sure that the collected data is correct. We therefore will assess HITs based on the following criteria:
+            <b>PAYMENT: </b> As a task takes about 15 minutes, this task is much longer than the usual HIT on Mechanical Turk. We want to provide fair payment for your work, but also want to make sure that the collected data is correct. We therefore will assess HITs based on the following criteria:
         </p>
         <p>
             <ul>
                 <li> Players who do not follow the instructions will be rejected automatically without any pay. </li> 
-                <li> If a worker disconnects during the first two rounds of the game, we will cancel payments for both workers. </li> 
-                <li> If a worker disconnects during one of the later rounds, we will cancel his or her payment. The other worker receives full pay. </li>
-                <li> The two players can score a total of 60 points. The task is collaborative, so reaching this score should be easy. We will automatically cancel payments for both players if the total score is below 50 points (5 mistakes each). </li>
+                <li> If a worker disconnects during the first two pages, we will accept the other players' work but don't provide full payment. </li> 
+                <li> If a worker disconnects during one of the later pages, the other worker receives full pay. </li>
+                <li> The two players can score a total of 30 points. The task is collaborative, so reaching this score should be easy. We will automatically cancel payments for both players if the total score is below 24 points (3 mistakes each). </li>
             </ul>
         </p>
         <p>
@@ -403,12 +467,12 @@ task_config['task_description'] = \
     </style>
 
     <script type="text/javascript">
-        var game_header = "Chat with your partner to find out which images are shown to the both of you <i>(common)</i> ";
-        game_header += "and which ones are shown to you only <i>(different)</i>. Image positions are random and do not matter for this task. ";
-        game_header += "The number of <i>common</i> and <i>different</i> images changes every round. </br>";
-        game_header += "Click the respective checkbox under an image to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
+        var game_header = "Chat with your partner to find out which photos are shown to both of you <i>(common)</i> ";
+        game_header += "and which ones are shown to you only <i>(different)</i>. Photo positions are random and do not matter for this task. ";
+        game_header += "The number of <i>common</i> and <i>different</i> photos changes every round. </br>";
+        game_header += "Click the respective checkbox under a photo to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
         game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or chat language.</li> ";
-        game_header += "<li>Please only mention a single image per message.</li></ul>";
+        game_header += "<li>Please only mention a single photo per message.</li></ul>";
         game_header += "Remember that the chat is turn-based. If you see an hourglass, the other player is currently typing.";        
         
         var git_path = "https://dmg-full.s3.eu-central-1.amazonaws.com/dmg_full/";
@@ -421,48 +485,60 @@ task_config['task_description'] = \
         var warm_up = false;
         var real_deal = false;
         var finished = false;
-        var finish_warmup = true
+        var finish_warmup = true;
+        var downloadTimer;
                     
-        function makeInput(images) {
+        function makeInput(images, highlighted) {
             $('#preview').html("");
             // $('#info_button').html("<button class='btn btn-primary' style='width: 35px; border-radius: 50px;' onclick='infoMessage()'>i</button>");
             $('#game_window').html("");
             
             var display = $('#game_window');
             var string = '<form id="image_selection_form">';
-        
+            counter = 0;
+            
             for (var image_id in images) {         
                 var image_path = images[image_id];
+                var im_high = highlighted[counter];
+                counter += 1;
         
                 string += '<div class="gallery"><div class="cover" style="background-image: url(';
                 string += git_path + image_path;
                 string += ');"> </div> <div class="desc" ';
                 string += 'id="';
                 string += escapeHtml(image_path).replace(/\D/g,'');
-                string += '"> <input type="radio" id="';
-                string += String(image_id);
-                string += '_common" name="';
-                string += String(image_id);
-                string += '" value="common" '
-                string += 'onclick="validateRealTime(); '            
-                string += 'sendSelectionMessage(&apos;<com>&apos;, &apos;' 
-                string += image_path 
-                string += '&apos;);"' 
-                string += '> Common <input type="radio" id="';
-                string += String(image_id);
-                string += '_different" name="';
-                string += String(image_id);
-                string += '" value="different" '
-                string += 'onclick="validateRealTime(); '            
-                string += 'sendSelectionMessage(&apos;<dif>&apos;, &apos;' 
-                string += image_path 
-                string += '&apos;);"'
-                string += '> Different </div></div>';     
-            }
-        
+                
+                 
+                if (im_high) {
+                    string += '" style="background-color: #f9fc6a; height:50px;">';
+                    string += '<input type="radio" id="';
+                    string += String(image_id);
+                    string += '_common" name="';
+                    string += String(image_id);
+                    string += '" value="common" '
+                    string += 'onclick="validateRealTime(); '            
+                    string += 'sendSelectionMessage(&apos;<com>&apos;, &apos;' 
+                    string += image_path 
+                    string += '&apos;);"' 
+                    string += '> Common <input type="radio" id="';
+                    string += String(image_id);
+                    string += '_different" name="';
+                    string += String(image_id);
+                    string += '" value="different" '
+                    string += 'onclick="validateRealTime(); '            
+                    string += 'sendSelectionMessage(&apos;<dif>&apos;, &apos;' 
+                    string += image_path 
+                    string += '&apos;);"'
+                    string += '> Different'
+                } else {
+                    string += '" style="background-color: #d1d1d1; height:50px;">';
+                }           
+                  
+                string += '</div></div>';     
+            }        
             string += ' </form>';
             string += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="image_selection" onclick="getFeedback();" disabled="disabled"> Submit Selection </button>';
-            string += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="next_round" onclick="nextRound();"> Next Round </button>';
+            string += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="next_round" onclick="nextRound();"> Next Page </button>';
             string += ' <button class="btn btn-primary" style="width: 150px; font-size: 16px; float: left; margin-left: 10px; padding: 10px;" id="finish" onclick="finishGame();"> Finish Game </button>';
              
             display.append(string);
@@ -484,6 +560,7 @@ task_config['task_description'] = \
                 var agent_id = message.id;
                 var text = message.text;
                 var images = message.images;
+                var highlighted = message.highlighted;
                 var solution = message.solution;
                 var was_this_agent = (agent_id == cur_agent_id);
                                
@@ -497,10 +574,11 @@ task_config['task_description'] = \
                     return;
                 }            
                 log('New message, ' + new_message_id + ' from agent ' + agent_id, 1);
-                displayed_messages.push(new_message_id);                        
+                displayed_messages.push(new_message_id);         
             
-                if (message.images) {
-                    makeInput(images);
+                if (message.images && message.highlighted) {
+                    makeInput(images, highlighted);
+                    startTimer();
             
                     round_counter = Number(text.split(' ').slice(1,2).join(''));
                     $('#title').html(text.split(' ').slice(0,2).join(' ')); 
@@ -558,13 +636,14 @@ task_config['task_description'] = \
                     add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "You are now paired with another player. Please stand by...", false);
                     display_message_buffer(cur_agent_id);  
                 } else if (text.startsWith('<buffer>')) {   
-                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Next Round!", false);
-                    display_message_buffer(cur_agent_id);
+                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Next Page!", false);
+                    display_message_buffer(cur_agent_id);                    
                 } else if (text.startsWith('<feedback>')) {      
                 } else if (text.startsWith('<waiting>')) { 
                     add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Waiting for other player to continue...", false);
                     display_message_buffer(cur_agent_id);  
                 } else if (text) {
+                    startTimer();
                     num_messages++;
                     message.id = (was_this_agent ? "YOU:" : "THEM:");
                     var agent_id = message.id;                    
@@ -579,8 +658,8 @@ task_config['task_description'] = \
         function warmup_check_questions() {
             $('#correct_1').css("background-color", "#8dcf8d")
             $('#correct_2').css("background-color", "#8dcf8d")
-            $('#answer_1').html("<b>ANSWER:</b> Please only mention a single image per message so we can better process the data.")
-            $('#answer_2').html("<b>ANSWER:</b> An image has the common label if it is shown to both players - independent  of its position.")
+            $('#answer_1').html("<b>ANSWER: Please only mention a single photo per message so your partner doesn't get confused. </b>")
+            $('#answer_2').html("<b>ANSWER: Your task is to find out which of your photos are also on the same page of your partner's book.</b>")
             $("button#submit_questions").hide();
             $("button#continue_warmup").show();
             jQuery("#warmup_question_form input:radio").attr('disabled',true);
@@ -612,6 +691,31 @@ task_config['task_description'] = \
                 false,
                 function(msg) {}
             );
+        }
+        
+        function startTimer() {        
+  
+          if (downloadTimer) {
+            clearInterval(downloadTimer);
+          }
+          
+          $('#progress-bar').gradientProgressBar(
+            {
+              value: 1.0,
+              size: 400,
+              fill: { gradient: ["red", "yellow", "green", "green"] },
+              animation: false,
+              thickness: 20
+            }
+          );
+        
+          var timeleft = 1.0;
+          downloadTimer = setInterval(
+            function() {
+              timeleft = timeleft - (timeleft * 0.0005)
+              $('.progress-bar').gradientProgressBar({ value : timeleft });
+            }, 10 
+          );             
         }
         
         function add_to_message_buffer(agent_id, label, text, was_this_agent){
@@ -757,7 +861,7 @@ task_config['task_description'] = \
                
                 var feedback_form = '<h3>Please rate the following statements.</h3> ';
                 feedback_form += '<p>Your input is not shown to your partner. If you do not see the submit button, '; 
-                feedback_form += 'please scroll down in this panel.</p> <form id="feedback_form"> ';
+                feedback_form += 'please scroll down in this panel. <b> It is important you submit this, otherwise you and your partner cannot finish the HIT. </b> </p> <form id="feedback_form"> ';
                 
                 feedback_form += ' <label class="statement">Overall collaboration with my partner worked well.</label> ';
                 feedback_form += ' <ul class="likert"> <li> <input onclick="checkFeedback();" type="radio" name="collaboration" value="5"> ';

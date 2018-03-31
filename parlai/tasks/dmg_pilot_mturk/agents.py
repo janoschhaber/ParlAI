@@ -12,7 +12,7 @@ import random
 import json
 import os
 
-WELCOME_MESSAGE = ('Round {} \nPlayer {}, you see the following images:\n{}'
+WELCOME_MESSAGE = ('Page {} \nPlayer {}, you see the following images:\n{}'
                    'Find out which ones are also shown to the other player and which ones are different.')
 EOS_TOKEN = '<eos>'
 SELECTION_TOKEN = '<selection>'
@@ -32,7 +32,7 @@ class DMGMultiRoundTeacher(Teacher):
     def __init__(self, opt, shared=None):
         super().__init__(opt, shared)
         self.datatype = opt['datatype'].split(':')[0]
-        filename = 'dmg_full'
+        filename = 'dmg_full_highlighted'
         self.random = self.datatype == filename
         build(opt)
         data_path = os.path.join(opt['datapath'], 'dmg_full', filename + '.json')

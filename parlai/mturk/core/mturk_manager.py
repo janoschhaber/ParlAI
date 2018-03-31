@@ -23,14 +23,14 @@ import parlai.mturk.core.server_utils as server_utils
 import parlai.mturk.core.shared_utils as shared_utils
 
 # Timeout before cancelling a world start
-WORLD_START_TIMEOUT = 11
+WORLD_START_TIMEOUT = 30
 HEARTBEAT_DELAY_TIME = WORLD_START_TIMEOUT - SocketManager.DEF_SOCKET_TIMEOUT
 
 # Multiplier to apply when creating hits to ensure worker availibility
-HIT_MULT = 1.5
+HIT_MULT = 1
 
 # Max number of conversation disconnects before a turker should be blocked
-MAX_DISCONNECTS = 5
+MAX_DISCONNECTS = 2
 
 # Time to persist a disconnect before forgetting about it. Combined with the
 # above this will block workers that disconnect at least 25 times in a week
@@ -1147,7 +1147,7 @@ class MTurkManager():
             hit_reward=self.opt['reward'],
             # Set to 30 minutes by default
             assignment_duration_in_seconds=self.opt.get(
-                'assignment_duration_in_seconds', 60 * 60),
+                'assignment_duration_in_seconds', 120 * 60),
             is_sandbox=self.opt['is_sandbox'],
             qualifications=qualifications,
         )

@@ -24,7 +24,7 @@ from copy import copy
 import json
 import os
 import time
-
+import sys
 
 VERBOSE = True
 game_id = None
@@ -33,12 +33,20 @@ worker_bans = []
 available_games = None
 worker_names = ["Avery", "Jordan", "Blake", "River", "Eden", "Phoenix", "Harley", "Alexis", "Parker", "Taylor"]
 
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(message)s')
+logger = logging.getLogger()
+logger.addHandler(logging.FileHandler('run_out.log', 'a'))
+print = logger.info
+
 
 def main():
     """
     Main function for the DMG pilot data collection task
     :return: Nothing.
     """
+
     global available_games
 
     argparser = ParlaiParser(False, False)
@@ -72,7 +80,7 @@ def main():
     qual_name = 'DMG_Pilot_:_Max_Games_Reached_v1'
     qual_desc = ('Qualification for a worker who completed the maximum number of games in the DMG Pilot')
     qualification_id = mturk_utils.find_or_create_qualification(qual_name, qual_desc, is_sandbox, True)
-    print('Created qualification: ', qualification_id)
+    print('Created qualification: {}'.format(qualification_id))
 
     available_games = len(DMGMultiRoundTeacher(opt=opt).episodes)
     print("Available games: {}".format(available_games))
@@ -404,7 +412,7 @@ def main():
                         get_pay[p] = not t
 
             else:
-                if world.total_score > 50:
+                if world.total_score > 24:
                     get_pay = {agents[0].worker_id: True, agents[1].worker_id: True}
                 else:
                     print("Score too low!")
