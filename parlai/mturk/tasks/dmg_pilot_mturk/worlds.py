@@ -71,7 +71,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             'players': self.players,
             'agent_labels': self.player_labels,
             'assignment_ids': self.assignment_ids,
-            'agent_ids': [],
+            'agent_ids': self.agent_ids,
             'rounds': [],
             'feedback': {},
             'disconnected': {self.agent_ids[0]: False, self.agent_ids[1]: False}
