@@ -167,6 +167,11 @@ task_config['task_description'] = \
         </p>
         <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
         <p>
+            <b>
+                Note that for common images it does not matter if they are highlighted for both players!
+            </b>
+        </p>
+        <p>
             More concretely, assuming you see the photos below on your current page, a chat may proceed like this:
         </p>
         
@@ -198,7 +203,7 @@ task_config['task_description'] = \
             <b> PARTNER: </b> Great.
         </p>
         <p>    
-            [You don't have to mark it, because it is not highlighted on your page]
+            [It's common, but you don't have to mark it because it is not highlighted on your page]
         </p>
         <p>    
             <b> YOU: </b> My other highlighted photo is a guy sitting on a beach with a surfboard.
