@@ -318,10 +318,10 @@ def main():
             time_bonus = None
 
             if duration > 15:
-                if duration >= 30:
-                    time_bonus = 1.5
+                if duration >= 20:
+                    time_bonus = 1
                 else:
-                    time_bonus = 1.5 * ((duration - 15) / 15)
+                    time_bonus = 1 * ((duration - 10) / 10)
 
             for agent in agents:
                 if get_pay[agent.worker_id]:
@@ -329,12 +329,14 @@ def main():
                     if len(worker_record[agents[0].worker_id]) > 1:
                         agent.pay_bonus(0.25, reason="DMP Pilot Bonus for multiple games")
                         print("Paying bonus for multiple games!")
-                        if time_bonus:
-                            agent.pay_bonus(time_bonus, reason="DMG Pilot Bonus for long HIT")
-                        agent.approve_work()
+                    elif time_bonus:
+                        agent.pay_bonus(time_bonus, reason="DMG Pilot Bonus for long HIT")
+                        print("Paying bonus for long first HIT!")
+
+                    agent.approve_work()
 
                 else:
-                    print("Not paying agent {} as he or she disconnected (too early) or score is too low.".format(agent.worker_id))
+                    print("Rejecting agent {}'s work as he or she disconnected (too early) or score is too low.".format(agent.worker_id))
                     agent.reject_work(reason='Disconnected before end of HIT or scored too low')
 
 
@@ -379,7 +381,6 @@ def main():
                     opt=opt,
                     agents=agents,
                 )
-                # world.flush_buffer()
 
                 if VERBOSE: print("--- Starting Warming-Up Round ---")
                 while not world.episode_done():
@@ -392,8 +393,6 @@ def main():
                 game_id=game_id,
                 names=names
             )
-
-            # world.flush_buffer()
 
             get_pay = {agents[0].worker_id: False, agents[1].worker_id: False}
             disconnected = False

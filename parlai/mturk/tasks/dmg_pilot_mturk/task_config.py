@@ -12,7 +12,7 @@ task_config = {}
 On the Amazon Mechanical Turk web site, the HIT title appears in search results,
 and everywhere the HIT is mentioned.
 """
-task_config['hit_title'] = 'Detect common and different images by chatting with another player'
+task_config['hit_title'] = 'Game: Detect common images by chatting with another player'
 
 """A description includes detailed information about the kind of task the HIT contains.
 On the Amazon Mechanical Turk web site, the HIT description appears in the expanded
@@ -20,8 +20,10 @@ view of search results, and in the HIT and assignment screens.
 """
 task_config['hit_description'] = \
     '''
-    You will have a conversation with another player to find out which of the six images on your display are 
-    shown to the both of you. A full game consists of five rounds and will take about 15 minutes.
+    Game: Try to find out which images in your photo book are also in your partner's photo book. 
+    Each player only sees his or her own photo book. They are different, but some pictures on each page are the same for the both of you.
+    Your task is to find out which pictures are the same by chatting with your partner. 
+    A full game consists of five rounds and will take about 15 minutes.
     '''
 
 """One or more words or phrases that describe the HIT, separated by commas.
@@ -84,7 +86,7 @@ task_config['task_description'] = \
             For example, you may see the page on the left, while your partner sees the page on the right 
             (for simplicity, here we use drawings rather than real photos): 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>
         <p>  
             <b> 
                 Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
@@ -95,16 +97,10 @@ task_config['task_description'] = \
             Your partner faces the same task with different highlighted photos. 
             Therefore, to succeed, the two of you need to collaborate by chatting.
         </p>
-         <p> 
-            <b>
-                Your goal is to chat with your partner in order to mark the highlighted photos on your page as either 
-                <i>common</i> or <i>different</i>. </br>
-            </b>
-        </p>
         <p>     
              In this example, the correct solution for both you and your partner would be the following: 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>    
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>    
         
         <p>
             <b>
@@ -117,11 +113,9 @@ task_config['task_description'] = \
         <b>DETAILS:</b>
             <ul>
                 <li> This HIT will take about 15 minutes. </li>
-                <li> The chat is turn-based, so you can only type if it is your turn. </li>
-                <li> Try to answer quickly so the conversation keeps flowing </li>
-                <li> Please use correct and grammatical English.</li> 
-                <li> Do not use abbreviations or chat language.</li>
-                <li> Only describe a single photo per message so your partner doesn't get confused.</li>
+                <li> Try to find the common and different photos as quickly as possible. </li>
+                <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li> 
+                <li> <b>Only describe a single photo per message so your partner doesn't get confused.</b> </li>
                 <li> Directly click on the <i>common</i> or <i>different</i> label of a photo when you find out about it.</li>
                 <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
             </ul>
@@ -156,7 +150,7 @@ task_config['task_description'] = \
             For example, you may see the page on the left, while your partner sees the page on the right 
             (for simplicity, here we use drawings rather than real photos): 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>
         <p>  
             <b> 
                 Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
@@ -167,27 +161,21 @@ task_config['task_description'] = \
             Your partner faces the same task with different highlighted photos. 
             Therefore, to succeed, the two of you need to collaborate by chatting.
         </p>
-        <p> 
-            <b>
-                Your goal is to chat with your partner in order to mark the highlighted photos on your page as either 
-                <i>common</i> or <i>different</i>. </br>
-            </b>
-        </p>
         <p>     
              In this example, the correct solution for both you and your partner would be the following: 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>
         <p>
             <b>
-                Note that for common images it does not matter if they are highlighted for both players!
+                Note that for common and different images it does not matter if they are highlighted for both players!
             </b>
         </p>
         <p>
-            More concretely, assuming you see the photos below on your current page, a chat may proceed like this:
+            More concretely, assume you see the photos below on your current page
         </p>
         
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='700' style='padding-left: 30px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='700' style='padding-left: 40px'>
         <p>
             <b> You want to find out if your partner also has the photos highlighted in yellow.</b></br>
             As an example, a chat may proceed like this: 
@@ -240,11 +228,10 @@ task_config['task_description'] = \
         <p>
         <b>DETAILS:</b>
             <ul>
-                <li> The chat is turn-based, so you can only type if it is your turn. </li>
-                <li> Try to answer quickly so the conversation keeps flowing </li>
-                <li> Please use correct and grammatical English.</li> 
-                <li> Do not use abbreviations or chat language.</li>
-                <li> Only describe a single photo per message so your partner doesn't get confused.</li>
+                <li> This HIT will take about 15 minutes. </li>
+                <li> Try to find the common and different photos as quickly as possible. </li>
+                <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li> 
+                <li> <b>Only describe a single photo per message so your partner doesn't get confused.</b> </li>
                 <li> Directly click on the <i>common</i> or <i>different</i> label of a photo when you find out about it.</li>
                 <li> <b> If you do not follow these instructions, we retain the right to automatically cancel payment. </b> </li>
             </ul>
@@ -321,7 +308,7 @@ task_config['task_description'] = \
             </ul>
         </p>
         <p>
-            <b> If you accept this and are ready to work, please click START WARM-UP. Otherwise please return the HIT.
+            <b> If you accept this and are ready to work, please click START WARM-UP. Otherwise please return the HIT now.
             </b>
             Pairing might take a moment. We will let you know once you are paired.
             If you turn on your speakers, you will hear a sound indicating that the HIT is ready for you.

@@ -133,33 +133,34 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
 
         # Else observe the actions of the players
         else:
-            for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
+            print("Entering regular dialogue mode")
+            is_done = False
+            while True:
 
-                if self.episodeDone or self.roundDone:
-                    self.roundDone = False
-                    print("Episode done!")
-                    break
+                for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
-                print("Entering regular dialogue mode")
-                while True:
+                    if self.episodeDone or self.roundDone:
+                        print("Episode done!")
+                        self.roundDone = False
+                        is_done = True
+                        break
+
                     # Obtain the action of a MTurk agent
                     try:
-                        action = agent.act(timeout=None)
+                        action = agent.act(timeout=None, blocking=False)
                     # Obtain the action of a local agent
                     except TypeError:
-                        action = agent.act()
+                        action = agent.act(blocking=False)
 
-                    is_done = self.parse_action(agent, player, player_label, action)
+                    if action:
+                        is_done = self.parse_action(agent, player, player_label, action)
+                        if is_done:
+                            self.turn_nr += 1
 
-                    if self.disconnected:
-                        self.episodeDone = True
-                        return True
-                    if is_done: break
-
-                self.last_agent = agent
-
-        self.turn_nr += 1
-
+                    if is_done:
+                        break
+                if is_done:
+                    break
 
     def parse_action(self, agent, player, player_label, action):
         # Parse a selection
@@ -389,17 +390,6 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         Parallel(n_jobs=len(self.agents), backend='threading')\
             (delayed(shutdown_agent)(agent) for agent in self.agents)
 
-    def flush_buffer(self):
-        print("Flushing buffer for {} agents".format(len(self.agents)))
-        agents_done = [False for _ in self.agents]
-        while sum(agents_done) < len(self.agents):
-            for idx, agent in enumerate(self.agents):
-                if not agents_done[idx] and agent.act(blocking=False) is not None:
-                    agent.observe(validate({'text': '<buffer>'}))
-                    agents_done[idx] = True
-            time.sleep(0.1)
-
-
 class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
     def __init__(self, opt, agents=None, names=("Kelsey", "Robin"), shared=None):
@@ -461,26 +451,33 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
         # Else observe the actions of the players
         else:
-            for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
+            print("Entering regular dialogue mode")
+            is_done = False
+            while True:
 
-                if self.episodeDone or self.roundDone:
-                    print("Episode done!")
-                    self.roundDone = False
-                    break
+                for agent, player, player_label in zip(self.agents, self.players, self.player_labels):
 
-                print("Entering regular dialogue mode")
-                while True:
+                    if self.episodeDone or self.roundDone:
+                        print("Episode done!")
+                        self.roundDone = False
+                        is_done = True
+                        break
+
                     # Obtain the action of a MTurk agent
                     try:
-                        action = agent.act(timeout=None)
+                        action = agent.act(timeout=None, blocking=False)
                     # Obtain the action of a local agent
                     except TypeError:
-                        action = agent.act()
+                        action = agent.act(blocking=False)
 
-                    is_done = self.parse_action(agent, player, player_label, action)
-                    if is_done: break
+                    if action:
+                        is_done = self.parse_action(agent, player, player_label, action)
+                        if is_done:
+                            self.turn_nr += 1
 
-        self.turn_nr += 1
+                if is_done:
+                    break
+
 
     def parse_action(self, agent, player, player_label, action):# Parse a selection
         message = action["text"]
@@ -605,16 +602,6 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         :return: True if the current game round (episode) is done
         """
         return self.episodeDone
-
-    def flush_buffer(self):
-        print("Flushing buffer for {} agents".format(len(self.agents)))
-        agents_done = [False for _ in self.agents]
-        while sum(agents_done) < len(self.agents):
-            for idx, agent in enumerate(self.agents):
-                if not agents_done[idx] and agent.act(blocking=False) is not None:
-                    agent.observe(validate({'text': '<buffer>'}))
-                    agents_done[idx] = True
-            time.sleep(0.1)
 
 
 class MTurkDMGDialogOnboardWorld(MTurkOnboardWorld):

@@ -378,7 +378,6 @@
 
   // Updates the UI to allow worker input, focuses onto the text box
   function wait_for_worker_input() {
-    validateRealTime();
     update_UI_for_response_type('text_input');
     $("div#waiting-for-message").css("display", "none");
     $("input#id_text_input").focus();
@@ -398,11 +397,7 @@
     $("div#waiting-for-message").css("display", "none");
     $("div#response-type-text-input").css("display", "none");
 
-    if (response_type == 'idle') {
-      $("div#response-type-idle").css("display", "");
-      $("div#waiting-for-message").css("display", "");
-      $("div#response-type-text-input").css("display", "none");
-    } else if (response_type == 'text_input') {
+    if (response_type == 'text_input') {
       $("div#response-type-text-input").css("display", "");
     } else if (response_type == 'done') {
       $("div#response-type-done").css("display", "");
@@ -435,8 +430,8 @@
 
     $("div#message_thread").css("display", "");
     scroll_conversation_to_bottom();
-    $("div#waiting-for-message").css("display", "");
-    $("div#response-type-text-input").css("display", "none");
+    $("div#waiting-for-message").css("display", "none");
+    $("div#response-type-text-input").css("display", "");
   }
 
   // Done button click submits to MTurk
@@ -463,7 +458,6 @@
 
     update_UI_for_response_type('idle');
     $("div#waiting-for-message").css("display", "");
-    $("div#response-type-text-input").css("display", "none");
     $("div#left-pane").removeClass('col-xs-12');
     $("div#left-pane").addClass('col-xs-4');
 

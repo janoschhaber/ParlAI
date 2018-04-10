@@ -285,12 +285,12 @@ def create_hit_type(hit_title, hit_description, hit_keywords, hit_reward,
     # Create a qualification for at least 100 HITs
         {'QualificationTypeId': '00000000000000000040',
         'Comparator': 'GreaterThan',
-        'IntegerValues': [100]
+        'IntegerValues': [1]
         },
     # Create a qualifiaction for a acceptance rate of above 90
         {'QualificationTypeId': '000000000000000000L0',
          'Comparator': 'GreaterThan',
-         'IntegerValues': [1]
+         'IntegerValues': [90]
          }
     ]
     if qualifications is not None:
