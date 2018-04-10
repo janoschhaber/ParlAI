@@ -397,11 +397,9 @@ def main():
             get_pay = {agents[0].worker_id: False, agents[1].worker_id: False}
             disconnected = False
             while not world.episode_done():
-                if world.parley():
-                    disconnected = True
-                    break
+                world.parley()
 
-            if disconnected:
+            if world.disconnected:
                 if VERBOSE: print("Game ended due to disconnect.")
                 if world.round_nr > 1:
                     print(world.conversation_log['disconnected'])

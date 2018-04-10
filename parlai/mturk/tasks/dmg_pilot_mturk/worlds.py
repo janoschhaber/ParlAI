@@ -266,8 +266,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         if VERBOSE: print("Writing log to file")
         if not os.path.exists("logs"):
             os.makedirs("logs")
-        with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]),
-                  'w') as f:
+        with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]), 'w') as f:
             json.dump(copy(self.conversation_log), f)
 
     def send_feedback(self):
