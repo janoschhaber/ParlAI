@@ -143,7 +143,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                         print("Episode done!")
                         self.roundDone = False
                         is_done = True
-                        break
+                        return
 
                     # Obtain the action of a MTurk agent
                     try:
@@ -157,10 +157,15 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                         if is_done:
                             self.turn_nr += 1
 
-                    if is_done:
+                    if self.episodeDone:
+                        return
+                    elif is_done:
                         break
-                if is_done:
+                if self.episodeDone:
+                    return
+                elif is_done:
                     break
+
 
     def parse_action(self, agent, player, player_label, action):
         # Parse a selection
@@ -268,6 +273,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             os.makedirs("logs")
         with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]), 'w') as f:
             json.dump(copy(self.conversation_log), f)
+
 
     def send_feedback(self):
         """

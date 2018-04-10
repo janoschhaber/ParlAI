@@ -314,7 +314,7 @@ def main():
 
         def pay_workers(agents, get_pay, start_time):
             end_time= time.time()
-            duration = end_time - start_time
+            duration = (end_time - start_time) / 60.0
             time_bonus = None
 
             if duration > 15:
@@ -330,6 +330,7 @@ def main():
                         agent.pay_bonus(0.25, reason="DMP Pilot Bonus for multiple games")
                         print("Paying bonus for multiple games!")
                     elif time_bonus:
+                        print("Game took {} minutes".format(duration))
                         agent.pay_bonus(time_bonus, reason="DMG Pilot Bonus for long HIT")
                         print("Paying bonus for long first HIT!")
 
@@ -382,7 +383,7 @@ def main():
                     agents=agents,
                 )
 
-                if VERBOSE: print("--- Starting Warming-Up Round ---")
+                print("--- Starting Warming-Up Round ---")
                 while not world.episode_done():
                     if world.parley():
                         break
@@ -395,12 +396,16 @@ def main():
             )
 
             get_pay = {agents[0].worker_id: False, agents[1].worker_id: False}
-            disconnected = False
+
+            print("--- Starting Game ---")
             while not world.episode_done():
+                print("Parley!")
                 world.parley()
 
+            print("# # # DONE # # #")
+
             if world.disconnected:
-                if VERBOSE: print("Game ended due to disconnect.")
+                print("Game ended due to disconnect.")
                 if world.round_nr > 1:
                     print(world.conversation_log['disconnected'])
                     disconnects = world.conversation_log['disconnected']
@@ -410,12 +415,13 @@ def main():
 
             else:
                 if world.total_score > 24:
+                    print("Total score was above 24, paying both workers.")
                     get_pay = {agents[0].worker_id: True, agents[1].worker_id: True}
                 else:
                     print("Score too low!")
 
             world.shutdown()
-            if VERBOSE: print("Game ended.")
+            print("Game ended.")
             save_conversation_duration(conversation_start_time)
             save_records()
             pay_workers(agents, get_pay, conversation_start_time)
@@ -458,7 +464,7 @@ def main():
             task_function=run_conversation
         )
 
-        if VERBOSE: print("HIT ended.")
+        print("HIT ended.")
 
     except BaseException:
         raise
