@@ -281,7 +281,18 @@ def create_hit_type(hit_title, hit_description, hit_keywords, hit_reward,
             {'Country': 'NL'}
         ],
         'RequiredToPreview': True
-    }]
+        },
+    # Create a qualification for at least 100 HITs
+        {'QualificationTypeId': '00000000000000000040',
+        'Comparator': 'GreaterThan',
+        'IntegerValues': [100]
+        },
+    # Create a qualifiaction for a acceptance rate of above 90
+        {'QualificationTypeId': '000000000000000000L0',
+         'Comparator': 'GreaterThan',
+         'IntegerValues': [1]
+         }
+    ]
     if qualifications is not None:
         localRequirements += qualifications
 

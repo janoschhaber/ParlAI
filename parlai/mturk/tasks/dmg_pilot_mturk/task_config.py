@@ -95,6 +95,17 @@ task_config['task_description'] = \
             Your partner faces the same task with different highlighted photos. 
             Therefore, to succeed, the two of you need to collaborate by chatting.
         </p>
+         <p> 
+            <b>
+                Your goal is to chat with your partner in order to mark the highlighted photos on your page as either 
+                <i>common</i> or <i>different</i>. </br>
+            </b>
+        </p>
+        <p>     
+             In this example, the correct solution for both you and your partner would be the following: 
+        </p>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 50px; padding-bottom: 10px'>    
+        
         <p>
             <b>
                 If this is the first time you play, we will pair you with another new player and start with a 
