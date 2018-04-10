@@ -86,7 +86,7 @@ task_config['task_description'] = \
             For example, you may see the page on the left, while your partner sees the page on the right 
             (for simplicity, here we use drawings rather than real photos): 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='625' style='padding-left: 70px; padding-bottom: 10px'>
         <p>  
             <b> 
                 Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
@@ -100,7 +100,7 @@ task_config['task_description'] = \
         <p>     
              In this example, the correct solution for both you and your partner would be the following: 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>    
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='625' style='padding-left: 70px; padding-bottom: 10px'>    
         
         <p>
             <b>
@@ -150,7 +150,7 @@ task_config['task_description'] = \
             For example, you may see the page on the left, while your partner sees the page on the right 
             (for simplicity, here we use drawings rather than real photos): 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_4.png' width='625' style='padding-left: 70px; padding-bottom: 10px'>
         <p>  
             <b> 
                 Your task is to find out which of the 3 photos highlighted in yellow on your page are also shown to your partner. 
@@ -164,7 +164,7 @@ task_config['task_description'] = \
         <p>     
              In this example, the correct solution for both you and your partner would be the following: 
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='650' style='padding-left: 70px; padding-bottom: 10px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/photo_icons_3.png' width='625' style='padding-left: 70px; padding-bottom: 10px'>
         <p>
             <b>
                 Note that for common and different images it does not matter if they are highlighted for both players!
@@ -175,7 +175,7 @@ task_config['task_description'] = \
         </p>
         
         </p>
-        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='700' style='padding-left: 40px'>
+        <img src='https://dmg-full.s3.eu-central-1.amazonaws.com/new_screen.png' width='650' style='padding-left: 50px'>
         <p>
             <b> You want to find out if your partner also has the photos highlighted in yellow.</b></br>
             As an example, a chat may proceed like this: 
@@ -466,13 +466,12 @@ task_config['task_description'] = \
     </style>
 
     <script type="text/javascript">
-        var game_header = "Chat with your partner to find out which photos are shown to both of you <i>(common)</i> ";
-        game_header += "and which ones are shown to you only <i>(different)</i>. Photo positions are random and do not matter for this task. ";
+        var game_header = "Chat with your partner to find out which of the highlighted photos are shown to both of you <i>(common)</i> ";
+        game_header += "and which ones are shown to you only <i>(different)</i>! Photo positions are random and do not matter for this task. ";
         game_header += "The number of <i>common</i> and <i>different</i> photos changes every round. </br>";
         game_header += "Click the respective checkbox under a photo to mark it as soon as you identify it as either <i>common</i> or <i>different</i> </br>";
         game_header += "<ul><li>Please use normal English language and refrain from using abbreviations or chat language.</li> ";
         game_header += "<li>Please only mention a single photo per message.</li></ul>";
-        game_header += "Remember that the chat is turn-based. If you see an hourglass, the other player is currently typing.";        
         
         var git_path = "https://dmg-full.s3.eu-central-1.amazonaws.com/dmg_full/";
         

@@ -277,15 +277,15 @@ def create_hit_type(hit_title, hit_description, hit_keywords, hit_reward,
             {'Country': 'CA'},
             {'Country': 'GB'},
             {'Country': 'AU'},
-            {'Country': 'NZ'},
-            {'Country': 'NL'}
+            {'Country': 'NZ'} #,
+            # {'Country': 'NL'}
         ],
         'RequiredToPreview': True
         },
     # Create a qualification for at least 100 HITs
         {'QualificationTypeId': '00000000000000000040',
         'Comparator': 'GreaterThan',
-        'IntegerValues': [1]
+        'IntegerValues': [100]
         },
     # Create a qualifiaction for a acceptance rate of above 90
         {'QualificationTypeId': '000000000000000000L0',
