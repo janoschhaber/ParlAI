@@ -23,7 +23,7 @@ task_config['hit_description'] = \
     Game: Try to find out which images in your photo book are also in your partner's photo book. 
     Each player only sees his or her own photo book. They are different, but some pictures on each page are the same for the both of you.
     Your task is to find out which pictures are the same by chatting with your partner. 
-    A full game consists of five rounds and will take about 15 minutes.
+    A full game consists of five rounds and will take about 12 minutes.
     '''
 
 """One or more words or phrases that describe the HIT, separated by commas.
@@ -112,7 +112,7 @@ task_config['task_description'] = \
         <p>
         <b>DETAILS:</b>
             <ul>
-                <li> This HIT will take about 15 minutes. </li>
+                <li> This HIT will take about 12 minutes. </li>
                 <li> Try to find the common and different photos as quickly as possible. </li>
                 <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li> 
                 <li> <b>Only describe a single photo per message so your partner doesn't get confused.</b> </li>
@@ -228,7 +228,7 @@ task_config['task_description'] = \
         <p>
         <b>DETAILS:</b>
             <ul>
-                <li> This HIT will take about 15 minutes. </li>
+                <li> This HIT will take about 12 minutes. </li>
                 <li> Try to find the common and different photos as quickly as possible. </li>
                 <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li> 
                 <li> <b>Only describe a single photo per message so your partner doesn't get confused.</b> </li>
@@ -295,7 +295,7 @@ task_config['task_description'] = \
             </ul>
         </p>
         <p>
-            <b>PAYMENT: </b> As a task takes about 15 minutes, this HIT is much longer than the usual HIT on Mechanical Turk. 
+            <b>PAYMENT: </b> As a task takes about 12 minutes, this HIT is much longer than most HITs on Mechanical Turk. 
             We want to provide fair payment for your work, but also want to make sure that the collected data is correct. 
             We therefore assess HITs based on the following criteria:
         </p>
@@ -631,7 +631,7 @@ task_config['task_description'] = \
                       num_messages = 0;
                 } else if (text.startsWith('<next_round>')) {  
                 } else if (text.startsWith('<pairing>')) {  
-                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "You are now paired with another player. Please stand by...", false);
+                    add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "We are pairing you with another player. Please stand by...", false);
                     display_message_buffer(cur_agent_id);  
                 } else if (text.startsWith('<buffer>')) {   
                     add_to_message_buffer(cur_agent_id, "INSTRUCTOR", "Next Page!", false);
@@ -909,7 +909,7 @@ task_config['task_description'] = \
             feedback_message += "<&>self_u:" + String(self_u) + "<&>text:" + String(feedback_text);    
             
             $("button#send_feedback").hide();  
-            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> <b> If the HIT took you longer than the 15 minutes we aimed at, we will compensate you through a bonus payment that is calculated based on the time spent on this HIT. </b> <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
+            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> <b> If the HIT took you longer than the 12 minutes we aimed at, we will compensate you through a bonus payment that is calculated based on the time spent on this HIT. </b> <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
                 
             new_message_id = uuidv4();   
             send_packet(

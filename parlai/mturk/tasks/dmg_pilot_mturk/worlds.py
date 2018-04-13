@@ -24,19 +24,14 @@ from numpy import random as nprand
 import time
 import os
 import json
-import sys
-import numpy as np
 
 VERBOSE = True
 
 class MTurkDMGDialogWorld(MTurkTaskWorld):
 
     def __init__(self, opt, agents=None, game_id=0, names=("Kelsey", "Robin"), shared=None):
-        order = nprand.permutation(len(agents))
-        shuffled_agents = [agents[i] for i in order]
-        shuffled_names = [names[i] for i in order]
-        self.agents = shuffled_agents
-        self.names = shuffled_names
+        self.agents = agents
+        self.names = names
         self.assignment_ids = [agents[0].assignment_id, agents[1].assignment_id]
         self.acts = [None] * len(agents)
         self.task = DMGMultiRoundTeacher(opt=opt)
@@ -74,7 +69,6 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             'agent_ids': self.agent_ids,
             'rounds': [],
             'feedback': {},
-            'disconnected': {self.agent_ids[0]: False, self.agent_ids[1]: False}
         }
 
         self.round_log = self.reset_round_log()
@@ -87,8 +81,6 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         :return: Nothing
         """
         print(self.turn_nr)
-        print("Disconnect status is")
-        print(self.conversation_log['disconnected'])
 
         # If a new round has started, load the game data (if necessary) and send it to the players
         if self.turn_nr == -1:
@@ -253,9 +245,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         # Check if episode ended due to disconnection or timeout or a returned HIT
         else:
             self.episodeDone = True
-            self.conversation_log['disconnected'][agent.worker_id] = True
             self.disconnected = True
-            print("PLAYER DISCONNETED!")
             return True
 
         return False
@@ -271,9 +261,8 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         if VERBOSE: print("Writing log to file")
         if not os.path.exists("logs"):
             os.makedirs("logs")
-        with open('logs/dmg_pilot_data_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1]), 'w') as f:
+        with open('logs/dmg_pilot_data_{}_{}_{}.json'.format(self.assignment_ids[0], self.assignment_ids[1], self.game_id), 'w') as f:
             json.dump(copy(self.conversation_log), f)
-
 
     def send_feedback(self):
         """
@@ -398,20 +387,24 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
 class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
     def __init__(self, opt, agents=None, names=("Kelsey", "Robin"), shared=None):
-        order = nprand.permutation(len(agents))
-        shuffled_agents = [agents[i] for i in order]
-        shuffled_names = [names[i] for i in order]
-        self.agents = shuffled_agents
-        self.names = shuffled_names
+        self.agents = agents
+        self.names = names
+        self.agent_ids = []
+        self.assignment_ids = [agents[0].assignment_id, agents[1].assignment_id]
         self.episodeDone = False
         self.selections = defaultdict(lambda: dict())
         self.players = [agents[0].id, agents[1].id]
         self.player_labels = ["A", "B"]
-
         self.submits = {self.players[0]: False, self.players[1]: False}
         self.players_done = {self.players[0]: False, self.players[1]: False}
         self.roundDone = False
         self.turn_nr = -1
+
+        for i, agent in enumerate(agents):
+            try:
+                self.agent_ids.append(agent.worker_id)
+            except:
+                self.agent_ids.append(self.players[i])
 
         self.data =   {"A": [["person_donut/COCO_train2014_000000490481.jpg", True],
                                ["person_donut/COCO_train2014_000000011282.jpg", False],
@@ -431,6 +424,18 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
                            "person_donut/COCO_train2014_000000399480.jpg"]}
 
         self.highlighted = {"A" : [True, False, True], "B" : [True, False, True]}
+
+        self.warmup_log = {
+            'game_id': agents[0].assignment_id + agents[1].assignment_id,
+            'domain_id': 'warmup',
+            'players': self.players,
+            'agent_labels': self.player_labels,
+            'assignment_ids': self.assignment_ids,
+            'agent_ids': self.agent_ids,
+            'rounds': [],
+        }
+
+        self.round_log = self.reset_round_log()
 
     def parley(self):
         # If a new round has started, load the game data (if necessary) and send it to the players
@@ -483,10 +488,13 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
                 if is_done:
                     break
 
-
     def parse_action(self, agent, player, player_label, action):# Parse a selection
         message = action["text"]
         if VERBOSE: print("Agent {} sent : {}".format(player, message))
+
+        # Log the message
+        log_entry = self.create_message_log_entry(agent, player, player_label, message)
+        self.round_log['messages'].append(log_entry)
         message = message.split(" ")
 
         # Message is a selection. Parse it
@@ -517,6 +525,7 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
                 for agent in self.agents:
                     agent.observe(validate({'text': '<buffer>'}))
                 self.episodeDone = True
+                self.log_data()
 
             else:
                 agent.observe(validate({'text': "<waiting>"}))
@@ -536,6 +545,15 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         else:
             self.episodeDone = True
             return True
+
+    def reset_round_log(self):
+        """
+        Resets the log's game round entry dict
+        :return: An empty game round entry dict
+        """
+        return {
+            'messages': []
+        }
 
     def send_feedback(self):
         """
@@ -582,6 +600,34 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
 
         print("Scores for this round are {}".format(scores))
         return scores
+
+    def log_data(self):
+        # Write the log data to file
+        if VERBOSE: print("Logging data")
+        self.warmup_log['rounds'].append(deepcopy(self.round_log))
+
+        if VERBOSE: print("Writing log to file")
+        if not os.path.exists("logs"):
+            os.makedirs("logs")
+        with open('logs/dmg_pilot_data_{}_{}_warmup.json'.format(self.assignment_ids[0], self.assignment_ids[1]), 'w') as f:
+            json.dump(copy(self.warmup_log), f)
+
+    def create_message_log_entry(self, agent, player, player_label, message):
+
+        try:
+            agent_id = agent.worker_id
+        except:
+            agent_id = player_label
+
+        entry = {
+            'timestamp': time.time(),
+            'turn': self.turn_nr,
+            'speaker': player_label,
+            'agent_label': player,
+            'agent_id': agent_id,
+            'message': message
+        }
+        return entry
 
     def both_done(self):
         print(self.players_done)

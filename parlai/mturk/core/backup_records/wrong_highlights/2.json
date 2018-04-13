@@ -1,0 +1,1190 @@
+{
+  "agent_ids": [],
+  "agent_labels": [
+    "A",
+    "B"
+  ],
+  "assignment_ids": [
+    "3X87C8JFV79GAVY0G4HXXF6IFYASQO",
+    "336KAV9KYRQWEY8ODZJLJJWGGDSY2U"
+  ],
+  "disconnected": {
+    "A2E5PZUD6W4OA1": false,
+    "A2WLTPBX05TW6D": false
+  },
+  "domain_id": 22,
+  "feedback": {
+    "A": "col:5<&>partner_u:5<&>self_u:5<&>text:",
+    "B": "col:5<&>partner_u:5<&>self_u:5<&>text:"
+  },
+  "game_id": "3X87C8JFV79GAVY0G4HXXF6IFYASQO336KAV9KYRQWEY8ODZJLJJWGGDSY2U",
+  "players": [
+    "mturk_agent_1",
+    "mturk_agent_2"
+  ],
+  "rounds": [
+    {
+      "images": {
+        "A": [
+          [
+            "chair_couch/COCO_train2014_000000399122.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000131927.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000002347.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000269431.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000408925.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000119002.jpg",
+            true
+          ]
+        ],
+        "B": [
+          [
+            "chair_couch/COCO_train2014_000000581136.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000408925.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000131927.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000269431.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000341797.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000399122.jpg",
+            false
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a picture with a tv next to a bright window, 2 glass tables, and 2 sofas, red square carprt",
+          "speaker": "A",
+          "timestamp": 1522521620.2326605,
+          "turn": 1
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I don't think I have that. I have a room with sofa and 2 matching chairs with red and black pillows",
+          "speaker": "B",
+          "timestamp": 1522521751.4222806,
+          "turn": 1
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000002347.jpg",
+          "speaker": "A",
+          "timestamp": 1522521779.1818883,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "I don't have that",
+          "speaker": "A",
+          "timestamp": 1522521812.6593525,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000341797.jpg",
+          "speaker": "B",
+          "timestamp": 1522521817.8711782,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "ok different. I have: leather -1 long couch , 2 short couch. 1 small table, book shelf corner, tv ",
+          "speaker": "B",
+          "timestamp": 1522521909.391312,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "I dont think I have that. I have one with 2 brown striped chairs and gray carpet, 1 small tv",
+          "speaker": "A",
+          "timestamp": 1522522164.8909345,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000269431.jpg",
+          "speaker": "B",
+          "timestamp": 1522522275.452508,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "Dont have that. I have 2 monitors together, 2 couch, a painting on center, flower vase under paintn",
+          "speaker": "B",
+          "timestamp": 1522522337.2074332,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000461340.jpg",
+          "speaker": "A",
+          "timestamp": 1522522387.2195,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "I definitely dont have that.",
+          "speaker": "A",
+          "timestamp": 1522522427.7152493,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000461340.jpg",
+          "speaker": "B",
+          "timestamp": 1522522439.4427896,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "okay differnt, what was your last one ?",
+          "speaker": "B",
+          "timestamp": 1522522458.789782,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000410024.jpg",
+          "speaker": "A",
+          "timestamp": 1522522458.790293,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "1 red chair, 1 brown couch, living room and lsrge window showing with marble floor ",
+          "speaker": "A",
+          "timestamp": 1522522540.073764,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I dont have that ",
+          "speaker": "B",
+          "timestamp": 1522522614.14956,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "okay ill submit ",
+          "speaker": "A",
+          "timestamp": 1522522655.6522202,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522522655.652747,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I submitted as well",
+          "speaker": "B",
+          "timestamp": 1522522683.5200946,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522522683.5205877,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522522692.5430114,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522522711.2870576,
+          "turn": 7
+        }
+      ],
+      "round_nr": 0,
+      "score": {
+        "mturk_agent_1": 2,
+        "mturk_agent_2": 1
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "chair_couch/COCO_train2014_000000119002.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000461340.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000581136.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000131927.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000512515.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000399122.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "chair_couch/COCO_train2014_000000119002.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000512515.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000462712.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000408925.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000131927.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000581136.jpg",
+            true
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "A picture of 2 people - one in a purple shirt male & 1 female blue shirt, next to a brown sofachair",
+          "speaker": "A",
+          "timestamp": 1522522801.825455,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I think I have that there are also 3 other people present? ",
+          "speaker": "B",
+          "timestamp": 1522522832.621999,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "Yes",
+          "speaker": "A",
+          "timestamp": 1522522921.1321197,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000131927.jpg",
+          "speaker": "B",
+          "timestamp": 1522522925.4428449,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "ok, common. Living room, red floors but walls white. the couch in front of pic has some pink on it",
+          "speaker": "B",
+          "timestamp": 1522522974.5576792,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000131927.jpg",
+          "speaker": "A",
+          "timestamp": 1522522974.5581484,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "is there a brown table next to the couch? ",
+          "speaker": "A",
+          "timestamp": 1522523034.2876136,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "yes the table also has some things under the and on top ",
+          "speaker": "B",
+          "timestamp": 1522523077.7899046,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "Yup i got that one",
+          "speaker": "A",
+          "timestamp": 1522523130.9169106,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000581136.jpg",
+          "speaker": "B",
+          "timestamp": 1522523134.6249814,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "ok, was your 2nd one?",
+          "speaker": "B",
+          "timestamp": 1522523151.1624787,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000581136.jpg",
+          "speaker": "A",
+          "timestamp": 1522523151.1629949,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "2 striped couches, dark grey floor, brown walls, ",
+          "speaker": "A",
+          "timestamp": 1522523250.5027337,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "dont have that, my last one has the ceiling with lights on top and a red square outside the window",
+          "speaker": "B",
+          "timestamp": 1522523326.9807637,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "ok, i didn't have that. ill submit",
+          "speaker": "A",
+          "timestamp": 1522523412.5874493,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000462712.jpg",
+          "speaker": "B",
+          "timestamp": 1522523417.5994606,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522523419.1034012,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "submitted",
+          "speaker": "B",
+          "timestamp": 1522523424.4157844,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000461340.jpg",
+          "speaker": "A",
+          "timestamp": 1522523424.4163032,
+          "turn": 8
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522523424.4164336,
+          "turn": 8
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522523427.2227314,
+          "turn": 8
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522523427.2232642,
+          "turn": 8
+        }
+      ],
+      "round_nr": 1,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "chair_couch/COCO_train2014_000000002347.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000462712.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000581136.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000461340.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000410024.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000269431.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "chair_couch/COCO_train2014_000000461340.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000119002.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000408925.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000341797.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000269431.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000512515.jpg",
+            false
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "1vlarge tv, yellow blanket on top of a chair brown wood walls",
+          "speaker": "A",
+          "timestamp": 1522523525.1432924,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "dont have. I have 3 leather couch with book shelf and small tv. small table with red rug",
+          "speaker": "B",
+          "timestamp": 1522523568.7418334,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000269431.jpg",
+          "speaker": "A",
+          "timestamp": 1522523606.6315622,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000119002.jpg",
+          "speaker": "A",
+          "timestamp": 1522523608.0351152,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "i got that one. last one is 2 large windows, fireplace, and 1 fireplace",
+          "speaker": "A",
+          "timestamp": 1522523646.6250706,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000341797.jpg",
+          "speaker": "B",
+          "timestamp": 1522523646.6254835,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000269431.jpg",
+          "speaker": "B",
+          "timestamp": 1522523650.433312,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I think I have that. last one, 3 couch with red/black pillows table with laptop on top ",
+          "speaker": "B",
+          "timestamp": 1522523707.462188,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "i dont have that one. ",
+          "speaker": "A",
+          "timestamp": 1522523761.1818388,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "B",
+          "timestamp": 1522523761.1823683,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "B",
+          "timestamp": 1522523765.792745,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "B",
+          "timestamp": 1522523765.8932672,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "B",
+          "timestamp": 1522523774.4116418,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "B",
+          "timestamp": 1522523774.7123086,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522523775.4137723,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "ok, differnt. submitt",
+          "speaker": "B",
+          "timestamp": 1522523776.8169165,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "A",
+          "timestamp": 1522523776.8173656,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522523821.113656,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522523826.8284855,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522523826.828914,
+          "turn": 5
+        }
+      ],
+      "round_nr": 2,
+      "score": {
+        "mturk_agent_1": 2,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "chair_couch/COCO_train2014_000000399122.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000462712.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000408925.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000341797.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000410024.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000002347.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "chair_couch/COCO_train2014_000000461340.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000002347.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000399122.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000341797.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000410024.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000269431.jpg",
+            true
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "ok i have the picture of - \"3 couch with red/black pillows table with laptop on top\" that you said ",
+          "speaker": "A",
+          "timestamp": 1522523889.272614,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "me too, common. I have 3 leather couch, bookshelf, small tv,small table, red carpet from lsat time",
+          "speaker": "B",
+          "timestamp": 1522523924.2494829,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000341797.jpg",
+          "speaker": "A",
+          "timestamp": 1522523924.2499807,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "dont have. i got 1 red couch chair, 1 brown couch, and marble floors",
+          "speaker": "A",
+          "timestamp": 1522524006.44055,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000341797.jpg",
+          "speaker": "B",
+          "timestamp": 1522524006.4409728,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000269431.jpg",
+          "speaker": "B",
+          "timestamp": 1522524017.1656368,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000269431.jpg",
+          "speaker": "B",
+          "timestamp": 1522524018.668929,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "does it have towel over the red couch?",
+          "speaker": "B",
+          "timestamp": 1522524038.4118638,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "yes, that one and a large window at back",
+          "speaker": "A",
+          "timestamp": 1522524095.747093,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "yes me too, that was my last one. so common.",
+          "speaker": "B",
+          "timestamp": 1522524112.9839876,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000410024.jpg",
+          "speaker": "A",
+          "timestamp": 1522524132.9270236,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "Last pic is 2 large windows,  2 short green/brown wood chairs, 1 long green/brown sofa",
+          "speaker": "A",
+          "timestamp": 1522524184.8425505,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000410024.jpg",
+          "speaker": "B",
+          "timestamp": 1522524184.8429282,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522524184.8430681,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I dont have that one I think I had it before",
+          "speaker": "B",
+          "timestamp": 1522524212.3073308,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "Ok lol, ill submit",
+          "speaker": "A",
+          "timestamp": 1522524235.0584426,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "submitted",
+          "speaker": "B",
+          "timestamp": 1522524254.2004044,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000408925.jpg",
+          "speaker": "A",
+          "timestamp": 1522524254.2009344,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522524254.2010627,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522524280.8613558,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522524280.8618543,
+          "turn": 7
+        }
+      ],
+      "round_nr": 3,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "chair_couch/COCO_train2014_000000341797.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000462712.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000002347.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000119002.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000410024.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000512515.jpg",
+            true
+          ]
+        ],
+        "B": [
+          [
+            "chair_couch/COCO_train2014_000000512515.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000410024.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000581136.jpg",
+            true
+          ],
+          [
+            "chair_couch/COCO_train2014_000000462712.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000131927.jpg",
+            false
+          ],
+          [
+            "chair_couch/COCO_train2014_000000461340.jpg",
+            true
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "i have same one as before - red couch chair, 1 brown couch, marble floors, with towel on red chair",
+          "speaker": "A",
+          "timestamp": 1522524357.4315703,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "yes me too, I have red floors, white walls couch closes has a pink thing on it next to brown table",
+          "speaker": "B",
+          "timestamp": 1522524399.524649,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000410024.jpg",
+          "speaker": "A",
+          "timestamp": 1522524432.9029217,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "I do not have that one, different. i have a bedroom - bed, 2 sofa chairs, tv, brown carpet floor",
+          "speaker": "A",
+          "timestamp": 1522524502.3614151,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000410024.jpg",
+          "speaker": "B",
+          "timestamp": 1522524502.36183,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000581136.jpg",
+          "speaker": "B",
+          "timestamp": 1522524506.97128,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "is there a lamp next to the bed and a lamp next to the 2 sofas? ",
+          "speaker": "B",
+          "timestamp": 1522524557.1893415,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "Yes",
+          "speaker": "A",
+          "timestamp": 1522524589.3644667,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I have that, my last one is a picture in middle with flower vase under picture. There is 2 monitors",
+          "speaker": "B",
+          "timestamp": 1522524628.449277,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> chair_couch/COCO_train2014_000000512515.jpg",
+          "speaker": "A",
+          "timestamp": 1522524628.4497693,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "no i dont have",
+          "speaker": "A",
+          "timestamp": 1522524645.7903347,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000461340.jpg",
+          "speaker": "B",
+          "timestamp": 1522524649.4993935,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "ok, different ",
+          "speaker": "B",
+          "timestamp": 1522524655.8154078,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> chair_couch/COCO_train2014_000000119002.jpg",
+          "speaker": "A",
+          "timestamp": 1522524655.8158996,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522524661.228521,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "my last one was the tv, brown couch chair with yellow blanket",
+          "speaker": "A",
+          "timestamp": 1522524737.906919,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "I dont have that. I think we are finally done",
+          "speaker": "B",
+          "timestamp": 1522524761.4615288,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "ok submitted. ",
+          "speaker": "A",
+          "timestamp": 1522524792.333883,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522524792.3342865,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2E5PZUD6W4OA1",
+          "agent_label": "mturk_agent_2",
+          "message": "<usr_feedback> col:5<&>partner_u:5<&>self_u:5<&>text:",
+          "speaker": "B",
+          "timestamp": 1522524818.5945718,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2WLTPBX05TW6D",
+          "agent_label": "mturk_agent_1",
+          "message": "<usr_feedback> col:5<&>partner_u:5<&>self_u:5<&>text: ",
+          "speaker": "A",
+          "timestamp": 1522524818.5948973,
+          "turn": 8
+        }
+      ],
+      "round_nr": 4,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 3
+      }
+    }
+  ]
+}

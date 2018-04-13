@@ -16,7 +16,6 @@ from parlai.agents.local_human.local_human import LocalHumanAgent
 import parlai.mturk.core.mturk_utils as mturk_utils
 from parlai.core.agents import create_agent
 from task_config import task_config
-from copy import deepcopy
 
 from collections import defaultdict
 from random import randint
@@ -24,7 +23,6 @@ from copy import copy
 import json
 import os
 import time
-import sys
 
 VERBOSE = True
 game_id = None
@@ -78,7 +76,7 @@ def main():
     # mturk_utils.delete_qualification('33DUYNETVPNVNFT4X22Z6F584M1WCM', is_sandbox)
 
     qual_name = 'DMG_Pilot_:_Max_Games_Reached_v1'
-    qual_desc = ('Qualification for a worker who completed the maximum number of games in the DMG Pilot')
+    qual_desc = 'Qualification for a worker who completed the maximum number of games in the DMG Pilot'
     qualification_id = mturk_utils.find_or_create_qualification(qual_name, qual_desc, is_sandbox, True)
     print('Created qualification: {}'.format(qualification_id))
 
@@ -146,22 +144,23 @@ def main():
             :param player_id: ID of a given player
             :return: True if the given game ID is blocked for the given player, False otherwise
             """
-            if worker_record[player_id].count(id) == 2:
-                return True
-            else:
-                return False
+            if player_id in worker_record:
+                if worker_record[player_id].count(id) == 2:
+                    return True
 
-        def update_records(players, id):
+            return False
+
+        def update_records(players, game_id):
             """
             Updates the HITs worker records
             :param players: players paired for a game
-            :param id: game ID
+            :param game_id: game ID
             :return: Nothing.
             """
             global worker_record
             global worker_bans
-            global game_id
-            game_id = id
+
+            print("UPDATING RECORDS!!!")
 
             # Add game ID to the worker record and to the blocked list if it is the second occurance.
             # If a player has played 10 games, he or she gets banned from the game.
@@ -180,6 +179,7 @@ def main():
             :return: a list of two workers that are paired for the next game
             """
             global worker_record
+            global game_id
 
             players = []
             # Return an empty list if not enough workers are in queue
@@ -193,19 +193,19 @@ def main():
                 if VERBOSE: print("Worker: {}".format(worker_id))
 
                 # Worker never played before. Pair him or her with the next queued worker who also never played before
-                if worker_id not in worker_record.keys():
+                if worker_id not in worker_record:
                     if VERBOSE: print("Worker has no recorded games")
 
                     for partner in workers[idx + 1:]:
                         partner_id = partner.worker_id
-                        if partner_id not in worker_record.keys():
+                        if partner_id not in worker_record:
                             if VERBOSE: print("Partner: {}".format(partner_id))
                             players.append(worker)
                             players.append(partner)
                             next_game_id = select_random_game()
                             if VERBOSE: print(
                                 "Partner has no recorded games. Setting game ID randomly to {}".format(next_game_id))
-                            update_records(players, next_game_id)
+                            game_id = next_game_id
                             return players
 
                     # Nobody in the queue is new. Continue with the loop
@@ -220,12 +220,12 @@ def main():
                         for partner in workers[idx + 1:]:
                             partner_id = partner.worker_id
                             # If partner also played before, pair them
-                            if partner_id in worker_record.keys() and last_game_id not in worker_record[partner_id]:
+                            if partner_id in worker_record and last_game_id not in worker_record[partner_id]:
                                 if VERBOSE: print("Partner has not played this game before.")
                                 players.append(worker)
                                 players.append(partner)
                                 next_game_id = last_game_id
-                                update_records(players, next_game_id)
+                                game_id = next_game_id
                                 return players
 
                     # No suitable partner was found to play worker's last game.
@@ -233,7 +233,7 @@ def main():
                     for partner in workers[idx + 1:]:
                         partner_id = partner.worker_id
                         # If partner also played before, pair them
-                        if partner_id in worker_record.keys():
+                        if partner_id in worker_record:
                             last_game_id = worker_record[partner_id][-1]
                             players.append(worker)
                             players.append(partner)
@@ -243,7 +243,7 @@ def main():
                                 next_game_id = last_game_id
                                 if VERBOSE: print(
                                     "Partner has recorded games. Setting game ID to {}".format(next_game_id))
-                                update_records(players, next_game_id)
+                                game_id = next_game_id
                                 return players
                             # Else select a random one that none of the two played before
                             else:
@@ -253,7 +253,7 @@ def main():
                                 if VERBOSE: print(
                                     "Selected game {} as it was not played by any of the players before".format(
                                         next_game_id))
-                                update_records(players, next_game_id)
+                                game_id = next_game_id
                                 return players
 
                                 # Nobody in the queue played before. Continue with the loop
@@ -276,9 +276,11 @@ def main():
             player_names = []
             for player in players:
                 player_id = player.worker_id
-                n = len(worker_record[player_id]) - 1
-                print(n)
-                player_names.append(worker_names[n])
+                if player_id in worker_record:
+                    n = len(worker_record[player_id])-1
+                    player_names.append(worker_names[n])
+                else:
+                    return ["Kelsey", "Robin"]
 
             return player_names
 
@@ -291,55 +293,24 @@ def main():
             for index, worker in enumerate(workers):
                 worker.id = mturk_agent_ids[index % len(mturk_agent_ids)]
 
-        def save_conversation_duration(start_time):
-            """
-            Saves a conversation's duration to file
-            :param start_time: Start time of the conversation
-            :return: Nothing.
-            """
-            end_time = time.time()
-            duration = end_time-start_time
-            try:
-                with open('records/durations.json', 'r') as infile:
-                    durations = json.load(infile)
-            except FileNotFoundError:
-                durations = []
-
-            durations.append(duration)
-
-            if not os.path.exists("records"):
-                os.makedirs("records")
-            with open('records/durations.json', 'w') as f:
-                json.dump(durations, f)
-
-        def pay_workers(agents, get_pay, start_time):
-            end_time= time.time()
-            duration = (end_time - start_time) / 60.0
-            time_bonus = None
-
-            if duration > 15:
-                if duration >= 20:
-                    time_bonus = 1
-                else:
-                    time_bonus = 1 * ((duration - 10) / 10)
+        def pay_workers(agents, get_pay, time_bonus=None):
 
             for agent in agents:
                 if get_pay[agent.worker_id]:
                     print("Paying worker {}".format(agent.worker_id))
-                    if len(worker_record[agents[0].worker_id]) > 1:
-                        agent.pay_bonus(0.25, reason="DMP Pilot Bonus for multiple games")
+                    if agent.worker_id in worker_record:
+                        agent.pay_bonus(0.25, reason="DMP Pilot: Bonus for multiple games")
                         print("Paying bonus for multiple games!")
-                    elif time_bonus:
-                        print("Game took {} minutes".format(duration))
-                        agent.pay_bonus(time_bonus, reason="DMG Pilot Bonus for long HIT")
-                        print("Paying bonus for long first HIT!")
+
+                    if time_bonus:
+                        agent.pay_bonus(time_bonus, reason="DMG Pilot: Bonus for long HIT")
+                        print("Paying bonus for long HIT!")
 
                     agent.approve_work()
 
                 else:
                     print("Rejecting agent {}'s work as he or she disconnected (too early) or score is too low.".format(agent.worker_id))
                     agent.reject_work(reason='Disconnected before end of HIT or scored too low')
-
 
         def run_conversation(mturk_manager, opt, workers):
             """
@@ -358,8 +329,6 @@ def main():
             agents = workers[:]
             # Get worker names
             names = get_worker_names(agents)
-            if names[0] == "Avery":
-                names = ["Kelsey", "Robin"]
             print(names)
 
             # Create a local agent
@@ -376,8 +345,12 @@ def main():
 
             print("Loading game {}".format(game_id))
 
+            print(list(worker_record.keys()))
+            print(agents[0].worker_id)
+            print(agents[1].worker_id)
+
             # If the workers never played before, start with the warm-up round
-            if len(worker_record[agents[0].worker_id]) == 1 and len(worker_record[agents[1].worker_id]) == 1:
+            if (agents[0].worker_id not in worker_record) and (agents[1].worker_id not in worker_record):
                 world = MTurkDMGDialogWarmupWorld(
                     opt=opt,
                     agents=agents,
@@ -407,13 +380,19 @@ def main():
             if world.disconnected:
                 print("Game ended due to disconnect.")
                 if world.round_nr > 1:
-                    print(world.conversation_log['disconnected'])
-                    disconnects = world.conversation_log['disconnected']
-                    get_pay = {}
-                    for p, t in disconnects.items():
-                        get_pay[p] = not t
+                    for agent in agents:
+                        if not agent.disconnected:
+                            print("CHECK: Agent {} did NOT disconnect".format(agent.worker_id))
+                            get_pay[agent.worker_id] = True
+                        else:
+                            print("CHECK: Agent {} DID disconnect".format(agent.worker_id))
 
             else:
+                # Only save records when game was complete
+                print("Updating records")
+                update_records(agents, game_id)
+                save_records()
+
                 if world.total_score > 24:
                     print("Total score was above 24, paying both workers.")
                     get_pay = {agents[0].worker_id: True, agents[1].worker_id: True}
@@ -421,19 +400,29 @@ def main():
                     print("Score too low!")
 
             world.shutdown()
-            print("Game ended.")
-            save_conversation_duration(conversation_start_time)
-            save_records()
-            pay_workers(agents, get_pay, conversation_start_time)
+            print("# # # Game ended # # #")
+
+            end_time = time.time()
+            duration = end_time - conversation_start_time
+            duration_mins = duration / 60.0
+            time_bonus = None
+
+            if duration_mins > 12:
+                if duration_mins >= 27:
+                    time_bonus = 1.50
+                else:
+                    time_bonus = int(duration_mins - 12) * 0.10
+
+            pay_workers(agents, get_pay, time_bonus)
             print("Conversation closed.")
 
         load_records()
-        print("Loaded records.")
+        print("# # # Loaded records # # #")
 
         def run_onboard(worker):
             global worker_record
 
-            if worker.worker_id not in worker_record.keys():
+            if worker.worker_id not in worker_record:
                 world = MTurkDMGDialogOnboardWorld(opt=opt, mturk_agent=worker)
                 while not world.episode_done():
                     world.parley()

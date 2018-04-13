@@ -1,0 +1,1294 @@
+{
+  "agent_ids": [],
+  "agent_labels": [
+    "A",
+    "B"
+  ],
+  "assignment_ids": [
+    "3U5JL4WY5L7HH7X1CHG7TKM5YL4X4T",
+    "3B1NLC6UG0USKEOULR8R8WX5MR4PGK"
+  ],
+  "disconnected": {
+    "A1N8TKTLXV92QR": false,
+    "A2RUHO7I7Y4XFA": false
+  },
+  "domain_id": 12,
+  "feedback": {
+    "A": "col:5<&>partner_u:5<&>self_u:5<&>text:",
+    "B": "col:5<&>partner_u:5<&>self_u:5<&>text:Thatwaskindoffun.Definitelytookabout40minutes...Noerrors,welldone.Thanks."
+  },
+  "game_id": "3U5JL4WY5L7HH7X1CHG7TKM5YL4X4T3B1NLC6UG0USKEOULR8R8WX5MR4PGK",
+  "players": [
+    "mturk_agent_1",
+    "mturk_agent_2"
+  ],
+  "rounds": [
+    {
+      "images": {
+        "A": [
+          [
+            "person_teddy_bear/COCO_train2014_000000127441.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000207354.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000231675.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000374391.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000151764.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000319818.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "person_teddy_bear/COCO_train2014_000000231675.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000151764.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000319818.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000136701.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000207354.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000184930.jpg",
+            false
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a bear in a blue chair and a guy with a road kill cafe shirt next to it.",
+          "speaker": "A",
+          "timestamp": 1522528469.7825766,
+          "turn": 1
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Don't have that",
+          "speaker": "B",
+          "timestamp": 1522528487.3216057,
+          "turn": 1
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000127441.jpg",
+          "speaker": "A",
+          "timestamp": 1522528492.4325573,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a child in blue and yellow holding a bear with a red shirt and glasses.",
+          "speaker": "A",
+          "timestamp": 1522528521.0974224,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have that",
+          "speaker": "B",
+          "timestamp": 1522528578.3290603,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg",
+          "speaker": "A",
+          "timestamp": 1522528612.6049497,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a baby sleeping in a carseat holding a shaggy bear in her lap.",
+          "speaker": "A",
+          "timestamp": 1522528633.0568492,
+          "turn": 3
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg",
+          "speaker": "B",
+          "timestamp": 1522528633.057315,
+          "turn": 3
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Blue and green pacifier?",
+          "speaker": "B",
+          "timestamp": 1522528650.19617,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "yes that's the same",
+          "speaker": "A",
+          "timestamp": 1522528700.310194,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000151764.jpg",
+          "speaker": "B",
+          "timestamp": 1522528700.310717,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have it",
+          "speaker": "B",
+          "timestamp": 1522528706.1224792,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000151764.jpg",
+          "speaker": "A",
+          "timestamp": 1522528706.1230142,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522528706.223382,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "Now please ask me.",
+          "speaker": "A",
+          "timestamp": 1522528715.1422055,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "I have a little girl, white shirt, sitting on a step, brown teddy bear, something pink between them",
+          "speaker": "B",
+          "timestamp": 1522528759.6615171,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I don't have that.",
+          "speaker": "A",
+          "timestamp": 1522528772.2910204,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000136701.jpg",
+          "speaker": "B",
+          "timestamp": 1522528776.1999264,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Submitting...",
+          "speaker": "B",
+          "timestamp": 1522528781.7128434,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "Okay me too.",
+          "speaker": "A",
+          "timestamp": 1522528873.5201387,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522528873.5206945,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522528880.4360754,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522528880.436509,
+          "turn": 8
+        }
+      ],
+      "round_nr": 0,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "person_teddy_bear/COCO_train2014_000000231675.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000127441.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000358113.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000184930.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000319818.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000419186.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "person_teddy_bear/COCO_train2014_000000151764.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000419186.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000127441.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000184930.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000319818.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000340923.jpg",
+            true
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a lady in a red and white striped shirt holding a bear with a green bow on it's head.",
+          "speaker": "A",
+          "timestamp": 1522528910.407987,
+          "turn": 1
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have it",
+          "speaker": "B",
+          "timestamp": 1522528927.6573603,
+          "turn": 1
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000419186.jpg",
+          "speaker": "A",
+          "timestamp": 1522528931.165893,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a bear in blue chair with a guy with road kill cafe shirt on next to it.",
+          "speaker": "A",
+          "timestamp": 1522528951.311788,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "On the last one, mine was greyed-out",
+          "speaker": "B",
+          "timestamp": 1522528965.2429326,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "is it on this page or no?",
+          "speaker": "A",
+          "timestamp": 1522528980.8800423,
+          "turn": 3
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "It's on my page but it's not a selection - not yellow.  Don't have the 2nd one...",
+          "speaker": "B",
+          "timestamp": 1522529020.475315,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "is it on the current page?",
+          "speaker": "A",
+          "timestamp": 1522529033.8057978,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Yes page 2",
+          "speaker": "B",
+          "timestamp": 1522529042.1250372,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000127441.jpg",
+          "speaker": "A",
+          "timestamp": 1522529045.833118,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "i have a little baby on a chinese rug hugging a bear with a red bowtie",
+          "speaker": "A",
+          "timestamp": 1522529070.2897365,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have it",
+          "speaker": "B",
+          "timestamp": 1522529086.0251207,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000157714.jpg",
+          "speaker": "A",
+          "timestamp": 1522529089.633984,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522529090.7365015,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "Okay do you have any questions",
+          "speaker": "A",
+          "timestamp": 1522529099.2564046,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000157714.jpg",
+          "speaker": "B",
+          "timestamp": 1522529099.2567844,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "I have two unmarked ones.  One is man sandwiched between 2 large TBs.  ",
+          "speaker": "B",
+          "timestamp": 1522529145.3624508,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "Don't have it",
+          "speaker": "A",
+          "timestamp": 1522529165.1062644,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "The other is a boy in orange shirt, belly down on floor with large TB on top of him.",
+          "speaker": "B",
+          "timestamp": 1522529193.8720503,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "Don't have it",
+          "speaker": "A",
+          "timestamp": 1522529207.203281,
+          "turn": 8
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000184930.jpg",
+          "speaker": "B",
+          "timestamp": 1522529207.203771,
+          "turn": 8
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000358113.jpg",
+          "speaker": "B",
+          "timestamp": 1522529211.0120575,
+          "turn": 8
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Submitting...",
+          "speaker": "B",
+          "timestamp": 1522529219.0306544,
+          "turn": 8
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "Me too.",
+          "speaker": "A",
+          "timestamp": 1522529224.844651,
+          "turn": 9
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522529227.5506675,
+          "turn": 9
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522529229.5554457,
+          "turn": 9
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522529237.5744548,
+          "turn": 10
+        }
+      ],
+      "round_nr": 1,
+      "score": {
+        "mturk_agent_1": 2,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "person_teddy_bear/COCO_train2014_000000358113.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000157714.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000207354.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000374391.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000340923.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000184930.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "person_teddy_bear/COCO_train2014_000000207354.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000151764.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000136701.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000358113.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000127441.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000419186.jpg",
+            false
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a blonde girl in a white shirt next to a little bear and theres a pink bag between them",
+          "speaker": "A",
+          "timestamp": 1522529275.3585925,
+          "turn": 1
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Yes have it... Pg 3--Still have a boy in orange shirt, belly down on floor with large TB on top.",
+          "speaker": "B",
+          "timestamp": 1522529300.7159078,
+          "turn": 1
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000136701.jpg",
+          "speaker": "A",
+          "timestamp": 1522529314.5476706,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay I have a baby on chinese rug hugging bear with red bowtie",
+          "speaker": "A",
+          "timestamp": 1522529334.2938273,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000136701.jpg",
+          "speaker": "B",
+          "timestamp": 1522529334.2944245,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Don't have it. ",
+          "speaker": "B",
+          "timestamp": 1522529351.234279,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000157714.jpg",
+          "speaker": "A",
+          "timestamp": 1522529361.7596312,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "I have a baby with pacifier in carseat with shaggy bear in lap",
+          "speaker": "A",
+          "timestamp": 1522529388.517226,
+          "turn": 3
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Sorry, I do have the one with Chinese rug…Need coffee",
+          "speaker": "B",
+          "timestamp": 1522529403.3502429,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000157714.jpg",
+          "speaker": "A",
+          "timestamp": 1522529407.6605523,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay do you have the other",
+          "speaker": "A",
+          "timestamp": 1522529416.5807235,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000157714.jpg",
+          "speaker": "B",
+          "timestamp": 1522529416.5811732,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "No.  ",
+          "speaker": "B",
+          "timestamp": 1522529450.058476,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000151764.jpg",
+          "speaker": "A",
+          "timestamp": 1522529455.6711292,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "submitting",
+          "speaker": "A",
+          "timestamp": 1522529459.2793307,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have same boy blue, yellow scarf, teddy with red shirt",
+          "speaker": "B",
+          "timestamp": 1522529465.7961655,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522529465.7966998,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "don't have that",
+          "speaker": "A",
+          "timestamp": 1522529474.2163897,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000207354.jpg",
+          "speaker": "B",
+          "timestamp": 1522529474.2169135,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Submitting.  Sorry for being a spaz",
+          "speaker": "B",
+          "timestamp": 1522529490.4531314,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay lets submit",
+          "speaker": "A",
+          "timestamp": 1522529503.1811516,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522529503.1815548,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Done",
+          "speaker": "B",
+          "timestamp": 1522529507.6911545,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522529507.6916945,
+          "turn": 8
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522529509.7961748,
+          "turn": 8
+        }
+      ],
+      "round_nr": 2,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "person_teddy_bear/COCO_train2014_000000374391.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000340923.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000136701.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000157714.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000151764.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000231675.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "person_teddy_bear/COCO_train2014_000000231675.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000157714.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000207354.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000358113.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000374391.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000136701.jpg",
+            true
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay I have a boy with orange shirt under a bear with a maroon and gold shirt ",
+          "speaker": "A",
+          "timestamp": 1522529543.7752666,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "No",
+          "speaker": "B",
+          "timestamp": 1522529553.597035,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000358113.jpg",
+          "speaker": "A",
+          "timestamp": 1522529557.4055018,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "i have a bald guy between 2 big bears one dark one light ",
+          "speaker": "A",
+          "timestamp": 1522529580.4574964,
+          "turn": 3
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Yes",
+          "speaker": "B",
+          "timestamp": 1522529587.273908,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000184930.jpg",
+          "speaker": "A",
+          "timestamp": 1522529592.2852845,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "i have a bug toothed mascot pointing at a guy in purple",
+          "speaker": "A",
+          "timestamp": 1522529621.9482956,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000184930.jpg",
+          "speaker": "B",
+          "timestamp": 1522529621.948772,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Yes",
+          "speaker": "B",
+          "timestamp": 1522529629.8649502,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000319818.jpg",
+          "speaker": "A",
+          "timestamp": 1522529631.9706266,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522529642.3940938,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay now you go",
+          "speaker": "A",
+          "timestamp": 1522529647.6055918,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000319818.jpg",
+          "speaker": "B",
+          "timestamp": 1522529647.6061149,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have baby on couch white jumper with pink markings by teddy with green ribbon",
+          "speaker": "B",
+          "timestamp": 1522529671.8585238,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "don't have it",
+          "speaker": "A",
+          "timestamp": 1522529684.587512,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000340923.jpg",
+          "speaker": "B",
+          "timestamp": 1522529688.6967552,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Let's submit ",
+          "speaker": "B",
+          "timestamp": 1522529698.5191762,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay",
+          "speaker": "A",
+          "timestamp": 1522529703.430895,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522529707.541709,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<next_round>",
+          "speaker": "B",
+          "timestamp": 1522529709.0462372,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<next_round>",
+          "speaker": "A",
+          "timestamp": 1522529709.0466602,
+          "turn": 8
+        }
+      ],
+      "round_nr": 3,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 3
+      }
+    },
+    {
+      "images": {
+        "A": [
+          [
+            "person_teddy_bear/COCO_train2014_000000419186.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000127441.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000157714.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000136701.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000340923.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000374391.jpg",
+            false
+          ]
+        ],
+        "B": [
+          [
+            "person_teddy_bear/COCO_train2014_000000319818.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000340923.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000157714.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000184930.jpg",
+            true
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000419186.jpg",
+            false
+          ],
+          [
+            "person_teddy_bear/COCO_train2014_000000358113.jpg",
+            true
+          ]
+        ]
+      },
+      "messages": [
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "baby in orange shirt under bear with maroon and gold shirt",
+          "speaker": "A",
+          "timestamp": 1522529725.8852491,
+          "turn": 1
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Yes",
+          "speaker": "B",
+          "timestamp": 1522529738.2097387,
+          "turn": 1
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000358113.jpg",
+          "speaker": "A",
+          "timestamp": 1522529742.4184222,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "baby on chinese rug hugging bear with red bowtie",
+          "speaker": "A",
+          "timestamp": 1522529753.5420258,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000358113.jpg",
+          "speaker": "B",
+          "timestamp": 1522529753.5424268,
+          "turn": 2
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Definite no",
+          "speaker": "B",
+          "timestamp": 1522529766.67373,
+          "turn": 2
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000157714.jpg",
+          "speaker": "A",
+          "timestamp": 1522529775.1936793,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "baby sleeping under pink blanket between 2 bears",
+          "speaker": "A",
+          "timestamp": 1522529792.8336565,
+          "turn": 3
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "No",
+          "speaker": "B",
+          "timestamp": 1522529801.9545689,
+          "turn": 3
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<selection> <dif> person_teddy_bear/COCO_train2014_000000374391.jpg",
+          "speaker": "A",
+          "timestamp": 1522529811.0765908,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<feedback>",
+          "speaker": "A",
+          "timestamp": 1522529812.7809718,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "okay now you go",
+          "speaker": "A",
+          "timestamp": 1522529817.2913353,
+          "turn": 4
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have same boy blue, yellow scarf, teddy with red shirt",
+          "speaker": "B",
+          "timestamp": 1522529823.305923,
+          "turn": 4
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "yes i have",
+          "speaker": "A",
+          "timestamp": 1522529832.2276747,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg",
+          "speaker": "B",
+          "timestamp": 1522529834.9340706,
+          "turn": 5
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Have same girl in white, pink something between her and brown bear",
+          "speaker": "B",
+          "timestamp": 1522529862.7999532,
+          "turn": 5
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "No not here",
+          "speaker": "A",
+          "timestamp": 1522529880.5361688,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<selection> <com> person_teddy_bear/COCO_train2014_000000136701.jpg",
+          "speaker": "B",
+          "timestamp": 1522529883.743014,
+          "turn": 6
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "Subitting",
+          "speaker": "B",
+          "timestamp": 1522529891.2604089,
+          "turn": 6
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "me too",
+          "speaker": "A",
+          "timestamp": 1522529909.901619,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<feedback>",
+          "speaker": "B",
+          "timestamp": 1522529913.3089097,
+          "turn": 7
+        },
+        {
+          "agent_id": "A1N8TKTLXV92QR",
+          "agent_label": "mturk_agent_2",
+          "message": "<usr_feedback> col:5<&>partner_u:5<&>self_u:5<&>text: That was kind of fun.  Definitely took about 40 minutes... No errors, well done.  Thanks.",
+          "speaker": "B",
+          "timestamp": 1522529991.3864923,
+          "turn": 7
+        },
+        {
+          "agent_id": "A2RUHO7I7Y4XFA",
+          "agent_label": "mturk_agent_1",
+          "message": "<usr_feedback> col:5<&>partner_u:5<&>self_u:5<&>text: ",
+          "speaker": "A",
+          "timestamp": 1522529991.386712,
+          "turn": 8
+        }
+      ],
+      "round_nr": 4,
+      "score": {
+        "mturk_agent_1": 3,
+        "mturk_agent_2": 2
+      }
+    }
+  ]
+}
