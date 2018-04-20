@@ -281,7 +281,7 @@ task_config['task_description'] = \
     <div id="onboarding_3" style="display: none;">
         <p>
             <b>
-            You see these instructions because this is the first time you are doing this HIT or the last once was canceled.
+            You see these instructions because this is the first time you are doing this HIT.
             As a next step, we will pair you with another new player so you can start with a short warming-up task. 
             The first HIT might therefore take a bit longer. The next ones will be much quicker because you won't get the full instructions and warming-up again.
             </b>
@@ -940,10 +940,7 @@ task_config['task_description'] = \
             feedback_message += "<&>self_u:" + String(self_u) + "<&>text:" + String(feedback_text);    
             
             $("button#send_feedback").hide();  
-            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> 
-            <h3> If the HIT took you longer than 10 minutes, we will compensate you with an additional 0.10 USD per minute of game time.</h3>
-            Note that we do not compensate you for the time spent pairing you with another worker. 
-            <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
+            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> <h3> If the HIT took longer than 10 minutes, we will compensate you through a bonus payment of 0.10 USD per game time minute. </h3> Note that we do not pay for the time spent waiting to be paired with another worker. <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
                 
             new_message_id = uuidv4();   
             send_packet(
