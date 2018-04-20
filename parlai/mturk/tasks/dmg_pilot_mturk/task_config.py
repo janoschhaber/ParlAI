@@ -112,7 +112,7 @@ task_config['task_description'] = \
         <p>
         <b>DETAILS:</b>
             <ul>
-                <li> This HIT will take about 12 minutes. </li>
+                <li> This HIT will take about 10-15 minutes. </li>
                 <li> Try to find the common and different photos as quickly as possible. </li>
                 <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li> 
                 <li> <b>Only describe a single photo per message so your partner doesn't get confused.</b> </li>
@@ -228,7 +228,7 @@ task_config['task_description'] = \
         <p>
         <b>DETAILS:</b>
             <ul>
-                <li> This HIT will take about 12 minutes. </li>
+                <li> This HIT will take about 10-15 minutes. </li>
                 <li> Try to find the common and different photos as quickly as possible. </li>
                 <li> Please use correct and grammatical English and do not use abbreviations or chat language.</li> 
                 <li> <b>Only describe a single photo per message so your partner doesn't get confused.</b> </li>
@@ -281,7 +281,7 @@ task_config['task_description'] = \
     <div id="onboarding_3" style="display: none;">
         <p>
             <b>
-            You see these instructions because this is the first time you are doing this HIT.
+            You see these instructions because this is the first time you are doing this HIT or the last once was canceled.
             As a next step, we will pair you with another new player so you can start with a short warming-up task. 
             The first HIT might therefore take a bit longer. The next ones will be much quicker because you won't get the full instructions and warming-up again.
             </b>
@@ -295,7 +295,7 @@ task_config['task_description'] = \
             </ul>
         </p>
         <p>
-            <b>PAYMENT: </b> As a task takes about 12 minutes, this HIT is much longer than most HITs on Mechanical Turk. 
+            <b>PAYMENT: </b> As a task takes about 10-15 minutes, this HIT is much longer than most HITs on Mechanical Turk. 
             We want to provide fair payment for your work, but also want to make sure that the collected data is correct. 
             We therefore assess HITs based on the following criteria:
         </p>
@@ -578,11 +578,11 @@ task_config['task_description'] = \
                     makeInput(images, highlighted);
                     startTimer();
             
-                    round_counter = Number(text.split(' ').slice(1,2).join(''));
-                    $('#title').html(text.split(' ').slice(0,2).join(' ')); 
+                    round_counter = Number(text.split(' ').slice(1,2).join('')); 
                     //$('#test').html("Round: " + String(round_counter));
                     
                     if (text.startsWith('<warm-up>')) {
+                        $('#title').html(text.split(' ').slice(0,2).join(' '));
                         num_messages = 0;
                         round_counter = 5;
                         warm_up = true;
@@ -590,6 +590,7 @@ task_config['task_description'] = \
                     } else {
                         real_deal = true;  
                         finish_warmup = false
+                        $('#title').html(text.split(' ').slice(0,2).join(' ') + " of 5");
                     }
                     
                     //var display = $('#test').html();
@@ -900,16 +901,49 @@ task_config['task_description'] = \
         
         function sendFeedback(){  
         
-            var collaboration = $('#feedback_form').find('input[name="collaboration"]').val();
-            var partner_u = $('#feedback_form').find('input[name="partner_u"]').val();
-            var self_u = $('#feedback_form').find('input[name="self_u"]').val();
+            var collaboration
+            var partner_u
+            var self_u
+            
+            var radios = document.getElementsByName('collaboration');
+            for (var i = 0, length = radios.length; i < length; i++) {
+                if (radios[i].checked) {
+                    collaboration = radios[i].value;
+                    // alert(collaboration);
+                    break;
+                }
+            }
+            
+            var radios = document.getElementsByName('partner_u');
+            for (var i = 0, length = radios.length; i < length; i++) {
+                if (radios[i].checked) {
+                    partner_u = radios[i].value;
+                    // alert(partner_u);
+                    break;
+                }
+            }
+            
+            var radios = document.getElementsByName('self_u');
+            for (var i = 0, length = radios.length; i < length; i++) {
+                if (radios[i].checked) {
+                    self_u = radios[i].value;
+                    // alert(self_u);
+                    break;
+                }
+            }
+            
+            // var partner_u = $('#feedback_form').find('input[name="partner_u"]').val();
+            // var self_u = $('#feedback_form').find('input[name="self_u"]').val();
             var feedback_text = $('#feedback_form').find('textarea[name="feedback"]').val();
             
             var feedback_message = "col:" + String(collaboration) + "<&>partner_u:" + String(partner_u);   
             feedback_message += "<&>self_u:" + String(self_u) + "<&>text:" + String(feedback_text);    
             
             $("button#send_feedback").hide();  
-            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> <b> If the HIT took you longer than the 12 minutes we aimed at, we will compensate you through a bonus payment that is calculated based on the time spent on this HIT. </b> <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
+            $('#game_window').html("<h2>Thank You!</h2> Please wait until the other player is done filling in the feedback form. You will then see the button to finish the HIT in the chat window. </br> 
+            <h3> If the HIT took you longer than 10 minutes, we will compensate you with an additional 0.10 USD per minute of game time.</h3>
+            Note that we do not compensate you for the time spent pairing you with another worker. 
+            <h3>TIP: The next game will be much shorter because you won't get the instructions and warming-up round again - and you probably got better at it as well. PLUS: If you continue playing, you will get a bonus payment for the next games!</h3> ");       
                 
             new_message_id = uuidv4();   
             send_packet(

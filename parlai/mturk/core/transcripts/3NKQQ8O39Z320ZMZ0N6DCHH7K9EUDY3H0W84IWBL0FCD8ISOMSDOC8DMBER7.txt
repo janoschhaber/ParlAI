@@ -1,0 +1,98 @@
+Game ID: 3NKQQ8O39Z320ZMZ0N6DCHH7K9EUDY3H0W84IWBL0FCD8ISOMSDOC8DMBER7
+Domain ID: 11
+Player A: A3HHDPKL3O3O7Y
+Player B: AH00EJ6PK1H3A
+
+- - Round 1 - -
+[00:00] A: Do you have a dog in a hot dog costume with someone applying ketchup?
+[00:12] B: Yes I do. Dole tshirt
+[00:14] B: <selection> <com> person_dog/COCO_train2014_000000145499.jpg
+[00:20] A: Yes
+[00:23] A: <selection> <com> person_dog/COCO_train2014_000000145499.jpg
+[00:45] B: Do you have a pug sleeping on a persons lap while they hold a Nintendo Wii controller?
+[01:01] A: No
+[01:04] B: <selection> <dif> person_dog/COCO_train2014_000000344597.jpg
+[01:30] A: Do you have a small dark dog being held up to a car window to see a cow with something on it's neck
+[01:42] B: no
+[01:45] A: <selection> <dif> person_dog/COCO_train2014_000000515186.jpg
+[02:07] B: Two men and two dogs at a chess table in a park with a chainlink fence behind them ?
+[02:14] A: No
+[02:17] B: <selection> <dif> person_dog/COCO_train2014_000000171262.jpg
+[02:31] A: An older man with a brown dog watching tv with gold curtains?
+[02:43] B: Yes, the dog is looking at the camera
+[02:50] A: Correct
+[02:52] A: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+- - Round 2 - -
+[03:28] B: Do you have the same picture of the dog in the hot dog costume?
+[03:41] A: No
+[03:43] B: <selection> <dif> person_dog/COCO_train2014_000000145499.jpg
+[03:50] A: Do you have the dogs and men playing chess this time?
+[03:57] B: I do not. 
+[04:00] A: <selection> <dif> person_dog/COCO_train2014_000000171262.jpg
+[04:12] B: Do you have the old man and gold curtains and TV again?
+[04:20] A: No
+[04:23] B: <selection> <dif> person_dog/COCO_train2014_000000421393.jpg
+[04:32] B: What about the window and cow one?
+[04:39] A: Yes I have that one again
+[04:42] A: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[04:42] B: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[04:52] A: Little girl in pink and white polka dots and dog eating a cake?
+[05:01] B: Yes black dog
+[05:06] A: <selection> <com> person_dog/COCO_train2014_000000324156.jpg
+- - Round 3 - -
+[05:23] B: Hot dog costume again?
+[05:28] A: No
+[05:31] B: <selection> <dif> person_dog/COCO_train2014_000000145499.jpg
+[05:32] A: Window and cow?
+[05:35] B: Cow?
+[05:37] B: Yes
+[05:39] B: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[05:40] A: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[05:52] B: Dog on a bus?
+[06:01] A: A white dog? Yes
+[06:03] A: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[06:07] B: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[06:10] A: Sleeping dog with wii controller?
+[06:14] B: YEah, 2303 on the bus number
+[06:21] B: No Wii dog
+[06:24] A: Yes I have that bus one
+[06:25] A: <selection> <dif> person_dog/COCO_train2014_000000344597.jpg
+- - Round 4 - -
+[06:48] A: Hot dog Dole shirt?
+[06:54] B: Nope
+[06:56] A: <selection> <dif> person_dog/COCO_train2014_000000145499.jpg
+[07:01] B: Chess guys/dogs?
+[07:06] A: No
+[07:08] B: <selection> <dif> person_dog/COCO_train2014_000000171262.jpg
+[07:10] A: Bus dog?
+[07:13] B: Yup
+[07:15] B: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[07:16] A: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[07:20] A: Wii player?
+[07:20] B: Wii?
+[07:23] B: Yes
+[07:25] B: <selection> <com> person_dog/COCO_train2014_000000344597.jpg
+[07:27] A: <selection> <com> person_dog/COCO_train2014_000000344597.jpg
+- - Round 5 - -
+[07:47] B: Polka dots girl?
+[07:51] A: Nope
+[07:54] B: <selection> <dif> person_dog/COCO_train2014_000000324156.jpg
+[07:55] A: Chess players?
+[07:59] B: Yup
+[08:01] B: <selection> <com> person_dog/COCO_train2014_000000171262.jpg
+[08:02] A: <selection> <com> person_dog/COCO_train2014_000000171262.jpg
+[08:05] B: Gold curtains?
+[08:11] A: Yes
+[08:13] A: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+[08:14] B: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+[08:15] A: Wii?
+[08:19] B: Nope
+[08:23] A: <selection> <dif> person_dog/COCO_train2014_000000344597.jpg
+
+- - Game statistics - -
+Duration: 08:51 min. Score: 30/30 points.
+[Round 0] Duration: 02:58 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 01:43 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:07 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 00:40 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 00:43 min. Score: 6/6 points. Number of messages: 8.

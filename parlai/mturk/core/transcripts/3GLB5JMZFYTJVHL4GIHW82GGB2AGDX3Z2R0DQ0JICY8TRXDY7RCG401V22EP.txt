@@ -1,0 +1,100 @@
+Game ID: 3GLB5JMZFYTJVHL4GIHW82GGB2AGDX3Z2R0DQ0JICY8TRXDY7RCG401V22EP
+Domain ID: 57
+Player A: A14NP6X071S7GK
+Player B: A31681CCEVDIH3
+
+- - Round 1 - -
+[00:00] A: I have a girl on a bed with a panda
+[00:07] B: Me too
+[00:09] B: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[00:11] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[00:19] A: I also have a man holding a baby wearing pink
+[00:23] B: I have a person with two blonde dogs on a bed
+[00:32] A: I dont have the dogs on the bed
+[00:34] B: I have the man with the pink baby
+[00:37] A: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[00:38] B: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[00:42] B: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[00:51] A: I have a girl on a bed wearing a shirt with a red object on the back playing on her computer
+[01:14] B: No, not that
+[01:18] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[01:26] A: Okay next
+- - Round 2 - -
+[01:47] A: I have a person on a bed with two dogs, one has it's head in a bag
+[01:51] B: girl with the red at the computer
+[01:58] A: I have a girl on a bed with a panda
+[01:59] B: no to the dogs
+[02:04] B: yes to panda
+[02:09] A: I also have the girl on the bed with the red thing and the computer
+[02:13] B: <selection> <com> person_bed/COCO_train2014_000000029642.jpg
+[02:13] A: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[02:14] B: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[02:15] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[02:17] A: <selection> <com> person_bed/COCO_train2014_000000029642.jpg
+[02:21] A: Next
+[02:28] B: a guy in cargo shorts, his feet are showing
+[02:36] A: I don't have the cargo shorts
+[02:49] B: a little boy passed out next to dolls
+[03:02] A: I dont have the little boy with the dogs
+[03:08] B: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[03:11] B: next
+- - Round 3 - -
+[03:22] B: two dogs
+[03:27] A: I have a boy on a bed holding a phone to a bear
+[03:30] B: computer girl
+[03:31] A: Yes I have the two dogs
+[03:33] A: <selection> <com> person_bed/COCO_train2014_000000560909.jpg
+[03:37] A: No computer girl
+[03:38] B: I have him too
+[03:39] B: <selection> <com> person_bed/COCO_train2014_000000560909.jpg
+[03:41] A: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[03:43] B: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[03:47] A: Man holding baby wearing pink?
+[03:53] B: no pink baby
+[03:56] A: <selection> <dif> person_bed/COCO_train2014_000000314846.jpg
+[03:59] A: Next
+[04:03] B: passed out little boy
+[04:06] A: No
+[04:10] B: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+- - Round 4 - -
+[04:23] A: I have a boy sleeping next to some dolls
+[04:30] B: me too
+[04:32] A: I have the girl with the red thing on the computer
+[04:39] B: No computer girl
+[04:40] A: I have the boy holding the bear and phone
+[04:41] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[04:43] A: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[04:48] B: Woman on a laptop in a white shirt
+[04:52] A: Nope
+[04:54] A: <selection> <dif> person_bed/COCO_train2014_000000575631.jpg
+[04:54] B: I have phone boy
+[04:57] A: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[04:58] B: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[05:00] B: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[05:04] A: Next page
+[05:09] B: sleeping dolls boy
+[05:12] A: Yep
+[05:15] B: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[05:18] B: okay go
+- - Round 5 - -
+[05:27] B: phone boy
+[05:31] B: pink baby
+[05:32] A: No
+[05:35] B: two dogs
+[05:36] A: Yes pink baby
+[05:39] A: No two dogs
+[05:39] B: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[05:41] B: <selection> <dif> person_bed/COCO_train2014_000000575631.jpg
+[05:41] A: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[05:43] B: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[05:44] A: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[05:45] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[05:50] A: Next page
+
+- - Game statistics - -
+Duration: 06:11 min. Score: 29/30 points.
+[Round 0] Duration: 01:29 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 01:26 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 00:48 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 00:55 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 00:27 min. Score: 5/6 points. Number of messages: 7.

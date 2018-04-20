@@ -1,0 +1,100 @@
+Game ID: 3KKG4CDWKJWRGBF391ATDH0NUCR94R3K772S5NP992NJUFWJAYZKA2QEPEHO
+Domain ID: 57
+Player A: A1PLD2IWQLX4M5
+Player B: A2ADEPVGNNXNPA
+
+- - Round 1 - -
+[00:00] B: lady with laptop in front of mirror
+[00:50] A: I do not have that one.
+[00:54] B: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[01:03] A: Little boy on the telephone with stuffed animal
+[01:19] B: yes i have
+[01:20] B: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[01:23] A: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[01:37] A: Woman with two ponytails laying down in front of black laptop
+[01:46] B: no
+[01:50] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[01:53] B: boy with two dolls on bed, resting head down
+[01:57] A: Same.
+[02:00] A: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[02:02] B: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[02:05] A: Do you have any questions?
+- - Round 2 - -
+[02:54] A: Boy with two dolls on the bed
+[03:00] B: no
+[03:07] B: boy with phone and stuffed toy
+[03:15] A: No
+[03:18] B: <selection> <dif> person_bed/COCO_train2014_000000575631.jpg
+[03:22] A: Woman in front of mirror on black laptop
+[03:26] A: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[03:29] A: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[03:30] B: yes
+[03:32] A: <selection> <com> person_bed/COCO_train2014_000000348269.jpg
+[03:39] A: Man sitting on bed with baby wearing pink
+[03:52] B: asian man? yes
+[03:55] B: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[03:59] A: yes
+[04:01] A: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[04:04] B: man with 2 dogs on bed
+[04:10] A: No
+[04:18] B: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+- - Round 3 - -
+[04:39] B: boy with 2 dolls
+[04:40] A: Woman laying on bed with panda teddy bear
+[04:44] A: No 
+[04:54] B: yes panda
+[04:57] B: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[05:00] B: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[05:04] A: Woman laying on bed with ponytails and using black laptop
+[05:07] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[05:09] B: <selection> <com> person_bed/COCO_train2014_000000029642.jpg
+[05:11] B: yes
+[05:15] A: <selection> <com> person_bed/COCO_train2014_000000029642.jpg
+[05:22] A: Person on bed with two dogs and black bag
+[05:42] B: no
+[05:50] A: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[06:24] A: Do you have any questions?
+- - Round 4 - -
+[07:03] A: Man with two dogs on bed and black bag
+[07:09] B: yes
+[07:12] B: <selection> <com> person_bed/COCO_train2014_000000560909.jpg
+[07:12] A: <selection> <com> person_bed/COCO_train2014_000000560909.jpg
+[07:19] B: boy with 2 dolls
+[07:20] A: Man sitting on bed with baby wearing pink on lap
+[07:22] A: No
+[07:28] B: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[07:32] B: no
+[07:37] A: <selection> <dif> person_bed/COCO_train2014_000000314846.jpg
+[07:46] A: Baby on bed using phone with stuffed animals
+[08:02] B: yes
+[08:10] A: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[08:11] B: girl with 2 ponytails and laptop
+[08:17] A: No
+[08:21] B: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+- - Round 5 - -
+[08:39] A: Woman laying on bed with panda teddy bear
+[08:44] B: yes
+[08:47] B: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[08:55] A: Man sitting on bed with baby wearing pink on lap
+[09:00] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[09:02] B: yes
+[09:04] B: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[09:10] A: Girl with two ponytails laying on bed using laptop
+[09:13] A: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[09:18] B: no
+[09:20] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[09:22] B: man with 2 dogs
+[09:26] A: No
+[09:29] B: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[14:26] A: Are you doing the feedback form? It will not let me submit until you complete it.
+[27:21] A: <selection> <dif> person_bed/COCO_train2014_000000314846.jpg
+[27:23] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[27:25] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+
+- - Game statistics - -
+Duration: 27:36 min. Score: 30/30 points.
+[Round 0] Duration: 02:07 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 01:27 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 01:11 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 01:18 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 00:52 min. Score: 6/6 points. Number of messages: 9.

@@ -1,0 +1,145 @@
+Game ID: 3DUZQ9U6SNM8F3UH23B7325QY7RSVK3DQQ64TANHJOH0EU0WC9UZJTIWSPWH
+Domain ID: 6
+Player A: A3SOZYQZWJOOYS
+Player B: A2FLZP3C6U67JY
+
+- - Round 1 - -
+[00:00] B: I have a woman in a red shirt with grey vest holding a phone talking to a guy in a brown hat 
+[00:01] A: I have picture of a boy and girl leaning on a green car and they're both eating donuts
+[00:12] A: I have the photo you mentioned
+[00:16] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[00:17] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[00:29] B: i don't have the one you mentioned
+[00:39] A: Is there two guys in the background of yours and also a red car?
+[00:45] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[00:48] B: yes
+[00:53] A: ok same then
+[01:18] B: I also have one of a man and woman sitting on a bus I think
+[01:25] B: they're both wearing black shirts
+[01:37] A: I do not have that one
+[01:41] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[01:41] A: I gave a woman standing on a step of some sort next to an open trunk and two suit cases
+[01:55] A: she's wearing a rainbow scarf
+[02:08] B: I have that one
+[02:10] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[02:14] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[02:30] A: Are you finished?
+[02:35] B: yes
+[02:41] A: okay cool
+- - Round 2 - -
+[03:07] A: I have the same photo of the two people eating a donut from before
+[03:27] B: don't have it
+[03:33] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[03:39] B: i have the same one of the woman in the vest and red shirt
+[03:49] A: don't have that one this time
+[03:52] B: <selection> <dif> person_car/COCO_train2014_000000563545.jpg
+[04:10] A: I have a guy on his phone wearing a blue and white striped shirt
+[04:13] A: he's smiling
+[04:20] A: there are several cars behind him
+[04:32] A: off to the left
+[04:46] A: right I mean, sorry
+[04:46] B: is there a woman walking him with a blue purse?
+[05:19] A: Is the man holding a coffee cup?
+[05:47] B: yeah the one i see is a guy holding coffee, talking on the phone
+[05:59] B: with a merccedes in the background
+[06:07] B: and a woman holding a blue purse
+[06:10] A: I also have that one, but mine's not highlighted and it's not the one I was describing
+[06:14] B: same
+[06:23] A: oh
+[06:26] B: then I dont think I have the one you're talking about
+[06:45] B: I do have a guy writing on his hand in front of a parking meter
+[06:46] A: well the one I was talking about, the man in in the foreground
+[06:59] A: and you can only see him from the shoulders up
+[07:03] A: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[07:08] B: yeah dont see that one
+[07:14] A: I think I have the one you're talking about
+[07:25] A: is he wearing glasses?
+[07:32] B: hes wearing a polo shirt and glasses?
+[07:37] A: Is his shirt grey
+[07:41] B: yes
+[07:42] A: yeah
+[07:45] B: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[07:45] A: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[08:01] B: the only other highlighted one is the people on the bus wearing black shirts
+[08:12] A: I think we're good then
+[08:18] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+- - Round 3 - -
+[08:45] A: Okay I have the same interview one from before
+[08:45] B: i have red shirt grey vest woman again
+[08:50] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[08:55] A: ok same
+[08:59] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[09:04] A: I have the same suitcase one from before two
+[09:15] A: woman with rainbow scarf and green shirt
+[09:16] B: dont have that one
+[09:20] A: <selection> <dif> person_car/COCO_train2014_000000394151.jpg
+[09:30] A: I have two people sitting in the back of the bus
+[09:38] B: wearing black?
+[09:38] A: girl is wearing glasses
+[09:42] A: yes
+[09:43] B: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[09:46] B: me too
+[09:51] B: also have the parking meter guty
+[09:53] B: guy
+[09:57] A: on her phone and the guy is looking at it
+[10:01] B: yes
+[10:12] A: I have the bus one
+[10:18] A: but I don't have the parking meter one
+[10:40] B: ok that should be it for this one then
+[10:43] B: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[10:50] A: yeah seems righr
+[10:57] B: are you missing any?
+[11:14] A: No I have all mine
+[11:19] B: okay
+[12:04] B: did you submit yours? My page isn't forwarding.
+[12:59] A: yeah mine's not either
+[13:02] A: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+- - Round 4 - -
+[13:11] B: ok there we go
+[13:22] A: I have the parking meter guy again
+[13:28] A: and the suitcase girl
+[13:32] B: don't have him
+[13:35] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[13:39] B: but i have suitcase girl
+[13:41] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[13:42] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[13:52] A: Do you have the boy and girl eating donuts?
+[14:02] B: yes
+[14:23] B: i also have the blue shirt guy on the phone you had before
+[14:27] A: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[14:28] B: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[14:41] A: oh ok I have it, but it isn't one of my highlighted ones
+[15:00] B: that would be common for me right then?
+[15:02] B: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+[15:07] A: yes
+[15:13] B: ok that's all of mine
+[15:22] B: you had the donut couple right?
+[15:38] A: yeah
+[15:45] A: guys shirt says varsity
+- - Round 5 - -
+[15:54] A: I have that one again
+[15:59] A: and the bus one
+[16:06] B: the donut one?
+[16:06] A: and the parking meter one
+[16:09] A: yeas
+[16:22] B: I have none of those
+[16:35] B: I have the blue shirt phone guy
+[16:44] A: I do not
+[16:46] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[16:47] A: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[16:48] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[16:48] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[17:06] B: I also have the guy holding the coffee and talking on his phone
+[17:28] A: the one with the mercedes from before? I do not have that one
+[17:33] B: <selection> <dif> person_car/COCO_train2014_000000405991.jpg
+[17:44] B: I also have a guy sitting on a wall talking on his phone next to 2 parking meters
+[17:53] A: I have that one too
+[17:57] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+
+- - Game statistics - -
+Duration: 18:36 min. Score: 30/30 points.
+[Round 0] Duration: 02:43 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 05:13 min. Score: 6/6 points. Number of messages: 30.
+[Round 2] Duration: 04:19 min. Score: 6/6 points. Number of messages: 24.
+[Round 3] Duration: 02:30 min. Score: 6/6 points. Number of messages: 15.
+[Round 4] Duration: 02:19 min. Score: 6/6 points. Number of messages: 12.

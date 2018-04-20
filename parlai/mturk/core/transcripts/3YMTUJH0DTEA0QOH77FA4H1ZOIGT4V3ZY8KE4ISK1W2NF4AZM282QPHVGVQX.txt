@@ -1,0 +1,104 @@
+Game ID: 3YMTUJH0DTEA0QOH77FA4H1ZOIGT4V3ZY8KE4ISK1W2NF4AZM282QPHVGVQX
+Domain ID: 33
+Player A: A1TLQ6BTDQX7US
+Player B: AM2KK02JXXW48
+
+- - Round 1 - -
+[00:00] B: orange and green umbrella and man with hat
+[00:13] B: chinese lady painting a red umbrella
+[00:16] A: I don't have that one
+[00:31] A: I have the chines lady painting on red umbrella one
+[00:36] A: <selection> <com> person_umbrella/COCO_train2014_000000205931.jpg
+[00:36] B: lady on beach with blue umbrella and dark clothes
+[00:40] B: <selection> <dif> person_umbrella/COCO_train2014_000000122731.jpg
+[00:41] B: <selection> <com> person_umbrella/COCO_train2014_000000205931.jpg
+[00:48] A: I don't have that one
+[00:54] B: <selection> <dif> person_umbrella/COCO_train2014_000000036282.jpg
+[00:59] A: I have lady with big pink umbrella
+[01:05] A: <selection> <dif> person_umbrella/COCO_train2014_000000354843.jpg
+[01:09] B: have pink
+[01:28] B: done
+[01:29] A: I have person with blue jacket holding UK flag 
+[01:39] B: no UK flag
+[01:45] A: <selection> <dif> person_umbrella/COCO_train2014_000000489469.jpg
+[01:48] A: Ok, done
+- - Round 2 - -
+[02:12] B: lady on beach with blue umbrella
+[02:19] B: chinese lady painting red umbrella
+[02:22] A: I don't have lady on beach
+[02:26] B: <selection> <dif> person_umbrella/COCO_train2014_000000036282.jpg
+[02:35] A: I have chinese lady painting red umbrella one
+[02:38] A: <selection> <com> person_umbrella/COCO_train2014_000000205931.jpg
+[02:38] B: <selection> <com> person_umbrella/COCO_train2014_000000205931.jpg
+[02:49] B: little kid laying in grass
+[02:51] A: I have lady at airport holding umbrella
+[02:53] A: <selection> <com> person_umbrella/COCO_train2014_000000164634.jpg
+[02:59] A: Yes, I have the kid one
+[03:01] B: no airport
+[03:04] B: <selection> <com> person_umbrella/COCO_train2014_000000164634.jpg
+[03:04] A: <selection> <dif> person_umbrella/COCO_train2014_000000546408.jpg
+[03:09] B: I'm done
+[03:13] A: DOne
+- - Round 3 - -
+[03:25] B: UK flag
+[03:34] A: I don't have uk flag
+[03:37] B: beach lady with blue umbrella
+[03:39] B: <selection> <dif> person_umbrella/COCO_train2014_000000489469.jpg
+[03:43] A: I have lady on beach with blue umbrella
+[03:45] A: <selection> <com> person_umbrella/COCO_train2014_000000036282.jpg
+[03:48] B: airport 
+[03:51] B: <selection> <com> person_umbrella/COCO_train2014_000000036282.jpg
+[03:56] A: No airport
+[03:59] B: <selection> <dif> person_umbrella/COCO_train2014_000000546408.jpg
+[04:01] B: I'm done
+[04:13] A: No chinese lady?
+[04:16] A: <selection> <dif> person_umbrella/COCO_train2014_000000122731.jpg
+[04:17] A: <selection> <dif> person_umbrella/COCO_train2014_000000205931.jpg
+[04:19] B: no chinese
+[04:23] A: Ok done
+- - Round 4 - -
+[04:41] B: airport
+[04:45] B: UK flag
+[04:47] A: I have the airport girl
+[04:48] B: little kid in grass
+[04:51] A: <selection> <com> person_umbrella/COCO_train2014_000000164634.jpg
+[04:52] B: <selection> <com> person_umbrella/COCO_train2014_000000546408.jpg
+[05:02] A: yes I have little kid one
+[05:05] B: <selection> <com> person_umbrella/COCO_train2014_000000164634.jpg
+[05:10] A: blue umbrella on beach
+[05:16] B: no blue
+[05:19] A: <selection> <dif> person_umbrella/COCO_train2014_000000036282.jpg
+[05:26] A: <selection> <dif> person_umbrella/COCO_train2014_000000546408.jpg
+[05:38] A: ok done
+[05:39] B: UK flag...
+[05:43] A: no uk flag
+[05:48] B: <selection> <dif> person_umbrella/COCO_train2014_000000489469.jpg
+[05:55] B: done
+- - Round 5 - -
+[06:09] B: uk flag
+[06:14] B: big pink
+[06:14] A: Yes uk flag
+[06:18] A: <selection> <com> person_umbrella/COCO_train2014_000000489469.jpg
+[06:21] B: orange and green man
+[06:23] A: no pink one
+[06:23] B: <selection> <com> person_umbrella/COCO_train2014_000000489469.jpg
+[06:26] B: <selection> <dif> person_umbrella/COCO_train2014_000000354843.jpg
+[06:29] A: yes orange and green man
+[06:31] B: <selection> <com> person_umbrella/COCO_train2014_000000122731.jpg
+[06:31] A: <selection> <com> person_umbrella/COCO_train2014_000000122731.jpg
+[06:34] A: <selection> <dif> person_umbrella/COCO_train2014_000000546408.jpg
+[06:40] B: done
+[06:42] A: done
+[07:29] B: good luck!
+[07:41] A: Thanks! Same to you!
+[07:49] B: if you like crystals, I sell them on etsy.com.  My shop name is Gemniverse
+[07:53] B: lol gotta plug
+[08:02] A: Haha! Ok, thanks!
+
+- - Game statistics - -
+Duration: 08:07 min. Score: 27/30 points.
+[Round 0] Duration: 01:56 min. Score: 5/6 points. Number of messages: 12.
+[Round 1] Duration: 01:03 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 00:59 min. Score: 5/6 points. Number of messages: 10.
+[Round 3] Duration: 01:16 min. Score: 5/6 points. Number of messages: 11.
+[Round 4] Duration: 00:55 min. Score: 6/6 points. Number of messages: 13.

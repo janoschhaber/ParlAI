@@ -1,0 +1,186 @@
+Game ID: 3L4PIM1GQUEDIIP9SPYMKR4OVYCRYV3VP0C6EFSHUK2I2BHY7DF1QLQ1MM64
+Domain ID: 10
+Player A: A3J5UWZM4ZZ1D6
+Player B: A3POD149IG0DIW
+
+- - Round 1 - -
+[00:00] B: Do you have a white dog, tiny, on a red pillow?
+[00:20] A: no
+[00:34] A: do you have man giving his dog a drink of beer?
+[00:42] B: How about a big tan dog being fed beer by a guy in green and yellow t-shirt 
+[00:43] B: yes 
+[00:46] B: <selection> <com> person_dog/COCO_train2014_000000080394.jpg
+[00:47] B: <selection> <com> person_dog/COCO_train2014_000000080394.jpg
+[00:48] A: o
+[00:49] B: <selection> <dif> person_dog/COCO_train2014_000000522288.jpg
+[00:52] A: pk*
+[00:58] A: ok*
+[01:02] A: <selection> <com> person_dog/COCO_train2014_000000080394.jpg
+[01:25] B: How about a dog on a bus  with 3 people in the scene?
+[02:01] A: yes
+[02:12] B: Be sure to pull your page all the way down, there may be more yellow tags not visible
+[02:14] A: wait. i have no yellow strip
+[02:23] B: lol, me either lol
+[02:30] A: lol sip them
+[02:43] B: I do have a person in a california gray tee holding a chihuahua like a baby 
+[03:04] A: i dont
+[03:08] B: <selection> <dif> person_dog/COCO_train2014_000000194698.jpg
+[03:11] A: Do you have a black kid holding a tan small dog(pomeranian)?
+[03:42] B: i dont have that one
+[03:49] A: ok
+[03:52] A: <selection> <dif> person_dog/COCO_train2014_000000283451.jpg
+[04:30] A: Girl in pink dress with a black dog eating something.(this is my last one)
+[06:04] B: back
+[06:09] B: its broke for a second 
+[06:12] A: ok
+[06:13] B: wow
+[06:21] B: <selection> <dif> person_dog/COCO_train2014_000000522288.jpg
+[06:22] B: <selection> <com> person_dog/COCO_train2014_000000080394.jpg
+[06:30] A: Girl in pink dress with a black dog eating something.(this is my last one)
+[06:52] B: no  i dont have that 
+[07:08] B: im sorry, did you hae the chihuahua held like a baby?
+[07:11] B: i lost my content
+[07:34] A: nope
+[07:38] B: <selection> <dif> person_dog/COCO_train2014_000000194698.jpg
+[07:49] A: so we have 2 different and 1 common
+[07:52] A: <selection> <com> person_dog/COCO_train2014_000000324156.jpg
+[07:54] A: <selection> <dif> person_dog/COCO_train2014_000000324156.jpg
+[07:55] B: no white dog with red pillow wright?
+[08:05] A: correct. I dont have it
+[08:08] B: yes, that sounds right
+[08:14] A: submitting
+[08:15] B: submitting...
+- - Round 2 - -
+[08:49] B: hmmm, i got repeats 
+[09:12] B: do you have a grey california shirt with a chihuahua held like a baby?
+[09:31] A: yes I do
+[09:34] A: <selection> <com> person_dog/COCO_train2014_000000194698.jpg
+[09:34] B: <selection> <com> person_dog/COCO_train2014_000000194698.jpg
+[09:46] B: white tiny dog on a red pillow?
+[10:25] A: is there a wine glass in the picture?
+[10:31] B: yes
+[10:34] B: <selection> <com> person_dog/COCO_train2014_000000522288.jpg
+[10:36] A: yes
+[10:39] A: do you have a woman in a red shirt eating with a white and brown dog looking at the spoon
+[10:49] A: <selection> <com> person_dog/COCO_train2014_000000522288.jpg
+[10:52] B: no
+[10:57] A: ok
+[11:00] A: <selection> <dif> person_dog/COCO_train2014_000000420316.jpg
+[11:06] B: do you have the dog given beer again?
+[11:12] A: no
+[11:15] B: <selection> <dif> person_dog/COCO_train2014_000000080394.jpg
+[11:19] B: ok, im done 
+[11:21] A: mine are done. 
+[11:27] B: 2 same 1 different
+[11:28] A: ok submitting
+[11:33] A: yes
+[11:37] B: submitting
+- - Round 3 - -
+[12:04] B: do you have woman in red shirt with a dog and spoon?
+[12:28] A: yes
+[12:32] B: <selection> <com> person_dog/COCO_train2014_000000420316.jpg
+[12:33] A: do you have a man feeding his dog some beer?
+[12:40] A: <selection> <com> person_dog/COCO_train2014_000000420316.jpg
+[13:04] B: what about a little girl pink and white polka dot shirt feeding a dog 
+[13:16] B: no dog with beer this time for me 
+[13:30] A: k
+[13:42] B: what about a little girl pink and white polka dot shirt feeding a dog
+[13:47] A: yes but I cant choose that one
+[13:52] B: <selection> <com> person_dog/COCO_train2014_000000324156.jpg
+[14:02] A: its grayed out
+[14:07] B: do you have a black kid with a pomeranian
+[14:07] A: choose different
+[14:15] A: yes to that one
+[14:18] A: <selection> <com> person_dog/COCO_train2014_000000283451.jpg
+[14:19] A: <selection> <dif> person_dog/COCO_train2014_000000080394.jpg
+[14:27] B: <selection> <com> person_dog/COCO_train2014_000000283451.jpg
+[14:34] A: 2 common 1 different?
+[14:38] B: I thought we choose common even if its grayed out
+[14:43] B: are you 100% sure?
+[14:57] A: hm.
+[15:05] A: not 100%
+[15:33] A: no choose different
+[15:41] B: <selection> <dif> person_dog/COCO_train2014_000000324156.jpg
+[15:44] B: okay 
+[15:46] A: the only ones that matter are the yellow
+[15:50] B: ok
+[16:11] A: all green. so all correct. you?
+[16:11] B: 2 common, 1 different, submitting 
+[16:27] B: no i got a red one 
+[16:39] B: i cant change it 
+[16:40] A: the polka dot girl?
+[16:43] B: yeah
+[16:52] A: sorry. i was wrong
+[16:54] B: lets move on, 
+[16:56] B: no worries.
+- - Round 4 - -
+[16:57] A: yea
+[17:26] B: red shirt, spoon, and dog?
+[17:27] A: do you have the woman in red and the white and brown dog staring at the spoon?
+[17:32] A: yes
+[17:35] A: <selection> <com> person_dog/COCO_train2014_000000420316.jpg
+[17:40] B: <selection> <com> person_dog/COCO_train2014_000000420316.jpg
+[17:53] B: chihuahua held like a baby?
+[17:56] A: got the white dog with wine glass?
+[18:04] B: yes?
+[18:06] A: no I dont have that
+[18:14] B: yes  to the dog and wine glass
+[18:18] B: <selection> <com> person_dog/COCO_train2014_000000522288.jpg
+[18:18] A: ok
+[18:21] A: <selection> <com> person_dog/COCO_train2014_000000522288.jpg
+[18:32] B: so no dog with chihuahua?
+[18:35] B: <selection> <dif> person_dog/COCO_train2014_000000194698.jpg
+[18:38] A: no
+[18:42] B: ok, mine are done
+[19:05] A: got a black kid holding a small dog?
+[19:09] B: no
+[19:11] A: thats a no right
+[19:13] A: ok
+[19:16] B: 2 common, 1 different
+[19:17] A: <selection> <dif> person_dog/COCO_train2014_000000283451.jpg
+[19:24] A: yep
+[19:28] B: submitting 
+[19:32] A: me too
+- - Round 5 - -
+[19:49] B: girl in pink and white polka dots feeding dog?
+[20:00] A: No
+[20:03] B: <selection> <dif> person_dog/COCO_train2014_000000324156.jpg
+[20:05] A: a man feeding his dog beer?
+[20:21] B: man staring at tv screen with a doog looking longingly at the screen?
+[20:45] B: no to the man feeding  the dog beer
+[20:54] B: man staring at tv screen with a doog looking longingly at the screen?
+[21:05] A: no. I have a man watching tv and the dog staring at us. towards the camera
+[21:10] A: <selection> <dif> person_dog/COCO_train2014_000000080394.jpg
+[21:16] B: thats why i meant 
+[21:18] B: sorry
+[21:21] A: ok yes
+[21:22] B: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+[21:25] A: no prob
+[21:32] B: how about a dog on the bus?
+[21:40] A: no
+[21:45] B: <selection> <dif> person_dog/COCO_train2014_000000402297.jpg
+[21:54] A: chihuahua being held?
+[21:56] B: sorry no polka dots right?
+[22:02] A: no
+[22:09] B: no told the held chihuahua
+[22:19] B: 2 different, 1 common 
+[22:22] B: for me
+[22:23] A: black kid holding a tan and white dog?
+[22:30] A: <selection> <dif> person_dog/COCO_train2014_000000194698.jpg
+[22:33] B: no
+[22:34] A: <selection> <dif> person_dog/COCO_train2014_000000283451.jpg
+[22:43] A: correct. submitting
+[22:46] B: submitting
+[23:58] A: we all done?
+[24:08] B: I think so, strong work! 
+[24:09] B: Thanks 
+[24:13] B: have a nice night :)
+[24:14] A: Thanks
+
+- - Game statistics - -
+Duration: 24:18 min. Score: 29/30 points.
+[Round 0] Duration: 08:18 min. Score: 6/6 points. Number of messages: 35.
+[Round 1] Duration: 02:50 min. Score: 6/6 points. Number of messages: 18.
+[Round 2] Duration: 03:54 min. Score: 5/6 points. Number of messages: 30.
+[Round 3] Duration: 02:31 min. Score: 6/6 points. Number of messages: 21.
+[Round 4] Duration: 02:59 min. Score: 6/6 points. Number of messages: 28.

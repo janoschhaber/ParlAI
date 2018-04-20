@@ -1,0 +1,133 @@
+Game ID: 39KFRKBFIOTAL5XT0XHIQWZJKC7OY038F71OA9GUUGLBVMIRAH973YJ13MFN
+Domain ID: 0
+Player A: A5X1KZ9CCHREK
+Player B: A3JGW4RGO86NPX
+
+- - Round 1 - -
+[00:00] B: I got a guy doing a handstand by the beach
+[00:19] A: Do you have a guy on a bike with a pizza box in the front
+[00:29] A: yes
+[00:31] B: I don't have the pizza box
+[00:35] B: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[00:38] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[00:41] A: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[00:52] B: I have a girl in pink skirt and bikini top
+[01:04] A: me too
+[01:04] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[01:07] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[01:42] B: my last is a guy with red white and blue shirt looks like prepping for a bike race
+[01:59] A: yes
+[02:02] B: <selection> <com> person_bicycle/COCO_train2014_000000527112.jpg
+[02:12] B: I got all 3, you need any more?
+[02:21] A: no
+[03:11] A: are you done
+[03:15] B: my submit seems to do nothing
+[03:25] B: I'm done
+[03:27] A: me too
+[03:44] B: but I hit submit and the button disappeared but it's not moving on
+[04:13] A: i think we both need to refresh the page.
+[04:44] A: Did you do more than of this hit 
+[05:08] B: I've done about 10 or so
+[05:13] B: never had this happen before
+[05:36] A: I dont know what is going on/
+[06:03] B: guess I try refreshing
+[06:21] A: me too
+[06:35] B: I'm back
+[06:57] A: me too
+[07:03] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[07:07] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[07:09] A: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[07:15] B: it's lost the selections though
+[07:24] B: I think girl in pink skirt was a yes
+[07:31] A: yes
+[07:37] B: man by beach doing hand stand - yes
+[07:52] A: yes
+[07:52] B: and red white and blue guy was yes
+[07:55] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[07:56] B: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[07:57] B: <selection> <com> person_bicycle/COCO_train2014_000000527112.jpg
+[08:00] A: yes
+[08:02] B: but no pizza
+[08:12] B: you missing any?
+[08:13] A: yes no pizza
+[08:23] A: im good.
+[08:30] B: ok, trying submit again then
+- - Round 2 - -
+[08:39] B: yay
+[08:48] B: now I have pizza guy
+[08:55] A: yes
+[08:58] B: <selection> <com> person_bicycle/COCO_train2014_000000293658.jpg
+[09:00] A: <selection> <com> person_bicycle/COCO_train2014_000000293658.jpg
+[09:25] B: and man putting bike on rack at front of bus
+[09:30] A: hands stand on the beach
+[09:38] B: I don't have hand stand
+[09:46] A: no i dont have that
+[09:50] B: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[09:54] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[10:19] B: I have a woman in white jacket and man in gray jacket with orange pants standing by train
+[10:40] A: no woman
+[10:49] B: <selection> <dif> person_bicycle/COCO_train2014_000000034815.jpg
+[10:51] A: do you have the guy with a racing shirt on?
+[10:58] B: not this time
+[11:03] B: I'm ready
+[11:07] A: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+- - Round 3 - -
+[11:55] B: I have the pizza guy
+[12:03] A: do you have the two train people?
+[12:08] A: no
+[12:21] B: I have the 2 train people, yes
+[12:23] B: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[12:26] B: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[12:28] A: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[12:41] B: and I have the man putting the bike on the front of the bus
+[12:48] A: do you have have the pink skirt girl?
+[12:56] A: yes i have the guy
+[12:59] A: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[13:01] B: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[13:05] B: I'm done
+[13:27] A: do you have the pink girl skirt on?
+[13:34] B: no
+[13:38] A: <selection> <dif> person_bicycle/COCO_train2014_000000086189.jpg
+- - Round 4 - -
+[13:59] B: now I have the pink skirt girl
+[14:07] A: me too
+[14:09] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[14:17] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[14:22] A: how about the train people 
+[14:27] B: and the train people, yes
+[14:29] B: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[14:34] A: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[14:39] B: and the man putting bike on front of bus
+[14:58] A: how about the handstand guy?
+[15:02] B: no
+[15:04] A: no 
+[15:07] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[15:27] B: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+- - Round 5 - -
+[15:48] A: do you have the bus rack
+[15:53] B: I have the racing shirt guy
+[15:57] B: no on the bus rack
+[16:05] A: no racing guy
+[16:18] B: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[16:19] A: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[16:29] B: I have a guy in blue with gas cannisters
+[16:35] A: how about the hansstand guy?
+[16:44] A: no gas
+[16:51] B: no handstand
+[16:55] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[16:56] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[17:04] A: how about the pizza guy
+[17:12] B: no pizza
+[17:20] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[17:27] B: I have a guy squatted down between 2 bikes taking a picture
+[17:37] A: yes
+[17:48] B: <selection> <com> person_bicycle/COCO_train2014_000000441488.jpg
+[17:52] B: <selection> <dif> person_bicycle/COCO_train2014_000000386326.jpg
+
+- - Game statistics - -
+Duration: 18:22 min. Score: 30/30 points.
+[Round 0] Duration: 08:34 min. Score: 6/6 points. Number of messages: 36.
+[Round 1] Duration: 02:54 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 01:44 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 01:30 min. Score: 6/6 points. Number of messages: 8.
+[Round 4] Duration: 02:05 min. Score: 6/6 points. Number of messages: 12.

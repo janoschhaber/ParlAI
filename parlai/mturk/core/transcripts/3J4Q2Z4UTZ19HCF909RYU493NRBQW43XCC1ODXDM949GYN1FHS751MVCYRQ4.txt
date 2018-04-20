@@ -1,0 +1,115 @@
+Game ID: 3J4Q2Z4UTZ19HCF909RYU493NRBQW43XCC1ODXDM949GYN1FHS751MVCYRQ4
+Domain ID: 24
+Player A: AQSB97UW88SO2
+Player B: ASW9MABLSXSPK
+
+- - Round 1 - -
+[00:00] A: I have a picture of a baby wearing white, sitting on a brown couch, to the right of a teddy bear.
+[00:06] B: I have a little girl in a diaper hugging a teddy bear with a red bow
+[00:07] A: The bear has a green bow around its neck.
+[00:16] B: I don't have that one
+[00:17] A: I do not have that one.
+[00:21] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000157714.jpg
+[00:22] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000340923.jpg
+[00:54] B: A beaver mascot pointing at a guy with a black and purple jacket. with lots of people around.
+[01:07] A: I do not have that one
+[01:11] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000319818.jpg
+[01:31] A: I have a little girl wearing a white short-sleeved shirt sitting on a step to the right of a small 
+[01:33] A: brown bear.
+[01:45] B: A little girl in a white shirt sitting on a step next to a p.....yep I have that one too.
+[01:48] B: <selection> <com> person_teddy_bear/COCO_train2014_000000136701.jpg
+[01:52] A: <selection> <com> person_teddy_bear/COCO_train2014_000000136701.jpg
+[02:26] A: My last one is a man holding two very large stuffed bears. The one on the left is dark brown
+[02:36] A: and the one on the right is beige
+[02:36] B: I don't have that one.
+[02:41] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000184930.jpg
+[03:06] A: All right. I'm ready for your last one whenever you're ready.
+[03:25] B: I got all 3 of mine :)
+- - Round 2 - -
+[03:51] B: A baby on a couch next to a teddy bear with a green bow. 
+[03:58] A: I have that girl wearing the white short-sleeved shirt with the brown bear on the step again.
+[04:01] A: I have that one as well.
+[04:05] A: <selection> <com> person_teddy_bear/COCO_train2014_000000340923.jpg
+[04:15] B: I don't have the girl on the step.
+[04:17] B: <selection> <com> person_teddy_bear/COCO_train2014_000000340923.jpg
+[04:19] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000136701.jpg
+[04:46] B: A man sandwiched between 2 giant teddy bears. 
+[05:05] A: My last one is a boy wearing a blue long-sleeved shirt and he is holding bear with a red shirt.
+[05:12] A: I have the one with the man holding the two large bears.
+[05:36] B: With a yellow thing tied around his neck? little boy pic
+[05:39] B: <selection> <com> person_teddy_bear/COCO_train2014_000000184930.jpg
+[05:39] A: yes
+[05:41] B: <selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg
+[05:49] A: <selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg
+[05:59] B: I have that one.  I got all of mine, do you have one more?
+[06:09] A: That's all of mine as well
+- - Round 3 - -
+[06:36] A: I have the one with the boy with the yellow thing around his neck again.
+[06:41] B: Beaver mascot pointing at guy in black and purple.
+[06:51] A: I have that one.
+[06:53] B: I don't have the boy with yellow neck thing
+[06:54] A: <selection> <com> person_teddy_bear/COCO_train2014_000000319818.jpg
+[06:56] B: <selection> <com> person_teddy_bear/COCO_train2014_000000319818.jpg
+[06:57] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000207354.jpg
+[07:18] B: I have the girl in white shirt on step next to teddy bear again.
+[07:25] A: I don't have that one
+[07:28] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000136701.jpg
+[07:46] B: baby in diaper hugging bear with red ribbon on neck
+[07:59] A: I have a little baby girl holding onto/hiding behind a large white bear with a red bow
+[08:23] B: with a red/blue rug in background
+[08:27] A: Yes.
+[08:30] A: <selection> <com> person_teddy_bear/COCO_train2014_000000157714.jpg
+[08:32] B: I have that one.
+[08:34] B: <selection> <com> person_teddy_bear/COCO_train2014_000000157714.jpg
+[08:40] A: All right, that's all of mine again.
+[08:44] B: me too
+- - Round 4 - -
+[08:57] A: I have the last one we were just discussing
+[09:10] B: Baby with Dr. Pepper between 2 bears
+[09:22] A: I don't have the Dr. Pepper one.
+[09:33] B: Man sandwiched by giant teddy bears
+[09:36] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000374391.jpg
+[09:39] A: I don't have that one
+[09:58] A: I have the little girl holding onto the white bear with a red bow
+[10:05] A: with the red and blue carpet
+[10:08] B: lady with red/white striped shirt holding up bear with bow and wreath
+[10:16] B: I dont have the little girl
+[10:19] A: Yes, I have that one
+[10:21] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000184930.jpg
+[10:25] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000157714.jpg
+[10:26] B: <selection> <com> person_teddy_bear/COCO_train2014_000000419186.jpg
+[10:31] A: I have the girl on the step again.
+[10:40] B: i don't have her.
+[10:42] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000136701.jpg
+[10:54] A: And I have the baby on the couch next to the bear with the green bow around its neck.
+[11:03] B: I don't have that one
+[11:06] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000340923.jpg
+[11:10] A: All right, that's it for me.
+[11:15] B: me too
+- - Round 5 - -
+[11:26] B: beaver mascot
+[11:28] A: I have the beaver pointing at the guy
+[11:31] A: <selection> <com> person_teddy_bear/COCO_train2014_000000319818.jpg
+[11:34] B: yep
+[11:39] A: I have the boy with the yellow thing around his neck.
+[11:47] B: boy with yellow ne.....yep
+[11:49] B: <selection> <com> person_teddy_bear/COCO_train2014_000000319818.jpg
+[11:51] B: <selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg
+[11:51] A: <selection> <com> person_teddy_bear/COCO_train2014_000000207354.jpg
+[12:01] A: And I have the baby on the couch next to the bear with the green bow.
+[12:05] B: baby hugging white bear with red ribbon
+[12:15] A: I don't have that one.
+[12:16] B: I don't have the couch one
+[12:19] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000157714.jpg
+[12:26] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000340923.jpg
+[12:45] B: That's all of mine
+[12:48] A: Did you have anymore
+[12:50] A: All right
+
+- - Game statistics - -
+Duration: 13:26 min. Score: 30/30 points.
+[Round 0] Duration: 03:21 min. Score: 6/6 points. Number of messages: 15.
+[Round 1] Duration: 02:21 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 02:09 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 02:17 min. Score: 6/6 points. Number of messages: 16.
+[Round 4] Duration: 01:21 min. Score: 6/6 points. Number of messages: 12.

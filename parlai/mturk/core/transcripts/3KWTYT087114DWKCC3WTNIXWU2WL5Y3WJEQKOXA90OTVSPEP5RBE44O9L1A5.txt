@@ -1,0 +1,117 @@
+Game ID: 3KWTYT087114DWKCC3WTNIXWU2WL5Y3WJEQKOXA90OTVSPEP5RBE44O9L1A5
+Domain ID: 0
+Player A: AM2KK02JXXW48
+Player B: A3J5UWZM4ZZ1D6
+
+- - Round 1 - -
+[00:00] A: handstand on bike at beach
+[00:06] A: I mean skateboard
+[00:18] B: no
+[00:30] A: red, white, blue shirt, red helmet, older man on bike
+[00:33] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[00:47] B: kid in an orange bucket on bike
+[00:55] A: yes orange
+[00:56] B: no
+[01:03] A: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[01:32] A: older man, going over small ramp on bike, wearing white shirt, brown shorts, delievering pizza, 
+[01:54] B: man in orange shirt with his bike in front of him
+[02:00] A: 3 pizza boxes strapped to front of bike
+[02:02] B: yes
+[02:04] A: no orange shirt
+[02:10] B: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[02:12] B: <selection> <com> person_bicycle/COCO_train2014_000000293658.jpg
+[02:17] A: <selection> <com> person_bicycle/COCO_train2014_000000293658.jpg
+[02:22] A: done
+[02:31] B: two  people standing nexxt to their bikes
+[02:42] A: no two people
+[02:46] B: <selection> <dif> person_bicycle/COCO_train2014_000000034815.jpg
+- - Round 2 - -
+[02:58] A: handstand
+[03:05] B: no
+[03:16] B:  two people standing nexxt to their bikes, white shirt and gray shirt
+[03:20] A: two peoples with bikes, standing next to train
+[03:24] B: yes
+[03:27] B: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[03:28] A: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[03:30] A: yes
+[03:45] A: pink skirt woman on orange bike
+[03:46] B: girl with pink sirt riding bike
+[03:51] B: yes
+[03:54] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[03:55] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[03:57] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[03:59] A: done
+[04:10] B: man in orange in front of bus with bike
+[04:15] B: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[04:23] A: no orange
+- - Round 3 - -
+[04:43] A: handstand
+[04:47] A: man in orange
+[04:56] B: no handstand
+[05:01] A: pizza delivery on bike over ramp
+[05:04] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[05:05] B: red white blue man on bike
+[05:10] B: no
+[05:15] A: no red
+[05:26] B: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[05:39] B: man in blue shirt black shorts
+[05:45] A: no orange man or no pizza delivery, 
+[05:53] A: no blue shirt
+[05:54] B: no
+[05:59] B: <selection> <dif> person_bicycle/COCO_train2014_000000386326.jpg
+[06:03] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[06:04] A: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[06:10] A: done
+[06:13] B: man kneeling taking picture
+[06:17] B: <selection> <dif> person_bicycle/COCO_train2014_000000441488.jpg
+[06:26] A: yes, have him
+[06:30] B: <selection> <com> person_bicycle/COCO_train2014_000000441488.jpg
+- - Round 4 - -
+[06:39] A: pink skirt
+[06:45] B: red white and blue guy
+[06:47] B: yes
+[06:50] A: handstand
+[06:51] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[06:53] B: no
+[06:55] A: yes red
+[06:56] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[06:58] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[06:59] B: <selection> <com> person_bicycle/COCO_train2014_000000527112.jpg
+[07:11] B: hey handstand yes. sorry
+[07:15] A: pizza delievery
+[07:18] A: ok
+[07:18] B: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[07:20] A: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[07:28] B: no delivery guy
+[07:32] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[07:34] A: done
+[07:40] B: done
+- - Round 5 - -
+[07:50] A: pink skirt
+[07:54] A: orange shirt
+[07:57] B: delivery guy with pizza
+[08:05] B: no pink
+[08:07] A: two people standing next to bikes by train
+[08:10] A: <selection> <dif> person_bicycle/COCO_train2014_000000086189.jpg
+[08:12] B: orange shirt guy yes
+[08:14] A: no pizza
+[08:16] B: and yes
+[08:18] A: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[08:23] A: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[08:26] B: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[08:28] B: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[08:31] A: done
+[08:33] B: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[08:54] B: all done
+[09:13] A: If you like crystals, I sell them on etsy.com.  My shop name is Gemniverse
+[09:19] B: lol
+[09:21] A: Gotta plug. Good luck!
+[09:26] B: later
+
+- - Game statistics - -
+Duration: 09:38 min. Score: 30/30 points.
+[Round 0] Duration: 02:46 min. Score: 6/6 points. Number of messages: 15.
+[Round 1] Duration: 01:27 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 01:47 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 01:00 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 01:04 min. Score: 6/6 points. Number of messages: 14.

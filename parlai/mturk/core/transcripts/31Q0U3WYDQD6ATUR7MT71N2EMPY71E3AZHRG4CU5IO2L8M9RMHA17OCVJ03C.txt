@@ -1,0 +1,97 @@
+Game ID: 31Q0U3WYDQD6ATUR7MT71N2EMPY71E3AZHRG4CU5IO2L8M9RMHA17OCVJ03C
+Domain ID: 6
+Player A: A3N3LHDJHLHLTQ
+Player B: A1T3YNSVCIU7SC
+
+- - Round 1 - -
+[00:00] A: woman with a man looking at her phone?
+[00:04] B: yes
+[00:07] B: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[00:07] A: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[00:31] A: woman in hat interviewing man in cowboy hat?
+[00:47] B: is she wearing red?
+[00:50] A: yes
+[01:01] B: yes. 
+[01:02] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[01:07] B: guying writing on his hand?
+[01:10] A: no
+[01:27] A: woman in jeans with open trunk and suitcases?
+[01:36] B: no
+[01:39] A: <selection> <dif> person_car/COCO_train2014_000000394151.jpg
+[01:40] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[01:42] B: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+- - Round 2 - -
+[02:23] A: woman in jeans with open trunk and suitcases?
+[02:29] B: yes
+[02:32] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[02:33] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[02:47] B: guy and girl in black looking at a phone?
+[02:53] A: no
+[02:59] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[03:00] A: two women eating what look like pink colored donuts?
+[03:10] B: nope
+[03:11] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[03:23] B: women in red recording guy in suit?
+[03:27] A: yes
+[03:29] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[03:30] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+- - Round 3 - -
+[04:04] A: two women eating pink donuts?
+[04:09] B: nope
+[04:12] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[04:31] A: guy writing on his hand?
+[04:31] B: guy on the phone sitting on wall?
+[04:37] B: nope
+[04:42] A: no
+[04:46] B: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[04:46] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[04:50] A: wait
+[05:22] A: woman in black with man in black looking at her phone?
+[05:30] B: nope
+[05:34] A: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[05:40] B: guy in blue on the phone smiling?
+[05:50] A: no
+[05:57] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[06:29] B: guy walking across the street holding a coffee cup?
+[06:36] A: no
+[06:38] B: <selection> <dif> person_car/COCO_train2014_000000405991.jpg
+- - Round 4 - -
+[07:01] A: guy writing on his hand?
+[07:06] B: nope
+[07:08] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[07:14] B: two people eating pink donuts?
+[07:19] A: yes
+[07:21] A: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[07:22] B: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[07:28] A: woman in jeans with suitcases?
+[07:41] B: yes
+[07:43] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[07:43] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[07:53] B: guy in blue on phone?
+[07:58] A: no
+[08:23] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+- - Round 5 - -
+[08:39] A: two women eating pink donuts?
+[08:40] B: guy writing on his hand?
+[08:44] B: nope
+[08:47] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[09:34] A: yes
+[09:37] A: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[09:38] B: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[09:48] A: smiling guy in blue short on phone?
+[10:04] B: no
+[10:07] A: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[10:22] B: guy and girl in black looking at phone?
+[10:27] A: no
+[10:31] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[11:37] B: girl in red recording guy in suit?
+[11:44] A: no
+[12:29] B: <selection> <dif> person_car/COCO_train2014_000000563545.jpg
+
+- - Game statistics - -
+Duration: 14:00 min. Score: 28/30 points.
+[Round 0] Duration: 01:45 min. Score: 6/6 points. Number of messages: 10.
+[Round 1] Duration: 01:27 min. Score: 6/6 points. Number of messages: 8.
+[Round 2] Duration: 02:35 min. Score: 5/6 points. Number of messages: 13.
+[Round 3] Duration: 01:23 min. Score: 5/6 points. Number of messages: 8.
+[Round 4] Duration: 03:52 min. Score: 6/6 points. Number of messages: 10.

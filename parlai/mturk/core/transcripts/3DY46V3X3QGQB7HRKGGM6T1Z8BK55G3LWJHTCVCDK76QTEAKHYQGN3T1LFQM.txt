@@ -1,0 +1,101 @@
+Game ID: 3DY46V3X3QGQB7HRKGGM6T1Z8BK55G3LWJHTCVCDK76QTEAKHYQGN3T1LFQM
+Domain ID: 16
+Player A: A2W3KKNN3CAY66
+Player B: A1G5LW8397QGIH
+
+- - Round 1 - -
+[00:00] A: Do you have a picture of a lady getting a dish out of a stainless steel oven
+[00:32] B: Yes getting pizza out. She is a women with light hair, and a very large oven.
+[00:35] B: <selection> <com> person_oven/COCO_train2014_000000439463.jpg
+[01:01] A: no i don't have that one. 
+[01:04] A: <selection> <dif> person_oven/COCO_train2014_000000560784.jpg
+[01:05] B: <selection> <dif> person_oven/COCO_train2014_000000439463.jpg
+[01:36] A: I have a photo of a man in a black shirt standing next to a stainless steel outdoor grill
+[02:03] B: yes with some type of meat on the right side of the grill
+[02:14] A: yes that is the one. 
+[02:16] A: <selection> <com> person_oven/COCO_train2014_000000550438.jpg
+[02:17] B: <selection> <com> person_oven/COCO_train2014_000000550438.jpg
+[02:58] A: do you have a photo of a lady with a hat on putting something in a large pot.  
+[03:38] B: Yes with a striped green shirt and its a stainless steel pop and kitchen
+[03:45] B: <selection> <com> person_oven/COCO_train2014_000000203730.jpg
+[03:46] A: yes that is the one
+[03:49] A: <selection> <com> person_oven/COCO_train2014_000000203730.jpg
+- - Round 2 - -
+[04:25] B: Do  you have a brunette women in a hunter green shirt putting a dish in a stove?
+[04:31] A: I have a picture with a lady with blond hair getting a pizza out of a pizza oven
+[04:45] A: Yes I have your photo
+[04:48] A: <selection> <com> person_oven/COCO_train2014_000000560784.jpg
+[04:50] B: I do not have your photo
+[04:53] B: <selection> <com> person_oven/COCO_train2014_000000560784.jpg
+[04:54] A: <selection> <dif> person_oven/COCO_train2014_000000439463.jpg
+[05:20] A: Do you have a photo of a black man with a white shirt putting food in a bowl with a ladle. 
+[05:56] B: yes a white bowl. he has a watch on
+[05:57] B: Do you have a older man with white and gray hair with a oven mit getting something out the stove
+[06:03] B: <selection> <com> person_oven/COCO_train2014_000000118694.jpg
+[06:12] A: yes I have that one
+[06:17] A: <selection> <com> person_oven/COCO_train2014_000000118694.jpg
+[06:20] B: <selection> <com> person_oven/COCO_train2014_000000305709.jpg
+- - Round 3 - -
+[06:50] A: Do you have a photo of a black man with a white shirt putting food in a bowl with a ladle.
+[07:07] B: No I do not have that photo.
+[07:09] A: <selection> <dif> person_oven/COCO_train2014_000000118694.jpg
+[07:32] B: Do you have a lady with the striped green shit and hat putting something in a stainless steel bowl
+[07:40] B: shirt*
+[07:47] A: No I don't
+[07:56] B: I mean a pot not a bowl
+[07:57] B: <selection> <dif> person_oven/COCO_train2014_000000203730.jpg
+[08:13] A: I have a photo of a lady with blond hair getting a pizza out of an oven.
+[08:21] B: yes I have that
+[08:24] B: Do you have a man with a black shit by a stainless steel grill outside
+[08:24] A: <selection> <com> person_oven/COCO_train2014_000000439463.jpg
+[08:33] A: I still do not have your last photo
+[08:48] B: <selection> <com> person_oven/COCO_train2014_000000439463.jpg
+[08:51] A: My last photo is of an older white guy getting a dish out of an oven
+[09:13] B: <selection> <dif> person_oven/COCO_train2014_000000550438.jpg
+[09:16] B: Yes I have that
+[09:20] A: <selection> <com> person_oven/COCO_train2014_000000305709.jpg
+[09:30] A: Have you completed all 3 photos
+[09:39] B: Yes I have
+- - Round 4 - -
+[10:14] B: Do you have a photo of a brunette in a green shirt getting something out of the oven?
+[10:25] A: yes i do. 
+[10:28] A: <selection> <com> person_oven/COCO_train2014_000000560784.jpg
+[10:50] A: Do you have a photo of a lady with a striped green shirt and hat on putting food in a dish
+[11:00] B: Yes I have that photo.
+[11:01] A: or pot I guess
+[11:02] B: <selection> <com> person_oven/COCO_train2014_000000203730.jpg
+[11:04] A: <selection> <com> person_oven/COCO_train2014_000000203730.jpg
+[11:06] B: <selection> <com> person_oven/COCO_train2014_000000560784.jpg
+[11:22] B: Do you have a photo of the guy in a black shirt at the grill?
+[11:31] A: no i don't
+[11:34] B: <selection> <dif> person_oven/COCO_train2014_000000550438.jpg
+[11:45] A: my last photo is of a black guy putting food in a dish
+[11:47] A: <selection> <dif> person_oven/COCO_train2014_000000118694.jpg
+[11:59] B: I do not have that one
+[12:49] A: thanks
+- - Round 5 - -
+[13:21] A: I have a photo of a blonde haired lady getting a pizza out of a pizza oven
+[13:31] B: I do not have that
+[13:32] B: Do you have a photo of a man wearing a white and black apron pulling something out of a oven?
+[13:35] A: <selection> <dif> person_oven/COCO_train2014_000000439463.jpg
+[13:40] A: <selection> <com> person_oven/COCO_train2014_000000118694.jpg
+[13:45] A: yes i do
+[13:48] B: <selection> <com> person_oven/COCO_train2014_000000162573.jpg
+[14:09] A: Do you have a photo of a man outside standing next to a grill 
+[14:11] B: I have a photo of a lady in a blue shirt and black hat getting something out of a cooler
+[14:31] A: I don't have that one
+[14:57] A: Do you have a photo of a man outside standing next to a grill
+[14:58] B: <selection> <dif> person_oven/COCO_train2014_000000481144.jpg
+[15:03] B: I dont have that one
+[15:08] A: <selection> <dif> person_oven/COCO_train2014_000000550438.jpg
+[15:17] B: do you have a photo of a man with short gray and white hair getting meat out of the oven?
+[15:27] A: no I don't
+[15:34] B: <selection> <dif> person_oven/COCO_train2014_000000305709.jpg
+
+- - Game statistics - -
+Duration: 16:11 min. Score: 28/30 points.
+[Round 0] Duration: 03:50 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 02:05 min. Score: 6/6 points. Number of messages: 8.
+[Round 2] Duration: 02:50 min. Score: 5/6 points. Number of messages: 14.
+[Round 3] Duration: 01:36 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 02:13 min. Score: 5/6 points. Number of messages: 11.

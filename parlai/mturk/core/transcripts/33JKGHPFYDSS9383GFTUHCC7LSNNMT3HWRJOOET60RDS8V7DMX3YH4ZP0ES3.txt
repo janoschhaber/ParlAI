@@ -1,0 +1,118 @@
+Game ID: 33JKGHPFYDSS9383GFTUHCC7LSNNMT3HWRJOOET60RDS8V7DMX3YH4ZP0ES3
+Domain ID: 5
+Player A: ATCU3JC12ZH0N
+Player B: A31681CCEVDIH3
+
+- - Round 1 - -
+[00:00] A: Hello
+[00:06] B: I have a little boy blowing out two candles
+[00:23] A: Yes, me too
+[00:24] B: He has a black shirt on
+[00:26] B: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[00:27] A: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[00:42] A: Yes, with grey sleeves
+[00:45] B: I have three people in white military clothing cutting a cake
+[00:56] A: No
+[00:59] B: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[01:14] B: I have a man in camo and a camo hat cutting a long cake
+[01:31] A: Not that one either
+[01:34] B: <selection> <dif> person_cake/COCO_train2014_000000488127.jpg
+[01:48] B: I'm ready, which do you need
+[01:53] A: Do you have a boy in red and white getting cake at a table?
+[02:00] B: I do
+[02:05] A: <selection> <com> person_cake/COCO_train2014_000000478537.jpg
+[02:37] A: Do you have 4 men cutting a large cake?
+[02:49] A: Naval Officers
+[03:03] B: I see one with three men, the cake has yellow trim
+[03:37] A: Ok, thats a different one, thanks! Im done with my 3
+[03:40] A: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[03:54] B: I'm submitting
+[04:04] A: Sorry, I just did already
+- - Round 2 - -
+[04:19] B: red and white little boy
+[04:28] A: No
+[04:49] B: four men in navy suits, I guess the Naval officers, cutting a cake
+[04:54] B: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[05:00] A: Yes, got it
+[05:01] B: and camo guy gutting cake
+[05:03] A: <selection> <com> person_cake/COCO_train2014_000000447941.jpg
+[05:03] B: <selection> <com> person_cake/COCO_train2014_000000447941.jpg
+[05:13] A: Have that one too
+[05:16] B: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[05:17] A: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[05:30] A: Two Navys cutting a red/white striped cake?
+[06:03] B: I see a man and a woman, cutting a cake with a flag on it
+[06:10] B: the man is in full uniform
+[06:16] B: that, or no
+[06:27] A: No, thats different
+[06:36] A: There's my three
+[06:36] B: Okay, no then
+[06:40] A: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[06:48] B: submitting
+[06:50] A: Submitting now
+- - Round 3 - -
+[07:20] B: red and white striped cake with Navy guys
+[07:30] A: No
+[07:40] B: Four navy suits cutting cake
+[07:51] A: No
+[07:58] B: three white uniformed, yellow trim cake
+[08:06] B: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[08:06] A: Yes, got it
+[08:08] B: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[08:10] B: <selection> <com> person_cake/COCO_train2014_000000052928.jpg
+[08:10] A: <selection> <com> person_cake/COCO_train2014_000000052928.jpg
+[08:29] A: Army man in cammo at the big cake?
+[08:35] B: yes
+[08:53] A: ok, thanks
+[09:02] A: Little boy blowing out two candles
+[09:08] A: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[09:12] B: nope
+[09:15] A: <selection> <dif> person_cake/COCO_train2014_000000055912.jpg
+[09:24] A: There's my three
+[09:33] B: okay submitting
+[09:35] A: Submitting now too
+- - Round 4 - -
+[09:54] B: two candles little boy
+[10:01] A: Got it!
+[10:04] A: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[10:04] B: yellow trim cake
+[10:11] B: five ladies standing near cake
+[10:16] B: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[10:24] A: No yellow trim cake
+[10:26] B: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[10:31] A: Yes to the five ladies
+[10:33] A: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[10:33] B: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[10:50] A: Two Navys at the red/white cake?
+[10:57] B: nope
+[11:00] A: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[11:06] A: Thanks!
+[11:15] A: Submitting now
+- - Round 5 - -
+[11:36] B: red white striped cake
+[11:44] B: four navy suits 
+[11:44] A: Got it!
+[11:46] A: <selection> <com> person_cake/COCO_train2014_000000481931.jpg
+[11:47] B: five ladies
+[11:56] B: <selection> <com> person_cake/COCO_train2014_000000481931.jpg
+[12:12] A: Sorry, No to the 4 navy suits
+[12:18] B: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[12:27] A: Yes to the striped cake
+[12:35] A: Yes to the 5 ladies
+[12:38] B: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[12:43] B: okay what do you need
+[12:48] A: Yellow-trimmed cake?
+[12:51] A: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[12:55] B: nope
+[12:59] A: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[13:09] A: That's it for me, submitting now
+[13:38] A: Thanks!!!
+[13:44] B: You too!
+
+- - Game statistics - -
+Duration: 13:56 min. Score: 30/30 points.
+[Round 0] Duration: 03:44 min. Score: 6/6 points. Number of messages: 18.
+[Round 1] Duration: 02:33 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 02:19 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 01:27 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 01:38 min. Score: 6/6 points. Number of messages: 13.

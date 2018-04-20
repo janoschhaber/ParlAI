@@ -1,0 +1,128 @@
+Game ID: 3M0NZ3JDP2WOIL1GR4N2VX8U8Y95ZF37ZHEEHM6XK2KW86UQ7QPGHBK9937Z
+Domain ID: 18
+Player A: A1689SP9SJBJDA
+Player B: A22ABLVEI5EGPL
+
+- - Round 1 - -
+[00:00] A: Hello!
+[00:09] B: Hi!
+[00:32] A: I can see a small child in a read hooded sweatshirt and jeans, sitting on a bench
+[00:37] A: Can you see them?
+[00:43] B: I do not have that photo.
+[00:48] A: Alright.
+[00:51] A: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[01:08] A: Have you got two people wearing white shirts, and orange aprons, making pizza in a pizzeria?
+[01:19] B: I do not have that.
+[01:27] A: Okay
+[01:30] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[01:49] A: Maybe you've got a lady in a tank top taking a photo of her open fridge?
+[01:56] B: Do you have a photo with a woman taking a picture of a fridge with a coke bottle on the door?
+[02:10] A: Yes, that is the one I was referring to! Great!
+[02:14] A: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[02:42] B: Do you have one where a person is taking a picture of a woman in the kitchen?
+[02:51] A: No, I do not.
+[03:03] B: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[03:04] B: <selection> <dif> person_refrigerator/COCO_train2014_000000254658.jpg
+[03:18] B: Is there one where a woman in a blue dress is opening the fridge?
+[03:53] A: I don't believe so, could you give me a little more detail please?
+[04:15] B: She is opening the fridge while a man is preparing food.
+[04:24] A: No, I do not have that one, I'm sorry
+[04:27] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[04:35] B: That is it for me on this page.
+[04:41] A: Same here, ready to continue
+- - Round 2 - -
+[05:00] A: I have a woman being photographed while opening a fridge this time
+[05:08] A: She is in dark clothing, wearing a white or light colored apron
+[05:21] B: It has pink animals on it?
+[05:37] A: Looks like it...you must have binoculars! 
+[05:37] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[05:56] B: Ok, I have that one.
+[05:59] A: Great
+[06:01] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[06:16] B: I have the woman in the blue dress opening the fridge while the man makes food again.
+[06:27] A: I still do not have her.
+[06:32] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[06:43] A: I do have a woman in a black pea coat (I believe) sitting at a table with a slice of pizza
+[06:50] B: I have that too.
+[06:52] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[06:56] A: Sweet deal!
+[06:59] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[07:08] B: That is it for me.
+[07:11] A: Once again, I have the two people in white with orange aprons making pizzas
+[07:18] A: This is my last one
+[07:29] B: I do not have that. 
+[07:32] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[07:38] A: Alright, moving on then :-)
+- - Round 3 - -
+[08:04] A: Again, I have the people making pizza in orange aprons
+[08:10] B: I do not have that.
+[08:32] A: Okay, I have the woman in blue at the open fridge while the man preps food at the counter
+[08:39] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[08:42] B: I do not have that this time.
+[08:48] A: Okay
+[08:49] A: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[09:00] B: I have a baby in a red sweatshirt sitting on a bench.
+[09:12] A: I do not have that one this time.
+[09:13] A: Have you got the woman in a tank top taking a photo of her open fridge with coke bottle?
+[09:19] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[09:25] B: I do not have that photo.
+[09:31] A: Okay.
+[09:33] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[09:40] B: I have a man getting a piece of pie.
+[09:41] A: That's all for me, anything else you need to solve?
+[09:48] A: I believe I do too.
+[09:52] B: <selection> <com> person_refrigerator/COCO_train2014_000000418620.jpg
+[10:05] A: Is he wearing dark colored clothing, and the pie is in a aluminum pie tin?
+[10:05] B: I have a man making a pizza with his daughter.
+[10:09] B: Yeah
+[10:22] A: I do not have the man making pizza. But we do both seem to have the pie guy
+[10:32] B: <selection> <dif> person_refrigerator/COCO_train2014_000000305451.jpg
+[10:41] B: That is it for me.
+- - Round 4 - -
+[11:00] A: Have you got the woman in the animal apron being photographed?
+[11:06] B: Yes I do.
+[11:07] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[11:11] A: Great, so do I!
+[11:12] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[11:21] A: And the woman in the black pea coat with the pizza pie?
+[11:28] B: I do not have that.
+[11:45] A: Okay, that's alright. How about the woman in blue near the open fridge with the man cooking?
+[11:47] A: <selection> <dif> person_refrigerator/COCO_train2014_000000449904.jpg
+[11:48] B: I have the woman in the black tank top and the coke bottle again.
+[11:57] B: Yeah I have the woman in blue again.
+[11:57] A: I do not have her this time around.
+[11:59] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[12:01] B: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[12:05] A: Okay, great, we both have the woman in blue.
+[12:07] A: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[12:17] A: I do not have the tank top coke woman though
+[12:30] B: Ok. That is it for me.
+[12:37] A: Likewise
+- - Round 5 - -
+[13:10] A: I do have the woman with the tank top and the coke in the fridge this time
+[13:10] B: I have the orange aprons this time.
+[13:22] A: I have the orange aprons as well this time
+[13:24] A: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[13:39] B: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[13:49] B: I do not have the woman in the tank top.
+[13:58] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[14:07] B: I have the baby on the bench this time.
+[14:08] A: Okay, and how about the woman with the pizza in the black pea coat?
+[14:18] A: I have the baby on the bench again as well
+[14:23] B: Yeah I have the woman in the black coat.
+[14:26] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[14:27] B: <selection> <com> person_refrigerator/COCO_train2014_000000497591.jpg
+[14:31] A: Great! That covers me!
+[14:31] B: That is it for me.
+[14:33] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[14:43] A: Thanks for playing, it was fun!
+[15:00] B: Thank you too!
+[15:07] A: Thanks :-)
+
+- - Game statistics - -
+Duration: 15:16 min. Score: 30/30 points.
+[Round 0] Duration: 04:38 min. Score: 6/6 points. Number of messages: 20.
+[Round 1] Duration: 02:48 min. Score: 6/6 points. Number of messages: 16.
+[Round 2] Duration: 02:34 min. Score: 6/6 points. Number of messages: 18.
+[Round 3] Duration: 01:47 min. Score: 6/6 points. Number of messages: 13.
+[Round 4] Duration: 01:25 min. Score: 6/6 points. Number of messages: 13.

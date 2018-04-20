@@ -1,0 +1,121 @@
+Game ID: 304SM51WA42T6PWBXMK72QBJVFBSBE3X0H8UUIT2MLUSUMSDG3P4O45GTSWU
+Domain ID: 23
+Player A: ARJ8XLYXTWNE
+Player B: AMW2XLD9443OH
+
+- - Round 1 - -
+[00:00] B: A blonde man wearing a black wet suit holding a surfboard with a shark and clock on it. 
+[00:23] A: Yes, I have that.
+[00:26] A: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+[00:27] B: Cool!
+[00:30] B: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+[00:54] B: A topless man riding a bike headed left, holding a white surfboard with two big red lines.
+[01:09] A: No.
+[01:14] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[01:36] A: A woman lying down on a surfboard, tan shirt?
+[01:43] B: No I don't have that sorry.
+[01:46] A: <selection> <dif> person_surfboard/COCO_train2014_000000204735.jpg
+[02:18] B: A man wearing a red helmet, wearing a black wet suit, holding a green surfboard while riding a bike
+[02:35] A: No.
+[02:38] B: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[02:41] B: Ok.
+[03:00] A: Male, black wet suit on a surfboard in the water?
+[03:22] B: Is the surfboard somewhat cream and it has "OLW" on it?
+[03:32] A: Yes
+[03:36] B: Yes got it!
+[03:40] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+- - Round 2 - -
+[04:14] B: Two topless guys holding surfboards, left surfboard is yellow, right surfboard is red with yellow.
+[04:30] A: Yes
+[04:32] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[04:33] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[04:35] B: Cool!
+[05:03] B: (I'll wait for your description)
+[05:19] A: Same picture from before, surfboard with shark and time clock on it?
+[05:28] B: No that's not here this time.
+[05:41] A: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[05:44] A: ok
+[06:01] B: Same picture, man wearing red helmet, wearing black wet suit, has green surfboard, rides bike.
+[06:18] A: Yes
+[06:20] A: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[06:24] B: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[06:27] B: Thanks!
+[06:43] A: Do you have any more questions?
+[07:12] B: Same as before, topless man riding bike, carrying white surfboard with 2 red lines, headed left.
+[07:27] A: No.
+[07:31] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+- - Round 3 - -
+[08:11] B: The same pictures you got before, the one with "OLW" on the surfboard.
+[08:23] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[08:33] A: Yes, I have the one with OLW
+[08:37] B: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[08:44] B: Thanks! (waits for your description)
+[09:26] A: Man with red helmet carrying a green surfboard same as before?
+[09:34] B: Not here sorry.
+[09:39] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[09:41] A: ok
+[09:55] B: Same, topless guy riding bike with white surfboard, 2 red lines, headed left.
+[10:04] A: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[10:11] A: Yes
+[10:13] B: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[10:18] B: Thanks! (waits for you)
+[10:29] A: I have no other questions.
+[10:52] A: What about you?
+[11:00] B: One child carrying a red/pink surfboard and another kid in background (blonde) carrying white surfb
+[11:17] A: No
+[11:21] B: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+- - Round 4 - -
+[11:35] B: Same as before "OLW" surfboard.
+[11:49] A: Not this time.
+[11:54] B: Ok (waits for you)
+[11:56] B: <selection> <dif> person_surfboard/COCO_train2014_000000097094.jpg
+[12:36] A: Topless guy on bike, white surfboard with 2 red stripes, headed left, same as before?
+[12:44] B: Not here sorry.
+[12:47] A: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[12:50] A: ok
+[13:07] B: Same as before, blonde guy wearing black wet suit, surfboard with shark and clock on it.
+[13:18] A: Nope. Sorry.
+[13:22] B: Ok (waits for you)
+[13:25] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[13:57] A: 2 kids, one carrying a red surfboard, the other carrying a white one?
+[14:19] B: Yes it's on this page (but not on my common/different)
+[14:26] A: <selection> <com> person_surfboard/COCO_train2014_000000340331.jpg
+[14:51] A: OK. (I'll wait for you)
+[14:59] B: Girl wearing sleeveless shirt, on a white/pink surfboard with the word "blue" on it, 2 red lines.
+[15:09] A: Yes
+[15:10] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[15:12] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[15:15] B: Cool, thanks!
+- - Round 5 - -
+[15:34] B: Same as before, "blue" surfboard with girl on it.
+[15:48] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[15:50] A: Yes
+[15:53] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[15:58] B: Thanks! (waits for you)
+[16:32] A: Guy, red helmet, carrying green surfboard, same as before?
+[16:38] B: Not here sorry.
+[16:45] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[16:47] A: ok
+[16:58] B: Same as before, two topless guys, left surfboard yellow, right is red with yellow.
+[17:06] A: Yes
+[17:08] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[17:11] B: Thanks! (waits for you)
+[17:12] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[17:21] A: I have no other questions.
+[17:32] A: What about you?
+[17:41] B: Same as before, blonde guy, black wet suit, surfboard with shark and clock.
+[17:51] A: No
+[17:54] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[18:01] B: Thanks!
+[18:06] B: It's been fun playing with you!
+[18:19] A: Same here. Take care!
+[18:28] B: Have a nice evening or whatever time it is there!
+[18:42] A: You too!
+
+- - Game statistics - -
+Duration: 19:23 min. Score: 30/30 points.
+[Round 0] Duration: 03:43 min. Score: 6/6 points. Number of messages: 14.
+[Round 1] Duration: 03:17 min. Score: 6/6 points. Number of messages: 13.
+[Round 2] Duration: 03:10 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 03:42 min. Score: 6/6 points. Number of messages: 15.
+[Round 4] Duration: 02:20 min. Score: 6/6 points. Number of messages: 18.

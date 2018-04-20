@@ -1,0 +1,120 @@
+Game ID: 3A1PQ49WVIF33I03KVFJS0R814A1HF3LEIZ60CDKX7J83SUU0J7DDWV6FZ9C
+Domain ID: 52
+Player A: A1Y6YA93AFCHPY
+Player B: A4A0IFEQBBSOZ
+
+- - Round 1 - -
+[00:00] A: Hello Do you have the strawberry and banana
+[00:13] B: I do have that one!
+[00:14] B: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[00:23] A: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[00:37] A: do you have the cell phone with something pink under it
+[00:39] B: I have a red laptop with two water bottles behind it.
+[00:53] A: I do not have that
+[01:06] B: I do have the cell phone on a pink object with another device in the foreground.
+[01:07] B: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[01:09] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000468357.jpg
+[01:15] A: is it yellow
+[01:21] A: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[01:44] A: i don't guess that matters - do you have a laptop with a windows logo on it
+[01:46] B: I don't see any yellow in the picture with the cell phone on something pink.
+[02:04] B: I don't have a laptop with the windows logo.
+[02:14] A: the yellow I was referring to is the yellow bar but that's ok
+[02:17] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000380128.jpg
+[02:41] A: I'm done do you have anything else
+[02:58] B: Ok. I've submitted.
+- - Round 2 - -
+[03:21] B: I have the banana and strawberry again.
+[03:22] B: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[03:30] A: Do you have red flowers in a vase beside a computer
+[03:37] A: I don't have the banana again
+[03:44] B: I don't have any red flowers.
+[03:51] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000259745.jpg
+[04:00] B: I have a laptop displaying a couple's faces.
+[04:07] A: Do you have a laptop with the windows logo
+[04:17] A: I have the laptop with the couple
+[04:20] A: <selection> <com> dining_table_laptop/COCO_train2014_000000096757.jpg
+[04:20] B: <selection> <com> dining_table_laptop/COCO_train2014_000000096757.jpg
+[05:01] B: I'm not sure I see a windows logo.
+[05:19] B: I have the red laptop with two water bottles though.
+[05:20] A: ok it has a mouse sitting on top of it
+[05:33] A: I don't have that
+[05:36] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000380128.jpg
+[05:46] B: I don't have one with a mouse on it.
+[05:47] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000468357.jpg
+[05:57] A: Ok I'm done.
+[06:04] B: me too
+- - Round 3 - -
+[06:22] B: I have the laptop with the vase of flowers.
+[06:24] A: red closed laptop with phones on top?
+[06:34] A: I don't have the flowers
+[06:40] B: I don't have a red laptop this time.
+[06:41] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000259745.jpg
+[06:48] A: laptop with faces?
+[06:53] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000468357.jpg
+[07:02] B: I don't have the laptop with the faces.
+[07:08] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000096757.jpg
+[07:16] B: I have a coffee in the foreground with a stuffed animal on it.
+[07:19] A: do you have the laptop with the mouse on top?
+[07:42] A: I have a coffee with the mouse on top
+[07:52] B: I don't see one with a mouse on top.
+[07:54] B: <selection> <com> dining_table_laptop/COCO_train2014_000000483794.jpg
+[08:15] A: A little animal it may not be a mouse
+[08:16] B: My last one has a laptop next to half a glass of orange drink with a straw.
+[08:35] A: I don't have that
+[08:46] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000380128.jpg
+[08:48] B: Oh, yeah, the little animal. I thought you meant a mouse device.
+[08:52] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000082894.jpg
+[08:56] A: I'm done
+[09:13] A: are you done
+[09:21] B: yep. submitted.
+- - Round 4 - -
+[09:39] A: banana with strawberry?
+[09:47] B: I got that one too.
+[09:49] B: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[09:51] A: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[09:57] B: I have the laptop with the couple's faces.
+[10:00] A: cellphone with pink behind it
+[10:10] A: I don't have the laptop with faces
+[10:14] B: I don't have the cellphone with pink.
+[10:16] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000096757.jpg
+[10:19] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000524866.jpg
+[10:23] A: red laptop?
+[10:28] B: I have the closed red laptop with phones.
+[10:35] B: Yep!
+[10:36] B: <selection> <com> dining_table_laptop/COCO_train2014_000000468357.jpg
+[10:36] A: me too
+[10:40] A: <selection> <com> dining_table_laptop/COCO_train2014_000000468357.jpg
+[10:49] A: I'm done
+[11:02] A: We are rocking!
+[11:08] B: Almost there!
+- - Round 5 - -
+[11:32] A: cell phone with pink?
+[11:35] B: I have the laptop with the flower vase.
+[11:42] A: I do too
+[11:46] B: I have the cell on the pink object.
+[11:48] B: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[11:48] B: <selection> <com> dining_table_laptop/COCO_train2014_000000259745.jpg
+[11:52] A: laptop with faces?
+[12:04] B: I don't have one with faces.
+[12:11] A: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[12:12] A: laptop with mouse on top
+[12:12] B: I have one with the windows logo.
+[12:14] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000096757.jpg
+[12:26] A: that's it I have it too.
+[12:29] A: <selection> <com> dining_table_laptop/COCO_train2014_000000380128.jpg
+[12:37] B: I have the one with the mouse on top.
+[12:42] B: <selection> <com> dining_table_laptop/COCO_train2014_000000380128.jpg
+[12:44] A: that's it
+[12:51] B: Awesome.
+[12:57] A: Do you need anything else
+[13:05] B: Nope, we're good.
+[13:14] A: yes we are
+
+- - Game statistics - -
+Duration: 13:45 min. Score: 29/30 points.
+[Round 0] Duration: 03:02 min. Score: 6/6 points. Number of messages: 13.
+[Round 1] Duration: 02:39 min. Score: 5/6 points. Number of messages: 14.
+[Round 2] Duration: 02:40 min. Score: 6/6 points. Number of messages: 17.
+[Round 3] Duration: 01:12 min. Score: 6/6 points. Number of messages: 13.
+[Round 4] Duration: 01:36 min. Score: 6/6 points. Number of messages: 15.

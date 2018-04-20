@@ -1,0 +1,106 @@
+Game ID: 3JBT3HLQF90SBVJZBJWGT3DB0ASZP23OS46CRSLGX3S5WKVQ842X9YHUX6V4
+Domain ID: 3
+Player A: A2QBFXY9UQMJTT
+Player B: A2N2GFB33ZMYGF
+
+- - Round 1 - -
+[00:00] B: i have a boy on a sail boat
+[00:04] A: Ok. I have a boy on a boat with a yellow life jacket
+[00:10] B: <selection> <com> person_boat/COCO_train2014_000000012574.jpg
+[00:21] A: I think that may be the same one - red shirt on the boy too?
+[00:29] B: yes
+[00:35] A: <selection> <com> person_boat/COCO_train2014_000000012574.jpg
+[00:42] A: OK. I marked as common.
+[01:02] B: I have a women sitting in front of logs on a boat 
+[01:05] A: I have a woman preparing food on a small boat. She is Asian and wearing a large tan hat.
+[01:15] A: I definitely do not have the woman with logs
+[01:43] B: i have the woman on the boat preparing  food too
+[01:47] B: <selection> <com> person_boat/COCO_train2014_000000424434.jpg
+[01:50] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[01:51] A: <selection> <com> person_boat/COCO_train2014_000000424434.jpg
+[02:11] A: OK. I marked as common. My third picture is dogs wake boarding. I assume that is different?
+[02:13] A: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[02:31] B: Yes, i do not have that picture.i'm submitting now
+[02:36] A: Me too.
+- - Round 2 - -
+[03:08] B: I have the boy on the sail boat again 
+[03:16] A: I do not.
+[03:20] B: <selection> <dif> person_boat/COCO_train2014_000000012574.jpg
+[03:22] A: I have the woman preparing food again.
+[03:29] B: i do not
+[03:30] A: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[03:40] A: I have two men preparing to scuba dive
+[03:53] A: They are wearing black wetsuits and the boat has a blue bench
+[03:59] B: i do not have that one
+[04:05] A: <selection> <dif> person_boat/COCO_train2014_000000461183.jpg
+[04:22] A: I have an Asian woman with some green fruit and a purple shirt.
+[04:43] B: I have that one too
+[04:46] B: <selection> <com> person_boat/COCO_train2014_000000492268.jpg
+[04:55] A: OK. I think that is the only same. I am submitting
+[04:57] A: <selection> <com> person_boat/COCO_train2014_000000492268.jpg
+[05:05] B: ok
+[05:07] B: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+- - Round 3 - -
+[05:36] A: I have the boy on the sail boat again
+[05:41] B: green fruit woman
+[05:52] A: I do not have green fruit woman.
+[05:54] B: i do not have the sail boat picture
+[05:59] B: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[06:04] A: Do you have the scuba guys this time?
+[06:06] A: <selection> <dif> person_boat/COCO_train2014_000000012574.jpg
+[06:08] B: yes
+[06:13] A: Me too.
+[06:16] B: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[06:18] A: I also have the log lady.
+[06:26] A: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[06:30] B: i do not
+[06:36] B: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[06:38] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[06:54] A: OK. I am ready to submit. What other pictures do you have?
+[07:13] B: the woman making food on the boat from the first page
+[07:28] A: OK. I confirm I don't have that one. I am submitting.
+- - Round 4 - -
+[07:53] B: man on a boat with dog holding a beer
+[08:00] A: Yes. I have that one.
+[08:02] A: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[08:04] B: sail boat boy
+[08:07] B: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[08:10] A: No, I do not have that one.
+[08:14] B: <selection> <dif> person_boat/COCO_train2014_000000012574.jpg
+[08:28] A: Green fruit woman?
+[08:33] B: and dogs falling in water
+[08:37] B: no 
+[08:40] A: I have dogs in water.
+[08:41] B: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[08:43] A: <selection> <com> person_boat/COCO_train2014_000000211892.jpg
+[08:44] A: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[08:52] B: <selection> <com> person_boat/COCO_train2014_000000211892.jpg
+[08:54] A: I am submitting.
+[08:58] B: ok
+- - Round 5 - -
+[09:22] A: Dogs falling in water.
+[09:25] B: green fruit
+[09:33] B: no dogs falling in water.
+[09:37] A: No to green fruit woman.
+[09:40] B: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[09:44] A: OK. Man with dog and beer
+[09:46] A: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[09:48] B: yes
+[09:51] B: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[09:57] A: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[10:02] A: Scuba guys?
+[10:06] B: yes 
+[10:09] B: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[10:11] A: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[10:17] A: OK. I am submitting.
+[10:22] B: ok
+[10:38] A: Thanks for playing! It was fun!
+[10:53] B: Thank you too!
+
+- - Game statistics - -
+Duration: 11:12 min. Score: 28/30 points.
+[Round 0] Duration: 02:38 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 02:01 min. Score: 5/6 points. Number of messages: 11.
+[Round 2] Duration: 01:52 min. Score: 5/6 points. Number of messages: 12.
+[Round 3] Duration: 01:08 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 01:03 min. Score: 6/6 points. Number of messages: 12.

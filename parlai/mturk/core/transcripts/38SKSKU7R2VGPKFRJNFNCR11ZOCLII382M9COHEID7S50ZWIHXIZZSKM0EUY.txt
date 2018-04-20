@@ -1,0 +1,109 @@
+Game ID: 38SKSKU7R2VGPKFRJNFNCR11ZOCLII382M9COHEID7S50ZWIHXIZZSKM0EUY
+Domain ID: 39
+Player A: A2ADEPVGNNXNPA
+Player B: A2FLZP3C6U67JY
+
+- - Round 1 - -
+[00:00] A: peach pie, bananas in back
+[00:08] B: I have a cake with candles lit
+[00:18] B: yes
+[00:22] A: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[00:22] B: i have that one
+[00:24] B: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[00:31] A: half eaten chocolate cake slice
+[00:38] B: yes 
+[00:41] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[01:01] A: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[01:16] B: do you have the cake with candles lit?
+[01:35] A: no
+[01:40] A: cake and ice cream, red syrup drizzled in flower shape
+[01:51] B: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[01:56] B: no
+[01:59] A: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[02:00] B: im good now
+- - Round 2 - -
+[02:31] A: baby reaching for cake
+[02:37] B: half eaten chocolate cake with a gold box behind it
+[02:39] B: yes
+[02:41] B: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[02:50] A: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[02:53] A: no
+[02:56] B: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[03:01] A: cake with candles
+[03:06] B: yes
+[03:07] B: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[03:10] B: im good
+[03:31] B: are you missing any?
+[03:34] A: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[03:41] A: peach pie w bananas
+[03:45] A: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[03:52] B: no
+[03:59] A: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+- - Round 3 - -
+[04:29] B: peach pie bananas 
+[04:41] A: no
+[04:48] A: knife cutting cake
+[04:54] A: or donut
+[05:38] B: no
+[05:51] A: <selection> <dif> cake_dining_table/COCO_train2014_000000545573.jpg
+[05:59] A: baby+cake
+[06:05] B: yes
+[06:11] B: cake and ice cream
+[06:14] A: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[06:18] B: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[06:20] A: yes
+[06:22] A: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[06:23] B: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[06:31] B: cake and candles
+[06:51] A: no
+[07:01] B: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[07:15] B: and you didnt have the peach pie?
+[07:29] A: no
+[07:38] B: ok im good are you?
+[08:01] A: yes
+- - Round 4 - -
+[08:14] B: cake and ice cream?
+[08:21] A: no
+[08:30] B: knife cutting donut/cake
+[08:33] B: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[08:34] A: yep
+[08:36] A: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[08:40] A: peach pie
+[08:44] B: no
+[08:51] B: half eaten chocolate cake?
+[09:03] A: yes
+[09:05] A: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[09:06] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[09:07] A: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[09:12] B: missing anything?
+[09:32] B: <selection> <dif> cake_dining_table/COCO_train2014_000000545573.jpg
+[09:39] A: done
+- - Round 5 - -
+[10:01] B: cake and ice cream?
+[10:01] A: knife cuts donut
+[10:05] B: no
+[10:09] A: <selection> <dif> cake_dining_table/COCO_train2014_000000545573.jpg
+[10:11] A: candles
+[10:28] B: check that, I DO have donut knife
+[10:30] B: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[10:37] B: i don't have candles
+[10:50] A: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[10:50] B: i do have baby grabbing cake
+[10:55] A: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[10:58] A: no
+[11:03] B: <selection> <dif> cake_dining_table/COCO_train2014_000000126144.jpg
+[11:06] A: godiva 
+[11:11] B: yes
+[11:14] A: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[11:19] A: done
+[11:24] B: and did you have ice cream cake?
+[11:49] B: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[12:41] B: did you submit the form?
+
+- - Game statistics - -
+Duration: 16:43 min. Score: 28/30 points.
+[Round 0] Duration: 02:04 min. Score: 6/6 points. Number of messages: 11.
+[Round 1] Duration: 01:28 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 03:34 min. Score: 6/6 points. Number of messages: 15.
+[Round 3] Duration: 01:30 min. Score: 4/6 points. Number of messages: 10.
+[Round 4] Duration: 01:52 min. Score: 6/6 points. Number of messages: 13.

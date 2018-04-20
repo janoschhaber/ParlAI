@@ -1,0 +1,153 @@
+Game ID: 3WR9XG3T649N2SRAU4C9ZL9HY9E74X3BEFOD78W7R6NVYXYAEYI367TY04MW
+Domain ID: 32
+Player A: A69RUK0SZV067
+Player B: A1UKAS30R0MFI6
+
+- - Round 1 - -
+[00:00] B: I have the picture of a small child/toddler laying down in a park
+[00:22] A: I do Not have small child/toddler laying down in a park
+[00:28] B: <selection> <dif> person_umbrella/COCO_train2014_000000164634.jpg
+[00:31] B: cool
+[00:49] B: I have a picture of a black haired woman with a all-blue umbrella standing on a beach
+[00:52] A: I have younger woman with brown hair waving with umbrella
+[01:04] B: does the umbrella have red in it or is it all-blue?
+[01:50] A: In my extra oictures
+[02:01] A: all-blue
+[02:18] B: Ah ok yeah I don't have a woman waving with an all-blue umbrella
+[02:40] B: Do you have any pink umbrellas? Looks kind of like one of those Japanese umbrellas
+[02:43] A: she is not waving. she is at beach head looking down
+[03:03] A: No pink umbrellas
+[03:27] B: Ok cool, going back to the blue umbrella from a picture ago, I do have a woman with black/brown
+[03:35] B: hair with an allblue umbrella on a beach
+[03:38] B: <selection> <dif> person_umbrella/COCO_train2014_000000354843.jpg
+[04:04] A: its in my extra pictures though
+[04:33] B: ok cool, do you have any photos with a lot of orange/green in it?
+[04:42] A: 2nd picture is a woman with blue and white umbrella pointing at a man with black sweater
+[04:51] B: I do not have that
+[04:55] A: <selection> <dif> person_umbrella/COCO_train2014_000000209787.jpg
+[05:27] A: I have a one with blue and orange but can not select anything. it is extra picture for green and or
+[05:48] A: Sorry I meant green* and orange*
+[05:50] B: Ok I think mine is green and orange so I think it is different 
+[05:54] B: Oh ok cool
+[05:58] B: So I bet it is the same
+[06:01] B: <selection> <com> person_umbrella/COCO_train2014_000000122731.jpg
+[06:31] A: yes with a person with maybe a mask and sunglasesmask on the green and orange
+[06:38] B: yeah thats the one!
+[07:13] A: do you have my first one a woman waving her hand with black umbrella and clear rain jacket
+[07:25] A: <selection> <dif> person_umbrella/COCO_train2014_000000438896.jpg
+[07:30] B: No I do not
+[08:21] A: Cool. My last one is younger man with black hate, black suit and black tie with white dress shit
+[08:37] B: No I don't have that one either
+[08:54] A: ok that is all I think ?
+[08:59] A: <selection> <dif> person_umbrella/COCO_train2014_000000210266.jpg
+[09:34] B: all set here!
+[09:44] A: all good here on my side
+- - Round 2 - -
+[10:23] B: You want to go first this time?
+[10:45] A: Yes
+[11:27] A: Asian woman with eyes shut hold a red umbrella with small white pokadot 
+[11:37] B: I do not have that
+[11:43] A: <selection> <dif> person_umbrella/COCO_train2014_000000568064.jpg
+[12:12] A: The woman holding a light blue and white umbrella pointing towards a guy
+[12:22] B: Yes I have that it is one of my three
+[12:25] B: <selection> <com> person_umbrella/COCO_train2014_000000209787.jpg
+[12:26] A: <selection> <com> person_umbrella/COCO_train2014_000000209787.jpg
+[12:44] A: I have the woman at beach with blue umbrella in my extra
+[12:56] B: I do not have that at all
+[13:17] A: My 3rd one of bronze statue holding black umbrella
+[13:27] B: Yes I have that one and it is one of my three
+[13:31] B: <selection> <com> person_umbrella/COCO_train2014_000000159965.jpg
+[13:34] A: <selection> <com> person_umbrella/COCO_train2014_000000159965.jpg
+[13:49] A: Ok what is your last one ?
+[13:52] B: The last one I have is a man in a black suit with black hat holding a blue umbrella with white line
+[13:55] B: lines in an alley
+[14:17] A: No do not have your 3rd one.
+[14:22] B: <selection> <dif> person_umbrella/COCO_train2014_000000210266.jpg
+[14:25] B: cool ok
+[14:37] A: I'm good here
+- - Round 3 - -
+[15:34] B: Um to start I have a smiling woman with brown hair holding a black umbrella, looks like she is wear
+[15:36] B: wearing plastic
+[15:55] A: yes waving her right hand
+[16:14] B: yes
+[16:16] B: <selection> <com> person_umbrella/COCO_train2014_000000438896.jpg
+[16:25] A: me too, one of my 3
+[16:28] A: <selection> <com> person_umbrella/COCO_train2014_000000438896.jpg
+[16:43] B: Next one is of a person with a pink umbrella that covers pretty much all of them. The picture is fr
+[16:46] B: from behind
+[17:22] A: Yes I have that one now with pink all looking away
+[17:27] B: <selection> <com> person_umbrella/COCO_train2014_000000354843.jpg
+[17:46] B: Cool! My last one is of a woman with dark brown or black hair looking down and she has a polka dot 
+[17:48] B: umbrella
+[17:58] A: asian young lady with eyes closed and small pokadot
+[18:04] B: <selection> <com> person_umbrella/COCO_train2014_000000568064.jpg
+[18:07] B: yup
+[18:15] A: yes that is my 2nd
+[18:18] A: <selection> <com> person_umbrella/COCO_train2014_000000568064.jpg
+[18:26] B: great
+[18:32] A: my last was the guy with black hat and suit
+[18:38] B: I do not have that
+[18:46] A: <selection> <dif> person_umbrella/COCO_train2014_000000210266.jpg
+[18:48] A: ok i am good then with these
+[19:08] B: cool I submitted
+- - Round 4 - -
+[19:29] A: guy in suit again , black tie, black hat
+[19:46] B: Yeha I have that
+[19:48] B: <selection> <com> person_umbrella/COCO_train2014_000000210266.jpg
+[20:01] A: with a blue colored umbrella ?
+[20:09] B: yes, it has lines in it as well
+[20:16] A: yes
+[20:25] A: quared lines
+[20:29] B: yup
+[20:30] A: squared lines
+[20:33] A: <selection> <com> person_umbrella/COCO_train2014_000000210266.jpg
+[20:36] B: that is one of my 3
+[20:47] A: the lady in plastic jacket and black umbrella
+[20:53] A: cler plastic
+[21:01] B: I don't have that one this round
+[21:05] A: <selection> <dif> person_umbrella/COCO_train2014_000000438896.jpg
+[21:13] A: and the pink from back is my last
+[21:21] B: I don't have that one either
+[21:26] A: <selection> <dif> person_umbrella/COCO_train2014_000000354843.jpg
+[21:33] A: what are your other ones
+[21:40] B: I have the woman holding the blue and white umbrella smiling and the man grabbing it
+[21:46] A: yes
+[21:48] A: me too
+[21:49] B: <selection> <com> person_umbrella/COCO_train2014_000000209787.jpg
+[21:59] B: And I have the statute guy with the black umbrella
+[22:17] A: no statue guy this time
+[22:20] B: <selection> <dif> person_umbrella/COCO_train2014_000000159965.jpg
+[22:33] A: you are good to submit ?
+[22:37] B: yup
+- - Round 5 - -
+[22:55] A: statue guy
+[23:01] B: yup I have that
+[23:03] A: <selection> <com> person_umbrella/COCO_train2014_000000159965.jpg
+[23:04] B: <selection> <com> person_umbrella/COCO_train2014_000000159965.jpg
+[23:13] A: plastic coat lady again ?
+[23:18] B: No I don't have that
+[23:22] A: <selection> <dif> person_umbrella/COCO_train2014_000000438896.jpg
+[23:37] A: younger asian looking down with eyes closed again
+[23:41] B: yeah I have that
+[23:43] A: with the pokadots
+[23:44] B: <selection> <com> person_umbrella/COCO_train2014_000000568064.jpg
+[23:46] A: <selection> <com> person_umbrella/COCO_train2014_000000568064.jpg
+[23:47] B: yup 
+[23:51] A: ok my 3 are done
+[24:09] B: I have the one where the woman in the purple shirt points the blue and white umbrella
+[24:11] B: at a guy
+[24:14] B: playfully
+[24:27] A: i do not have that one
+[24:31] B: <selection> <dif> person_umbrella/COCO_train2014_000000209787.jpg
+[24:35] B: cool Ok I will submit
+[24:45] B: thanks!
+[24:55] A: you too, took longer than I thought
+[25:04] B: such is the life
+
+- - Game statistics - -
+Duration: 25:29 min. Score: 29/30 points.
+[Round 0] Duration: 09:36 min. Score: 6/6 points. Number of messages: 32.
+[Round 1] Duration: 04:19 min. Score: 6/6 points. Number of messages: 16.
+[Round 2] Duration: 03:29 min. Score: 6/6 points. Number of messages: 18.
+[Round 3] Duration: 03:10 min. Score: 5/6 points. Number of messages: 22.
+[Round 4] Duration: 01:44 min. Score: 6/6 points. Number of messages: 17.

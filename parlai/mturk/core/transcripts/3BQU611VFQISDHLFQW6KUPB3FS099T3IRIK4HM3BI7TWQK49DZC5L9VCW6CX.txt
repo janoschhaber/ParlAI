@@ -1,0 +1,118 @@
+Game ID: 3BQU611VFQISDHLFQW6KUPB3FS099T3IRIK4HM3BI7TWQK49DZC5L9VCW6CX
+Domain ID: 3
+Player A: A89R5XGMHOTJE
+Player B: A6MWJK1YEY5L2
+
+- - Round 1 - -
+[00:00] B: You can go first
+[00:47] A: I have a picture of two dogs in the water with some people surrounding them.
+[01:28] B: I dont have that one
+[01:44] A: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[01:56] B: Do you have a picture of a small boat flipping over, it has a few dogs and people in it.
+[02:34] A: <selection> <com> person_boat/COCO_train2014_000000211892.jpg
+[02:35] A: <selection> <com> person_boat/COCO_train2014_000000211892.jpg
+[02:35] A: <selection> <com> person_boat/COCO_train2014_000000211892.jpg
+[02:40] A: Oh yes, that's the one I had.
+[02:59] B: Ah ok good thing we caught it then!
+[03:08] B: <selection> <com> person_boat/COCO_train2014_000000211892.jpg
+[03:18] A: Do you have a picture of a man and a dog on a boat, the man is holding a drink.
+[03:28] B: Yes i do!
+[03:31] B: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[03:38] A: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[03:38] A: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[04:00] B: My last picture is of a boy in a red shirt and life vest, holding onto a pole.
+[04:20] A: I don't have that one. 
+[04:36] A: My last picture is one of a woman wearing a hat selling some fruits.
+[04:40] A: She is in purple
+[05:05] B: Ok, yeah I don't have that one, that should be all of them
+[05:10] B: <selection> <dif> person_boat/COCO_train2014_000000012574.jpg
+[05:12] A: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[05:12] A: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[05:15] A: yes:)
+- - Round 2 - -
+[05:49] B: I have that same picture of the boy in a life vest this time.
+[06:01] A: I have that one.
+[06:03] A: <selection> <com> person_boat/COCO_train2014_000000012574.jpg
+[06:04] A: <selection> <com> person_boat/COCO_train2014_000000012574.jpg
+[06:05] B: <selection> <com> person_boat/COCO_train2014_000000012574.jpg
+[06:12] B: Awesome
+[06:23] A: I have one of the boat flipping over with the dogs and people around it.
+[06:36] B: I don't have that one this time.
+[06:53] A: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[07:06] B: I also have the woman wearing a large hay cutting vegetables.
+[07:10] B: Hat*
+[07:19] A: I have that one!
+[07:22] A: <selection> <com> person_boat/COCO_train2014_000000424434.jpg
+[07:24] B: <selection> <com> person_boat/COCO_train2014_000000424434.jpg
+[07:27] A: That's all I have
+[07:45] B: Ok, My last one is another person with a large hat on sitting down.
+[07:53] A: I don't have that
+[07:59] B: Ok!
+[08:04] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+- - Round 3 - -
+[08:40] B: You can go ahead.
+[08:56] A: I have that same one of the dogs and people and the flipped boat
+[09:14] B: No, I don't have that one.
+[09:19] A: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[09:19] A: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[09:39] B: Do you have one of a woman with a large hat in a boat. The boat is carrying green fruits.
+[09:54] A: I don't have that.
+[09:59] B: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[10:09] A: Do you have one of a man in black in a boat with a dog?
+[10:30] B: I believe so, He has a drink in his had as well right?
+[10:36] A: Yep!
+[10:39] A: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[10:39] B: <selection> <com> person_boat/COCO_train2014_000000436717.jpg
+[11:07] B: Great! My last one is two men with scuba gear. There's air tanks behind them
+[11:17] A: I have that one too!
+[11:19] A: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[11:22] B: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[11:26] A: That's also my last one.
+[11:34] B: Perfect!
+- - Round 4 - -
+[12:22] A: I have one with the two men in scuba gear with air tanks behind them.
+[12:23] B: I have the woman in a large hat, wearing purple. The boat with green fruit again.
+[12:35] B: Oops  haha we both went  I have that picture
+[12:40] A: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[12:44] B: <selection> <com> person_boat/COCO_train2014_000000461183.jpg
+[12:54] A: I don't have the one you mentioned.
+[13:04] A: I have one of a woman wearing a hat with logs behind her.
+[13:17] B: No i don't have that one.
+[13:24] B: <selection> <dif> person_boat/COCO_train2014_000000492268.jpg
+[13:29] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[13:33] B: I have the woman with a large hat cutting vegetables
+[13:43] A: I don't have that one. 
+[13:48] B: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[14:02] A: My last one is one of the boy in red and lifevest in a boat.
+[14:22] B: No, I don't have that one. I'm finished as well
+[14:25] A: <selection> <dif> person_boat/COCO_train2014_000000012574.jpg
+- - Round 5 - -
+[15:05] B: I'll go first this time.
+[15:18] B: Do you have the woman in the large hat wearing purple?
+[15:45] A: Yes I have that one.
+[15:47] A: <selection> <com> person_boat/COCO_train2014_000000492268.jpg
+[15:50] B: <selection> <com> person_boat/COCO_train2014_000000492268.jpg
+[16:02] A: I also have the one with the woman with a hat on the boat cutting green vegetables.
+[16:15] B: No I don't have that one.
+[16:26] A: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[16:38] B: Do you have the one with the boat flipping over, with a few people and dogs?
+[16:45] A: No I don't have that one. 
+[16:50] B: <selection> <dif> person_boat/COCO_train2014_000000211892.jpg
+[17:03] A: Do you have the one with two men in scuba gear with air tanks behind them?
+[17:19] B: No I don't.
+[17:21] A: <selection> <dif> person_boat/COCO_train2014_000000461183.jpg
+[17:26] A: Okay I'm done :)
+[17:51] B: My last one is the boy in a red shirt and life vest holding the pole. Just to be sure.
+[17:55] B: <selection> <dif> person_boat/COCO_train2014_000000012574.jpg
+[18:11] A: I don't have that one.
+[18:13] B: Awesome!
+[18:39] B: Great job!
+[18:44] A: You too :)
+
+- - Game statistics - -
+Duration: 18:51 min. Score: 28/30 points.
+[Round 0] Duration: 05:18 min. Score: 6/6 points. Number of messages: 14.
+[Round 1] Duration: 02:21 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 02:57 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 02:08 min. Score: 5/6 points. Number of messages: 10.
+[Round 4] Duration: 03:09 min. Score: 5/6 points. Number of messages: 15.

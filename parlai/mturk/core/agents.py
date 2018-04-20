@@ -283,6 +283,7 @@ class MTurkAgent(Agent):
             should_print=True
         )
 
+
     def pay_bonus(self, bonus_amount, reason='unspecified'):
         """Pays the given agent the given bonus"""
         if self.hit_is_abandoned:

@@ -1,0 +1,118 @@
+Game ID: 3B837J3LDPUGMWD0TJ6X25GND0GSRR3J88R45B2HW360JKA18VWIX0RXUXPC
+Domain ID: 18
+Player A: A16SAB417Y96G4
+Player B: ATCU3JC12ZH0N
+
+- - Round 1 - -
+[00:00] A: a woman sits across a table next to a window with glasses and a pizza and a cup in front of her
+[00:23] B: yes, she's wearing black with a cooler in the back
+[00:28] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:30] A: ok common on that
+[00:31] A: another woman is taking photos of the inside of a fridge
+[00:33] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:48] B: No, I don't have that one
+[00:58] A: ok different..
+[01:00] A: a man is making pizza facing away from the camera with an orange smock on
+[01:02] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[01:27] B: Yes and a woman too
+[01:29] A: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[01:29] B: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[01:36] A: okay i got mine submitted
+[01:40] B: Do you have a child on a bench
+[01:43] A: yes
+[01:47] B: <selection> <com> person_refrigerator/COCO_train2014_000000497591.jpg
+- - Round 2 - -
+[02:13] A: so the guy making pizza again. do you see that same pic
+[02:25] B: No
+[02:25] A: also the lady with the fridge came up agai
+[02:27] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[03:07] A: taking the photo of the fridge
+[03:11] A: u have that?
+[03:31] B: Is there another person near the frige?
+[03:44] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[03:51] A: i see a photo with three people near a fridge
+[03:53] A: and the child on the bench came up again do you have that one?
+[04:09] B: No child on a bench
+[04:13] A: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[04:18] A: okay i'm submitted
+[04:18] B: 3 people with an open frige
+[04:21] A: yes
+[04:36] B: A woman taking a pic of a person near a frige?
+[04:42] A: no
+[04:46] B: <selection> <dif> person_refrigerator/COCO_train2014_000000254658.jpg
+[05:05] B: A woman in blue at an open frige with a man prepping food--home
+[05:10] A: no
+[05:13] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[05:33] B: Last one, a woman in a black tank top with an open frige door?
+[05:47] A: lol yeah i asked you about that one though and you said no
+[05:51] A: so i messed that one up...
+[06:07] B: She lookd like shes in a boxing pose?
+[06:12] A: taking a photo of the fridge
+[06:26] A: she has a camera
+[06:52] B: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[06:57] B: Sorry!!!! that camera is small on my computer!! so it's common
+- - Round 3 - -
+[07:20] A: guy making pizza in orange smock again
+[07:39] B: No
+[07:42] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[07:50] A: lady with glasses by the window again?
+[07:51] B: Woman at table with pizza again?
+[08:07] B: Yes!
+[08:20] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[08:30] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[08:34] A: woman taking phone photo of her friend by a fridge?
+[08:49] B: Yes
+[08:52] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[08:53] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[08:55] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[08:56] A: .
+[08:58] A: ok
+[08:59] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[09:03] A: i'm submitted
+[09:13] B: Woman with an open frige and man prepping
+[09:18] A: no
+[09:21] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+- - Round 4 - -
+[09:43] A: woman phone picture of her friend by fridge again
+[09:59] B: Yes
+[10:00] A: woman with glasses by the window again
+[10:02] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[10:14] B: No
+[10:15] A: man prepping food wife with the fridge open
+[10:18] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[10:19] A: <selection> <dif> person_refrigerator/COCO_train2014_000000449904.jpg
+[10:20] B: Yes
+[10:23] A: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[10:23] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[10:25] A: submitted
+[10:37] B: Woman taking pic of her frige again?
+[10:41] A: no
+[10:44] B: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+- - Round 5 - -
+[10:57] A: woman taking pic of fridge again
+[11:02] B: No
+[11:04] A: man making pizza with orange smock
+[11:06] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[11:09] B: No
+[11:12] A: man prep woman fridge open
+[11:14] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[11:19] B: No
+[11:21] A: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[11:25] A: submitted
+[11:27] B: Boy on bench again?
+[11:29] A: no
+[11:33] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[12:03] B: Man in maroon sweater cooking/prepping?
+[12:06] A: yes
+[12:10] B: <selection> <com> person_refrigerator/COCO_train2014_000000418620.jpg
+[12:29] B: Little girl and man making something on a table?
+[12:35] A: no
+[12:40] B: <selection> <dif> person_refrigerator/COCO_train2014_000000305451.jpg
+
+- - Game statistics - -
+Duration: 13:17 min. Score: 29/30 points.
+[Round 0] Duration: 01:50 min. Score: 6/6 points. Number of messages: 11.
+[Round 1] Duration: 04:41 min. Score: 5/6 points. Number of messages: 23.
+[Round 2] Duration: 02:11 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 01:03 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 01:44 min. Score: 6/6 points. Number of messages: 13.

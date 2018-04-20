@@ -1,0 +1,107 @@
+Game ID: 33IZTU6J82Z0JSZC2ICPRN2BEJFSX53JZQSN0I3R8GT1Z07OCMW2J1M3OGFH
+Domain ID: 58
+Player A: A2ADEPVGNNXNPA
+Player B: A1AKX1C8GCVCTP
+
+- - Round 1 - -
+[00:00] A: hi
+[00:07] B: hi
+[00:22] A: 2 ladies on bench
+[00:29] B: yeah
+[00:31] B: <selection> <com> person_bench/COCO_train2014_000000335696.jpg
+[00:41] B: single lady on bench reading
+[01:01] A: i got an old lady with teddy bear
+[01:15] B: i got that one too,
+[01:27] A: but no reading
+[01:32] B: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+[01:36] B: ok
+[01:48] A: buddhist monk
+[01:52] B: no
+[01:56] A: <selection> <dif> person_bench/COCO_train2014_000000239417.jpg
+[01:58] A: <selection> <com> person_bench/COCO_train2014_000000335696.jpg
+[02:04] A: woman in bus
+[02:10] B: no
+[02:18] A: <selection> <dif> person_bench/COCO_train2014_000000372319.jpg
+[02:24] B: skateboarder
+[02:30] A: no
+[02:37] B: <selection> <dif> person_bench/COCO_train2014_000000326499.jpg
+- - Round 2 - -
+[04:20] B: woman on bus
+[04:31] A: no
+[04:37] B: <selection> <dif> person_bench/COCO_train2014_000000372319.jpg
+[04:45] A: monk
+[04:50] B: no
+[05:03] A: <selection> <dif> person_bench/COCO_train2014_000000239417.jpg
+[05:05] A: 2 women on bench
+[05:11] B: no
+[05:25] B: old lady with white hat
+[05:30] A: yes
+[05:33] B: <selection> <com> person_bench/COCO_train2014_000000220226.jpg
+[05:43] A: <selection> <dif> person_bench/COCO_train2014_000000335696.jpg
+[05:54] A: woman on bench reading 
+[06:06] B: yeah, lying down
+[06:15] A: mine is sitting up
+[06:23] B: ok, different
+[06:29] A: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+[06:46] B: woman with hot dog
+[06:53] A: no
+[07:01] B: <selection> <dif> person_bench/COCO_train2014_000000196545.jpg
+- - Round 3 - -
+[09:59] A: monk again
+[10:06] B: yep
+[10:07] B: <selection> <com> person_bench/COCO_train2014_000000239417.jpg
+[10:30] A: 2 women on bench, 1 has grey hair
+[10:38] B: no
+[10:43] A: <selection> <dif> person_bench/COCO_train2014_000000335696.jpg
+[10:45] A: <selection> <com> person_bench/COCO_train2014_000000239417.jpg
+[11:09] B: i got 2 women on bench looking at a camera or something
+[11:15] A: same here
+[11:21] B: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[11:24] A: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[11:34] B: women on bus
+[11:44] A: yes
+[11:46] B: <selection> <com> person_bench/COCO_train2014_000000372319.jpg
+- - Round 4 - -
+[25:11] B: hi
+[25:19] A: hi
+[25:56] B: <selection> <com> person_bench/COCO_train2014_000000335696.jpg
+[26:12] B: <selection> <dif> person_bench/COCO_train2014_000000326499.jpg
+[26:14] B: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+[26:50] A: i got skateboarder
+[26:59] B: yes
+[28:59] B: hi
+[30:36] A: hi
+[30:45] A: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[30:53] A: sorry blip
+[31:01] B: ok
+[31:08] A: woman reading
+[31:13] B: yes
+[31:17] A: <selection> <com> person_bench/COCO_train2014_000000015354.jpg
+[31:27] A: 2 women looking at a camera
+[31:33] B: no
+[31:36] A: <selection> <dif> person_bench/COCO_train2014_000000580257.jpg
+- - Round 5 - -
+[31:57] A: monk
+[32:02] B: no
+[32:07] A: <selection> <dif> person_bench/COCO_train2014_000000239417.jpg
+[32:14] A: 2 women looking at a camera
+[32:20] B: yes
+[32:22] B: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[32:24] A: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[32:30] B: skateboarder
+[32:35] A: same
+[32:39] A: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[32:41] B: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[32:48] B: woman reading
+[33:08] A: in white hat? yes
+[33:23] B: no hat
+[33:36] A: nope
+[33:42] B: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+
+- - Game statistics - -
+Duration: 39:06 min. Score: 27/30 points.
+[Round 0] Duration: 02:38 min. Score: 6/6 points. Number of messages: 15.
+[Round 1] Duration: 05:23 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 14:47 min. Score: 6/6 points. Number of messages: 8.
+[Round 3] Duration: 06:28 min. Score: 3/6 points. Number of messages: 12.
+[Round 4] Duration: 06:38 min. Score: 6/6 points. Number of messages: 10.

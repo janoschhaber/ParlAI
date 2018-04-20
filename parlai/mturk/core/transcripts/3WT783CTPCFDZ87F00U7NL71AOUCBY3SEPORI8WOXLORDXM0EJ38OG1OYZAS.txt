@@ -1,0 +1,105 @@
+Game ID: 3WT783CTPCFDZ87F00U7NL71AOUCBY3SEPORI8WOXLORDXM0EJ38OG1OYZAS
+Domain ID: 43
+Player A: A3J5UWZM4ZZ1D6
+Player B: A1WLFFB5SYP7OF
+
+- - Round 1 - -
+[00:00] B: hi, you go first please
+[00:06] B: ask all three and then i'll ask leftovers
+[01:23] B: Or I'll go first since you're new, up to you
+[01:36] A: go ahead
+[01:46] B: woman with basket of bananas on head?
+[01:54] A: No
+[01:55] B: <selection> <dif> car_truck/COCO_train2014_000000137150.jpg
+[02:05] B: fedex van and truck left side of street
+[02:16] A: yes
+[02:18] B: <selection> <com> car_truck/COCO_train2014_000000339250.jpg
+[02:35] B: Big yellow truck, lots of wheels, says AINSCOUGH?
+[02:47] A: yes
+[02:49] B: <selection> <com> car_truck/COCO_train2014_000000468408.jpg
+[02:51] A: <selection> <com> car_truck/COCO_train2014_000000468408.jpg
+[02:52] A: <selection> <com> car_truck/COCO_train2014_000000339250.jpg
+[02:53] B: That's all of mine
+[03:19] A: silver truck flat bed. round headlights 4 of them
+[03:27] A: <selection> <dif> car_truck/COCO_train2014_000000255975.jpg
+[03:35] B: no
+[03:46] A: submitted
+- - Round 2 - -
+[04:10] A: woman with black umbrella
+[04:16] B: yes
+[04:29] A: woman with bananas on her head
+[04:32] B: no
+[04:32] A: <selection> <com> car_truck/COCO_train2014_000000237372.jpg
+[04:36] A: <selection> <dif> car_truck/COCO_train2014_000000137150.jpg
+[04:47] A: rainbow colored car
+[05:00] B: yes, with snow in picture?
+[05:04] B: <selection> <com> car_truck/COCO_train2014_000000456453.jpg
+[05:14] A: ice on the grond?
+[05:25] A: <selection> <com> car_truck/COCO_train2014_000000456453.jpg
+[05:26] B: yes, i have one with multicolored luggage all over it too
+[05:39] A: yes to that one too
+[05:51] B: ok, moving truck man with red vest and guy with green shirt
+[06:02] A: no
+[06:04] B: <selection> <dif> car_truck/COCO_train2014_000000075299.jpg
+[06:11] B: silver flatbed with 4 round headlights
+[06:17] A: no
+[06:21] B: <selection> <dif> car_truck/COCO_train2014_000000255975.jpg
+[06:24] B: submitted
+- - Round 3 - -
+[06:38] B: rainbow car with ice again
+[06:43] A: yes
+[06:45] B: fedex truck and van
+[06:47] B: <selection> <com> car_truck/COCO_train2014_000000456453.jpg
+[06:52] A: yes
+[06:54] B: silver flatbed
+[06:56] A: <selection> <com> car_truck/COCO_train2014_000000456453.jpg
+[06:58] A: <selection> <com> car_truck/COCO_train2014_000000339250.jpg
+[06:58] B: <selection> <com> car_truck/COCO_train2014_000000339250.jpg
+[07:11] A: yellow ainscough truck?
+[07:15] A: no
+[07:23] B: I don't have the ainscough
+[07:26] B: <selection> <dif> car_truck/COCO_train2014_000000255975.jpg
+[07:29] A: ok
+[07:32] A: <selection> <dif> car_truck/COCO_train2014_000000468408.jpg
+- - Round 4 - -
+[07:47] B: black umbrella lady
+[08:06] A: no
+[08:08] B: bananas on head
+[08:09] A: man in red vest in moving truck
+[08:11] B: <selection> <dif> car_truck/COCO_train2014_000000237372.jpg
+[08:15] B: yes to moving truck
+[08:15] A: yes
+[08:19] B: <selection> <com> car_truck/COCO_train2014_000000137150.jpg
+[08:19] A: <selection> <com> car_truck/COCO_train2014_000000075299.jpg
+[08:20] B: <selection> <com> car_truck/COCO_train2014_000000075299.jpg
+[08:20] A: <selection> <com> car_truck/COCO_train2014_000000137150.jpg
+[08:35] A: yellow ainscough truck?
+[08:39] B: no
+[08:43] A: <selection> <dif> car_truck/COCO_train2014_000000468408.jpg
+- - Round 5 - -
+[08:53] B: ainscough
+[08:57] A: yes
+[08:59] B: bananas
+[09:03] A: silver truck flatbed
+[09:08] B: yes to flatbed
+[09:10] A: no bananas
+[09:13] B: <selection> <com> car_truck/COCO_train2014_000000468408.jpg
+[09:14] A: <selection> <com> car_truck/COCO_train2014_000000255975.jpg
+[09:14] B: <selection> <dif> car_truck/COCO_train2014_000000137150.jpg
+[09:16] B: <selection> <com> car_truck/COCO_train2014_000000255975.jpg
+[09:30] A: moving man red vest
+[09:35] B: yes
+[09:41] A: rainbow car?
+[09:43] A: <selection> <com> car_truck/COCO_train2014_000000075299.jpg
+[09:44] B: no
+[09:47] A: <selection> <dif> car_truck/COCO_train2014_000000456453.jpg
+[10:04] B: thanks
+[10:10] A: thank you
+
+- - Game statistics - -
+Duration: 10:13 min. Score: 29/30 points.
+[Round 0] Duration: 03:51 min. Score: 6/6 points. Number of messages: 14.
+[Round 1] Duration: 02:11 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 00:57 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 00:56 min. Score: 6/6 points. Number of messages: 8.
+[Round 4] Duration: 00:56 min. Score: 5/6 points. Number of messages: 12.

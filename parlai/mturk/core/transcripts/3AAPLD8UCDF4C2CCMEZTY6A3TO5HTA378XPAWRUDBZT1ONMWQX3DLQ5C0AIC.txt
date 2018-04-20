@@ -1,0 +1,112 @@
+Game ID: 3AAPLD8UCDF4C2CCMEZTY6A3TO5HTA378XPAWRUDBZT1ONMWQX3DLQ5C0AIC
+Domain ID: 12
+Player A: AM2KK02JXXW48
+Player B: A2DWPP1KKAY0HG
+
+- - Round 1 - -
+[00:00] B: Hi, I have elephant painting highlighted.
+[00:04] A: man with black shirt and red backpack
+[00:14] A: touching truck
+[00:17] A: no painting
+[00:19] B: No shirt
+[00:27] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[00:36] B: touchig trunk
+[00:40] B: <selection> <com> person_elephant/COCO_train2014_000000095257.jpg
+[00:48] B: elephant bathing
+[00:56] B: <selection> <dif> person_elephant/COCO_train2014_000000571351.jpg
+[00:58] A: black shirt is touching trunk
+[01:07] B: no
+[01:07] A: no bathing
+[01:09] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[01:16] B: got all 3?
+[01:22] A: black shirt with elephant statue
+[01:32] B: No
+[01:42] B: I got all 3
+[01:44] A: man on elephant
+[01:50] B: No
+[01:54] A: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[01:55] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[02:00] A: done
+[02:04] B: done
+- - Round 2 - -
+[02:21] A: blue shirt man touching trunk
+[02:29] B: yes
+[02:31] B: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[02:33] A: man on elephant
+[02:38] B: yes
+[02:40] B: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[02:42] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[02:43] A: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[02:53] B: woman on balcony
+[03:00] A: woman watching baby elephant with river in background
+[03:06] B: yes
+[03:08] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[03:12] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[03:15] B: all 3 done?
+[03:19] A: yes
+[03:24] B: cool
+- - Round 3 - -
+[03:56] A: black shirt with arm on elephant statue
+[03:58] B: man on elephant
+[04:19] A: there are two different ones with man on elephant though
+[04:25] B: yes arm one
+[04:38] A: mine has two different people riding two different elephants
+[04:48] B: half man one elephant no head
+[04:52] B: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[04:59] A: no, that's the other one, I don't have that one
+[05:05] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[05:14] A: how bout black shirt man with backpack touching trunk
+[05:16] B: wonman from balconey
+[05:28] B: yes backpack
+[05:30] A: or woman with blue shirt, blond hair splashing in water with elephent
+[05:33] A: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[05:35] A: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[05:38] B: no bond
+[05:44] B: <selection> <dif> person_elephant/COCO_train2014_000000524059.jpg
+[05:47] A: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[05:53] A: done
+[05:57] B: done
+- - Round 4 - -
+[06:46] B: blue polo shirt cap guy touching elephant
+[06:53] A: statue one, with fat white guy with black shirt and camoflage pants
+[07:00] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[07:02] B: yes statue
+[07:05] B: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[07:05] A: yes blue polo shirt
+[07:07] A: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[07:10] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[07:21] B: blond splahing
+[07:25] A: black shirt with backpack touching trunk. 
+[07:26] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[07:28] A: yes blond
+[07:36] B: <selection> <com> person_elephant/COCO_train2014_000000532644.jpg
+[07:49] B: i dont have backpack
+[07:55] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[07:58] A: done
+[08:01] B: done
+- - Round 5 - -
+[08:31] A: black shirt, camo pants, statue elephant
+[08:42] A: blue polo, cap, touching trunk
+[08:47] B: no statue
+[08:53] A: blond watching baby elephant by river
+[08:53] B: polo yes
+[08:56] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[08:56] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[08:58] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[09:15] B: yes blond
+[09:18] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[09:18] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[09:22] A: done
+[09:25] B: done
+[09:27] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[09:50] A: if you like crystals, I sell them on etsy.com. My shop name is Gemniverse
+[10:15] A: Good Luck!! 
+[10:17] B: good to know thanks - nice
+
+- - Game statistics - -
+Duration: 10:32 min. Score: 27/30 points.
+[Round 0] Duration: 02:06 min. Score: 6/6 points. Number of messages: 18.
+[Round 1] Duration: 01:05 min. Score: 4/6 points. Number of messages: 10.
+[Round 2] Duration: 02:02 min. Score: 5/6 points. Number of messages: 14.
+[Round 3] Duration: 01:16 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 00:57 min. Score: 6/6 points. Number of messages: 11.

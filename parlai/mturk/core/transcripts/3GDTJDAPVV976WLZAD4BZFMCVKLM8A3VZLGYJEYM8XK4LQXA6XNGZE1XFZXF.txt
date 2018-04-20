@@ -1,0 +1,99 @@
+Game ID: 3GDTJDAPVV976WLZAD4BZFMCVKLM8A3VZLGYJEYM8XK4LQXA6XNGZE1XFZXF
+Domain ID: 1
+Player A: A3DW6KSQPG6GVQ
+Player B: A2R0YYUAWNT7UD
+
+- - Round 1 - -
+[00:00] B: I have a man in a white and gray plaid shirt sitting on a bike highlighted
+[00:37] A: If the bike is white I also have it highlighted
+[00:42] A: <selection> <com> person_bicycle/COCO_train2014_000000098596.jpg
+[01:04] B: ok, so we have that in common
+[01:05] B: <selection> <com> person_bicycle/COCO_train2014_000000098596.jpg
+[01:25] B: Do you have a man in a black shirt sitting on a bus with a bike in front of him?
+[01:52] A: no
+[02:07] B: <selection> <dif> person_bicycle/COCO_train2014_000000326202.jpg
+[02:15] A: Do you have a man squatting down taking a picture
+[02:25] B: Not highlighted
+[02:41] B: Do you have a man sitting on a small silver bike? He is wearing a white hat
+[03:27] A: <selection> <dif> person_bicycle/COCO_train2014_000000441488.jpg
+[04:03] A: I dont have that. Do you have a kid in a cart on a bike with a man standing on the side?
+[04:10] B: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[04:17] B: Nope. 
+[04:26] A: <selection> <dif> person_bicycle/COCO_train2014_000000495580.jpg
+[04:35] B: So the only common one is the guy on the white bike
+[04:43] A: Right
+[04:51] B: ok
+[04:56] A: thanks
+- - Round 2 - -
+[05:21] B: Do you have the guy taking a picture?
+[05:38] A: yes that's highlighted
+[05:40] A: <selection> <com> person_bicycle/COCO_train2014_000000441488.jpg
+[05:49] B: <selection> <com> person_bicycle/COCO_train2014_000000441488.jpg
+[06:00] A: <selection> <dif> person_bicycle/COCO_train2014_000000326202.jpg
+[06:02] B: I have a guy in a red white and blue outfit highlighted
+[06:03] A: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[06:04] A: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[07:27] A: No do you have a man sitting on the bus with a bike?
+[07:31] B: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[07:35] B: no
+[07:45] B: Guy on a silver bikr wearing a hat?
+[07:51] A: <selection> <com> person_bicycle/COCO_train2014_000000386722.jpg
+[08:10] A: Yes I have that highlighted
+[08:16] B: <selection> <com> person_bicycle/COCO_train2014_000000386722.jpg
+[08:19] B: Ok, thats that
+[08:24] A: ok
+- - Round 3 - -
+[09:14] B: Guy with water jugs near a bus?
+[10:13] A: Yes thats highlighted on mine
+[10:16] A: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[10:16] B: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[10:29] B: I have the guy on the white bike highlighted. You?
+[10:58] A: Nope. Do you have the guy on the bus?
+[11:03] B: <selection> <dif> person_bicycle/COCO_train2014_000000098596.jpg
+[11:06] B: Nope.
+[11:10] A: <selection> <dif> person_bicycle/COCO_train2014_000000326202.jpg
+[11:16] B: Do you have a kid in a box thing?
+[11:32] A: Yes thats highlighted on mine
+[11:35] A: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[11:51] B: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[11:53] B: Ok.
+[12:08] A: thanks
+- - Round 4 - -
+[12:33] B: Do you have the water jug guy highlighted?
+[12:46] A: <selection> <com> person_bicycle/COCO_train2014_000000098596.jpg
+[12:52] A: yes
+[12:58] B: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[13:10] B: I have the guy sitting on the bus. You?
+[13:18] A: yes
+[13:21] A: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[13:24] A: <selection> <com> person_bicycle/COCO_train2014_000000326202.jpg
+[13:31] A: <selection> <dif> person_bicycle/COCO_train2014_000000098596.jpg
+[13:37] A: plaid shirt
+[13:46] B: <selection> <com> person_bicycle/COCO_train2014_000000326202.jpg
+[13:58] B: Nope. Do you have the man on the small silver bike?
+[14:05] A: nope
+[14:17] B: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+- - Round 5 - -
+[14:40] B: Do you have the guy on the white bike?
+[14:53] A: Nope.Kid in the red cart?
+[15:07] B: <selection> <dif> person_bicycle/COCO_train2014_000000098596.jpg
+[15:12] B: Yes, I have that
+[15:14] B: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[15:16] A: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[15:24] B: Do you have the guy taking the picture?
+[15:50] A: Nope. Man on small bike with hat?
+[15:56] B: <selection> <dif> person_bicycle/COCO_train2014_000000441488.jpg
+[16:00] B: Nope.
+[16:04] A: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[16:53] A: ok what about the man with red, white, and blue shirt?
+[17:04] B: Nope.
+[17:10] A: ok
+[17:12] A: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+
+- - Game statistics - -
+Duration: 17:52 min. Score: 28/30 points.
+[Round 0] Duration: 05:04 min. Score: 5/6 points. Number of messages: 14.
+[Round 1] Duration: 03:21 min. Score: 6/6 points. Number of messages: 9.
+[Round 2] Duration: 03:03 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 01:45 min. Score: 6/6 points. Number of messages: 7.
+[Round 4] Duration: 02:35 min. Score: 5/6 points. Number of messages: 9.

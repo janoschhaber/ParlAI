@@ -1,0 +1,106 @@
+Game ID: 3EJPLAJKENEK1P1UWNX7N3MU559Z633XIQGXAUMD6E0UFKEFEEWW6FSHYX78
+Domain ID: 56
+Player A: A2AU2E2E9A0I1
+Player B: A31681CCEVDIH3
+
+- - Round 1 - -
+[00:00] A: I hve a child laying in bed reading a winnie the pooh book
+[00:32] B: I have him too
+[00:36] B: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[00:36] A: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[00:53] B: I have three kids on a bed playing a video game
+[01:01] A: I have that one too.
+[01:05] B: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[01:19] A: Do you have the woman wearing a white shirt? She's sitting on a bed holding a remote
+[01:22] B: I have a guy in cargo shorts who's feet are showing
+[01:23] A: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[01:24] A: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[01:30] A: I don't have that one
+[01:33] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[01:36] B: No woman with the remote
+[01:36] B: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[01:43] A: I'm done
+- - Round 2 - -
+[02:08] A: I have the guy in the cargo shorts who's feet are showing
+[02:18] B: No
+[02:23] A: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[02:29] A: I also have the woman with the remote
+[02:30] B: A boy holding a phone up to a bear
+[02:39] A: No.
+[02:42] B: No remote
+[02:46] B: <selection> <dif> person_bed/COCO_train2014_000000575631.jpg
+[02:47] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[03:00] B: I have a woman on a laptop in white
+[03:06] A: I do not.
+[03:11] B: And a girl on a bed with a stuffed panda
+[03:13] B: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[03:16] A: I have a woman in bed reading a book
+[03:27] B: No
+[03:31] A: No girl with stuffed panda here
+[03:33] B: <selection> <dif> person_bed/COCO_train2014_000000112029.jpg
+[03:34] A: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[03:37] A: I'm done.
+[03:42] B: Okay
+- - Round 3 - -
+[03:57] B: Cargo shorts guy
+[04:04] A: I have it too
+[04:06] B: Three kids on the bed
+[04:08] B: <selection> <com> person_bed/COCO_train2014_000000318646.jpg
+[04:12] A: Yes, I have that
+[04:14] B: Woman reading a book
+[04:17] B: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[04:19] A: No
+[04:24] B: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[04:31] A: Kid laying in bed reading Winnie the Pooh
+[04:36] A: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[04:38] A: <selection> <com> person_bed/COCO_train2014_000000318646.jpg
+[04:39] B: No 
+[04:46] A: <selection> <dif> person_bed/COCO_train2014_000000354532.jpg
+[04:49] A: I'm done
+- - Round 4 - -
+[05:12] A: I have the kid reading winnie the pooh
+[05:18] B: Yes
+[05:22] A: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[05:26] B: Woman holding the remote
+[05:31] A: Yes
+[05:39] A: I have the woman reading a book in bed
+[05:39] B: Woman in white shirt on a laptop
+[05:41] A: <selection> <com> person_bed/COCO_train2014_000000528563.jpg
+[05:49] A: No woman on laptop here
+[05:54] A: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[05:54] B: <selection> <com> person_bed/COCO_train2014_000000528563.jpg
+[05:59] B: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[06:04] B: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[06:23] B: no book
+[06:31] A: Ok. All set here.
+- - Round 5 - -
+[06:52] A: Woman in white shirt on laptop
+[06:56] B: Woman reading book
+[07:01] B: no laptop
+[07:05] B: cargo shorts
+[07:10] B: three kids
+[07:35] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[07:35] A: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[07:41] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[11:10] A: I have the woman reading a book
+[11:20] B: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[11:23] A: Also the woman on the laptop
+[11:40] B: no woman on laptop
+[12:05] B: Do you have cargo shorts guy
+[12:06] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[12:49] A: No I do not
+[12:54] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[12:59] B: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[13:00] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[13:00] A: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[13:07] B: Three kids on the bed?
+[13:16] A: No
+[13:28] B: <selection> <dif> person_bed/COCO_train2014_000000425325.jpg
+
+- - Game statistics - -
+Duration: 14:31 min. Score: 28/30 points.
+[Round 0] Duration: 01:46 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 01:34 min. Score: 5/6 points. Number of messages: 14.
+[Round 2] Duration: 00:57 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 01:23 min. Score: 5/6 points. Number of messages: 9.
+[Round 4] Duration: 06:40 min. Score: 6/6 points. Number of messages: 12.

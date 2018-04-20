@@ -1,0 +1,103 @@
+Game ID: 3QEMNNSB2YX02OA3NFD22P3NBMFD7O38JBBYETQP88B76KHCQF5V1YKWQE4Y
+Domain ID: 11
+Player A: ASW9MABLSXSPK
+Player B: ARJ8XLYXTWNE
+
+- - Round 1 - -
+[00:00] B: Do you have a dog in a hot dog costume?
+[00:03] A: A dog in a hot dog costume and person with a ketchup bottle?
+[00:09] B: Yes
+[00:10] A: Yes :)
+[00:12] B: <selection> <com> person_dog/COCO_train2014_000000145499.jpg
+[00:13] A: <selection> <com> person_dog/COCO_train2014_000000145499.jpg
+[00:28] B: Go ahead.
+[00:45] A: Lady holding little black dog up to window to look at a cow?
+[00:54] B: No
+[00:56] A: <selection> <dif> person_dog/COCO_train2014_000000515186.jpg
+[01:33] A: Man sitting at computer with big dog in lap.  Picture is dark and dog looks sad. 
+[02:21] B: Is there a window to the left with tan curtains?
+[02:28] A: yes
+[02:30] B: Yes
+[02:33] A: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+[02:40] A: okay- you go. :)
+[03:11] B: Do you have 2 men, one with a red cap on, the other is sitting down?
+[03:19] A: No
+[03:22] B: <selection> <dif> person_dog/COCO_train2014_000000171262.jpg
+[04:17] B: Do you have one with a dog sleeping in a person's lap, the person's hand on the dog's head?
+[04:33] A: I do not have that one.
+[04:37] B: <selection> <dif> person_dog/COCO_train2014_000000344597.jpg
+[04:40] B: OK
+- - Round 2 - -
+[05:06] A: I have the sad dog and man at computer again.
+[05:15] B: I have that.
+[05:19] B: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+[05:20] A: <selection> <com> person_dog/COCO_train2014_000000421393.jpg
+[05:46] A: I got the one with the dog sleeping on the couch with the person's hand on it's head.
+[05:56] B: No
+[05:59] A: <selection> <dif> person_dog/COCO_train2014_000000344597.jpg
+[06:27] A: The man with a red hat and man sitting down with the 2 dogs. One dog has on a yellow vest.
+[06:38] B: Yes.
+[06:41] B: <selection> <com> person_dog/COCO_train2014_000000171262.jpg
+[06:41] A: <selection> <com> person_dog/COCO_train2014_000000171262.jpg
+[07:06] B: Do you have a little girl with a pink shirt on, a black dog in the picture as well?
+[07:18] A: No
+[07:21] B: <selection> <dif> person_dog/COCO_train2014_000000324156.jpg
+[07:27] B: OK
+- - Round 3 - -
+[07:48] A: You go first :)
+[08:15] B: Do you have a dog in a hot dog costume?
+[08:22] A: I do not.
+[08:26] B: <selection> <dif> person_dog/COCO_train2014_000000145499.jpg
+[08:47] A: Do you have the dog looking out the window at a cow?
+[08:54] B: Yes.
+[08:56] B: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[08:57] A: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[09:20] A: The sleeping dog with a persons hand on it's head?
+[09:30] B: No.
+[09:32] A: <selection> <dif> person_dog/COCO_train2014_000000344597.jpg
+[10:02] B: Do you have a service dog on a bus, a guy to the right of the dog?
+[10:16] A: yes
+[10:18] A: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[10:20] B: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+- - Round 4 - -
+[10:55] B: Do you have the dog in a hot dog costume?
+[10:55] A: I've got the dog looking at the cow again.
+[11:12] A: No hot dog dog
+[11:18] B: <selection> <dif> person_dog/COCO_train2014_000000145499.jpg
+[11:31] B: I have the dog and the cow.
+[11:33] B: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[11:34] A: <selection> <com> person_dog/COCO_train2014_000000515186.jpg
+[12:01] A: The little girl in pink polka dot shirt with the black dog next to her?
+[12:15] B: Yes, I have that.
+[12:19] A: <selection> <com> person_dog/COCO_train2014_000000324156.jpg
+[12:44] B: Do you have the man holding the dog with the sad eyes?
+[12:58] A: The man in the red hat with man sitting down and 2 dogs, one in a yellow jacket.
+[13:07] A: I do not have the sad eyed dog.
+[13:11] B: <selection> <dif> person_dog/COCO_train2014_000000421393.jpg
+[13:39] B: I don't have the man in the red hat.
+[13:42] A: <selection> <dif> person_dog/COCO_train2014_000000171262.jpg
+- - Round 5 - -
+[14:05] A: I've got the hot dog.
+[14:16] B: I don't this time.
+[14:22] A: The service dog on a bus.
+[14:26] B: Yes.
+[14:29] B: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[14:41] A: The dog sleeping with a persons hand on it's head.
+[14:44] A: <selection> <dif> person_dog/COCO_train2014_000000145499.jpg
+[14:46] A: <selection> <com> person_dog/COCO_train2014_000000402297.jpg
+[14:52] B: <selection> <com> person_dog/COCO_train2014_000000344597.jpg
+[14:54] B: Yes, I have that.
+[15:04] A: Okay, do you need one more?
+[15:07] A: <selection> <com> person_dog/COCO_train2014_000000344597.jpg
+[15:35] B: Do you have the guy with the red cap on, man sitting on the bench?
+[15:42] A: Not this time.
+[15:46] B: <selection> <dif> person_dog/COCO_train2014_000000171262.jpg
+[15:49] B: OK
+
+- - Game statistics - -
+Duration: 17:25 min. Score: 30/30 points.
+[Round 0] Duration: 04:43 min. Score: 6/6 points. Number of messages: 17.
+[Round 1] Duration: 02:29 min. Score: 6/6 points. Number of messages: 9.
+[Round 2] Duration: 02:41 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 02:54 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 01:52 min. Score: 6/6 points. Number of messages: 10.

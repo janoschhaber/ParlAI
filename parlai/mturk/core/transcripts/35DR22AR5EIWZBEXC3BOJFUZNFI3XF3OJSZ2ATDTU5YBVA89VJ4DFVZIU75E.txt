@@ -1,0 +1,151 @@
+Game ID: 35DR22AR5EIWZBEXC3BOJFUZNFI3XF3OJSZ2ATDTU5YBVA89VJ4DFVZIU75E
+Domain ID: 56
+Player A: A12LXY8U7NHI7W
+Player B: AGTW3LAZKR8UM
+
+- - Round 1 - -
+[00:00] B: wanna go first?
+[00:14] A: I have a baby in a red shirt holding a winnie the pooh book
+[00:25] B: same. he is looking at the camera in a bed
+[00:28] B: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[00:34] A: Yes!
+[00:42] A: okay, you go
+[00:45] A: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[00:54] B: I have a white woman in her bedroom on a laptop. She is next to an open lamp
+[01:04] B: she's also in front of a mirror and you can see her bed behind her
+[01:20] A: yes I have that one
+[01:24] B: she's sitting at a desk in her bedroom yeah
+[01:26] B: <selection> <com> person_bed/COCO_train2014_000000348269.jpg
+[01:28] B: ok
+[01:48] A: I have a woman lying on a bed with a book  - Twilight - the book is covering her face
+[01:59] B: nope, i dont have that
+[02:28] A: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[02:28] B: i have a woman with a white t shirt; she has remotes in her hand (like wii remotes with a nunchunk)
+[02:45] B: a man with a black t shirt and jeans is next to her; the woman is on a bed or couch
+[02:49] A: yes - with a man in a black shirt - I have it. 
+[02:53] A: <selection> <com> person_bed/COCO_train2014_000000528563.jpg
+[02:56] B: <selection> <com> person_bed/COCO_train2014_000000528563.jpg
+[03:00] B: good, thats all for me
+[03:09] A: all for me too
+- - Round 2 - -
+[03:28] B: i'll go
+[03:36] A: ok
+[03:40] B: i have the woman on her bed with the twilight book in her face; do you have it again?
+[03:47] A: not this time
+[03:50] B: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[03:54] B: ok
+[04:00] A: I have the baby in the red shirt again
+[04:06] B: not me
+[04:13] A: <selection> <dif> person_bed/COCO_train2014_000000354532.jpg
+[04:32] B: i have 3 kids sitting on a bed, 1 girl, 1 boy, and 1 girl. both girls are wearing pink
+[04:42] A: yes!
+[04:45] A: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[04:46] B: the boy has a red and blue t shirt and is holding a remote. a wheel i think
+[04:51] B: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[04:53] B: ok
+[05:10] A: I have someone lying on a bed. Can see their feet stretched out
+[05:25] B: yup; is there a red box on the left?
+[05:35] B: and brown pants
+[05:40] A: yes
+[05:42] B: brown shorts*
+[05:42] A: <selection> <com> person_bed/COCO_train2014_000000318646.jpg
+[05:45] B: <selection> <com> person_bed/COCO_train2014_000000318646.jpg
+[05:48] B: ok its all for me
+[05:55] A: im good
+- - Round 3 - -
+[06:17] B: i have the woman at her desk again
+[06:17] A: i have the twilight book
+[06:25] B: in her bedroom. I dont have the twilight book
+[06:29] A: no desk for me
+[06:32] B: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[06:33] A: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[06:35] B: ok
+[06:48] A: I have the guy with brown shorts
+[07:07] B: same as the other page? i don thave him
+[07:23] B: I have a woman, black, on her bed, theres a plush panda bear
+[07:41] B: she has blue shoes/heels and a dress with flowers
+[07:48] A: no woman with a panda bear
+[07:52] B: <selection> <dif> person_bed/COCO_train2014_000000112029.jpg
+[07:54] A: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[07:54] B: ok
+[08:10] A: I have the lady with the white shirt holding wii remotes
+[08:18] B: i dont have her
+[08:25] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[08:43] B: i have a kid on a bed, wearing blue striped pajamas. he is holding a bear and has a black phone
+[08:57] B: the bear is ''talking'' on the phone
+[08:57] A: yes! I have that one
+[09:02] B: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[09:05] B: ok im done
+[09:17] A: me too
+- - Round 4 - -
+[09:49] B: i have the man with the brown shorts again
+[10:01] A: I do not this time. 
+[10:03] B: and the woman with the twilight book in her face
+[10:07] B: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[10:16] A: I have the twilight book lady too
+[10:20] A: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[10:20] B: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[10:33] A: I have lady looking in mirror with laptop
+[10:39] B: i dont have her
+[10:44] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[10:55] B: i have the 3 kids on the bed, 2 girls and one boy, both girls wearing pink
+[11:06] A: I don't have that one
+[11:08] B: <selection> <dif> person_bed/COCO_train2014_000000425325.jpg
+[11:11] B: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[11:14] B: ok im done
+[11:17] B: <selection> <dif> person_bed/COCO_train2014_000000425325.jpg
+[11:20] A: I have the lady in white shirt holding remotes
+[11:31] B: nope dont have that
+[11:37] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[11:45] A: I'm done
+[11:53] B: ok
+[12:10] B: i am too
+[13:12] B: hello?
+[13:45] A: I submitted my page - not sure what's going on
+[14:03] B: same i submitted too
+[14:23] B: :(
+[14:47] B: i guess we brk
+[14:51] B: *broke the hit 
+[15:07] A: it figures......... of course it had to be at the end.....
+[15:24] B: lmao ill report it as broken. have a nice evening!
+[15:51] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[15:53] A: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[15:55] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[16:14] A: I reloaded the page. 
+[16:18] B: oooh
+[16:25] B: me too it worked
+[16:40] B: but i lost my selection
+[16:48] B: brown shorts you didnt have it, nor twilight, right?
+[16:58] B: <selection> <dif> person_bed/COCO_train2014_000000034825.jpg
+[17:06] A: I have twilight, but that's the only one
+[17:14] B: ok yeah
+[17:20] B: im done u?
+[17:22] B: <selection> <com> person_bed/COCO_train2014_000000034825.jpg
+[17:25] B: <selection> <dif> person_bed/COCO_train2014_000000425325.jpg
+[17:26] B: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[17:27] A: yes
+- - Round 5 - -
+[17:54] A: woo hoo! we need gold stars!
+[18:01] B: i have the boy with the winni the pooh book
+[18:09] A: yes
+[18:13] A: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[18:17] B: brown shorts on bed again i have him too
+[18:19] B: <selection> <com> person_bed/COCO_train2014_000000354532.jpg
+[18:23] B: <selection> <dif> person_bed/COCO_train2014_000000318646.jpg
+[18:39] A: no brown shorts for me; I have three kids on end of the bed
+[18:49] B: and the 2 girls in pink, one boy in the middle on a bed, with the boy holding the remote wheel
+[18:52] B: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[19:01] B: im done
+[19:09] A: <selection> <com> person_bed/COCO_train2014_000000425325.jpg
+[19:22] A: I have lady holding the two wii remotes
+[19:28] B: dont have her
+[19:32] A: <selection> <dif> person_bed/COCO_train2014_000000528563.jpg
+[19:38] A: ok I'm done
+
+- - Game statistics - -
+Duration: 20:23 min. Score: 30/30 points.
+[Round 0] Duration: 03:13 min. Score: 6/6 points. Number of messages: 17.
+[Round 1] Duration: 02:30 min. Score: 6/6 points. Number of messages: 18.
+[Round 2] Duration: 03:03 min. Score: 6/6 points. Number of messages: 18.
+[Round 3] Duration: 07:41 min. Score: 6/6 points. Number of messages: 31.
+[Round 4] Duration: 01:47 min. Score: 6/6 points. Number of messages: 10.

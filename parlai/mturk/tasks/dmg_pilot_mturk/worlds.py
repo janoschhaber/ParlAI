@@ -53,6 +53,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         self.players_done = {self.players[0]: False, self.players[1]: False}
         self.total_score = 0
         self.roundDone = False
+        self.end_time = None
 
         for i, agent in enumerate(agents):
             try:
@@ -228,6 +229,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                 pass
 
             if self.otherDone:
+                self.end_time = time.time()
                 self.log_data()
                 self.episodeDone = True
             else:

@@ -1,0 +1,95 @@
+Game ID: 3SLE99ER0OBQ71IPSEEFYJ8MJ6IZBM308Q0PEVB9BLOIEIUQCX7IA6ZTD9IP
+Domain ID: 34
+Player A: A8RDXT4ZILHQT
+Player B: ATSZCAVI441RM
+
+- - Round 1 - -
+[00:00] A: Do you have the plate of vegtables with white fuzz?
+[00:13] A: Or the one with hot dogs next to a fry basket?
+[00:28] B: Yes to the white fuzz and no to the hot dogs.
+[00:30] B: <selection> <com> bowl_dining_table/COCO_train2014_000000492731.jpg
+[00:52] B: Do you have a picture with a bowl of rice and 2 other dishes black bowl and white tray?
+[00:56] A: <selection> <com> bowl_dining_table/COCO_train2014_000000492731.jpg
+[00:57] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000386603.jpg
+[01:02] A: Yup!
+[01:05] B: <selection> <com> bowl_dining_table/COCO_train2014_000000144797.jpg
+[01:13] A: Do you have the two pink baskets with food in them?
+[01:18] B: Yes
+[01:20] B: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[01:27] A: I've got the two white plates with food too btw.\
+[01:30] A: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[01:42] B: That's all I have. 
+- - Round 2 - -
+[02:13] A: I have the white fuzz plate again.
+[02:19] A: I have the pink baskets too.
+[02:24] A: And the white plates.
+[02:49] B: I have the pink basket but no fuzz. I don't have the white plates. I do have a bowl of beets.
+[02:52] B: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[02:53] A: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[02:55] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+[03:02] A: I have beats.
+[03:07] A: Anything else you need?
+[03:10] A: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[03:10] B: I also have a bowl of what looks to be grass in a white bowl.
+[03:19] B: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[03:29] B: Books in the background of the picture.
+[03:30] A: I don't have that.
+[03:33] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000086285.jpg
+- - Round 3 - -
+[03:49] A: How many pages are there? Like 12?
+[03:51] B: I have the bowl of rice and black bowl again with the white tray.
+[03:54] A: I have grass bowl again.
+[03:59] A: I have fuzz plate too.
+[04:09] A: And I have hotdogs with fries.
+[04:20] B: No grass bowl. do you have the cat? No white fuzz and no hot dogs with fries. 
+[04:35] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000086285.jpg
+[04:42] A: I have cat. 
+[04:44] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+[04:45] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+[04:45] B: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[04:45] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000386603.jpg
+[04:53] B: Do you have the black bowl with rice and white tray?
+[04:58] A: I have the box of fruits and veg with litter boxes.
+[05:02] A: No black bowl.
+[05:05] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000144797.jpg
+[05:12] A: I also have two plates with what I think is pizza in one
+[05:41] B: No box of fruits but I do have carrots/celery in a bowl with two other gray bowls. No pizza.
+[05:55] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000161846.jpg
+- - Round 4 - -
+[06:19] B: Grass bowl again.
+[06:23] A: Did you say if there were 12 pages or not?
+[06:29] A: No glass bowl
+[06:34] A: I have black rice bowl
+[06:34] B: I have hot dogs with fries. Yes 12 pages.
+[06:39] A: I also have fuzz plate
+[06:46] B: I have red beets. 
+[06:48] A: Yes, hot dogs here too.
+[06:53] A: <selection> <com> bowl_dining_table/COCO_train2014_000000386603.jpg
+[06:54] B: <selection> <com> bowl_dining_table/COCO_train2014_000000386603.jpg
+[06:58] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000086285.jpg
+[07:08] A: No beets.
+[07:11] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000395097.jpg
+[07:12] A: Have fuzz or rice?
+[07:23] B: No fuzz or rice.
+[07:43] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+[07:44] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000144797.jpg
+- - Round 5 - -
+[07:56] A: I have pink bowls.
+[07:59] A: Then beets
+[08:02] A: Then grass bowl.
+[08:03] B: Red beets, bowl of grass and hot dogs fries only.
+[08:10] A: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[08:10] B: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[08:11] A: <selection> <com> bowl_dining_table/COCO_train2014_000000086285.jpg
+[08:12] B: <selection> <com> bowl_dining_table/COCO_train2014_000000086285.jpg
+[08:13] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000386603.jpg
+[08:13] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000100022.jpg
+[08:18] A: No hot dog.
+
+- - Game statistics - -
+Duration: 08:34 min. Score: 30/30 points.
+[Round 0] Duration: 01:54 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 01:21 min. Score: 6/6 points. Number of messages: 9.
+[Round 2] Duration: 02:18 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 01:25 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 00:23 min. Score: 6/6 points. Number of messages: 5.

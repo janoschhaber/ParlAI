@@ -23,10 +23,11 @@ from copy import copy
 import json
 import os
 import time
+import dill
 
 VERBOSE = True
 game_id = None
-worker_record = defaultdict(lambda: [])
+worker_record = defaultdict(lambda: defaultdict(lambda: []))
 worker_bans = []
 available_games = None
 worker_names = ["Avery", "Jordan", "Blake", "River", "Eden", "Phoenix", "Harley", "Alexis", "Parker", "Taylor"]
@@ -75,7 +76,7 @@ def main():
     # Remove qualification blocks
     # mturk_utils.delete_qualification('33DUYNETVPNVNFT4X22Z6F584M1WCM', is_sandbox)
 
-    qual_name = 'DMG_Pilot_:_Max_Games_Reached_v1'
+    qual_name = 'DMG Pilot: Max Games Reached v1'
     qual_desc = 'Qualification for a worker who completed the maximum number of games in the DMG Pilot'
     qualification_id = mturk_utils.find_or_create_qualification(qual_name, qual_desc, is_sandbox, True)
     print('Created qualification: {}'.format(qualification_id))
@@ -89,9 +90,8 @@ def main():
             global worker_bans
 
             try:
-                with open('records/worker_record.json', 'r') as infile:
-                    worker_record = json.load(infile)
-                    worker_record = defaultdict(list, worker_record)
+                with open('records/worker_record.dill', 'rb') as infile:
+                    worker_record = dill.load(infile)
                     print("Loaded worker records.")
             except FileNotFoundError:
                 pass
@@ -101,7 +101,7 @@ def main():
             except FileNotFoundError:
                 pass
 
-            # Exclude players who are banned by completing the maximum number of games in a previous HIT
+            # Exclude players who are blocked by completing the maximum number of games in a previous HIT
             for worker_id in worker_bans:
                 print("Excluded banned worker {}".format(worker_id))
                 mturk_utils.give_worker_qualification(worker_id, qualification_id)
@@ -115,6 +115,8 @@ def main():
                 os.makedirs("records")
             with open('records/worker_record.json', 'w') as f:
                 json.dump(worker_record, f)
+            with open('records/worker_record.dill', 'wb') as f:
+                dill.dump(worker_record, f)
             with open('records/worker_bans.json', 'w') as f:
                 json.dump(worker_bans, f)
 
@@ -145,31 +147,44 @@ def main():
             :return: True if the given game ID is blocked for the given player, False otherwise
             """
             if player_id in worker_record:
-                if worker_record[player_id].count(id) == 2:
+                if worker_record[player_id]["games"].count(id) == 2:
                     return True
 
             return False
 
-        def update_records(players, game_id):
+        def update_records(players, played_game_id):
             """
             Updates the HITs worker records
             :param players: players paired for a game
-            :param game_id: game ID
+            :param played_game_id: game ID
+            :return: Nothing.
+            """
+            print("UPDATING RECORDS!!!")
+
+            # Add game ID to the worker record and to the blocked list if it is the second occurance.
+            # If a player has played 10 games, he or she gets banned from the game.
+            update_worker_record(players[0], players[1], played_game_id)
+            update_worker_record(players[1], players[0], played_game_id)
+
+        def update_worker_record(worker, partner, played_game_id):
+            """
+            Updates the record for a specific worker - partner pairing with a given game ID
+            :param worker: worker agent
+            :param partner: partner agent
+            :param played_game_id: assigned game ID
             :return: Nothing.
             """
             global worker_record
             global worker_bans
 
-            print("UPDATING RECORDS!!!")
-
-            # Add game ID to the worker record and to the blocked list if it is the second occurance.
-            # If a player has played 10 games, he or she gets banned from the game.
-            for player in players:
-                player_id = player.worker_id
-                worker_record[player_id].append(game_id)
-                if len(worker_record[player_id]) == 5:
-                    mturk_utils.give_worker_qualification(player_id, qualification_id)
-                    worker_bans.append(player_id)
+            player_id = worker.worker_id
+            partner_id = partner.worker_id
+            worker_record[player_id]["games"].append(played_game_id)
+            worker_record[player_id]["partners"].append(partner_id)
+            if len(worker_record[player_id]["games"]) == 5:
+                mturk_utils.give_worker_qualification(player_id, qualification_id)
+                worker_bans.append(player_id)
+                worker.block_worker("Reached the maxiumum of 5 games in the DMG Pilot")
 
         def check_workers_eligibility(workers):
             """
@@ -214,13 +229,13 @@ def main():
 
                 # Worker played before.
                 else:
-                    last_game_id = worker_record[worker_id][-1]
+                    last_game_id = worker_record[worker_id]["games"][-1]
                     if not game_is_blocked(last_game_id, worker_id):
-                        # Check if anybody in the queue has not played this game yet
+                        # Check if anybody in the queue has not played this game yet and didn't play with worker before
                         for partner in workers[idx + 1:]:
                             partner_id = partner.worker_id
                             # If partner also played before, pair them
-                            if partner_id in worker_record and last_game_id not in worker_record[partner_id]:
+                            if partner_id in worker_record and last_game_id not in worker_record[partner_id]["games"] and worker_id not in worker_record[partner_id]["partners"]:
                                 if VERBOSE: print("Partner has not played this game before.")
                                 players.append(worker)
                                 players.append(partner)
@@ -232,14 +247,13 @@ def main():
                     # So pair worker with the next available player and check their games
                     for partner in workers[idx + 1:]:
                         partner_id = partner.worker_id
-                        # If partner also played before, pair them
-                        if partner_id in worker_record:
-                            last_game_id = worker_record[partner_id][-1]
+                        # If partner also played before, but never with worker, pair them
+                        if partner_id in worker_record and worker_id not in worker_record[partner_id]["partners"]:
+                            last_game_id = worker_record[partner_id]["games"][-1]
                             players.append(worker)
                             players.append(partner)
                             # Check if the partner's last game is not yet blocked and never played by the worker
-                            if not game_is_blocked(last_game_id, partner_id) and last_game_id not in worker_record[
-                                worker_id]:
+                            if not game_is_blocked(last_game_id, partner_id) and last_game_id not in worker_record[worker_id]["games"]:
                                 next_game_id = last_game_id
                                 if VERBOSE: print(
                                     "Partner has recorded games. Setting game ID to {}".format(next_game_id))
@@ -247,8 +261,8 @@ def main():
                                 return players
                             # Else select a random one that none of the two played before
                             else:
-                                blocked = copy(worker_record[worker_id])
-                                blocked.extend(worker_record[partner_id])
+                                blocked = copy(worker_record[worker_id]["games"])
+                                blocked.extend(worker_record[partner_id]["games"])
                                 next_game_id = select_random_game(exceptions=blocked)
                                 if VERBOSE: print(
                                     "Selected game {} as it was not played by any of the players before".format(
@@ -295,18 +309,27 @@ def main():
 
         def pay_workers(agents, get_pay, time_bonus=None):
 
+            if not os.path.exists("records"):
+                os.makedirs("records")
+
             for agent in agents:
                 if get_pay[agent.worker_id]:
                     print("Paying worker {}".format(agent.worker_id))
-                    if agent.worker_id in worker_record:
+                    if len(worker_record[agent.worker_id]["games"]) > 1:
                         agent.pay_bonus(0.25, reason="DMP Pilot: Bonus for multiple games")
                         print("Paying bonus for multiple games!")
+                        with open('records/payments.txt', 'a') as f:
+                            f.write("{}; {}; {}; multiple_bonus\n".format(agent.worker_id, 0.25, agent.assignment_id))
 
                     if time_bonus:
                         agent.pay_bonus(time_bonus, reason="DMG Pilot: Bonus for long HIT")
                         print("Paying bonus for long HIT!")
+                        with open('records/payments.txt', 'a') as f:
+                            f.write("{}; {}; {}; long_bonus\n".format(agent.worker_id, time_bonus, agent.assignment_id))
 
                     agent.approve_work()
+                    with open('records/payments.txt', 'a') as f:
+                        f.write("{}; {}; {}; payment\n".format(agent.worker_id, 2.00, agent.assignment_id))
 
                 else:
                     print("Rejecting agent {}'s work as he or she disconnected (too early) or score is too low.".format(agent.worker_id))
@@ -399,20 +422,25 @@ def main():
                 else:
                     print("Score too low!")
 
+            if world.end_time:
+                conversation_end_time = world.end_time
+            else:
+                conversation_end_time = conversation_start_time.copy()
             world.shutdown()
             print("# # # Game ended # # #")
 
-            end_time = time.time()
-            duration = end_time - conversation_start_time
+            duration = conversation_end_time - conversation_start_time
             duration_mins = duration / 60.0
             time_bonus = None
 
-            if duration_mins > 12:
-                if duration_mins >= 27:
+            if duration_mins > 10:
+                if duration_mins >= 25:
                     time_bonus = 1.50
                 else:
-                    time_bonus = int(duration_mins - 12) * 0.10
+                    time_bonus = int(duration_mins - 10) * 0.10
 
+            if time_bonus and time_bonus > 1.5:
+                time_bonus = 1.5
             pay_workers(agents, get_pay, time_bonus)
             print("Conversation closed.")
 

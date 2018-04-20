@@ -1,0 +1,123 @@
+Game ID: 32AT8R96GM782O5HXD127G37KZKSUV3L0KT67Y8FEPJXPM7EYRA19KGNVSYT
+Domain ID: 22
+Player A: A1ZTSCPETU3UJW
+Player B: A1HIQZEC2ER7GS
+
+- - Round 1 - -
+[00:00] A: I have a woman with a surfboard and yellow bikini
+[00:07] B: <selection> <com> person_surfboard/COCO_train2014_000000079720.jpg
+[00:11] B: Me too.
+[00:14] A: <selection> <com> person_surfboard/COCO_train2014_000000079720.jpg
+[00:26] B: I have an asian man with red and white hat with green surfboard
+[00:33] A: Yes!
+[00:37] A: <selection> <com> person_surfboard/COCO_train2014_000000314741.jpg
+[00:46] B: <selection> <com> person_surfboard/COCO_train2014_000000314741.jpg
+[00:57] A: I have a white guy holding a surfboard above his head
+[01:09] B: I dont have that one.
+[01:15] A: <selection> <dif> person_surfboard/COCO_train2014_000000374388.jpg
+[01:16] B: What about two girls in water and little boy.
+[01:22] A: No
+[01:24] B: <selection> <dif> person_surfboard/COCO_train2014_000000572061.jpg
+[01:27] B: okay
+[01:32] A: It is different then
+[01:36] B: yes
+- - Round 2 - -
+[02:04] B: I have yellow biking again
+[02:10] A: No
+[02:17] B: What about the asian man?
+[02:18] A: I have the Asian guy from the last one
+[02:22] B: <selection> <com> person_surfboard/COCO_train2014_000000314741.jpg
+[02:24] A: <selection> <com> person_surfboard/COCO_train2014_000000314741.jpg
+[02:25] B: yes!
+[02:40] B: A man with a surfboard over his head and he has a beard?
+[02:47] A: Yes!
+[02:49] A: <selection> <com> person_surfboard/COCO_train2014_000000374388.jpg
+[02:50] B: <selection> <com> person_surfboard/COCO_train2014_000000374388.jpg
+[02:52] B: <selection> <dif> person_surfboard/COCO_train2014_000000079720.jpg
+[02:57] B: ok all set!
+[03:06] A: No
+[03:25] B: whats missing?
+[03:32] A: What about the guy with a surf board standing next to it
+[03:37] B: i do not
+[04:01] A: ok that one is different then
+[04:05] B: okay.
+[04:54] B: raedy to submit?
+[04:58] B: ready*
+[07:39] B: bgdfgdfg
+[08:39] A: yes
+[08:42] A: <selection> <com> person_surfboard/COCO_train2014_000000314741.jpg
+[08:43] A: <selection> <com> person_surfboard/COCO_train2014_000000374388.jpg
+[08:47] A: <selection> <dif> person_surfboard/COCO_train2014_000000111385.jpg
+[09:00] A: I lost my internet for a second
+- - Round 3 - -
+[09:46] A: Are you there?
+[09:52] B: yes
+[10:01] B: I have man with surfboard over his head again
+[10:09] A: Yep!
+[10:11] A: <selection> <com> person_surfboard/COCO_train2014_000000374388.jpg
+[10:16] B: i have white male with black suit standing next to surfboard
+[10:18] B: <selection> <com> person_surfboard/COCO_train2014_000000374388.jpg
+[10:23] A: I have two girls and a boy
+[10:29] B: I do not
+[10:36] B: Do you have thw white male 
+[10:42] A: I have a man standing next to his surfboard
+[10:48] A: <selection> <dif> person_surfboard/COCO_train2014_000000572061.jpg
+[10:49] A: <selection> <com> person_surfboard/COCO_train2014_000000111385.jpg
+[10:54] B: white surfboard with orange
+[10:56] B: ?
+[11:17] A: Is he wear a surf suit thing?
+[11:26] B: yes, black
+[11:29] B: <selection> <com> person_surfboard/COCO_train2014_000000111385.jpg
+[11:32] A: Yep
+[11:42] B: Do you have boy carrying red surfboard?
+[11:46] A: No
+[11:54] A: I'm ready
+[12:02] B: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[12:04] B: ok
+- - Round 4 - -
+[12:49] A: Same guy standing next to surboard
+[12:56] B: no.
+[12:59] A: <selection> <dif> person_surfboard/COCO_train2014_000000111385.jpg
+[13:10] A: Girl with bikini from before?
+[13:14] B: Red surfboard again?
+[13:20] B: I do not have bikini.
+[13:23] A: No
+[13:32] B: Do you have two men with two surfboards?
+[13:33] A: Three kids in the wter
+[13:37] B: no kids.
+[13:40] A: No
+[13:41] A: <selection> <dif> person_surfboard/COCO_train2014_000000079720.jpg
+[13:43] A: <selection> <dif> person_surfboard/COCO_train2014_000000572061.jpg
+[13:43] B: <selection> <dif> person_surfboard/COCO_train2014_000000387812.jpg
+[13:44] B: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[13:50] A: They are all different?
+[13:53] B: Guy on surfboard 
+[13:58] B: i think so
+[13:59] A: No
+[14:00] B: <selection> <dif> person_surfboard/COCO_train2014_000000097094.jpg
+[14:05] B: ok so different
+- - Round 5 - -
+[14:40] B: yellow bikini
+[14:52] A: Three kids in the water
+[14:55] B: yes
+[14:57] B: <selection> <com> person_surfboard/COCO_train2014_000000572061.jpg
+[14:59] A: <selection> <com> person_surfboard/COCO_train2014_000000572061.jpg
+[15:02] B: yellow bikini?
+[15:16] A: Two boys holding surfboards?
+[15:16] B: Asian man ?
+[15:20] B: no
+[15:36] A: No, bikini girl or Asian man
+[15:41] A: <selection> <dif> person_surfboard/COCO_train2014_000000111385.jpg
+[15:43] A: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[15:49] B: ok so just the kids in common'
+[15:51] B: <selection> <dif> person_surfboard/COCO_train2014_000000079720.jpg
+[15:52] B: <selection> <dif> person_surfboard/COCO_train2014_000000314741.jpg
+[15:53] A: Yep
+
+- - Game statistics - -
+Duration: 16:29 min. Score: 28/30 points.
+[Round 0] Duration: 01:39 min. Score: 6/6 points. Number of messages: 11.
+[Round 1] Duration: 06:57 min. Score: 6/6 points. Number of messages: 19.
+[Round 2] Duration: 02:20 min. Score: 5/6 points. Number of messages: 18.
+[Round 3] Duration: 01:17 min. Score: 5/6 points. Number of messages: 15.
+[Round 4] Duration: 01:16 min. Score: 6/6 points. Number of messages: 10.

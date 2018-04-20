@@ -1,0 +1,119 @@
+Game ID: 3VNXK88KKDGQAOYITXBGM7007VB9VO30X31N5D64OONFRJR8KB7FRDEA4SAO
+Domain ID: 46
+Player A: A1TLQ6BTDQX7US
+Player B: AM2KK02JXXW48
+
+- - Round 1 - -
+[00:00] B: little boy with bib eating pastry
+[00:06] A: I have that one
+[00:09] A: <selection> <com> couch_dining_table/COCO_train2014_000000560969.jpg
+[00:20] A: I have a man slicing a big pizza
+[00:22] B: two women sitting in front of pastries, wearing orange shirts
+[00:25] B: <selection> <com> couch_dining_table/COCO_train2014_000000560969.jpg
+[00:31] B: no pizza
+[00:33] A: I don't have that one
+[00:37] B: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[00:40] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[00:52] A: I have a woman in blue shirt holding wine glass
+[00:58] B: woman sitting on couch, baby standing by coffee table, dark pic
+[01:05] B: no wine glass
+[01:08] A: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+[01:18] A: I don't have the baby one
+[01:22] B: (what does it say that my name is in chat)
+[01:28] A: Blake
+[01:41] B: yours says black too
+[01:45] B: Blake
+[01:49] A: lol
+[02:10] B: so your name isn't Blake... ok.. I"m done this one
+[02:21] B: <selection> <dif> couch_dining_table/COCO_train2014_000000010877.jpg
+[02:21] A: No it isn't..I'm done too
+- - Round 2 - -
+[02:40] B: two kids laying down in booth
+[02:43] A: I have the orange shirt ladies
+[02:52] B: No orange shirts
+[02:54] A: I don't have the booth one
+[02:56] A: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[03:03] B: blue shirt lady with orange scarf and wine glass
+[03:07] A: I have the man slicing pizza again
+[03:15] B: pink donut with sparkler on top
+[03:19] B: no pizza
+[03:20] A: No I don't have the wine glass lady
+[03:25] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[03:28] B: <selection> <dif> couch_dining_table/COCO_train2014_000000330652.jpg
+[03:30] B: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+[03:31] A: I have the kid with bib again
+[03:36] B: no bib
+[03:44] A: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[03:49] A: Ok we should be good to go
+[03:58] B: you didn't say if you had sparkler
+[04:06] A: Oh sorry, no I don't
+[04:10] B: <selection> <dif> couch_dining_table/COCO_train2014_000000109895.jpg
+[04:15] B: done
+[04:18] A: done
+- - Round 3 - -
+[04:40] B: orange shirts
+[04:44] B: kid with bib
+[04:46] A: yes I have that one
+[04:48] A: <selection> <com> couch_dining_table/COCO_train2014_000000249727.jpg
+[04:51] A: No kid with bib
+[04:55] B: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[04:55] B: <selection> <com> couch_dining_table/COCO_train2014_000000249727.jpg
+[05:02] B: lady on couch, kid at coffee table
+[05:07] A: I have a small wooden table with wine bottles and other things on it
+[05:17] B: no bottles
+[05:22] A: Yes, I have the lady on couch with kid at atble
+[05:26] A: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[05:26] B: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[05:27] A: <selection> <dif> couch_dining_table/COCO_train2014_000000509555.jpg
+[05:30] B: done
+[05:33] A: done
+- - Round 4 - -
+[05:48] B: man vs pizza
+[05:51] A: I have the bib kid again
+[05:55] A: <selection> <com> couch_dining_table/COCO_train2014_000000180606.jpg
+[05:56] B: no bib
+[06:00] A: Yes, I have the pizza one
+[06:02] A: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[06:07] B: blue shirt, orange scarf, wine glass
+[06:09] B: <selection> <com> couch_dining_table/COCO_train2014_000000180606.jpg
+[06:12] A: I have the samll table with bottles again
+[06:18] B: yes small table
+[06:19] A: No wine glass lady
+[06:21] B: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[06:22] A: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[06:23] B: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+[06:25] B: done
+[06:28] A: done
+[06:44] B: said you had wine glass lady
+- - Round 5 - -
+[07:09] B: orange shirts
+[07:10] A: No, I said I didn't have her, I have the wine bottles on the table
+[07:21] A: No orange shirts
+[07:27] B: I put different, still said it was wrong
+[07:43] B: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[07:44] A: I have the lady on couch with kid at coffee table
+[07:53] B: yes lady on couch
+[07:56] A: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[08:00] B: yes small table
+[08:01] A: Pizza guy again
+[08:03] B: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[08:04] A: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[08:08] B: no pizza
+[08:11] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[08:32] B: small table
+[08:38] A: Yes, samll table
+[08:42] B: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[08:44] A: small*
+[08:46] B: done
+[08:50] A: done
+[09:12] B: If you like crystals, I sell them on etsy.com. My shop name is Gemniverse
+[09:19] B: Gotta plug... good luck!
+[09:35] A: That's great! Thanks and good luck
+
+- - Game statistics - -
+Duration: 09:43 min. Score: 28/30 points.
+[Round 0] Duration: 02:25 min. Score: 6/6 points. Number of messages: 17.
+[Round 1] Duration: 01:39 min. Score: 5/6 points. Number of messages: 16.
+[Round 2] Duration: 00:56 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 00:40 min. Score: 5/6 points. Number of messages: 11.
+[Round 4] Duration: 01:43 min. Score: 6/6 points. Number of messages: 17.

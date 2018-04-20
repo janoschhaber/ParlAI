@@ -1,0 +1,114 @@
+Game ID: 3WETL7AQWU6NXSUN6XSTRW3FUGD53C3IXEICO793HOFDSVQV8P1FLDKA3T6Z
+Domain ID: 25
+Player A: A3VEN557IG0B5E
+Player B: A3NMQ3019X6YE0
+
+- - Round 1 - -
+[00:00] B: hello!
+[00:18] B: i have a woman in red and white striped shirt, holding stuffed bear, u?
+[00:21] A: Hi
+[00:38] A: No
+[00:46] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000419186.jpg
+[01:10] A: Do you have a boy with a stuffed bear on top of him
+[01:33] B: is the boy in a car seat, asleep and pacifier in mouth?
+[02:01] A: No he's on the floor face down with an orange shirt. 
+[02:10] A: I don't have one with a pacifier
+[02:16] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000358113.jpg
+[02:19] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000151764.jpg
+[02:30] B: oh, ok. Yes, mine is highlighted too with the boy in orange shirt and stuffed animal
+[02:37] A: <selection> <com> person_teddy_bear/COCO_train2014_000000358113.jpg
+[02:37] B: <selection> <com> person_teddy_bear/COCO_train2014_000000358113.jpg
+[02:54] A: Do you have a man between a huge bears?
+[03:11] B: nope
+[03:14] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000184930.jpg
+[03:26] B: My last was the one with pacifier and sleeping boy, with big stuffed animal on top of him? u don't?
+[03:37] A: No
+[03:57] A: Do you have a man next to a white bear with something blue behind it?
+[04:12] B: no
+[04:15] A: <selection> <com> person_teddy_bear/COCO_train2014_000000127441.jpg
+- - Round 2 - -
+[05:03] B: an infant sleeping between two teddy bears?
+[05:15] A: Yes
+[05:17] A: I have the baby with pacifier and bear on top. Do you?
+[05:25] A: <selection> <com> person_teddy_bear/COCO_train2014_000000374391.jpg
+[05:34] B: <selection> <com> person_teddy_bear/COCO_train2014_000000374391.jpg
+[05:37] B: no
+[05:41] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000151764.jpg
+[05:58] B: guy in white shirt says 'road kill' and a bear beside him?
+[06:18] A: No
+[06:21] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000127441.jpg
+[06:22] A: Do you have a little girl with woman in red both looking down at something?
+[06:35] B: yes
+[06:37] B: <selection> <com> person_teddy_bear/COCO_train2014_000000231675.jpg
+[06:39] A: <selection> <com> person_teddy_bear/COCO_train2014_000000231675.jpg
+[06:44] B: That's it for me. Any more?
+[06:48] A: No
+- - Round 3 - -
+[07:09] A: I have the boy face down with bear on top. You?
+[07:09] B: Man with 'road kill' shirt?
+[07:19] A: No road kill
+[07:25] B: no face down boy lol
+[07:28] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000127441.jpg
+[07:33] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000358113.jpg
+[07:45] A: Baby with pacifier and animal?
+[07:49] B: yep
+[07:52] B: <selection> <com> person_teddy_bear/COCO_train2014_000000151764.jpg
+[07:53] A: <selection> <com> person_teddy_bear/COCO_train2014_000000151764.jpg
+[07:59] B: girl and red shirt looking down?
+[08:06] A: Striped shirt woman?
+[08:15] B: no on striped shirt
+[08:18] A: No looking down
+[08:22] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000231675.jpg
+[08:22] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000419186.jpg
+- - Round 4 - -
+[08:34] B: we're on a roll!
+[08:45] A: Boy in bed with two bears?
+[09:02] B: the tiny baby asleep? yes, if that's it
+[09:16] A: yes
+[09:19] A: Bear on face-down boy?
+[09:21] A: <selection> <com> person_teddy_bear/COCO_train2014_000000374391.jpg
+[09:24] B: yes to both
+[09:27] B: <selection> <com> person_teddy_bear/COCO_train2014_000000374391.jpg
+[09:27] B: <selection> <com> person_teddy_bear/COCO_train2014_000000358113.jpg
+[09:33] B: girl hugging bear?
+[09:42] B: no sorry, wrong image
+[09:49] A: no
+[09:51] B: pacifier and big bear on top
+[09:59] A: no
+[10:02] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000151764.jpg
+[10:06] A: <selection> <com> person_teddy_bear/COCO_train2014_000000358113.jpg
+[10:15] A: looking down?
+[10:26] B: no
+[10:29] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000231675.jpg
+[10:30] B: pacifier?
+[10:34] A: no
+- - Round 5 - -
+[10:50] B: lol wait, we were still on last page I think
+[11:01] B: ok, start fresh here for me. striped shirt?
+[11:12] A: okay. Still no pacifier for me
+[11:23] A: Yes I have striped shirt
+[11:25] A: <selection> <com> person_teddy_bear/COCO_train2014_000000419186.jpg
+[11:26] A: <selection> <com> person_teddy_bear/COCO_train2014_000000419186.jpg
+[11:29] B: I don't have a pacifier either. but, yes on striped shirt
+[11:32] B: <selection> <com> person_teddy_bear/COCO_train2014_000000419186.jpg
+[11:41] A: Looking down?
+[11:46] B: no
+[11:50] A: <selection> <dif> person_teddy_bear/COCO_train2014_000000231675.jpg
+[11:51] B: road kill?
+[11:55] A: Yes
+[11:57] A: <selection> <com> person_teddy_bear/COCO_train2014_000000127441.jpg
+[11:58] B: <selection> <com> person_teddy_bear/COCO_train2014_000000127441.jpg
+[12:11] A: Any more questions for me?
+[12:26] B: yes, man holding two huge bears in front and behind?'
+[12:33] A: no
+[12:37] B: <selection> <dif> person_teddy_bear/COCO_train2014_000000184930.jpg
+[12:44] B: that's it. it was fun!
+[13:04] B: have a great night!
+
+- - Game statistics - -
+Duration: 13:07 min. Score: 27/30 points.
+[Round 0] Duration: 04:16 min. Score: 4/6 points. Number of messages: 15.
+[Round 1] Duration: 01:46 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:17 min. Score: 5/6 points. Number of messages: 10.
+[Round 3] Duration: 01:55 min. Score: 6/6 points. Number of messages: 15.
+[Round 4] Duration: 01:55 min. Score: 6/6 points. Number of messages: 14.

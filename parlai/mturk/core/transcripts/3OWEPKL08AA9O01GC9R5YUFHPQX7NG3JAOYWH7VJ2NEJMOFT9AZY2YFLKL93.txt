@@ -1,0 +1,114 @@
+Game ID: 3OWEPKL08AA9O01GC9R5YUFHPQX7NG3JAOYWH7VJ2NEJMOFT9AZY2YFLKL93
+Domain ID: 57
+Player A: A14NP6X071S7GK
+Player B: AWAW665TQQP2F
+
+- - Round 1 - -
+[00:00] A: I have one with two golden retrievers on a bed
+[00:12] B: does one have its head in a bag?
+[00:16] A: Ues
+[00:19] A: Yes
+[00:19] B: ok me too
+[00:21] A: <selection> <com> person_bed/COCO_train2014_000000560909.jpg
+[00:22] B: <selection> <com> person_bed/COCO_train2014_000000560909.jpg
+[00:34] A: I also have one with a small boy holding a phone up to a teddy bear
+[00:34] B: I have one with a baby with its head on a mattress sleeping in a pile of dolls
+[00:43] A: I dont have that one
+[00:51] B: I have the teddy bear one but its not highlighted
+[00:55] B: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[00:56] A: <selection> <dif> person_bed/COCO_train2014_000000575631.jpg
+[01:06] A: I have one with a man holding a baby that is wearing pink
+[01:07] B: I Have a girl with long blonde pigtails looking at a laptop
+[01:14] B: I don't have the baby
+[01:21] A: I dont have the laptop one
+[01:23] A: <selection> <dif> person_bed/COCO_train2014_000000314846.jpg
+[01:26] B: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[01:32] B: mine are filled in
+[01:34] B: yours?
+[01:39] A: Yeah
+- - Round 2 - -
+[01:59] B: i have a lady on a laptop in front of a mirror
+[02:01] A: I have a small boy holding a phone up to a teddy bear, he's wearing blue
+[02:10] B: yes to the boy and teddy bear
+[02:12] A: Is the lady on the laptop laying on a bed?
+[02:12] B: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[02:14] A: <selection> <com> person_bed/COCO_train2014_000000575631.jpg
+[02:22] B: nope she's sitting by a green lamp
+[02:32] A: I dont have that one, I have one with a girl on a laptop in front of a bed
+[02:35] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[02:43] A: I have one with a boy laying on a bed with some dolls
+[02:44] B: white shirt with short hair?
+[02:50] B: there is a bed in the mirror reflection
+[02:51] A: No I dont have that one
+[03:02] B: I haev the boy with dolls
+[03:05] A: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[03:05] B: have*
+[03:07] B: <selection> <com> person_bed/COCO_train2014_000000384160.jpg
+[03:09] A: Okay thats all of mine
+[03:15] B: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[03:17] B: same
+- - Round 3 - -
+[03:29] B: boy laying on bed with dolls
+[03:34] A: I dont have that
+[03:37] B: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[03:40] A: I have a girl on a bed with a panda
+[03:45] B: yes me too
+[03:47] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[03:47] B: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[03:55] B: girl with pig tails laying on bed with a laptop
+[03:58] A: I have two dogs on a bed one with its head in a bag
+[04:01] A: <selection> <com> person_bed/COCO_train2014_000000029642.jpg
+[04:06] B: no to the dogs
+[04:08] A: I have the pigtails one
+[04:10] A: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[04:13] B: <selection> <com> person_bed/COCO_train2014_000000029642.jpg
+[04:16] B: mine are filled
+[04:19] A: Same
+- - Round 4 - -
+[04:31] A: I have the boy on the bed with dolls
+[04:33] B: boy holding phone to teddy bears head
+[04:41] B: no boy with dolls for me
+[04:42] A: I also have the woman in front of the mirror with a laptop
+[04:46] A: No boy holding phone
+[04:49] A: <selection> <dif> person_bed/COCO_train2014_000000384160.jpg
+[04:53] B: no lady on laptop
+[04:56] B: <selection> <dif> person_bed/COCO_train2014_000000575631.jpg
+[04:56] A: <selection> <dif> person_bed/COCO_train2014_000000348269.jpg
+[05:03] A: I have a man holding a baby wearing pink
+[05:07] B: two dogs on bed with a lady one dog has head in bag
+[05:13] A: I dont have that
+[05:13] B: yes to the man and baby with pink
+[05:16] A: <selection> <dif> person_bed/COCO_train2014_000000314846.jpg
+[05:18] B: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[05:19] B: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[05:19] A: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[05:24] B: filled
+[05:27] A: Same
+- - Round 5 - -
+[05:38] A: I have the girl on the bed with the panda
+[05:39] B: man with baby in pink
+[05:46] A: I have the man with the baby in pink
+[05:48] A: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[05:49] B: <selection> <com> person_bed/COCO_train2014_000000314846.jpg
+[05:51] B: same
+[05:54] B: girl with panda on bed
+[05:58] A: I have the girl with pigtails on th bed with laptop
+[05:59] A: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[06:04] B: no to pigtails
+[06:07] A: <selection> <dif> person_bed/COCO_train2014_000000029642.jpg
+[06:11] A: Filled
+[06:17] B: do you have girl with panda
+[06:20] A: Yes
+[06:20] B: or dogs with head in bag
+[06:24] A: No dogs
+[06:26] B: <selection> <com> person_bed/COCO_train2014_000000112029.jpg
+[06:27] B: <selection> <dif> person_bed/COCO_train2014_000000560909.jpg
+[06:30] B: filled
+
+- - Game statistics - -
+Duration: 06:50 min. Score: 28/30 points.
+[Round 0] Duration: 01:43 min. Score: 5/6 points. Number of messages: 16.
+[Round 1] Duration: 01:19 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 00:52 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 00:58 min. Score: 5/6 points. Number of messages: 12.
+[Round 4] Duration: 00:49 min. Score: 6/6 points. Number of messages: 13.

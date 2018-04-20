@@ -1,0 +1,134 @@
+Game ID: 386CSBG1O0KBNX039REUWAAQ031Q6F3TK8OJTYM2JB2BEPAM7D8X0FC00PV8
+Domain ID: 20
+Player A: A3VEN557IG0B5E
+Player B: A8KX1HFH8NE2Q
+
+- - Round 1 - -
+[00:00] B: Hi
+[00:42] A: Hi.
+[00:44] B: I have a picture of someone on a green skateboard.  Do you have this?
+[01:05] A: Yes I do.
+[01:13] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[01:36] B: I also have a picture of a man kneeling in front of an open suitcase
+[01:53] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[02:22] A: Yes. With a red vest and something green on the floor?
+[02:48] B: No.  I have that one but it is NOT highlighted for me.
+[03:38] B: In the one I have, there are shadows in most of the picture but then some light on the man kneeling
+[04:04] B: Do you have this one?
+[04:07] A: I do not have that one. 
+[04:45] B: OK.  I also have one with a brown suitcase on the left and a man in a black pullover grabbing it 
+[05:06] A: Yes I have that one too.
+[05:14] A: I have a kid almost all the way into a black suitcase looking out with his head sideways. Do you?
+[05:22] B: Actually, as I look closer.  There is a policeman behind him who's grabbing the suitcase
+[05:44] B: I have the kid in the black suitcase but it is NOT highlighted for me
+[05:57] B: I think I'm ready to submit.
+[06:01] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[06:02] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[06:47] B: I submitted.  Any other questions for me?
+[06:48] A: By the way, it does not matter weather photos are hilighet or not in the other worker's screen..
+[06:57] A: as far as marking common or different.
+[07:10] A: I do not have any policemen in any of my photos
+[07:18] B: OK
+[08:08] A: Do you have one with a large green suitcase and a person with red shoes to the right?
+[08:21] B: No.  I don't have that
+[08:34] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[09:07] A: Wait maybe that is a policeman. Is their a red tag on the brown suitcase?
+[09:51] B: Yes.  Red tag on brown suitcase.  Man in black standing in front of policeman.
+[10:09] A: Okay sorry about that. I'm good to submit.
+[10:12] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+- - Round 2 - -
+[10:22] B: all green
+[10:46] B: I have the person standing on the green skateboard again
+[10:51] A: Yes
+[10:54] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[10:55] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[11:15] B: I have the man kneeling in front of the red suitcase with the shadows and light
+[11:29] A: Yes
+[11:31] A: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[11:32] B: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[11:34] A: I have the brown case and policeman again.
+[11:40] A: Do you?
+[11:50] B: I don't have the brown case / policeman
+[11:57] A: <selection> <dif> person_suitcase/COCO_train2014_000000206968.jpg
+[12:01] A: Okay
+[12:17] A: Any more questions for me?
+[12:33] B: I have a person in blue on the left with a green suitcase in the middle w/ black suitcase at right
+[12:52] A: I don't have that one.
+[12:56] B: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[13:01] B: Ok. Submitting
+- - Round 3 - -
+[13:14] B: all green
+[13:25] A: I have the brown case and policeman again.
+[13:30] B: I have the brown suitcase, red tag and policeman
+[13:33] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[13:37] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[14:04] B: I have a little girl with blond hair standing next to a bed with a white cover
+[14:29] A: Me too.
+[14:31] B: <selection> <com> person_suitcase/COCO_train2014_000000086922.jpg
+[14:36] A: I have man kneeling in front of an open suitcase with a red vest.
+[14:48] B: I don't have that
+[15:06] B: I have a green, hard shell suitcase in the middle with a person's legs to the right
+[15:17] A: Me too.
+[15:19] A: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[15:21] B: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[15:27] B: I'm ready to submit
+[15:53] A: I have one that's outside with at least three cases and a car at top right.
+[16:05] B: I don't have that
+[16:12] A: Okay I'm ready.
+[16:18] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+- - Round 4 - -
+[16:27] B: all green
+[16:31] A: all green
+[16:40] B: I have the little girl again with the blond hair
+[16:57] A: I do not.
+[17:00] B: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[17:03] A: I have the outside one with the car.
+[17:11] B: I have the kid inside the black suitcase
+[17:25] A: me too
+[17:29] B: I do not have the outside one with the car
+[17:32] A: okay
+[17:32] B: <selection> <com> person_suitcase/COCO_train2014_000000175391.jpg
+[17:34] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[17:47] A: I have the hard shell green case
+[18:20] A: Red shoes at right.
+[18:22] B: I also have a small kid with brown hair on the right side holding the pull bar of a black suitcase
+[18:32] B: I don't have the hard shell green case
+[18:38] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[18:46] A: I don't have the small kid
+[18:54] B: OK.  I'm ready to submit
+[18:56] B: <selection> <dif> person_suitcase/COCO_train2014_000000187582.jpg
+[19:10] A: I have the dark and red kneeling in front of case photo.
+[19:20] B: I don't have that one this time
+[19:27] A: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[19:34] B: all green
+- - Round 5 - -
+[19:36] A: all green
+[19:49] A: I have the hard shell green case photo.
+[19:50] B: I have the person on the green skateboard
+[20:02] B: I don't have the hard shell green case 
+[20:08] A: I do not have the sketeboard.
+[20:12] B: <selection> <dif> person_suitcase/COCO_train2014_000000538682.jpg
+[20:14] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[20:23] B: I have the man kneeling with the open suitcase
+[20:53] A: I don't have that one.
+[20:56] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[20:59] A: I have the little blonde girl with white bed photo.
+[21:06] B: I don't have that one
+[21:11] A: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[21:26] B: I have the person in the blue shirt with the green suitcase in the middle w/ black suitcase at righ
+[21:44] A: Car at the top?
+[22:01] B: yes- at the very top right side of the picture
+[22:08] A: I have it too
+[22:10] A: <selection> <com> person_suitcase/COCO_train2014_000000037327.jpg
+[22:17] B: OK.  Ready to submit.
+[22:19] B: <selection> <com> person_suitcase/COCO_train2014_000000037327.jpg
+[22:23] A: Great work Ready also
+[22:31] B: I think this is it.  Nice working with you.
+
+- - Game statistics - -
+Duration: 23:04 min. Score: 30/30 points.
+[Round 0] Duration: 10:14 min. Score: 6/6 points. Number of messages: 26.
+[Round 1] Duration: 02:42 min. Score: 6/6 points. Number of messages: 13.
+[Round 2] Duration: 03:05 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 03:01 min. Score: 6/6 points. Number of messages: 18.
+[Round 4] Duration: 02:56 min. Score: 6/6 points. Number of messages: 16.

@@ -1,0 +1,109 @@
+Game ID: 3CP1TO84PUZYCAY42XEO8MYNNPS52P3R9WASFE20EGKIU5XG0BH9Z7XS5FZQ
+Domain ID: 54
+Player A: A3AY0315YWWNXY
+Player B: A22ABLVEI5EGPL
+
+- - Round 1 - -
+[00:00] A: Hey, you want to go first?
+[00:05] B: Ok.
+[00:25] B: A girl in a black coat has some pizza in front of her.
+[00:36] A: Don't have it.
+[00:37] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[00:53] B: A woman in a blue shirt has a birthday cake and is sitting next to an old man.
+[01:02] A: Don't have it either.
+[01:04] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[01:27] B: There is a big stainless steel fridge and the kitchen table has a lot of candles on it.
+[01:33] A: I have that one.
+[01:35] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[01:36] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[01:40] B: Done.
+[02:09] A: A kitchen with a large white fridge with a man near it, wearing a hat. Brown cupboards.
+[02:25] B: I don't have that.
+[02:28] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000177775.jpg
+[02:45] A: Large empty kitchen, wooden table with nothing on it, large white fridge, large windows on the left
+[02:55] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[02:57] B: I don't have that.
+[03:02] A: All done.
+- - Round 2 - -
+[03:33] B: I have the girl in the black coat with the pizza again.
+[03:38] A: I got it.
+[03:40] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[03:41] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[03:56] B: Woman in blue with the birthday cake next to an old man.
+[04:01] A: I have that.
+[04:03] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[04:03] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[04:21] B: Kitchen with the big stainless steel fridge and candles on the table.
+[04:28] A: I don't have that one.
+[04:31] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[04:33] B: Done.
+[04:47] A: Large wooden table with red and green cups and a orange bowl filled with round fruit.
+[04:54] B: Don't have it.
+[04:55] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[04:58] A: All done.
+- - Round 3 - -
+[05:19] B: Girl in the black coat with pizza in front of her.
+[05:25] A: Don't have it.
+[05:29] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[05:43] B: Woman in the blue shirt with the birthday cake and old man.
+[05:47] A: Have it.
+[05:49] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[05:50] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[06:14] B: Table with orange bowl, red cups, and green cups.
+[06:26] A: Have it.
+[06:27] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[06:32] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[06:36] B: Done.
+[06:51] A: Large empty kitchen, white fridge on right, windows on left, empty wooden table.
+[07:01] B: Don't have it.
+[07:03] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[07:06] A: All done.
+- - Round 4 - -
+[07:29] B: Kid in a red shirt is eating pasta.
+[07:36] A: Don't have.
+[07:39] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000317237.jpg
+[07:57] B: There is a guy wearing a hat in the kitchen to the right of a white fridge.
+[08:03] A: Don't have.
+[08:05] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000177775.jpg
+[08:21] B: There is a large wooden table and a yellow cabinet.
+[08:28] A: Have it.
+[08:31] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000043256.jpg
+[08:34] B: Done.
+[08:52] A: Large empty kitchen, empty wooden table, white fridge on the right, windows on the left.
+[08:59] B: Nope.
+[09:01] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[09:17] A: Large bright kitchen, stainless steel fridge on right, black counters with candles.
+[09:22] B: No.
+[09:24] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[09:28] A: Lady with pizza and coke.
+[09:33] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[09:40] B: Nope.
+[09:45] A: All done.
+- - Round 5 - -
+[10:07] B: Guy with hat in the kitchen to the right of white fridge.
+[10:13] A: Got it.
+[10:16] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000177775.jpg
+[10:24] B: Orange bowl with red and green cups.
+[10:28] A: Got it.
+[10:30] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[10:31] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[10:50] B: Kitchen with wooden table, windows on the left, white fridge on the right.
+[10:55] A: Got it.
+[10:57] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[10:58] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[11:02] B: Done.
+[11:20] A: Large bright kitchen, black countertops with candles and stainless steel fridge on right.
+[11:30] B: Nope.
+[11:32] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[11:35] A: All done.
+[11:40] B: OK.
+[11:54] A: Have a beautiful day!
+[12:01] B: You too.
+
+- - Game statistics - -
+Duration: 12:09 min. Score: 30/30 points.
+[Round 0] Duration: 03:08 min. Score: 6/6 points. Number of messages: 14.
+[Round 1] Duration: 01:27 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:50 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 02:19 min. Score: 6/6 points. Number of messages: 14.
+[Round 4] Duration: 01:34 min. Score: 6/6 points. Number of messages: 13.

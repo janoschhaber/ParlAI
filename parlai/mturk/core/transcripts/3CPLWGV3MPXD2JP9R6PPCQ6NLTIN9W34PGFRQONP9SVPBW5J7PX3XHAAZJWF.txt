@@ -1,0 +1,123 @@
+Game ID: 3CPLWGV3MPXD2JP9R6PPCQ6NLTIN9W34PGFRQONP9SVPBW5J7PX3XHAAZJWF
+Domain ID: 18
+Player A: A2DWPP1KKAY0HG
+Player B: A5X1KZ9CCHREK
+
+- - Round 1 - -
+[00:00] B: do you have a person taking a picture with a cellphone in the kitchen?
+[00:03] A: hi, I have black tshirt taking photograph of a woman near firdge
+[00:08] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:15] B: yes
+[00:17] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:43] A: I have lady with glass sitiing infront of fast food
+[01:00] B: no
+[01:06] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[01:24] A: <selection> <dif> person_refrigerator/COCO_train2014_000000449904.jpg
+[01:27] B: do you have a lady with a black tank top with the refrigerator open?
+[01:37] A: I have woman opening frigde and man cooking
+[01:49] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[01:53] B: yes
+[01:59] A: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[02:12] A: I got all 3.
+[02:21] A: How about you?
+[02:25] B:  do you have a lady with a black tank top with the refrigerator open?
+[02:54] A: No, only lady no - I have man and woman
+[03:03] B: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[03:07] A: lady opening fridge
+[03:19] A: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[03:23] B: ok im done
+- - Round 2 - -
+[04:02] A: I have pony tail near oprn fridge.
+[04:15] B: no
+[04:19] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[04:30] B: do you have the fast food lady?
+[04:32] A: I have orange and white employee
+[04:45] B: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[04:49] A: I have fast food lady with glass
+[04:55] B: with pizza?
+[04:58] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[05:00] A: yes
+[05:04] B: yes
+[05:06] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[05:16] A: how about employees?
+[05:29] A: in orange and white
+[05:32] B: do you have the little kid on the bench?
+[05:35] B: yes
+[05:45] A: no
+[05:48] A: no kid
+[05:53] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[05:56] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[06:00] B: done
+[06:22] B: you have the kid on the bench
+- - Round 3 - -
+[06:50] A: I have pony tail near fridge
+[06:57] B: do you have the kid on the bench in a red jacket
+[07:03] A: no kid
+[07:10] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[07:10] B: no pnytail
+[07:15] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[07:32] A: white and orange pizza employee
+[07:42] B: do youhave the little kid cooking with her dad
+[07:47] B: no
+[07:53] A: no kid
+[07:59] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[08:05] B: <selection> <dif> person_refrigerator/COCO_train2014_000000305451.jpg
+[08:17] A: lady openign fridge and man cooking?
+[08:27] B: no
+[08:30] A: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[08:34] A: done
+[08:46] B: do you have a guy wearing black cooking?
+[08:53] A: no
+[09:00] B: <selection> <dif> person_refrigerator/COCO_train2014_000000418620.jpg
+[09:14] B: done
+[09:42] B: pay attention to what i am asking.it is not just about you.
+[10:00] A: ok :)
+- - Round 4 - -
+[10:35] A: one taking photograph of a woman near fridge?
+[10:44] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[10:45] B: ye
+[10:50] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[10:59] B: the fast food lady?
+[11:17] A: you meaning sitting infront of fast food?
+[11:28] B: yes
+[11:37] A: yes
+[11:40] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[11:40] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[12:01] A: orange and white pizza employee?
+[12:19] B: no employee
+[12:26] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[12:40] B: how about the husband cooking and the wife opening the refrigerator?
+[12:40] A: I got 3. anything else?
+[12:56] A: No I dont have husband and wife
+[13:02] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[13:11] B: done
+- - Round 5 - -
+[13:22] A: good job
+[13:41] A: white and orange employee
+[13:44] A: ??
+[13:54] B: no employee
+[13:59] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[14:09] A: ponytail opening fridge?
+[14:29] B: yes
+[14:33] A: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[14:33] B: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[14:47] A: red kid sittin on bench?
+[15:07] B: do you have the husband cooking and the wife beside the refrigerator? 
+[15:17] A: no husband and wife
+[15:21] B: no red kid on the bench
+[15:25] A: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[15:26] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[15:47] B: do you have the person taking picture on his cellphone?
+[15:54] A: no picture
+[16:00] B: <selection> <dif> person_refrigerator/COCO_train2014_000000254658.jpg
+[16:07] B: done
+[16:11] A: done
+[17:01] A: thank you
+
+- - Game statistics - -
+Duration: 17:11 min. Score: 26/30 points.
+[Round 0] Duration: 03:28 min. Score: 5/6 points. Number of messages: 14.
+[Round 1] Duration: 02:01 min. Score: 4/6 points. Number of messages: 16.
+[Round 2] Duration: 02:28 min. Score: 5/6 points. Number of messages: 16.
+[Round 3] Duration: 02:40 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 02:51 min. Score: 6/6 points. Number of messages: 15.

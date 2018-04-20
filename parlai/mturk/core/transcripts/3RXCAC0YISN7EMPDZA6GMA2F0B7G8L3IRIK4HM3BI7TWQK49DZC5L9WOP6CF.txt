@@ -1,0 +1,105 @@
+Game ID: 3RXCAC0YISN7EMPDZA6GMA2F0B7G8L3IRIK4HM3BI7TWQK49DZC5L9WOP6CF
+Domain ID: 12
+Player A: A8RDXT4ZILHQT
+Player B: A4A0IFEQBBSOZ
+
+- - Round 1 - -
+[00:00] A: This'll be hard. I have a woman in the shade above an elephant, one.
+[00:10] A: Next I have a man touch an elephant's trunk next to a woman.
+[00:22] B: I have the woman in shade above an elephant.
+[00:24] A: And then I have a native and two elephants next to a man in blue and black.
+[00:27] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[00:55] A: <selection> <dif> person_elephant/COCO_train2014_000000204759.jpg
+[00:56] A: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[01:04] B: I have that one - the man's coat has a blue arm band.
+[01:05] B: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[01:06] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[01:08] A: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[01:16] A: What are your yellows?
+[01:33] B: I have two different men touching elephant's trunks but not with a woman
+[01:45] B: My man touching the trunk has red backpack straps.
+[01:56] A: I don't have red backpack man.
+[02:00] B: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+- - Round 2 - -
+[02:16] B: I have the man with the blue armband.
+[02:17] A: Okay, I have a man touching a bronze elephant statue.
+[02:24] A: Then man in blue touching elephant trunk.
+[02:29] A: Then woman above in shade.
+[02:37] A: Don't have blue armband man.
+[02:38] B: I don't have a bronze statue.
+[02:45] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[02:50] B: I have the man in blue with the trunk.
+[02:52] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[02:52] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[02:53] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[02:55] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[03:04] B: I have the woman in shade.
+[03:07] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+- - Round 3 - -
+[03:23] A: I have man with bronze statue again.
+[03:25] B: I have the woman in shade again.
+[03:29] A: Then the red backpack man.
+[03:34] A: I don't have the woman in shade.
+[03:35] B: I don't have any statue.
+[03:42] A: My final is the woman in water with the elephants.
+[03:42] B: <selection> <dif> person_elephant/COCO_train2014_000000524059.jpg
+[03:46] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[03:49] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[03:50] B: I have red backpack man.
+[03:50] A: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[03:52] B: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[03:53] A: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[04:05] B: I don't have the woman in the water.
+[04:17] A: What are your yellows?
+[04:17] B: I have the blue armband guy.
+[04:18] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[04:27] A: No armband here
+- - Round 4 - -
+[04:40] A: I have man in blue touching the trunk.
+[04:44] A: Then bronze statue.
+[04:49] B: I have blue stripe shirt man, yep.
+[04:51] A: Then red backpack man.
+[04:53] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[04:53] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[04:53] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[04:53] B: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[04:58] B: I have bronze statue.
+[05:02] A: (and water girl)
+[05:06] A: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[05:06] B: I don't have backpack man.
+[05:12] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[05:13] B: I have water girl.
+[05:14] B: <selection> <com> person_elephant/COCO_train2014_000000532644.jpg
+- - Round 5 - -
+[05:25] A: I have red backpack man again.
+[05:28] B: I have a painting elephant.
+[05:30] A: Then the bronze statue man.
+[05:41] B: I have green shirt man touching the trunk.
+[05:42] A: No painting elephant.
+[05:47] A: No green shirted man.
+[05:50] B: I don't have a statue.
+[05:53] B: <selection> <dif> person_elephant/COCO_train2014_000000571351.jpg
+[06:00] B: I have the woman in the water.
+[06:01] A: I have the native man next to blue armband man.
+[06:12] A: No water woman here
+[06:15] B: I have a woman with a backless striped dress.
+[06:16] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[06:19] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[06:28] A: Have that
+[06:30] A: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[06:31] B: <selection> <com> person_elephant/COCO_train2014_000000095257.jpg
+[06:41] A: You said no red backpack man on yours?
+[06:52] B: No blue armband.
+[06:57] B: No red backpack.
+[06:58] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[07:07] A: Very good game, man.
+[07:09] A: Thanks.
+[07:14] B: Excellent.
+
+- - Game statistics - -
+Duration: 07:21 min. Score: 30/30 points.
+[Round 0] Duration: 02:02 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 00:50 min. Score: 6/6 points. Number of messages: 8.
+[Round 2] Duration: 01:06 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 00:34 min. Score: 6/6 points. Number of messages: 8.
+[Round 4] Duration: 01:34 min. Score: 6/6 points. Number of messages: 18.

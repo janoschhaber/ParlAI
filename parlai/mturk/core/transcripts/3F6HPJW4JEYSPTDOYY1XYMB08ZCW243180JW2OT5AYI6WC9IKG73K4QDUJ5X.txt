@@ -1,0 +1,133 @@
+Game ID: 3F6HPJW4JEYSPTDOYY1XYMB08ZCW243180JW2OT5AYI6WC9IKG73K4QDUJ5X
+Domain ID: 20
+Player A: A1N8TKTLXV92QR
+Player B: A3LZHSS5Q3S80E
+
+- - Round 1 - -
+[00:00] A: I have a man digging thru a suitcase in kind of red light
+[00:07] B: a child peeks out from inside a large black suitcase
+[00:42] A: I have it but it's greyed out... So no...
+[01:09] B: i see, i dont have the man tho
+[01:14] A: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[01:47] A: I have big green suitcase with a women's legs and feet in black pants
+[01:49] B: <selection> <dif> person_suitcase/COCO_train2014_000000175391.jpg
+[01:58] B: i dont have that
+[02:03] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[02:09] A: You go...
+[02:45] B: i have a child standing between two suitcases
+[02:53] A: Nope
+[02:58] B: <selection> <dif> person_suitcase/COCO_train2014_000000187582.jpg
+[03:22] A: I have a man in purple/blue shirt holing the handle on a green suitcase
+[03:29] A: holding
+[03:38] B: i dont have that
+[03:43] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[03:52] A: I'm none, any more?
+[04:08] B: i have a child brushing her hair in a bedroom
+[04:22] A: No, don't have it
+[04:26] B: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[04:53] A: Done?
+[04:56] B: yeah
+[05:09] A: Moving on...
+- - Round 2 - -
+[05:53] A: Big green suitcase again, lady red shoes
+[06:02] B: nope
+[06:06] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[06:34] B: its a guy looking through a suitcase with red lights on him
+[06:47] A: No
+[06:54] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[07:03] A: Baby sitting in suitcase, toys nearby
+[07:14] B: no
+[07:35] A: Jeans brown shoes standing on skateboard
+[07:41] B: i have that
+[07:45] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[07:45] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[07:49] A: You go
+[08:20] B: someone has their hand on a brown-green suitcase
+[08:41] A: Does it look like a cop or security?
+[08:56] B: i think theyre security
+[09:11] A: OK have it... that's it for me
+[09:13] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[09:15] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[09:21] B: it for me too
+- - Round 3 - -
+[09:46] A: Skate board again
+[09:49] B: same
+[09:53] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[09:54] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[10:13] A: Guy digging in red light again
+[10:20] B: saeme
+[10:23] B: same*
+[10:25] A: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[10:25] B: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[10:40] A: Security holding bag again
+[10:47] B: i dont have that
+[10:51] A: <selection> <dif> person_suitcase/COCO_train2014_000000206968.jpg
+[11:09] A: I don't have anymore...
+[11:35] B: i have someone standing next to two suitcases one is green the other is black 
+[11:43] A: Nope
+[11:47] B: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[11:55] B: thats it for me
+[12:01] A: Onward
+- - Round 4 - -
+[12:26] A: Big green, red shoes on woman
+[12:30] B: security holding suitcase again
+[12:32] B: no
+[12:39] A: Have that
+[12:41] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[12:43] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[12:55] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[13:00] B: wait no i have what you said
+[13:08] B: had to take a second look
+[13:12] B: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[13:32] A: Its a big gree suitcase, botton half of woman wearing red shoes
+[13:47] B: yeah i definitely have that
+[13:57] A: OK, that's it for me
+[14:00] A: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[14:10] B: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[14:17] B: i have a girl brushing her hair
+[14:21] B: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[14:53] A: I have the girl but it's greyed-out
+[15:01] B: ok
+[15:05] A: Doh, I have the guy holding handle of a green suitcase.
+[15:57] B: that should be it
+[16:14] A: Do you have the guy holding the handle?
+[16:44] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[16:53] B: yeah i do. the security guy right?
+[17:17] A: No, he's wearing a blue/purple shirt, 
+[17:33] B: ahh no i dont have that
+[17:38] A: OK I'm done
+[17:44] B: me too
+- - Round 5 - -
+[18:19] B: blue jeans, brown shoes on skateboard again
+[18:35] A: Nope
+[18:39] B: <selection> <dif> person_suitcase/COCO_train2014_000000538682.jpg
+[18:40] A: Same guy holding handle blue-purple shirt on green suitcase
+[18:51] B: i have that
+[18:54] B: <selection> <com> person_suitcase/COCO_train2014_000000037327.jpg
+[18:56] A: <selection> <com> person_suitcase/COCO_train2014_000000037327.jpg
+[19:29] B: same guy in red lighting going through suitcase again
+[19:41] A: No
+[19:44] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[19:49] B: thats it for me
+[19:50] A: Big green suitcase in forefront, bottom half of woman black pants, red shoes 
+[20:05] A: Little girl brushing hair
+[20:11] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[20:12] A: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[20:12] B: dont have that
+[20:52] A: I need to slow down... No girl brishing hair and no big green suitcase?
+[21:21] B: i have the green suitcase, but not the girl
+[21:26] A: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[21:28] A: OK, moving on...
+[21:50] B: done?
+[22:07] A: Yep, you go first and then me and so on... OK
+[22:15] B: ok
+[23:00] A: Guess it's over... Thanks
+[23:17] B: no problem same to you
+
+- - Game statistics - -
+Duration: 23:37 min. Score: 27/30 points.
+[Round 0] Duration: 05:01 min. Score: 5/6 points. Number of messages: 18.
+[Round 1] Duration: 03:32 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 02:18 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 05:19 min. Score: 5/6 points. Number of messages: 20.
+[Round 4] Duration: 03:58 min. Score: 5/6 points. Number of messages: 18.
