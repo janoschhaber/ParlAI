@@ -1,0 +1,120 @@
+Game ID: 3JJVG1YBECVS0NY0LQ7Z9F1SKG4B573MX2NQ3YCASZDQ11QMZHYCSK3KDX5P
+Domain ID: 42
+Player A: A8KX1HFH8NE2Q
+Player B: A2F2DDH12YU4AK
+
+- - Round 1 - -
+[00:00] B: Blue car with many pieces of luggage strapped to the top and sides
+[00:15] A: I have one with the back of a white truck that reads "schepps" on the back.
+[00:33] A: I have the blue car with the luggage strapped on it.
+[00:43] A: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[00:52] B: Blue classic truck in grassy field, with hood removed, white walled tires
+[00:53] B: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[01:12] A: I don't have the blue classic truck
+[01:33] B: Large mack truck facing the camera, looks like it has 10+ wheels, blue car facing right ahead of it
+[02:06] A: I have a picture of a truck - looks like a garbage truck with a mechanical arm to the right side
+[02:22] B: So 2 common then
+[02:24] B: <selection> <dif> car_truck/COCO_train2014_000000056549.jpg
+[02:25] B: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[02:27] A: Yes.  I think we just described the same picture.  The blue car is in front.
+[02:51] A: Do you have the picture of the truck with the "schepps" on the back?
+[02:54] A: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[02:58] B: No.
+[03:13] A: Submitting
+[03:15] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+[03:21] A: All green
+- - Round 2 - -
+[03:42] B: Woman in dress holding black umbrella looking to camera, standing in front of car
+[03:43] A: I have the truck with "schepps" again.  Do you have that one?
+[03:50] B: No schepps
+[03:58] A: I don't have the woman in the dress.
+[04:02] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+[04:07] B: Two fedex vehicles, one fan, one truck, on left of image, facing toward camera
+[04:22] B: Two men, one green shirt, one red vest, in the back of open box van
+[04:39] A: Two men, one green shirt, one red vest, in the back of open box van - YES - I have that one
+[04:44] B: <selection> <com> car_truck/COCO_train2014_000000075299.jpg
+[04:52] A: Two fedex vehicles, one fan, one truck, on left of image, facing toward camera - DON'T HAVE
+[04:59] B: <selection> <dif> car_truck/COCO_train2014_000000339250.jpg
+[05:02] B: Umbrella woman?
+[05:13] A: I have two trucks (looks like fire trucks) in a field
+[05:21] B: Nope
+[05:38] A: Umbrella woman? - DON'T HAVE
+[05:41] B: <selection> <dif> car_truck/COCO_train2014_000000237372.jpg
+[05:48] B: That should be it then.
+[05:56] B: Box van only common.
+[06:10] A: I also have a blue restored truck - like from the 1950s - looks like in an auto show
+[06:18] A: <selection> <dif> car_truck/COCO_train2014_000000115639.jpg
+[06:24] B: Nope
+[06:29] A: OK.  Submitting
+[06:31] A: <selection> <dif> car_truck/COCO_train2014_000000056549.jpg
+[06:37] A: All green
+- - Round 3 - -
+[07:01] A: I have the umbrella woman this time
+[07:03] B: Blue classic truck, grass field, white wall tires, hood removed
+[07:12] B: Two red fire trucks in field
+[07:31] B: Mack truck/garbage with arm to the side, blue car in front, 10+ wheels
+[07:34] A: Two red fire trucks in field - I HAVE THIS
+[07:37] A: <selection> <com> car_truck/COCO_train2014_000000115639.jpg
+[07:37] B: <selection> <com> car_truck/COCO_train2014_000000115639.jpg
+[07:50] A: I have the "schepps" truck again. Do you have?
+[08:02] B: No schepps
+[08:11] A: Do you have the umbrella woman?
+[08:13] A: <selection> <dif> car_truck/COCO_train2014_000000237372.jpg
+[08:15] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+[08:21] B: Not this time
+[08:29] B: So red truck only common?
+[08:36] A: Mack truck/garbage with arm to the side, blue car in front, 10+ wheels - DON'T HAVE
+[08:42] B: <selection> <dif> car_truck/COCO_train2014_000000151371.jpg
+[08:46] A: Yes, red truck is common for me.
+[08:49] A: Submitting
+[08:49] B: <selection> <dif> car_truck/COCO_train2014_000000056549.jpg
+[08:57] A: All green
+- - Round 4 - -
+[09:16] B: Blue car with luggage strapped to top/sides
+[09:22] B: Umbrella woman in front of car
+[09:27] B: Schepps truck
+[09:32] A: I have umbrella woman
+[09:40] A: I have schepps truck
+[09:43] A: <selection> <com> car_truck/COCO_train2014_000000379766.jpg
+[09:48] B: <selection> <com> car_truck/COCO_train2014_000000379766.jpg
+[09:49] B: <selection> <com> car_truck/COCO_train2014_000000237372.jpg
+[09:50] B: <selection> <dif> car_truck/COCO_train2014_000000565975.jpg
+[09:54] A: Do you have the two red fire trucks?
+[10:00] B: Nope
+[10:04] A: I have the blue car strapped with luggage
+[10:06] A: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[10:07] A: <selection> <dif> car_truck/COCO_train2014_000000115639.jpg
+[10:13] B: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[10:15] A: I'm ready to submit.  You?
+[10:20] B: All 3 the same?
+[10:46] A: No.  2 the same (schepps and blue car with luggage).  I also have the tw red fire trucks
+[10:53] B: <selection> <dif> car_truck/COCO_train2014_000000237372.jpg
+[10:57] A: Submitting
+[10:58] B: Okay, got it
+[11:04] A: All green
+- - Round 5 - -
+[11:20] B: Blue truck green field hood removed white wall tires
+[11:26] B: Mack truck/garbage truck
+[11:27] A: I have mack truck with 10+ wheels and blue car in front
+[11:30] A: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[11:32] B: Two fire engines in field
+[11:35] B: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[11:43] A: Blue truck green field hood removed white wall tires - YES, I HAVE THIS
+[11:49] A: <selection> <com> car_truck/COCO_train2014_000000056549.jpg
+[11:53] B: <selection> <com> car_truck/COCO_train2014_000000056549.jpg
+[11:59] A: I don't have two red fire trucks
+[12:06] B: Okay, two out of three
+[12:09] B: <selection> <dif> car_truck/COCO_train2014_000000115639.jpg
+[12:11] A: I do have the blue car strapped with luggage.  Do you have?
+[12:14] B: No
+[12:17] A: <selection> <dif> car_truck/COCO_train2014_000000565975.jpg
+[12:19] B: I think this is the final round, gg
+[12:34] A: Submitting.  Nice playing with you.  Have a good day.
+
+- - Game statistics - -
+Duration: 13:01 min. Score: 29/30 points.
+[Round 0] Duration: 03:16 min. Score: 6/6 points. Number of messages: 13.
+[Round 1] Duration: 02:51 min. Score: 6/6 points. Number of messages: 18.
+[Round 2] Duration: 01:51 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 01:43 min. Score: 5/6 points. Number of messages: 14.
+[Round 4] Duration: 01:17 min. Score: 6/6 points. Number of messages: 11.

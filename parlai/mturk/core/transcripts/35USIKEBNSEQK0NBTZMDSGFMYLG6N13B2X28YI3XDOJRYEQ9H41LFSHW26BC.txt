@@ -1,0 +1,136 @@
+Game ID: 35USIKEBNSEQK0NBTZMDSGFMYLG6N13B2X28YI3XDOJRYEQ9H41LFSHW26BC
+Domain ID: 39
+Player A: A2FZFVZYY4DJ7X
+Player B: A3HT6CXU7GH5O4
+
+- - Round 1 - -
+[00:00] A: do you have a double layered donut looking cake that someone is cooking, but can't see the person
+[00:20] B: Ice cream and chocolate cake in a decorated plate
+[00:37] A: are they on the same plate?
+[00:44] B: Yes
+[00:50] A: I do not have that
+[00:54] B: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[01:06] A: do you have one with the ice cream in a goblet looking bowl?
+[01:52] B: I have a completed double layered cake someone cutting
+[01:57] B: No
+[02:04] A: <selection> <dif> cake_dining_table/COCO_train2014_000000501718.jpg
+[02:27] A: does it look like half a donut with powders sugar?
+[02:35] A: powdered
+[02:41] B: chocolate cake with knife and fork beside
+[02:45] B: yes
+[02:49] B: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[02:49] A: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[03:07] A: i do not have that without the ice cream goblet
+[03:34] B: yes ice cream goblet
+[03:37] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[03:40] A: ..
+[03:42] A: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[04:00] B: teapot cup and saucer and cake piece
+[04:01] A: ok, do you have a pie that looks like apples on top with bananas behind it with other fruits?
+[04:14] B: No
+[04:18] A: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[04:25] A: I have no teapots
+[05:03] A: do you have other pictures to identify?
+[05:14] B: No done
+[05:19] B: You?
+[05:23] A: done
+- - Round 2 - -
+[06:06] B: Cake with lighted candle on top
+[06:08] A: I have a slice of chocolate cake with vanilla ice cream in the same bowl, with syrup all around it
+[06:12] A: no candles here
+[06:19] B: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[06:46] A: do you have the bowl?
+[06:52] B: Apple pie with bananas and grapes on side
+[07:06] A: yea
+[07:09] A: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[07:13] B: No bowl
+[07:16] B: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[07:17] A: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[07:19] A: thanks
+[07:31] A: do you have the choclate cake with the goblet of ice cream this time?
+[07:43] B: Yes.
+[07:45] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[07:47] A: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[07:57] A: ok, i have my three, do you have others?
+[07:58] B: Im done, You ?
+[08:07] B: Great !!
+- - Round 3 - -
+[08:28] A: i have the donut cake being cut, do you have it?
+[08:36] B: Apple pie with bananas and grapes again
+[08:41] A: no
+[08:45] B: Not here
+[08:49] B: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[08:50] A: <selection> <dif> cake_dining_table/COCO_train2014_000000545573.jpg
+[09:00] A: bowl with both and syrup?
+[09:02] B: Cake with lighted candles
+[09:11] A: no candles
+[09:22] B: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[09:26] A: both = cake and ice cream
+[09:45] B: chocolate ice cream?
+[09:54] B: Sorry chocolate cake?
+[10:00] A: all my ice cream is vanilla
+[10:06] B: Vanilla iceceream
+[10:10] B: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[10:29] A: chocolate cake with vanilla ice cream in a bowl with syrup around the edges?
+[10:43] B: Yes
+[10:50] A: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[10:55] B: Done, You?
+[11:17] A: I have one more, a baby on a girl's lap reaching for a cake with orange writing that I can't read
+[11:29] B: Yes
+[11:32] A: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[12:06] A: k next page
+- - Round 4 - -
+[12:30] B: Baby reaching for ice cream
+[12:36] A: no
+[12:40] B: <selection> <dif> cake_dining_table/COCO_train2014_000000126144.jpg
+[13:08] B: Chocolate cake and vanilla ice cream in same bowl
+[13:12] A: no
+[13:16] B: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[13:18] A: do you have the donut cake?
+[13:33] B: Powdered , cutting?
+[13:39] A: yes
+[13:41] A: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[13:46] B: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[13:51] B: Yes
+[14:15] A: do you have a cake with candles with a coffee cup to the left?
+[14:33] B: No
+[14:49] A: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[15:06] A: do you have cake with a fork, a godiva box in the back?
+[15:14] B: Yes
+[15:26] A: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[15:32] A: do you have any more?
+[15:37] B: Done?
+[15:52] B: Done here
+[15:56] A: yep, i clicked my button
+- - Round 5 - -
+[16:17] B: Babe reaching for cake again
+[16:21] A: yes
+[16:25] B: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[16:33] A: do you have the birthday cake with candles and coffee to the left?
+[16:35] A: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[16:44] B: Cake with lighted candles on top
+[16:49] B: Yes
+[16:49] A: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[16:52] B: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[16:54] A: cool
+[17:08] A: apple looking pie with bananas and fruit behind?
+[17:13] B: Chocolate cake with godiva box
+[17:21] B: No
+[17:22] A: do not have
+[17:25] A: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[17:26] B: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[17:37] A: I have mine, do you ahve others?
+[17:40] A: have
+[18:15] B: Just to double check, yes for baby?
+[18:36] A: yes, reaching for cake with orange icing
+[18:52] B: Thanks, Done
+[18:58] A: have a great one
+[19:10] B: Thanks you too
+
+- - Game statistics - -
+Duration: 20:49 min. Score: 30/30 points.
+[Round 0] Duration: 05:29 min. Score: 6/6 points. Number of messages: 23.
+[Round 1] Duration: 02:04 min. Score: 6/6 points. Number of messages: 13.
+[Round 2] Duration: 03:37 min. Score: 6/6 points. Number of messages: 18.
+[Round 3] Duration: 03:28 min. Score: 6/6 points. Number of messages: 16.
+[Round 4] Duration: 02:54 min. Score: 6/6 points. Number of messages: 17.

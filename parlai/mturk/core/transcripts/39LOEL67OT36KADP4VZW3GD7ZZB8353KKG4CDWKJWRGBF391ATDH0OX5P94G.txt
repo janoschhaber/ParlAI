@@ -1,0 +1,105 @@
+Game ID: 39LOEL67OT36KADP4VZW3GD7ZZB8353KKG4CDWKJWRGBF391ATDH0OX5P94G
+Domain ID: 18
+Player A: A3BDVHNMJECSKG
+Player B: A2XRE5QRJYDWDA
+
+- - Round 1 - -
+[00:00] A: I have a picture of a kitchen.  There is a guy taking a photo on his phone
+[00:08] B: I have that one as well 
+[00:10] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:19] A: I also have a picture from a pizza parlor.  Employees are wearing bright orange aprons.
+[00:26] B: I do not have that one
+[00:43] A: My last pic is of a woman sitting at a table.  There is a pizza and a soda in front of her.
+[00:46] B: I have one with a lady sitting at a table with a slice of pizza and a plastic cup
+[00:47] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:50] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:57] A: Okay.  Then that one is in common!
+[00:58] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:59] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[01:01] B: Perfect! 
+[01:08] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+- - Round 2 - -
+[01:31] A: I have the pic of the woman with pizza and pop again.
+[01:37] B: I don't have that one
+[01:40] A: And the pic of the kitchen with the iphone guy too.
+[01:49] B: I have that one too
+[01:51] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[01:58] A: Then I have a pic of a kitchen with a woman opening the fridge.
+[02:01] A: <selection> <dif> person_refrigerator/COCO_train2014_000000449904.jpg
+[02:05] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[02:06] B: I also have that one
+[02:08] A: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[02:10] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[02:14] A: Two kitchen ones in common.  Perfect!
+[02:21] B: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+- - Round 3 - -
+[02:46] B: I have one with a little kid in red on a bench
+[02:50] A: I have the pizza parlor again (bright orange aprons)
+[02:53] A: no bench here
+[03:02] A: Kitchen with woman opening fridge
+[03:03] B: No bright orange aprons here
+[03:07] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[03:14] A: I have a open fridge and a woman taking a pic.
+[03:18] B: No woman with fridge
+[03:26] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[03:26] B: I have a guy cutting a pie
+[03:30] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[03:39] A: Nope.  
+[03:42] B: <selection> <dif> person_refrigerator/COCO_train2014_000000418620.jpg
+[03:44] B: and a little girl and man making a pizza 
+[03:49] A: Nope.
+[03:52] B: <selection> <dif> person_refrigerator/COCO_train2014_000000305451.jpg
+[04:10] A: We have all three different, then?  I can't scroll up to see again if you had the couple in the kit
+[04:19] A: in the kitchen
+[04:33] A: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[04:34] B: I think all three are different. I don't have a couple in the kitchen. 
+- - Round 4 - -
+[04:56] A: Pizza parlor with orange aprons
+[04:58] B: kid on the bench again
+[05:03] B: no orange aprons
+[05:06] A: woman at table with pizza and soda
+[05:08] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[05:14] A: no bench here
+[05:25] B: oh wait, I do have orange aprons. and I have woman at table
+[05:26] B: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[05:27] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[05:28] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[05:32] A: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[05:34] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[05:38] A: woman taking pic of open fridge
+[06:05] A: The pizza parlor and woman at the table are two of your yellow-hightlighted images?
+[06:11] B: Yes 
+[06:26] A: Perfect.  Then I assume you don't have the woman taking a pic of the open fridge
+[06:29] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[06:31] B: nope 
+- - Round 5 - -
+[07:03] B: I have iphone guy in the kitchen
+[07:07] A: pizza parlor with orange aprons (yet again!)
+[07:11] A: no iphone guy
+[07:17] B: haha! no orange aprons this time 
+[07:21] B: <selection> <dif> person_refrigerator/COCO_train2014_000000254658.jpg
+[07:30] A: but I do have the iphone girl instgramming her empty fridge
+[07:33] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[07:40] B: I have that one too
+[07:42] B: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[07:47] A: And I finally have the bench kid!
+[07:51] A: <selection> <com> person_refrigerator/COCO_train2014_000000497591.jpg
+[07:52] A: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[07:53] B: No bench kid 
+[07:57] A: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[08:11] B: I assume you don't have the lady in blue looking in her fridge?
+[08:18] A: Nope.  Not this time.
+[08:22] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[08:24] B: great :) 
+[08:29] A: Good talking to you, fellow MTuker
+[08:36] B: You too! Have a great day! :) 
+[08:43] A: Same!
+[08:48] B: Thanks! 
+
+- - Game statistics - -
+Duration: 09:19 min. Score: 28/30 points.
+[Round 0] Duration: 01:11 min. Score: 6/6 points. Number of messages: 8.
+[Round 1] Duration: 00:51 min. Score: 6/6 points. Number of messages: 7.
+[Round 2] Duration: 01:48 min. Score: 5/6 points. Number of messages: 14.
+[Round 3] Duration: 01:37 min. Score: 5/6 points. Number of messages: 11.
+[Round 4] Duration: 01:22 min. Score: 6/6 points. Number of messages: 15.

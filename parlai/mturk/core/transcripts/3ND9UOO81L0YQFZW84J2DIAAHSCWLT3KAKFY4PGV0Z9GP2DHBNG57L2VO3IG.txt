@@ -1,0 +1,117 @@
+Game ID: 3ND9UOO81L0YQFZW84J2DIAAHSCWLT3KAKFY4PGV0Z9GP2DHBNG57L2VO3IG
+Domain ID: 34
+Player A: A1O7WUQDKPZGH4
+Player B: A2JHF7CU91EVXW
+
+- - Round 1 - -
+[00:00] B: Hi there.  Do you have a picture with fries and three hot dogs in it?
+[00:25] A: yes
+[00:27] A: <selection> <com> bowl_dining_table/COCO_train2014_000000386603.jpg
+[00:29] B: <selection> <com> bowl_dining_table/COCO_train2014_000000386603.jpg
+[00:36] B: Great.  So that is common for both of us. :)
+[00:57] B: How about what seems to be a very bland salad on a table?
+[01:24] A: is it green on a white plate
+[01:28] B: (remember, these have to be the ones that you have marked in eyllow only)
+[01:40] B: It's a bowl, but yes!
+[02:00] A: mine is not a bowl
+[02:22] B: weird.  it looks like a bowl to me, but i could be mistaken.
+[02:29] A: <selection> <com> bowl_dining_table/COCO_train2014_000000492731.jpg
+[02:32] B: is there a glass of wine also on the table?
+[02:38] B: and you can see books in the background?
+[02:41] A: no
+[02:49] A: no
+[02:51] B: okay then it's not the same photo then.
+[02:53] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000086285.jpg
+[02:56] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+[03:14] B: how about what looks like beets in a bowl, with some challah behind it, also on a dinner table?
+[03:25] A: do you have rice and soup in a black bowl
+[03:38] B: I do not, no.
+[03:42] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000144797.jpg
+[03:57] A: and no for you
+[04:08] B: Okay. So I have 1 common, 2 different.
+[04:10] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000395097.jpg
+[04:19] A: me too
+- - Round 2 - -
+[04:52] B: Do you have 2 pink "bowls" with rice in 1 and vegetables in the other?
+[04:58] A: do you have 3 hot dogs and fries
+[05:07] B: We had that on the other page.  I don't have it here.
+[05:12] A: yes
+[05:16] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000386603.jpg
+[05:17] A: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[05:23] B: so you do have the pink bowls, great.  that's common.
+[05:25] B: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[05:53] B: How about a white square plate with tons of green vegetables on it?  covered in white something?
+[05:56] A: do you have that green stuff on that white plate
+[06:06] B: HA!   We think alike. :)
+[06:08] B: <selection> <com> bowl_dining_table/COCO_train2014_000000492731.jpg
+[06:09] A: yes
+[06:12] A: <selection> <com> bowl_dining_table/COCO_train2014_000000492731.jpg
+[06:25] B: How about 3 bowls - one with rice, one with some soup, and the other with 3 compartments of stuff.
+[06:51] A: i do but not in yellow
+[06:58] B: Okay.  So it's different then. 
+[07:02] B: So we have 2 common, 1 different.
+[07:04] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000144797.jpg
+[07:11] A: ok
+- - Round 3 - -
+[07:44] B: The first one for me is one mentioned earlier, bowl with green vegetables, glass of wine, books..
+[07:50] A: do you have a bowl with beets and bread
+[07:57] B: Yes!  I have that.  
+[07:59] B: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[08:00] A: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[08:10] A: no
+[08:20] B: Okay.  How about the 2 pink bowls we talked last round?
+[08:22] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000086285.jpg
+[08:30] B: one with rice, one with vegetables.
+[08:45] A: do you have 2 pink bowl one with veggie and the other with rice
+[08:58] B: that's what i just said.  :) Yes.  So we have 2 common, 1 different?
+[09:00] B: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[09:03] A: <selection> <com> bowl_dining_table/COCO_train2014_000000100022.jpg
+[09:09] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+- - Round 4 - -
+[09:43] B: Okay.  First one for me is the 3 bowls - one with rice, one with soup, one with 3 compartments
+[09:49] A: 3 hotdogs and fries
+[09:56] B: Don't have that one, noi.
+[10:00] B: -i.
+[10:03] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000386603.jpg
+[10:09] A: no
+[10:12] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000144797.jpg
+[10:32] B: How about a container which has a pet, a moon, some grass and a tree?
+[10:44] A: do you have some green stuff on a white plate
+[10:50] B: I do not, no.
+[10:58] A: no
+[11:00] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000132002.jpg
+[11:28] B: How about 3 bowls - one with vegetables, one with something i can't see but white, and a grapefruit
+[11:39] A: no
+[11:40] B: (but i don't think it's a grapefruit, maybe a blood orange?  don't know)
+[11:46] B: Okay.  So this seems to be 3 different for me.
+[11:48] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000161846.jpg
+[11:50] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000492731.jpg
+[11:52] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000086285.jpg
+[11:56] A: ok
+- - Round 5 - -
+[12:13] B: I have that bowl of beets with bread.  in yellow.  you?
+[12:22] A: yes
+[12:25] B: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[12:25] A: <selection> <com> bowl_dining_table/COCO_train2014_000000395097.jpg
+[12:30] B: how about the hot dog and fries?
+[12:37] A: no
+[12:39] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000386603.jpg
+[12:51] B: the mostly green salad on the table?
+[13:12] A: is their books in the back
+[13:16] B: Yes!
+[13:21] A: yes
+[13:23] A: <selection> <com> bowl_dining_table/COCO_train2014_000000086285.jpg
+[13:23] B: <selection> <com> bowl_dining_table/COCO_train2014_000000086285.jpg
+[13:29] B: okay so 2 common, 1 different
+[13:31] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000100022.jpg
+[13:34] A: ok
+[13:44] B: A pleasure working with you, Robin. :)
+[13:52] A: ty you too
+
+- - Game statistics - -
+Duration: 14:18 min. Score: 28/30 points.
+[Round 0] Duration: 04:21 min. Score: 6/6 points. Number of messages: 20.
+[Round 1] Duration: 02:21 min. Score: 5/6 points. Number of messages: 14.
+[Round 2] Duration: 01:34 min. Score: 6/6 points. Number of messages: 8.
+[Round 3] Duration: 02:15 min. Score: 5/6 points. Number of messages: 14.
+[Round 4] Duration: 01:23 min. Score: 6/6 points. Number of messages: 12.

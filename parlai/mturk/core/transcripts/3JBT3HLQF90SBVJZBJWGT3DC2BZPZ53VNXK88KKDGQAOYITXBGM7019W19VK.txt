@@ -1,0 +1,127 @@
+Game ID: 3JBT3HLQF90SBVJZBJWGT3DC2BZPZ53VNXK88KKDGQAOYITXBGM7019W19VK
+Domain ID: 12
+Player A: AAYL7UAXO9E4T
+Player B: AXKM02NVXNGOM
+
+- - Round 1 - -
+[00:00] B: Hello
+[00:04] A: Hello
+[00:21] B: Do you have one with elephant trying to paint?
+[00:30] A: No
+[00:51] A: I have one with someone riding an elephant, guy with blue armband in the foreground
+[01:14] B: I do not have that one
+[01:17] A: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[01:29] B: Do you have elephant playing in river
+[01:35] A: Nope
+[01:56] A: I have a man in black shirt/red symbol standing next to elephant statue, peace symbol
+[02:17] B: I do not have that one
+[02:25] B: So all three are different?
+[02:34] B: <selection> <dif> person_elephant/COCO_train2014_000000571351.jpg
+[02:37] B: <selection> <dif> person_elephant/COCO_train2014_000000095257.jpg
+[02:52] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[02:54] B: I have one where a girl touching elephant's trunk
+[03:05] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[03:12] A: The one where she's feeding the elephant? Or no
+[03:25] A: I have a highlighted one with a gentleman touching the elephants trunk
+[03:31] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[03:54] A: Seems like our highlighted ones are all different then?
+[04:16] B: I do not have gentle men touching the trunk
+[04:43] A: Then all of ours are different
+[05:40] B: ok
+[05:42] B: <selection> <dif> person_elephant/COCO_train2014_000000571351.jpg
+[05:43] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[05:44] B: <selection> <dif> person_elephant/COCO_train2014_000000095257.jpg
+- - Round 2 - -
+[06:25] B: my bad
+[06:48] B: First one guy with blue dress and glass touching elephant's trunk
+[07:02] A: Yes I have that one. 
+[07:04] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[07:05] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[07:17] A: I have guy in black shirt giving peace symbol next to elephant statue
+[07:29] B: yes I have that one too
+[07:31] B: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[07:32] A: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[07:55] A: Also guy in black shirt with backpack touching elephants trunk
+[08:15] B: I do not have that one.
+[08:17] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[08:27] A: any others you need to check on?
+[08:44] B: I have girl in the river watching elephants play with water
+[08:50] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[09:23] B: 2 common 1 different?
+[09:38] A: Yes
+[09:44] B: ok submit
+- - Round 3 - -
+[10:37] B: First one is the same as last one . guy in blue dress touching trunk
+[10:39] A: I have the same guy with the blue shirt, glasses, touching the trunk of the elephant
+[10:41] A: Yup
+[10:43] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[10:46] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[10:54] A: I again have the guy in black shirt, standing next to elephant statue, peace sign
+[11:09] B: I do not have that one
+[11:11] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[11:27] A: Next one I have is a woman looking at an elephant with what looks like a short fence in front
+[11:28] B: A girl in black dress watching elelphant
+[11:34] B: yes that one
+[11:37] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[11:38] A: Yup got it
+[11:40] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[11:56] A: 2 common 1 different
+[12:10] B: Other one has 4 5 people around two elephant .one is riding elepant
+[12:12] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[12:22] A: Nope don't have that one
+[12:32] B: ok 2 common
+- - Round 4 - -
+[12:58] A: Same guy in black shirt, giving peace symbol, next to elephant status.  Finally have that one?
+[13:07] A: statue
+[13:10] B: don't have that one
+[13:13] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[13:21] A: LOL ok
+[13:25] B: same girl watching elephant from fencce
+[13:32] A: Don't have that one this time around
+[13:36] B: <selection> <dif> person_elephant/COCO_train2014_000000524059.jpg
+[13:44] A: Man in black shirt touching elephant trunk with red strapped backpack?
+[13:54] B: got that one
+[13:56] A: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[13:57] B: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[14:14] B: 4 5 people around watching elephant 
+[14:21] B: one riding 
+[14:28] A: Nope.  Last one I have is girl standing in water with elephant.  Blue shirt
+[14:30] A: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[14:36] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[14:41] B: dont have 
+[14:48] B: 1 common two different
+[14:56] A: Yes
+- - Round 5 - -
+[15:19] A: Girl standing behind fence again looking at elephant?
+[15:19] B: guy with black dress and red bag
+[15:25] B: i have that one
+[15:27] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[15:29] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[15:36] A: I don't have the guy in black with red bag this time
+[15:41] B: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[15:46] A: Guy in blue shirt and glasses again touching elephant trunk
+[16:01] B: do not have that one
+[16:03] A: <selection> <dif> person_elephant/COCO_train2014_000000204759.jpg
+[16:11] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[16:12] A: Person riding elephant, people standing around, one with blue arm band.
+[16:29] B: two elephant?
+[16:40] B: guy in red taking picture?
+[16:44] A: Yes
+[16:46] B: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[16:57] B: ok 1 common
+[17:06] A: You sure about that?
+[17:17] B: 2 common 
+[17:19] B: my bad
+[17:26] A: Ok cool. No problem
+[17:28] A: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[17:50] B: alright done with pictures
+[17:53] B: well played man
+[17:57] A: You as well
+
+- - Game statistics - -
+Duration: 18:37 min. Score: 28/30 points.
+[Round 0] Duration: 05:47 min. Score: 5/6 points. Number of messages: 18.
+[Round 1] Duration: 03:20 min. Score: 5/6 points. Number of messages: 12.
+[Round 2] Duration: 01:58 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 01:59 min. Score: 6/6 points. Number of messages: 14.
+[Round 4] Duration: 02:10 min. Score: 6/6 points. Number of messages: 18.

@@ -1,0 +1,136 @@
+Game ID: 3I7DHKZYGOYID4AGQSTVS5SD0ZN5FH33M4IA01QHZOIDZZNTCK1DXGWM7XRD
+Domain ID: 53
+Player A: A8KX1HFH8NE2Q
+Player B: A3BDVHNMJECSKG
+
+- - Round 1 - -
+[00:00] A: Hi Jordan
+[00:05] B: I have a table with two laptop computers and two plates of food in the front.
+[00:28] B: Hello, back to you "Jordan." (I guess we got the same nickname)
+[00:38] A: Yes.  I have that.  Is there also an orange drink in the middle?
+[01:03] B: There's a bowl of something orange/reddish in the middle of the plates
+[01:06] B: <selection> <com> dining_table_laptop/COCO_train2014_000000522129.jpg
+[01:28] B: I also have an open laptop with a little circuit board and wires connected to bananas
+[01:31] A: I also have one with a guy with gray hair and a long beard working on a small PC with green tape or
+[01:44] B: No gray-haired guys here!
+[01:46] A: I also have an open laptop with a little circuit board and wires connected to bananas - I HAVE THIS
+[01:52] A: <selection> <com> dining_table_laptop/COCO_train2014_000000082894.jpg
+[01:53] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000014238.jpg
+[01:55] B: Cool!
+[01:56] B: <selection> <com> dining_table_laptop/COCO_train2014_000000093469.jpg
+[02:09] A: <selection> <com> dining_table_laptop/COCO_train2014_000000522129.jpg
+[02:19] B: My final one is a outdoor table with a black laptop, half-drank frozen drink and plate of food
+[03:26] A: I also have an open PC on the left side and two plates of food on the right - a drink in middle
+[03:31] B: Whoa!  My chat just reloaded for some reason. 
+[03:41] B: <selection> <com> dining_table_laptop/COCO_train2014_000000093469.jpg
+[03:43] B: <selection> <com> dining_table_laptop/COCO_train2014_000000522129.jpg
+[03:47] B: <selection> <com> dining_table_laptop/COCO_train2014_000000082894.jpg
+[03:58] B: So I think we have all three in common, then?
+[04:20] A: outdoor table with a black laptop, half-drank frozen drink and plate of food - YES - I HAVE THIS
+[04:34] A: I have two in common.  I have the grey beard guy that you don't
+[04:41] A: I'm going to submit
+[04:42] B: Oh right.  My bad
+[04:48] A: All green
+- - Round 2 - -
+[05:07] B: Banana circuits
+[05:19] A: I have the two laptops - two plates of food with the sauce in the middle
+[05:32] B: I also have an open laptop with a vase of roses (and one zinnia) to the right.
+[05:36] A: Yes.  I have Banana Circuits
+[05:44] B: No laptops, plates and sauce for me.
+[05:45] B: <selection> <com> dining_table_laptop/COCO_train2014_000000093469.jpg
+[05:52] A: outdoor table with a black laptop, half-drank frozen drink and plate of food - DON'T HAVE
+[06:26] A: I have an open laptop on left and three bananas on the right. Do you have this?
+[06:28] B: Final one for me: open black laptop, toy cat on top of coffee cup in foreground. 
+[06:29] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000522129.jpg
+[06:52] B: I don't have the three banana one.
+[07:01] A: open black laptop, toy cat on top of coffee cup in foreground - YES, HAVE THIS
+[07:04] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000093469.jpg
+[07:05] B: <selection> <com> dining_table_laptop/COCO_train2014_000000483794.jpg
+[07:07] A: <selection> <com> dining_table_laptop/COCO_train2014_000000483794.jpg
+[07:13] A: I'm ready to submit
+[07:17] B: Did you have the laptop and roses one?
+[07:33] B: Sorry-- I must have missed your response and can't scroll the chat up for some reason.
+[07:47] A: No, I DON'T HAVE laptop and roses 
+[07:49] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000259745.jpg
+[08:15] B: I'm good to move on then, when you are.
+[08:28] A: Two green.   I missed the open laptop on left and three bananas on right
+[08:48] B: Oh, I'm sorry!  That's what I meant by bananas with circuit board.  
+[09:14] B: I counted four bananas there because of the one just behind the bunch
+[09:17] A: There's also the open laptop with the banana on top of it.  That's the one I thought you had
+[09:26] B: Oh that makes sense now!
+- - Round 3 - -
+[09:47] B: Don't worry about the pay-- I've done the hit a couple times and they pay even if some are missed.
+[09:47] A: I have Open laptop and roses - zinnias
+[09:52] B: no flowers here
+[09:55] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000259745.jpg
+[10:00] B: cat on coffee cup
+[10:11] A: I have the Banana Circuit Board with the four bananas and open laptop
+[10:24] B: No four bananas, but I have the bearded guy this time.
+[10:25] A: I DON'T HAVE cat on coffee cup
+[10:28] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000093469.jpg
+[10:29] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000483794.jpg
+[10:34] A: I don't have bearded guy
+[10:37] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000014238.jpg
+[10:59] B: Final one: open laptop with a pint of beer and muffin on the left.
+[11:08] A: I also have open laptop in the middle with a drink on the left and a soda can (?) on right
+[11:13] B: ACK-- I do have the flowers
+[11:26] A: Final one: open laptop with a pint of beer and muffin on the left - YES, I DO HAVE
+[11:29] A: <selection> <com> dining_table_laptop/COCO_train2014_000000341060.jpg
+[11:31] A: <selection> <com> dining_table_laptop/COCO_train2014_000000259745.jpg
+[11:49] A: You do have laptop and roses / flowers on right side?
+[12:07] B: Yes.  I'm sorry.  I DO.
+[12:10] B: <selection> <com> dining_table_laptop/COCO_train2014_000000341060.jpg
+[12:18] A: OK.  Ready to submit
+[12:28] B:  Me too
+[12:29] A: All green
+- - Round 4 - -
+[12:37] B: All good here too
+[12:49] B: I have the beard guy again.
+[12:58] A: I have two laptops with two plates and sauce in middle
+[13:06] A: I DON'T HAVE the beard guy
+[13:12] B: NO plates/sauce here.
+[13:18] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000014238.jpg
+[13:23] B: beer/muffin on left again
+[13:25] A: I have the open laptop with the beer and muffin on left
+[13:28] B: <selection> <com> dining_table_laptop/COCO_train2014_000000341060.jpg
+[13:29] A: <selection> <com> dining_table_laptop/COCO_train2014_000000341060.jpg
+[13:29] A: <selection> <com> dining_table_laptop/COCO_train2014_000000341060.jpg
+[13:34] B: Roger.  We both got it, then.
+[13:34] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000522129.jpg
+[13:50] B: Final one: frozen drink and two plates on right.
+[14:08] A: I also have open laptop on left with two plates on right and drink w/ straw in middle
+[14:12] B: <selection> <com> dining_table_laptop/COCO_train2014_000000082894.jpg
+[14:17] B: Yes, that's the one!
+[14:22] B: I'm ready to submit
+[14:22] A: Final one: frozen drink and two plates on right. - YES, HAVE THIS
+[14:28] A: Read to submit
+[14:30] A: <selection> <com> dining_table_laptop/COCO_train2014_000000082894.jpg
+[14:38] A: All green
+- - Round 5 - -
+[14:44] B: Here too.
+[14:51] A: I have bearded guy
+[14:54] B: Plates with sauce in middle.
+[15:10] A: Plates with sauce in middle - DON'T HAVE
+[15:14] B: YES to bearded guy
+[15:16] B: <selection> <com> dining_table_laptop/COCO_train2014_000000014238.jpg
+[15:18] A: <selection> <com> dining_table_laptop/COCO_train2014_000000014238.jpg
+[15:19] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000522129.jpg
+[15:30] A: I have laptop, beer, and muffin
+[15:35] B: Final one: four bananas on right hooked up to wires
+[15:41] B: NO beer/muffin here
+[15:53] A: DON'T HAVE - Final one: four bananas on right hooked up to wires
+[15:56] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000093469.jpg
+[16:07] A: I have laptop, coffee cup and cat on top
+[16:15] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000341060.jpg
+[16:16] B: YES to cat/coffee cup
+[16:20] A: <selection> <com> dining_table_laptop/COCO_train2014_000000483794.jpg
+[16:34] A: OK.  Ready to submit.  Nice working with you.  Good luck!
+[16:44] B: Nice working with you too!
+
+- - Game statistics - -
+Duration: 17:37 min. Score: 28/30 points.
+[Round 0] Duration: 04:44 min. Score: 5/6 points. Number of messages: 19.
+[Round 1] Duration: 02:45 min. Score: 5/6 points. Number of messages: 20.
+[Round 2] Duration: 02:36 min. Score: 6/6 points. Number of messages: 17.
+[Round 3] Duration: 01:55 min. Score: 6/6 points. Number of messages: 15.
+[Round 4] Duration: 01:55 min. Score: 6/6 points. Number of messages: 13.

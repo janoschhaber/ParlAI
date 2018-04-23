@@ -1,0 +1,110 @@
+Game ID: 3300DTYQT3FF0CTIF9XS8Y24J2YQEF3TUI152ZZCLGGBZ63L2D1EJAUS5Q15
+Domain ID: 6
+Player A: AXT49VCFZDGW8
+Player B: A3B7TNVOISSZ2O
+
+- - Round 1 - -
+[00:00] A: I have two people both with a donut in their mouth
+[00:16] B: I do not have that image.
+[00:19] B: Do you have a man holding coffee talking on the phone and a woman in a green dress on the phone?
+[00:23] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[00:41] A: No I do not
+[00:46] B: <selection> <dif> person_car/COCO_train2014_000000405991.jpg
+[00:56] A: i have a smiling woman showing a man a phone
+[01:06] B: I do not have that image.
+[01:12] A: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[01:21] B: Do you have a man in a blue button up shirt facing the camera and holding a phone to his ear?
+[01:54] A: no
+[01:57] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[02:05] A: do you have a man standing near a parking meter while writing on his hand?
+[02:21] B: I do not have that image.
+[02:23] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[02:37] B: Do you have a man sitting on a wall talking on the phone, and is near some parking meters?
+[02:44] A: yes
+[02:52] B: With a white shirt and blue jeans?
+[02:55] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[02:57] A: yes
+[03:13] B: Do you have any more questions? I am done.
+[03:18] A: no
+- - Round 2 - -
+[04:17] A: do you have a woman in a long sleeved red shirt showing a man with a top hat something?
+[04:27] B: Yes I do.
+[04:29] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[04:30] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[04:32] B: Interesting. Now I have a man writing on his hand near a parking meter, as you previously described
+[04:41] B: Do you have this man in your images?
+[04:46] A: lol I dont have it this time
+[04:50] B: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[05:28] B: Okay. Do you have an Asian woman holding a phone with a man in a black shirt looking at her phone?
+[05:29] A: do you have a man standing on a red chair next to a suitcase and an open trunk
+[05:38] A: yes
+[05:41] B: I do not have an image with a red chair.
+[05:41] A: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[05:43] B: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[05:44] A: <selection> <dif> person_car/COCO_train2014_000000394151.jpg
+[06:13] B: I am done. Do you have more questions?
+[06:19] A: Nope
+- - Round 3 - -
+[06:42] B: I have the Asian woman and man in a black shirt again. Do you have that image?
+[06:58] A: I have a smiling man with a phone to his ear with 2 cars in the background behind him
+[07:05] A: no
+[07:08] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[07:19] B: I do not have that image.
+[07:23] A: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[07:42] B: Do you have an image with a man writing on his palm near the parking meter?
+[07:51] A: yes
+[07:55] A: I have two people both with a domut in their mouth in one image, what about you?
+[07:55] B: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[07:57] A: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[08:05] B: I do not see any donuts.
+[08:09] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[08:15] A: ok, im done
+[08:17] B: Do you have a man with a hat standing next to a woman in a red shirt?
+[08:24] A: no
+[08:27] B: <selection> <dif> person_car/COCO_train2014_000000563545.jpg
+[08:33] B: I am done as well.
+[08:36] A: ok
+- - Round 4 - -
+[09:08] B: Do you have an image of a man in a hat next to a woman in a red shirt?
+[09:25] A: yes
+[09:27] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[09:30] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[09:38] A: do you have a man and woman standing together with a donut in their mouthes?
+[09:52] B: I do not have any donut images.
+[09:55] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[10:07] B: Do you have an image of an Asian woman holding her phone and a man in a black shirt looking at it?
+[10:33] A: no
+[10:36] A: do you have a man/woman standing on a red chair next to an open trunk?
+[10:41] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[10:53] B: Yes I do. And that's my last image.
+[10:56] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[10:57] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[11:01] A: ok im done
+- - Round 5 - -
+[11:28] B: Do you have an image with two people eating donuts?
+[11:36] A: yes
+[11:41] B: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[11:43] A: I have a man writing on his hand next to a parking meter
+[11:46] A: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[11:54] B: I do not have that image.
+[11:56] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[12:07] B: Do you have a man standing on a red chair next to an open car trunk?
+[12:18] A: yes
+[12:20] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[12:20] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[12:48] A: I am done
+[12:54] B: Do you have a man in a bright blue button up shirt facing the camera while he holds his phone?
+[13:12] A: yes with cars behind him
+[13:23] B: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+[13:31] B: Okay, I'm done now.
+[14:07] A: thanks, nice ob
+[14:12] A: *job
+[14:22] B: Thanks to you as well.
+
+- - Game statistics - -
+Duration: 14:27 min. Score: 30/30 points.
+[Round 0] Duration: 03:22 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:03 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 01:55 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 02:00 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 02:07 min. Score: 6/6 points. Number of messages: 13.

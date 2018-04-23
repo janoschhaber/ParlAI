@@ -1,0 +1,89 @@
+Game ID: 3RXPCZQMQQ9P3M5S0PX170F8PX0G1P3E13VNJ1NOT3ZDBNQDX4SCSO4AS1I2
+Domain ID: 51
+Player A: ALZHJRQ5PGM9Y
+Player B: A1DUPOUC9RNU4L
+
+- - Round 1 - -
+[00:00] A: doughnut on plate next to coffee cup with straw, tv remotes on table as well
+[01:02] B: I have that. Do you have a sandwich with a dunkin doughnuts drink?
+[01:06] A: <selection> <com> cup_dining_table/COCO_train2014_000000566432.jpg
+[01:57] A: i have that, do you have a cup of rice (i think) and a split keyboard (white) with manual on left
+[02:02] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[02:16] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[02:42] B: No, do you have a hot w/ beer a JB sauce?
+[02:52] B: hot dog-sorry
+[02:52] A: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[03:24] A: i don't
+[03:31] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[03:48] A: did you get all of yours
+[04:03] B: OK-do you have a guy in a stripped shirt putting a fork into some food on a round plate?
+[04:15] A: i dont have that either
+[04:21] B: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[04:30] B: OK-all done
+- - Round 2 - -
+[05:02] B: Do you have a coffee mug with a shadow on a white tablecloth?
+[05:32] A: yes! do you have the burger sandwitch thing with dunkin doughnuts drink on left
+[05:34] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[05:47] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[05:49] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[06:02] B: yep-do you have hot dog with JB sauce?
+[06:43] A: no. do you have a homeade looking egg mcmuffin witha  tomato on it on a white plate
+[06:50] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[06:52] B: no
+[06:54] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[06:56] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[07:21] B: got them all?
+- - Round 3 - -
+[07:24] A: yep
+[07:40] B: OH, now I have that rice and the keyboard
+[07:45] A: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[07:49] A: perfect, me too!
+[07:53] B: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[08:05] B: how about the mug with a straw
+[08:11] A: tomato mcmuffin thing on white plate?
+[08:17] B: nope
+[08:26] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[08:52] A: i have the guy in striped shirt putting fork into something
+[09:01] B: Me too!
+[09:04] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[09:04] B: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[09:06] B: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+[09:14] B: got them all?
+- - Round 4 - -
+[09:38] B: NOW, I have the tomato muffin thing
+[10:02] A: nope. i have the sandwitch with dunkin doughnuts thing
+[10:25] B: No, I don't have that but I do have the rice and keyboard
+[10:40] B: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[10:46] A: no, I have the hotdog with jb now
+[10:52] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[10:54] B: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[10:54] A: <selection> <dif> cup_dining_table/COCO_train2014_000000035407.jpg
+[10:58] B: Me too
+[11:00] A: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[11:16] B: got them all?
+[11:23] A: stripped shirt guy putting fork into mushy stuff?
+[11:35] B: yes, I have it
+[11:37] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[11:41] A: perfect, got em
+- - Round 5 - -
+[12:04] A: white mug casting shadow
+[12:14] B: Tomato muffin thing-yes I have the mug
+[12:18] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[12:19] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[12:21] A: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[12:34] A: yes! hotdog w jb sauce beer
+[12:56] B: No hot dog this time for me, but I do have the rice!
+[13:02] A: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[13:06] B: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[13:14] A: no rice, anything else?
+[13:22] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[13:28] B: No, you have them all?
+[13:37] A: ya
+
+- - Game statistics - -
+Duration: 14:19 min. Score: 30/30 points.
+[Round 0] Duration: 04:22 min. Score: 6/6 points. Number of messages: 10.
+[Round 1] Duration: 01:59 min. Score: 6/6 points. Number of messages: 6.
+[Round 2] Duration: 01:51 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 02:04 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 01:33 min. Score: 6/6 points. Number of messages: 7.

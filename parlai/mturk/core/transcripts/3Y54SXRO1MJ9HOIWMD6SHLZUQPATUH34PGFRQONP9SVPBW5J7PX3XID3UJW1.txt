@@ -1,0 +1,118 @@
+Game ID: 3Y54SXRO1MJ9HOIWMD6SHLZUQPATUH34PGFRQONP9SVPBW5J7PX3XID3UJW1
+Domain ID: 14
+Player A: A22X4H4XWMRFG7
+Player B: A3HYLVFUDKJFKC
+
+- - Round 1 - -
+[00:00] A: Do you have a photo of guy on green moto?
+[00:11] B: can u see a woman dress im medieval constume in front of bike
+[00:18] A: yes
+[00:21] B: <selection> <com> person_motorcycle/COCO_train2014_000000279373.jpg
+[00:30] B: you ask me
+[00:54] A: the guy has green backpack and he is on green bike?
+[01:12] B: yes
+[01:16] A: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[01:16] B: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[01:47] A: a teenager wearing a white shirt with a woman behind on black bike?
+[01:50] B: person on bike with headlamp showing lit?
+[02:07] B: yes
+[02:11] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[02:11] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[02:23] B: u shud be done right
+[02:29] B: hit submiot
+[03:08] B: 4 more pages to go hit submit obn left side
+[03:25] A: no I have taking a guy taking a picture with camere in mirror of the bike?
+[03:51] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[03:54] B: no i do not have theat sorry
+[04:00] A: done
+- - Round 2 - -
+[04:26] A: teenager with white shirt againg?
+[04:36] B: guy owith helmt in pic on motor cycle bike?
+[04:46] A: no
+[04:47] B: no teenager
+[04:56] B: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[05:02] A: fat person on orange bike?
+[05:05] A: <selection> <dif> person_motorcycle/COCO_train2014_000000238178.jpg
+[05:12] B: fat bklack woman on red bike?
+[05:18] B: yes
+[05:20] B: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[05:36] A: five police wearing yellow jackets on bikes?
+[05:40] A: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[05:43] B: five bikes yellow suits all same
+[05:48] A: yes
+[05:50] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[05:51] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[05:54] B: yep
+[05:56] A: I am done
+[06:04] B: anymore
+[06:14] B: im done
+- - Round 3 - -
+[06:26] A: medival woman?
+[06:27] B: pic of guy in mirroe?
+[06:31] A: yes
+[06:35] B: no mideval woman
+[06:36] A: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[06:38] A: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[06:39] B: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[06:44] A: guy on green bike?
+[06:51] B: fat lady on orange bike?
+[06:56] A: no
+[07:02] B: no guy on green bike
+[07:06] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[07:10] A: I am done
+[07:13] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[07:19] B: 5 cops wth yellow jackets?
+[07:24] A: no
+[07:28] B: <selection> <dif> person_motorcycle/COCO_train2014_000000560615.jpg
+- - Round 4 - -
+[07:40] A: guy on green bike?
+[07:46] B: 5c ops with yellow jackets?
+[07:49] A: yes
+[07:52] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[07:58] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[08:04] A: tenager with white shirt?
+[08:14] B: is it a green fender fdirt bike?
+[08:35] B: no teenager
+[08:36] A: he has green backpack
+[08:40] A: <selection> <dif> person_motorcycle/COCO_train2014_000000238178.jpg
+[08:42] B: nope
+[08:47] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[08:51] A: I am done
+[08:52] B: fat lady on red bike
+[08:56] A: no
+[09:07] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[09:13] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[09:30] A: we had the teenager?
+[09:47] B: sorry I messed up  idid not see it right away
+[09:55] A: ok np :)
+- - Round 5 - -
+[10:06] A: fat woman?
+[10:13] A: on red bike?
+[10:13] B: fat guy with plaid shirt
+[10:26] B: no fat woman
+[10:26] A: no
+[10:31] B: <selection> <dif> person_motorcycle/COCO_train2014_000000039100.jpg
+[10:32] A: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[10:39] B: mideval woman
+[10:52] A: man on green bike with green backpack
+[10:55] A: no
+[10:58] B: in blqcvk dress
+[11:09] B: no grn backpack guy
+[11:12] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[11:13] B: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[11:33] B: dirtbike with green front fender?
+[11:42] A: guy taking picture in a mirror?
+[11:43] A: yes
+[11:48] B: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+[11:57] B: no mitroor shot
+[12:01] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[12:07] A: I am done
+[12:14] B: ty jordasn
+
+- - Game statistics - -
+Duration: 13:18 min. Score: 29/30 points.
+[Round 0] Duration: 04:03 min. Score: 6/6 points. Number of messages: 15.
+[Round 1] Duration: 01:41 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 01:03 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 01:35 min. Score: 5/6 points. Number of messages: 14.
+[Round 4] Duration: 01:59 min. Score: 6/6 points. Number of messages: 16.

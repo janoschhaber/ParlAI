@@ -1,0 +1,109 @@
+Game ID: 3D3VGR7TA1DC2FSL345WUX8CPRZR303DL65MZB8EDB6BJZARWXOTDNGFMCE6
+Domain ID: 23
+Player A: A3AHY83AP9XLZ9
+Player B: A1HIQZEC2ER7GS
+
+- - Round 1 - -
+[00:00] B: do you have a girl laying on surfboard?
+[00:17] A: Looks like shes on a carpet?
+[00:22] B: yes
+[00:25] A: Yep
+[00:28] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[00:28] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[00:41] B: how about a surfer with two kids bhind him
+[00:58] A: Nope. Guy walking holding a red surfboard?
+[01:11] B: nope
+[01:13] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[01:17] A: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[01:26] B: how about a skier touching water
+[01:35] B: surfer not skier
+[01:42] A: No. Guy on a bike with a surfboard on his side?
+[01:51] B: no
+[01:54] B: <selection> <dif> person_surfboard/COCO_train2014_000000097094.jpg
+[01:56] A: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+- - Round 2 - -
+[02:39] B: two guys with two surfboards?
+[02:49] A: Yeah. Girl on the carpet again?
+[03:01] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[03:02] B: yeah what about guy with shark on his surfboard?
+[03:06] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[03:07] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[03:07] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[03:35] A: No. Guy with a green surfboard with a weird symbol at the top?
+[04:01] B: no
+[04:09] B: is it an asian guy
+[04:18] A: no
+[04:23] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[04:35] A: He has a red helmet
+[04:38] B: no
+[04:43] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+- - Round 3 - -
+[05:09] B: green surfboard and helmet guy?
+[05:20] A: Nope. Carpet girl again?
+[05:30] B: no,guy with surfboard and riding bike?
+[05:36] B: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[06:10] A: Nope. Guy in the middle of surfing with the sun in the background?
+[06:35] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[06:38] B: no
+[06:40] A: <selection> <dif> person_surfboard/COCO_train2014_000000204735.jpg
+[06:42] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[06:47] A: <selection> <dif> person_surfboard/COCO_train2014_000000097094.jpg
+[06:56] A: shark surfboard?
+[07:04] B: yes
+[07:08] A: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+- - Round 4 - -
+[08:35] B: red surfboard with little boy holding it?
+[09:02] A: Guy with red helmet green surfboard in front of a truck?
+[09:09] A: And no, I dont have that
+[09:10] B: no
+[09:28] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[09:32] B: surfer touching water?
+[09:35] B: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[09:43] B: bike guy with srufboard?
+[10:00] A: Yes. Guy in the water on a surfboard with the sun behind him?
+[10:02] A: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[10:08] B: yes
+[10:10] B: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[10:13] A: I have the guy on the bike
+[10:19] B: ok
+[10:19] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[10:20] B: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[10:34] A: Do you have any more questions
+[11:08] B: no
+[11:15] A: ok
+- - Round 5 - -
+[11:37] B: helmet guy?
+[11:51] A: yes
+[11:53] B: 2 guys 2 surfboards?
+[11:56] B: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[11:59] A: yes
+[12:00] B: bike guy?
+[12:02] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[12:04] A: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[12:05] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[12:10] A: no
+[12:13] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[12:18] B: ok i m gooed
+[12:30] A: do you have a girl in a yellow bikini?
+[12:50] B: yes
+[13:18] A: do you have the guy with the shark on his surfboard?
+[13:22] B: no
+[13:27] A: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[13:56] A: do you have an asian guy lifting a surfboard
+[14:03] B: no
+[14:11] A: ok
+[14:13] A: thanks
+[14:15] A: im done
+[14:25] B: k
+[14:32] A: c:
+[14:51] B: waiting on you
+[15:05] A: oh sorry
+[15:26] A: bye bye
+
+- - Game statistics - -
+Duration: 15:28 min. Score: 27/30 points.
+[Round 0] Duration: 01:58 min. Score: 5/6 points. Number of messages: 11.
+[Round 1] Duration: 02:04 min. Score: 6/6 points. Number of messages: 9.
+[Round 2] Duration: 02:22 min. Score: 4/6 points. Number of messages: 7.
+[Round 3] Duration: 02:49 min. Score: 6/6 points. Number of messages: 13.
+[Round 4] Duration: 03:29 min. Score: 6/6 points. Number of messages: 21.

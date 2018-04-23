@@ -1,0 +1,113 @@
+Game ID: 36AHBNMV1SAJH864AO32F2NLJR2DYL3VAR3R6G1QZV6Z6BNTJORJBIUQ68OZ
+Domain ID: 50
+Player A: A3HYLVFUDKJFKC
+Player B: A3S2R1NK6HZ9KP
+
+- - Round 1 - -
+[00:00] B: Hello.
+[00:05] A: hot dog and french fries?
+[00:18] B: No
+[00:21] A: <selection> <dif> cup_dining_table/COCO_train2014_000000131498.jpg
+[00:28] B: Greasy burger on white plate, guy in plaid shirt
+[00:48] A: yes
+[00:51] B: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[01:00] A: gklazed donut with 2 other donuts
+[01:18] B: No, I don't have that.
+[01:24] A: <selection> <dif> cup_dining_table/COCO_train2014_000000105733.jpg
+[01:36] B: Do you have a donut on a plate next to a mug with a straw?
+[01:38] A: blue cuo with bagel with red stuff on top
+[02:01] A: blue cup with like mickey mouse
+[02:11] B: No Mickey.
+[02:16] A: no 
+[02:22] B: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+[02:22] A: <selection> <dif> cup_dining_table/COCO_train2014_000000304858.jpg
+[02:35] B: Do you have a white mug that's casting a shadow to the left?
+[02:50] A: no whiter mug
+[02:55] B: <selection> <dif> cup_dining_table/COCO_train2014_000000496196.jpg
+[03:01] B: Do you have any more questions?
+[03:05] A: no
+- - Round 2 - -
+[03:52] A: subm,i3 donuts with glazed on outside?t 
+[04:22] B: Next to a glass of iced coffee??
+[04:33] A: yes
+[04:42] A: <selection> <com> cup_dining_table/COCO_train2014_000000105733.jpg
+[05:00] B: I have that
+[05:02] B: <selection> <com> cup_dining_table/COCO_train2014_000000105733.jpg
+[05:16] A: donut glaxed with cup of coffee in white  cup 
+[05:33] B: No
+[05:35] A: <selection> <dif> cup_dining_table/COCO_train2014_000000439518.jpg
+[06:01] A: tray on left with snmall balls of stuff pilled up and a clear cup filled with similar stuff
+[06:29] B: Yes, I have that one.
+[06:31] B: <selection> <com> cup_dining_table/COCO_train2014_000000172135.jpg
+[06:33] A: hard ot describe
+[06:36] A: <selection> <com> cup_dining_table/COCO_train2014_000000172135.jpg
+[06:39] A: done
+[06:43] A: you?
+[06:51] B: Hot dog and fries with chocolate milk?
+[07:03] A: no
+[07:09] B: Done
+[07:12] B: <selection> <dif> cup_dining_table/COCO_train2014_000000131498.jpg
+- - Round 3 - -
+[07:31] A: hotdog and fries?
+[07:48] B: I have that one
+[07:50] B: <selection> <com> cup_dining_table/COCO_train2014_000000131498.jpg
+[07:55] A: donut on whiute palte with cup and straw hanfiogn out?
+[07:58] A: <selection> <com> cup_dining_table/COCO_train2014_000000131498.jpg
+[08:08] B: No
+[08:10] A: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+[08:26] A: bluie cup bagel with red stuiff oni it
+[08:36] B: No
+[08:44] A: <selection> <dif> cup_dining_table/COCO_train2014_000000304858.jpg
+[08:45] B: The three donuts next to the iced coffee?
+[08:51] A: no
+[08:54] B: <selection> <dif> cup_dining_table/COCO_train2014_000000105733.jpg
+[09:02] A: anymore?
+[09:21] B: The pink, yellow, brown macarons in the glass vase? With the pile of stuff behind it.
+[09:31] A: no
+[09:35] B: <selection> <dif> cup_dining_table/COCO_train2014_000000172135.jpg
+- - Round 4 - -
+[10:10] A: glaxed donut with coffee in whute paper cup
+[10:21] A: hot dog with fries?
+[10:33] B: I have the donut with the coffee in the white cup
+[10:36] B: <selection> <com> cup_dining_table/COCO_train2014_000000439518.jpg
+[10:37] A: <selection> <com> cup_dining_table/COCO_train2014_000000439518.jpg
+[10:49] B: I don't have the hot dog with fries
+[10:53] A: hot dog and fries?
+[10:57] B: No
+[10:59] A: <selection> <dif> cup_dining_table/COCO_train2014_000000131498.jpg
+[11:19] A: blue cup mickey mouse and bagel with red stuff
+[11:25] B: I have that
+[11:27] A: <selection> <com> cup_dining_table/COCO_train2014_000000304858.jpg
+[11:29] B: <selection> <com> cup_dining_table/COCO_train2014_000000304858.jpg
+[11:32] A: anymore?
+[11:41] B: Do you have the donut on the plate with the mug that has a straw?
+[11:54] A: yes
+[11:58] B: <selection> <com> cup_dining_table/COCO_train2014_000000566432.jpg
+[12:07] A: done
+- - Round 5 - -
+[12:35] A: mickey cup in blue and bagel?
+[12:47] B: I don't have that one.
+[12:49] A: <selection> <dif> cup_dining_table/COCO_train2014_000000304858.jpg
+[13:11] A: macoroons in clear cup with pile of that on tray?
+[13:33] B: Yes
+[13:42] A: <selection> <com> cup_dining_table/COCO_train2014_000000172135.jpg
+[13:42] B: <selection> <com> cup_dining_table/COCO_train2014_000000172135.jpg
+[13:59] A: glaxzed donut with whuirte paper cooffee cup>
+[14:08] B: <selection> <com> cup_dining_table/COCO_train2014_000000439518.jpg
+[14:13] B: I have that one.
+[14:15] A: <selection> <com> cup_dining_table/COCO_train2014_000000439518.jpg
+[14:23] A: anymore for you?
+[14:33] B: Do you have the three donuts next to the iced coffee?
+[14:41] A: nope
+[14:46] A: pleasure
+[14:49] B: <selection> <dif> cup_dining_table/COCO_train2014_000000105733.jpg
+[14:55] B: Same, thanks.
+[15:07] A: sub,it p[lease
+
+- - Game statistics - -
+Duration: 15:29 min. Score: 30/30 points.
+[Round 0] Duration: 03:18 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 03:21 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 02:09 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 02:01 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 02:36 min. Score: 6/6 points. Number of messages: 12.

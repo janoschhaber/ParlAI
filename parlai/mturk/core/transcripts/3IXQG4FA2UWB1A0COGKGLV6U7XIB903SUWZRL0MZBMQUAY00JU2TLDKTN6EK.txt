@@ -1,0 +1,84 @@
+Game ID: 3IXQG4FA2UWB1A0COGKGLV6U7XIB903SUWZRL0MZBMQUAY00JU2TLDKTN6EK
+Domain ID: 5
+Player A: A3TM9RWWBPQBVM
+Player B: AWTA622HM0OUH
+
+- - Round 1 - -
+[00:00] B: Baby in red and white stripes, sticking a fork in cake.
+[00:09] A: I don't have that
+[00:12] B: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[00:58] A: Do you have 4 navy guys cutting a cake?
+[01:12] B: Man in camo (fatigues), another man in a black shirt.
+[01:27] A: I have that
+[01:29] B: Yes, I have 4 navy guys cutting a cake.
+[01:32] A: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[01:32] B: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[01:34] B: <selection> <com> person_cake/COCO_train2014_000000447941.jpg
+[01:34] A: <selection> <com> person_cake/COCO_train2014_000000447941.jpg
+[01:37] A: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[02:04] B: I submitted.
+- - Round 2 - -
+[02:17] B: 4 navy guys cutting cake.
+[02:24] A: I don't have that
+[02:29] B: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[02:51] B: 2 men in uniform, cake with red and white stripes.
+[02:58] A: I have that
+[03:01] A: <selection> <com> person_cake/COCO_train2014_000000481931.jpg
+[03:03] B: <selection> <com> person_cake/COCO_train2014_000000481931.jpg
+[03:24] B: Group of women around a white cake with black writing.
+[03:35] A: Got it
+[03:37] A: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[03:39] A: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[03:40] B: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[03:47] A: All done
+[03:55] B: Me too.
+- - Round 3 - -
+[04:12] B: A toddler and a cake with two lit candles.
+[04:17] A: Yup
+[04:20] A: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[04:20] B: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[04:46] B: 3 people in white uniforms cutting a cake together.
+[04:57] A: Nope I don't have that
+[05:02] B: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[05:13] B: The group of women around the white and black cake.
+[05:16] A: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[05:17] A: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[05:23] A: Got it
+[05:28] B: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[05:30] A: Done and done
+[05:37] B: Me too.
+- - Round 4 - -
+[05:48] B: Toddler with two lit candles.
+[05:53] A: Yes
+[05:55] A: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[05:58] B: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[06:08] B: 3 white uniforms, cutting cake together.
+[06:15] A: No
+[06:19] B: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[06:32] B: Man in black shirt, man in fatigues.
+[06:42] A: I don't have that
+[06:45] A: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[06:46] B: <selection> <dif> person_cake/COCO_train2014_000000488127.jpg
+[06:46] A: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+- - Round 5 - -
+[07:19] B: 4 navy guys.
+[07:27] A: Nope
+[07:30] B: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[07:39] B: 2 men in uniform, red and white striped cake.
+[07:52] A: Not that either
+[07:56] B: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[08:06] B: 3 white uniforms, cutting cake together.
+[08:10] A: Yes
+[08:14] A: <selection> <com> person_cake/COCO_train2014_000000052928.jpg
+[08:15] B: <selection> <com> person_cake/COCO_train2014_000000052928.jpg
+[08:17] A: <selection> <dif> person_cake/COCO_train2014_000000488127.jpg
+[08:18] A: <selection> <dif> person_cake/COCO_train2014_000000055912.jpg
+[08:25] B: Submitted.
+
+- - Game statistics - -
+Duration: 09:15 min. Score: 28/30 points.
+[Round 0] Duration: 01:57 min. Score: 6/6 points. Number of messages: 7.
+[Round 1] Duration: 01:30 min. Score: 6/6 points. Number of messages: 8.
+[Round 2] Duration: 01:19 min. Score: 6/6 points. Number of messages: 8.
+[Round 3] Duration: 01:04 min. Score: 5/6 points. Number of messages: 6.
+[Round 4] Duration: 01:09 min. Score: 5/6 points. Number of messages: 7.

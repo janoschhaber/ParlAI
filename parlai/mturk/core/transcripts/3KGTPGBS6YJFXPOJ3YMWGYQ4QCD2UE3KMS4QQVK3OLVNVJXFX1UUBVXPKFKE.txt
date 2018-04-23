@@ -1,0 +1,100 @@
+Game ID: 3KGTPGBS6YJFXPOJ3YMWGYQ4QCD2UE3KMS4QQVK3OLVNVJXFX1UUBVXPKFKE
+Domain ID: 51
+Player A: A11D6T3OPPZIE1
+Player B: A1SQC3067DP5TB
+
+- - Round 1 - -
+[00:00] B: Do you have a white empty coffee cup?
+[00:35] A: Yes, do you have what looks like a hot dog with two drinks, some sauce, and a fork around it?
+[00:40] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[01:43] B: No I do not 
+[01:52] A: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[02:06] B: But I do have a silver cup of tea with a white split keyboard.  Do you have one of those too?
+[02:10] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[03:15] A: No, I don't have that one. Do you have a hamburger on a white plate?
+[04:09] B: Hmm that's a hamburger.  Does it have tomatoes on it with a english muffin bun?
+[04:13] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[04:20] A: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[04:28] A: Yes, that's the one.
+[04:41] B: Oh yes I was trying to figure out what it was.
+[04:44] B: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[04:57] A: Me too lol, are you ready to go to the next page or do you have any other ones?
+[06:08] B: Yes I am
+- - Round 2 - -
+[06:48] A: Okay, do you have a cheeseburger with two ketchup packages and a drink around it?
+[06:51] B: Do you have a sloppy hot dog with a mug of beer next to a pitcher of beer?
+[07:03] A: Yes, I have that one.
+[07:07] A: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[07:08] B: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[07:11] B: No I don't have a cheeseburger
+[07:19] A: <selection> <dif> cup_dining_table/COCO_train2014_000000035407.jpg
+[07:30] B: However, i do have that english muffin with tomato on top of some meat. Do you?
+[08:20] A: No, I don't have that one. Do you have some weird looking burger on a white plate?
+[08:34] A: It has a dark blue mug of coffee on the side.
+[10:57] A: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[12:20] A: It has a plaid napkin or something in the top of the picture.
+[12:21] B: Yes I do.  Is the mug like green?
+[12:31] B: No I don't have a plaid napkin
+[13:04] A: The mug is green, I guess that is the one. The napkin is blue with orange lines on it.
+[13:32] B: Do you have a cup of hot chocolate near a split keyboard?
+[13:46] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[13:54] A: No, I don't have that one.
+[13:57] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[14:02] B: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[15:13] A: Are you ready to move to the next page?
+[16:18] B: Yes I have selected next page.
+- - Round 3 - -
+[16:45] B: Do you have a sandwich with two condiments packet on a white place?
+[17:13] A: Does it have a dunkin donuts cup behind it?
+[17:25] B: Yes
+[17:39] A: Yes, I have that one. Do you have the english muffin again?
+[17:43] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[17:51] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[17:55] B: No
+[18:00] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[18:09] B: I have that sloppy hot dog with beer again.  How about you?
+[18:49] A: No I don't have that one but I have the empty mug again.
+[18:56] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[18:58] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[19:18] B: I have the empty mug too.  Do you have anything else or you ready for the next page?
+[19:26] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[19:47] A: Yes I'm on the next page.
+- - Round 4 - -
+[20:32] B: Do you have a sandwich with dunkin donut drink?
+[21:02] A: Yes, and I have the cup full of what looks like rice beside a split keyboard.
+[21:07] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[21:13] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[21:27] B: I don't have that, but I have the sloppy hot dog with beer.  Do you?
+[21:32] A: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[22:10] A: No, I don't have that one. Do you have a donut on a plate by a cup with a straw coming out?
+[24:09] B: Yes
+[24:16] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[24:17] A: <selection> <com> cup_dining_table/COCO_train2014_000000566432.jpg
+[24:36] B: Do you have a sandwich near a black coffee cup and a white cup?
+[24:47] A: No, I don't have that one.
+[24:51] B: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+- - Round 5 - -
+[25:18] A: Do you have the english muffin again?
+[25:26] B: No I do not.
+[25:30] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[25:50] B: Do you have a cup of hot chocolate near a split keyboard?
+[26:14] A: Yes I do, that's the one I thought was rice before lol.
+[26:32] A: Do you have the sloppy looking sandwich by a green cup?
+[26:35] A: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[26:35] B: lol looks like something foamy
+[27:00] B: Is it a sandwich on a white plate looking like the sun beaming down on it?
+[27:09] B: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[27:16] A: Yes it's that one.
+[27:21] B: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[27:24] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[27:47] B: Do you have a donut with a cup next to it that has a straw in it>
+[28:01] A: No, I don't have that one.
+[28:27] B: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+
+- - Game statistics - -
+Duration: 29:05 min. Score: 30/30 points.
+[Round 0] Duration: 06:02 min. Score: 6/6 points. Number of messages: 10.
+[Round 1] Duration: 08:09 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 02:54 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 04:20 min. Score: 6/6 points. Number of messages: 7.
+[Round 4] Duration: 03:10 min. Score: 6/6 points. Number of messages: 10.

@@ -1,0 +1,105 @@
+Game ID: 3PJ71Z61R50AOCIKMJRRFJTLLLV19B34Q075JO1YBSSIU7MN8YM8SSIH201Z
+Domain ID: 46
+Player A: A348VZXJU4J66N
+Player B: A3VP27UUQ34OXK
+
+- - Round 1 - -
+[00:00] A: little boy eating?
+[00:20] B: In a high chair?
+[00:27] A: yes
+[00:29] B: Yes, I have that one.
+[00:31] A: <selection> <com> couch_dining_table/COCO_train2014_000000560969.jpg
+[00:31] B: <selection> <com> couch_dining_table/COCO_train2014_000000560969.jpg
+[00:43] A: woman holding glass with scarf on?
+[00:46] B: Two ladies in orange shirts?\
+[00:55] A: no orange shirts here
+[00:58] B: No, I don't have that one.
+[01:00] B: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[01:01] A: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+[01:11] A: guy cutting pizza?
+[01:20] B: No, I don't have that.
+[01:25] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[01:42] B: Lady on couch in green dress looking a little sad.
+[01:48] A: nope
+[01:52] B: <selection> <dif> couch_dining_table/COCO_train2014_000000010877.jpg
+- - Round 2 - -
+[02:09] A: 2 ladies in orange?
+[02:10] B: Little kid in the high chair?
+[02:18] A: no little kid
+[02:19] B: Yes, I have that one.
+[02:22] B: <selection> <com> couch_dining_table/COCO_train2014_000000249727.jpg
+[02:24] A: <selection> <com> couch_dining_table/COCO_train2014_000000249727.jpg
+[02:24] B: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[02:35] B: Lady in the green dress looking a little sad?
+[02:38] A: just a table with bottles and cups and stuff?
+[02:48] B: Nope.
+[02:49] A: no green dress lady
+[02:53] A: <selection> <dif> couch_dining_table/COCO_train2014_000000509555.jpg
+[02:53] B: <selection> <dif> couch_dining_table/COCO_train2014_000000010877.jpg
+[03:10] B: Any others?
+[03:13] A: I have a lady in green shirt on couch and a kid sitting at the table in front of her
+[03:32] B: Yes, that's the one I have.
+[03:37] A: ok
+[03:39] A: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+- - Round 3 - -
+[03:55] A: i have orange short ladies again
+[04:08] A: shirt
+[04:12] B: No. Not this time.
+[04:15] A: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[04:22] A: guy cutting pizza?
+[04:26] B: Two kids laying in a restaurant booth?
+[04:32] B: No.
+[04:44] B: Bunt cake on a cake stand?
+[05:12] A: no to either of those
+[05:16] B: <selection> <dif> couch_dining_table/COCO_train2014_000000109895.jpg
+[05:18] B: <selection> <dif> couch_dining_table/COCO_train2014_000000330652.jpg
+[05:19] A: guy cutting pizza?
+[05:25] B: No.
+[05:25] A: sorry
+[05:27] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[05:30] A: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[05:51] B: No problem.  How about a lady holding up a glass of wine with a scarf?
+[06:00] A: nope
+[06:03] B: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+- - Round 4 - -
+[06:25] A: cutting pizza?
+[06:31] B: Two ladies in orange again.
+[06:40] A: no orange shirts for me
+[06:40] B: No guy cutting pizza.
+[06:45] B: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[06:46] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[06:53] A: table with all the stuff?
+[06:58] B: Lady in green dress looking at child.
+[07:07] B: No guy with stuff.
+[07:08] A: yep i have green dress lady
+[07:12] B: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[07:14] A: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[07:16] A: <selection> <dif> couch_dining_table/COCO_train2014_000000509555.jpg
+[07:28] B: coffee table with a bunch of glasses and cups
+[07:40] A: yes i have that
+[07:43] B: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+- - Round 5 - -
+[07:58] B: Guy cutting pizza
+[08:00] A: do you have little boy eating?
+[08:06] A: yes i have pizza guy
+[08:08] B: No.
+[08:10] A: <selection> <com> couch_dining_table/COCO_train2014_000000180606.jpg
+[08:11] B: <selection> <com> couch_dining_table/COCO_train2014_000000180606.jpg
+[08:12] A: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[08:22] A: table with all the cups and stuff?
+[08:24] B: Coffee table with glasses
+[08:28] A: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[08:29] B: lol...yes
+[08:30] A: yep
+[08:39] B: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[08:46] B: Lady holding up the wine glass
+[08:51] A: nope
+[08:54] B: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+
+- - Game statistics - -
+Duration: 09:13 min. Score: 26/30 points.
+[Round 0] Duration: 01:54 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 01:31 min. Score: 5/6 points. Number of messages: 12.
+[Round 2] Duration: 02:08 min. Score: 5/6 points. Number of messages: 13.
+[Round 3] Duration: 01:18 min. Score: 5/6 points. Number of messages: 10.
+[Round 4] Duration: 00:58 min. Score: 5/6 points. Number of messages: 10.

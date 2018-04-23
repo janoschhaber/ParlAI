@@ -1,0 +1,115 @@
+Game ID: 39KFRKBFIOTAL5XT0XHIQWZKMCUOYR3LWJHTCVCDK76QTEAKHYQGN4V2RQF9
+Domain ID: 12
+Player A: A3AFC26CB0AXMI
+Player B: A3D2U4QF7821ZW
+
+- - Round 1 - -
+[00:00] B: man with black shirt and red backpack 2 elephants
+[01:39] B: Do you have an image with a man with black shirt and red backpack and 2 elephants?
+[02:08] A: no i dont
+[02:12] B: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[02:22] A: actually im not sure if its a backpack
+[02:31] A: red straps black shirt
+[02:34] A: 2 elepants
+[02:42] B: yea he is petting ones trunk
+[02:46] B: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[02:46] A: yes
+[02:48] A: <selection> <com> person_elephant/COCO_train2014_000000337304.jpg
+[03:11] A: do you have a man petting a younge elephant
+[03:23] B: No
+[03:25] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[03:37] B: How about blonde lady in black shirt in the shade watching a small elephant
+[03:41] A: do you have a woman with a boy and 2 elephants
+[03:49] B: No
+[03:50] A: no
+[03:54] B: <selection> <dif> person_elephant/COCO_train2014_000000524059.jpg
+[03:56] A: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[04:13] A: thats all 3 of mine
+[04:21] B: the right side has an older guy in a black and blue jacket
+[04:27] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[04:32] A: no i dont
+- - Round 2 - -
+[04:55] A: i have the one with the man with the black and blue jacket now
+[05:03] A: do you?
+[05:05] B: No
+[05:10] B: man in blue shirt with an elephant painting
+[05:11] A: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+[05:15] A: no
+[05:18] B: <selection> <dif> person_elephant/COCO_train2014_000000571351.jpg
+[05:24] A: same guy with red backpack
+[05:29] B: nope
+[05:32] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[05:37] B: blonde woman feeding elephant
+[05:41] A: man with a young elephant?
+[05:46] A: yes
+[05:46] B: nope
+[05:49] B: <selection> <com> person_elephant/COCO_train2014_000000095257.jpg
+[05:50] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[05:59] B: blonde woman in river with elephant
+[06:02] A: ive got all mine
+[06:11] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+[06:35] A: do you still have any?
+- - Round 3 - -
+[06:49] B: red backpack again
+[06:52] A: man with black and blue jacket
+[06:55] A: no
+[06:56] B: yep
+[06:58] A: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[07:00] B: <selection> <com> person_elephant/COCO_train2014_000000033416.jpg
+[07:01] B: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[07:17] B: blonde woman in shade with small elephant
+[07:30] A: with wood bar?
+[07:32] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[07:33] B: yea
+[07:36] A: yes
+[07:38] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[07:41] B: ok thats my 3
+[07:50] A: man in striped blue shirt petting elephant
+[07:59] B: no
+[08:00] A: <selection> <dif> person_elephant/COCO_train2014_000000204759.jpg
+- - Round 4 - -
+[08:11] A: woman in shade?
+[08:15] B: yea
+[08:16] A: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[08:24] B: blue striped guy petting elephant
+[08:26] B: <selection> <com> person_elephant/COCO_train2014_000000524059.jpg
+[08:46] A: yes
+[08:48] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[08:49] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[08:57] A: man with young elephant
+[09:04] B: no
+[09:06] A: <selection> <dif> person_elephant/COCO_train2014_000000065220.jpg
+[09:10] A: thats my 3
+[09:12] B: man in black and blue jacket
+[09:18] A: no
+[09:21] B: <selection> <dif> person_elephant/COCO_train2014_000000033416.jpg
+- - Round 5 - -
+[09:33] A: red backpack
+[09:37] B: nope
+[09:41] B: blue stripes
+[09:43] A: blue striped shirt
+[09:46] B: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[09:46] A: <selection> <dif> person_elephant/COCO_train2014_000000337304.jpg
+[09:47] A: <selection> <com> person_elephant/COCO_train2014_000000204759.jpg
+[09:48] B: yea
+[09:59] B: blonde woman in river with elephant
+[10:11] A: yes
+[10:14] B: <selection> <com> person_elephant/COCO_train2014_000000532644.jpg
+[10:19] A: man with young elephant
+[10:27] B: black and red shirt?
+[10:37] A: yes
+[10:39] B: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[10:41] B: yep
+[10:43] A: <selection> <com> person_elephant/COCO_train2014_000000065220.jpg
+[10:47] A: thats my 3
+[10:51] B: same
+[11:02] B: gg
+[11:12] A: take care
+
+- - Game statistics - -
+Duration: 11:29 min. Score: 30/30 points.
+[Round 0] Duration: 04:33 min. Score: 6/6 points. Number of messages: 17.
+[Round 1] Duration: 01:29 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 01:12 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 01:11 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 01:15 min. Score: 6/6 points. Number of messages: 15.

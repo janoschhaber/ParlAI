@@ -1,0 +1,136 @@
+Game ID: 3UNH76FOCT3ML2CHNH25YSAFRJ3MYC3CCZ6YKWR8H9CUJ3N6T3I962WGT59J
+Domain ID: 2
+Player A: AJM4334V07JDQ
+Player B: A5EU1AQJNC7F2
+
+- - Round 1 - -
+[00:00] B: Hi!
+[00:11] B: I have a man leaning against a boat's rail in a tuxedo
+[00:21] B: A little boy jumping off a surfboard
+[00:30] B: And soldiers on a raft 
+[01:03] A: hi
+[01:17] A: I have soliders ona raft
+[01:19] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[01:20] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[01:24] B: Great!
+[01:30] A: a boy jumping
+[01:34] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[01:43] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[01:46] B: ok
+[01:53] A: you have people on a boat and a panda?
+[02:16] B: no
+[02:21] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[02:25] A: ok
+[02:33] B: :)
+[02:34] A: ready to submit?
+[02:35] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[02:37] B: got it
+[02:48] B: i love these hits. they are great
+- - Round 2 - -
+[02:59] B: i have the man in a tuxedo on a boat again
+[03:03] B: a woman in a red kayak
+[03:11] B: and a boy jumping from a surfboard
+[03:15] A: I have kid jumping
+[03:20] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[03:23] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[03:26] B: ok
+[03:44] A: I have the woman in a red Kayak but is not with yellow
+[04:00] B: ok
+[04:02] B: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[04:07] A: You have a man standing on a boat?
+[04:13] B: yeah 
+[04:16] B: it's highlighted too
+[04:26] A: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[04:33] A: in a suit/
+[04:36] B: yes
+[04:37] A: /
+[04:40] B: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[04:40] A: ok
+[04:52] A: you have soldiers? 
+[05:02] A: <selection> <dif> person_boat/COCO_train2014_000000302166.jpg
+[05:07] B: no
+[05:15] A: ok
+[05:22] A: I like this game to
+[05:26] A: kets submit
+[05:27] B: :)
+[05:30] A: lets
+- - Round 3 - -
+[05:55] B: i have a woman with a panda bear
+[06:01] A: me to
+[06:06] A: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[06:07] B: i have soldiers getting out of a boat
+[06:13] A: me to
+[06:16] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[06:16] B: and a woman in a weird hat with wood behind her
+[06:19] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[06:22] B: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[06:25] A: no
+[06:26] B: ok cool
+[06:28] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[06:36] A: I have the woman in the red kayak
+[06:39] B: submitting :)
+[06:40] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[06:41] B: i do not have that
+[06:43] A: ok
+- - Round 4 - -
+[07:12] B: i have the woman in the red kayak
+[07:18] B: a boy in an orange shirt jumping
+[07:19] A: me to
+[07:26] A: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[07:26] B: and the man in the tuxedo on a boat
+[07:30] B: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[07:32] A: i have the woman
+[07:43] A: no to the kid
+[07:50] A: no to the man
+[07:57] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[07:58] B: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[08:00] B: awesome
+[08:03] B: submmitting
+[08:14] A: I have the woman with a pile of wood behind her
+[08:17] A: ok
+[08:19] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[08:21] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[08:24] B: i do not
+- - Round 5 - -
+[08:31] B: great job so far
+[08:37] B: i have a man with a dog on a boat
+[08:49] A: I don't
+[09:04] A: I have the panda one
+[09:16] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[09:20] B: i do not
+[09:23] B: <selection> <dif> person_boat/COCO_train2014_000000436717.jpg
+[09:42] A: I have the man in the boat
+[09:49] A: in suit
+[09:55] B: i do not
+[09:56] A: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[10:07] A: and I have the kayak woman
+[10:08] B: i have a woman in a weird hat on a boat chopping vegetables
+[10:10] B: i do not
+[10:12] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[10:13] B: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[10:16] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[10:21] B: submitting :)
+[10:23] A: I don't either
+[10:26] B: lol
+[10:33] A: Was great playing with you!
+[10:37] B: you too Jordan!
+[10:38] A: Great job!
+[10:45] B: how'd you get a name on there? what does mine show up as?
+[10:50] B: it didn't let me pick one 
+[11:05] A: yours is Jordan to
+[11:13] B: HAHA
+[11:14] A: I have no ideea
+[11:15] B: too funny 
+[11:21] A: yes
+[11:31] A: I'll submit now
+[11:35] B: ok me too :)
+[11:37] A: have a nice day
+[11:42] B: ditto! :D
+
+- - Game statistics - -
+Duration: 12:22 min. Score: 28/30 points.
+[Round 0] Duration: 02:45 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:38 min. Score: 6/6 points. Number of messages: 21.
+[Round 2] Duration: 00:51 min. Score: 5/6 points. Number of messages: 11.
+[Round 3] Duration: 01:12 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 03:10 min. Score: 5/6 points. Number of messages: 28.

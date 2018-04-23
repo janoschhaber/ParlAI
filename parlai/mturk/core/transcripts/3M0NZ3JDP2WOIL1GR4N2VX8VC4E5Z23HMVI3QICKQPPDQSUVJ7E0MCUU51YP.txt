@@ -1,0 +1,121 @@
+Game ID: 3M0NZ3JDP2WOIL1GR4N2VX8VC4E5Z23HMVI3QICKQPPDQSUVJ7E0MCUU51YP
+Domain ID: 7
+Player A: A1MAAPY9K1G1YR
+Player B: A3E159NSD6WYR5
+
+- - Round 1 - -
+[00:00] B: A pink jacketed person with a golden retriever on a moped, license plate CPE-097
+[00:10] A: I have a shirtless man holding a green frisbee
+[00:20] A: Yes I have the moped one
+[00:24] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[00:38] B: Mercedes-Benz KR 6969Y license plate with two people walking by it on phones
+[00:41] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[00:54] A: I have the mercedes photo too
+[00:56] B: Mildly overweight man on a bench with a blue blazer on a cell phone
+[00:57] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[00:58] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[01:08] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[01:27] B: Ok we have found the two matching ones.
+[01:28] A: hmm I have that photo but no bench. Its zoomed in. from his neck up. Is that right?
+[01:41] B: Nope, that's different
+[01:42] A: is there two per round?
+[01:51] B: i am guessing so
+[01:56] A: you do not have the frisbee photo?
+[01:58] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[02:00] B: i do not
+[02:06] A: ok.
+[02:41] B: Did you submit?
+[02:47] A: yes
+- - Round 2 - -
+[03:06] B: Children playing soccer with green shirts and a dark-haired one throwing the ball in
+[03:21] B: Shirtless man with green frisbee
+[03:21] A: no I do not
+[03:30] A: I do not have that one either
+[03:33] B: Mildly overweight man with blue blazer on bench with cell phone (again)
+[03:36] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[03:37] B: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[03:40] A: yes I have that one
+[03:41] B: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[03:42] A: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[03:49] B: Ok, we have one common
+[03:53] A: I have the golden retriever moped photo again
+[04:03] A: do you?
+[04:03] B: Not this round for me
+[04:05] A: <selection> <dif> person_car/COCO_train2014_000000195449.jpg
+[04:30] A: Ok I also have hispanic man on cell phone sitting on rock wall near two parking meters
+[04:44] A: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[04:58] B: I do too, but I do not have a box to select that picture this round
+[05:09] A: hmm I guess I still select common?
+[05:11] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[05:20] B: Oh, good point, I guess so
+[05:30] A: ok then that should be it!
+[05:36] B: ok
+- - Round 3 - -
+[05:52] B: Hispanic man near parking meters on cell phone this time
+[05:59] B: Soccer kids again
+[06:00] A: yes I have it again
+[06:04] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[06:04] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[06:08] A: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[06:20] A: I have that one now also (soccer)
+[06:21] B: blue pin-striped shirted man smiling on cell phone with blue car behind him
+[06:24] B: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[06:32] A: no I do not
+[06:34] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[06:38] B: ok what else do you have
+[06:40] A: I have shirtless man with frisbee again
+[06:48] B: nope
+[06:53] A: ok
+[06:56] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+- - Round 4 - -
+[07:18] B: shirtless green-frisbee man
+[07:23] B: green soccer player kids
+[07:26] A: yes, have it
+[07:30] B: mercedes with kr 6969y license plate
+[07:31] A: no do not have soccer kids
+[07:33] B: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[07:35] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[07:39] A: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[07:40] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[07:45] A: Yes to mercedes photo
+[07:48] B: ok
+[07:51] B: what else do you have
+[07:51] A: I have man in blue blazer again
+[07:53] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[07:56] B: nope
+[08:00] A: ok
+[08:02] A: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[08:21] A: anything else?  I think I got all mine
+[08:27] B: im good
+[08:35] A: yay
+- - Round 5 - -
+[08:54] A: soccer kids
+[08:57] B: blue blazer on bench with cell phone
+[08:59] B: no soccer kids here
+[09:04] A: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[09:06] B: moped with retriever dog
+[09:10] A: no blue blazer
+[09:13] A: yes to moped
+[09:15] B: hispanic man near parking meters
+[09:16] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[09:17] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[09:18] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[09:26] A: no to hispanic man
+[09:29] B: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[09:33] B: ok what else for you
+[09:45] A: I have headshot of older man on cell phone with blue pinstriped shirt
+[09:51] B: i do as well - common
+[09:55] A: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+[10:05] A: ok thanks
+[10:12] B: looks like its time for us to cash in!
+[10:19] A: haha woot
+[10:23] B: nice work
+[10:35] A: thanks! you too
+
+- - Game statistics - -
+Duration: 11:12 min. Score: 30/30 points.
+[Round 0] Duration: 02:15 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:29 min. Score: 6/6 points. Number of messages: 16.
+[Round 2] Duration: 01:12 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 00:54 min. Score: 6/6 points. Number of messages: 14.
+[Round 4] Duration: 01:34 min. Score: 6/6 points. Number of messages: 16.

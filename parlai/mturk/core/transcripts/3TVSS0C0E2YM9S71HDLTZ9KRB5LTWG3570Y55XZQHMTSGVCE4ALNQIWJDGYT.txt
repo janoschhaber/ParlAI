@@ -1,0 +1,137 @@
+Game ID: 3TVSS0C0E2YM9S71HDLTZ9KRB5LTWG3570Y55XZQHMTSGVCE4ALNQIWJDGYT
+Domain ID: 41
+Player A: A2DWPP1KKAY0HG
+Player B: A2BFMV6DQYMYEV
+
+- - Round 1 - -
+[00:00] A: hit
+[00:02] A: hi
+[00:10] B: Hi would you like to say all of yours first?
+[00:35] A: I got green helmet man on bike
+[00:47] B: I do not have that one.
+[00:53] A: <selection> <dif> car_motorcycle/COCO_train2014_000000215201.jpg
+[01:01] A: man on red bike
+[01:20] A: man bent over to check bike
+[01:24] B: Is the man on a red bike in a helmet with a microphone thing in front of his mouth?
+[01:41] B: The man bent over wearing a black hat, black shirt, and black pants?
+[01:50] A: yes wearing jeans and brown boot
+[01:57] B: Yes I have the red bike one.
+[02:01] B: <selection> <com> car_motorcycle/COCO_train2014_000000127400.jpg
+[02:10] A: bent over wearing black
+[02:15] A: <selection> <com> car_motorcycle/COCO_train2014_000000127400.jpg
+[02:17] B: Yes I have the one with the man bent over.
+[02:21] A: <selection> <com> car_motorcycle/COCO_train2014_000000144597.jpg
+[02:30] B: I have a police on a bike with a blue car in the background.
+[02:37] A: now tell yours
+[02:46] B: The police is in white and the bike is white.
+[03:09] B: I have an empty bike in front of a shop with a red car in the bottom left corner.
+[03:41] B: The car is in the bottom left corner. You cannot see the whole thing.
+[03:46] B: Do you have either of those?
+[03:50] A: police wearing blue helmet and the bike is off white?
+[04:12] B: The police is in a white helmet and white shirt.  The police is in front of a blue car.
+[04:49] A: no i have different police car behind him are blurred
+[05:05] B: <selection> <dif> car_motorcycle/COCO_train2014_000000293647.jpg
+[05:10] A: no empty bike
+[05:19] B: Ok, that's all of mine. Do you have any more?
+[05:20] B: <selection> <dif> car_motorcycle/COCO_train2014_000000024608.jpg
+[05:24] A: no
+- - Round 2 - -
+[05:47] A: I have bent over guy again
+[05:54] B: Ok I have bent over guy too.
+[05:58] A: <selection> <com> car_motorcycle/COCO_train2014_000000144597.jpg
+[06:04] B: I have the empty bike in front of the shopping center thing again.
+[06:15] B: (with the red car in the bottom left corner of the photo)
+[06:22] B: <selection> <com> car_motorcycle/COCO_train2014_000000144597.jpg
+[06:33] A: no empty bike
+[06:46] A: I have police
+[06:52] B: I don't have any of police.
+[06:53] B: <selection> <dif> car_motorcycle/COCO_train2014_000000024608.jpg
+[06:56] B: <selection> <dif> car_motorcycle/COCO_train2014_000000256560.jpg
+[07:11] A: you know I have empty bike with part red car sorry
+[07:17] B: <selection> <com> car_motorcycle/COCO_train2014_000000024608.jpg
+[07:17] A: <selection> <com> car_motorcycle/COCO_train2014_000000024608.jpg
+[07:19] A: <selection> <dif> car_motorcycle/COCO_train2014_000000293647.jpg
+[07:29] B: I have another of an empty bike in a parking space next to a black car. 
+[07:33] B: No problem thanks!
+[07:55] A: yes red bike black suv
+[08:31] B: I don't think I have that one actually
+[08:52] B: Unless there's a to go coffee cup on the ground next to it??
+[09:14] A: yes coffee cup on the ground
+[09:35] B: Ok I have that one.
+[09:45] B: Do you have the black bike in a parking spot next to a black car?
+[09:45] A: anything elese
+[10:04] A: no black bike 
+[10:24] B: No I don't have anything else.
+[10:29] A: done
+- - Round 3 - -
+[10:43] B: I have the bent over guy again.
+[10:51] A: no bent over
+[10:54] B: <selection> <dif> car_motorcycle/COCO_train2014_000000144597.jpg
+[11:05] B: I have a man on a red bike with a microphone thing by his mouth.
+[11:16] A: no mic
+[11:17] B: And I have the police in the blue helmet with the blurred cars in the background.
+[11:20] B: <selection> <dif> car_motorcycle/COCO_train2014_000000127400.jpg
+[11:40] A: yes that police
+[11:43] B: <selection> <com> car_motorcycle/COCO_train2014_000000215201.jpg
+[11:44] A: <selection> <com> car_motorcycle/COCO_train2014_000000215201.jpg
+[11:51] B: That's all mine. What do you have?
+[12:04] A: i have black bike part red car
+[12:28] A: I have empty bike grass on the forground
+[12:46] A: in a parking lot
+[12:56] B: I don't have park red car
+[13:04] A: <selection> <dif> car_motorcycle/COCO_train2014_000000024608.jpg
+[13:08] B: I have the empty bike with grass, is there a black car behind the bike?
+[13:14] A: yes
+[13:21] B: I have that empty bike then
+[13:26] A: done
+[13:29] A: ?
+[13:35] A: <selection> <com> car_motorcycle/COCO_train2014_000000256560.jpg
+[13:51] B: Yes
+- - Round 4 - -
+[14:05] B: What are yours?
+[14:25] A: I have police written on the back
+[14:31] B: I have that one.
+[14:33] B: <selection> <com> car_motorcycle/COCO_train2014_000000293647.jpg
+[14:35] A: <selection> <com> car_motorcycle/COCO_train2014_000000293647.jpg
+[14:43] A: I have mic guy red bike
+[14:58] B: I don't have mic guy
+[15:12] A: I have orange bike next to white and red cars
+[15:25] A: <selection> <dif> car_motorcycle/COCO_train2014_000000127400.jpg
+[15:34] B: I have the orange bike.
+[15:35] A: empty bike
+[15:35] B: <selection> <com> car_motorcycle/COCO_train2014_000000345207.jpg
+[15:38] B: Yes empty
+[15:39] A: <selection> <com> car_motorcycle/COCO_train2014_000000345207.jpg
+[15:46] B: And then I have the empty bike red car part again.
+[15:58] A: no part red car
+[16:01] B: <selection> <dif> car_motorcycle/COCO_train2014_000000024608.jpg
+[16:07] B: That's all of mine do you have any more?
+[16:11] A: done
+- - Round 5 - -
+[16:27] B: I have mic and red bike guy.
+[16:34] A: no mic
+[16:46] B: I have the orange empty bike with the red and white cars.
+[16:48] B: <selection> <dif> car_motorcycle/COCO_train2014_000000127400.jpg
+[16:56] A: orange yes
+[16:58] A: <selection> <com> car_motorcycle/COCO_train2014_000000345207.jpg
+[17:01] B: I have the police with blue helmet and blurred cars.
+[17:03] B: <selection> <com> car_motorcycle/COCO_train2014_000000345207.jpg
+[17:11] A: blurred yes
+[17:14] B: <selection> <com> car_motorcycle/COCO_train2014_000000215201.jpg
+[17:14] A: <selection> <com> car_motorcycle/COCO_train2014_000000215201.jpg
+[17:18] B: What are yours?
+[17:34] A: I have police written on the back
+[17:38] B: I do not have that one
+[17:42] A: <selection> <dif> car_motorcycle/COCO_train2014_000000293647.jpg
+[17:46] A: done?
+[17:54] B: yep
+[18:01] A: nice working with u
+[18:05] B: You too!
+
+- - Game statistics - -
+Duration: 18:23 min. Score: 30/30 points.
+[Round 0] Duration: 05:28 min. Score: 6/6 points. Number of messages: 25.
+[Round 1] Duration: 04:45 min. Score: 6/6 points. Number of messages: 20.
+[Round 2] Duration: 03:10 min. Score: 6/6 points. Number of messages: 17.
+[Round 3] Duration: 02:08 min. Score: 6/6 points. Number of messages: 13.
+[Round 4] Duration: 01:36 min. Score: 6/6 points. Number of messages: 13.

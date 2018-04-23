@@ -1,0 +1,169 @@
+Game ID: 3ZSANO2JCG5JJ68R2O63LG24BQKFSR3CPLWGV3MPXD2JP9R6PPCQ6NLSAN9M
+Domain ID: 51
+Player A: AC6Y70F8YSHJN
+Player B: AAF1SJ9FCBF75
+
+- - Round 1 - -
+[00:00] A: one has a cup with rice or noodles with a keyboard and documents in the background
+[00:22] B: I have it
+[00:29] A: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[00:49] B: How about a donut on a plate beside a black cup with a straw in it?
+[00:53] B: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[01:14] B: actually maybe it's blue
+[01:41] A: close but no straw in the one with a cup and donut i see
+[01:56] B: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+[02:35] B: Is the cup white and on the left?
+[02:50] A: do you have one of a breakfast sandwich with egg and tomato with a green cup in the background
+[04:31] B: I have a sandwhich but I don't see a fgreen cup but a white cup cut off in the front and it looks l
+[04:39] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[05:06] A: for yours i have a donut in a box near a white cup is that what you are looking for
+[05:44] B: yes
+[05:50] A: and a napkin that reads hootsens
+[06:43] A: last one is a sandwhich on a white plate being eaten by someone in plaid
+[06:48] B: I was going to saay plaid in the background when I ran out of characters, for the sandwhich picture
+[07:04] A: looks like we both have that one then
+[07:09] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[07:15] B: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[07:18] A: is that all three for you
+[07:31] B: yes
+[07:46] B: you  are done too?
+[07:51] A: yup
+- - Round 2 - -
+[08:33] A: lone white cofee cup with long shadow
+[08:53] B: yes.  taking a while for mine to all load
+[08:58] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[09:01] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[09:18] B: do you have the rice with the keyboard and documents again?
+[09:39] A: no on this one
+[09:47] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[10:05] A: i also got same breakfast sandwhich with tomato and green cup
+[10:23] B: Sandwhich on a plate with tomato on it
+[10:39] B: we both asked at the same time
+[10:42] B: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[10:50] A: and green cup in back
+[11:00] B: thos are all the ones I need. how about you?
+[11:06] A: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[11:15] A: i have one more
+[11:30] B: ok, ask
+[11:46] A: a food on a blue stand with a bottle of red stuff that reads JB
+[12:15] B: I don't have that one.
+[12:15] A: and a glass and pitcher
+[12:20] A: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[12:27] A: ok done
+- - Round 3 - -
+[13:00] A: got noodles and keyboard agin
+[13:09] B: I have the one with the plaid again.  you?
+[13:16] A: not this time
+[13:23] B: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[13:38] B: I don't have the one you asked about this time.
+[13:44] A: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[14:06] B: I have the JB one.  Do you?
+[14:25] A: no
+[14:36] A: burger on plate with ketchup packages and dunkin donuts cup
+[14:54] B: on an orange tray?
+[15:19] A: yes
+[15:22] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[15:23] B: yep.
+[15:33] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[15:47] A: and lastly a donut on plate next to black cup with straw
+[15:49] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[16:03] B: Sorry.  I forgot to ask if you had more you needed
+[16:21] B: yes, I have it
+[16:29] A: <selection> <com> cup_dining_table/COCO_train2014_000000566432.jpg
+- - Round 4 - -
+[16:47] A: JB one
+[16:53] B: yep
+[16:57] B: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[16:58] A: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[17:01] A: plaid one
+[17:07] B: keyboard one?
+[17:12] A: nope
+[17:17] B: yes I have the plaid one
+[17:20] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[17:21] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[17:28] A: orange tray?
+[17:43] B: nope
+[17:46] A: <selection> <dif> cup_dining_table/COCO_train2014_000000035407.jpg
+[18:11] B: How about the sandwich with the tomato and on a plate?
+[18:20] A: nope
+[18:25] B: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[18:38] B: That's good for me.  You?
+[18:47] A: im good
+- - Round 5 - -
+[19:17] A: orange tray
+[19:24] B: JB again?
+[19:30] A: nope
+[19:34] B: yes
+[19:37] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[19:39] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[19:40] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[19:50] B: Long shadow?
+[19:50] A: tomato sandwhich?
+[20:02] A: yup and long is one of mine too
+[20:06] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[20:25] B: no tomato sandwhich for me
+[20:41] B: Need any more?
+[20:47] A: nope
+[21:58] B: Did you submit then?
+[22:03] A: yes
+[22:24] A: did you?
+[22:24] B: I did but it acts like it's still waiting for something
+[22:50] A: are you sure all three are marked
+[23:00] B: yes
+[23:19] A: i really hope its not croken
+[23:23] A: broken
+[23:31] B: great, right at the end
+[24:01] A: after 30 min too
+[24:28] A: and saturday tends to be a more annoying day to do hits
+[25:19] B: I was actually thinking about doing more of these too
+[25:36] A: if they were actually available
+[25:44] B: I was hoping it would eventually come out of it, but it doesn't look good
+[25:55] B: true
+[26:00] A: i saw only 3 when i took it making me think they are all gone now
+[27:06] B: I guess I'll write to teh requester and hope it finishes on its own in the meantime
+[29:31] B: I sent a message.  Hopefukly someone there sees it soon.
+[29:51] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[29:51] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[29:54] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[30:27] A: hmm i was able to open it in another window and got the option to submit again
+[30:48] A: maybe try that to see if it was a fluke
+[30:55] B: really, it doesn't lose all the info?
+[31:19] B: you opened it from the queue?
+[31:36] A: yeah
+[31:47] B: Let me try it then
+[33:13] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[33:16] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[33:17] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[33:33] B: Ok, gona try and submit again now
+[33:48] A: yay
+[34:14] B: yours worked?  Mine is still hanging like before
+[35:20] A: well it moved me to the final page
+[36:46] A: i dont know if i should submit with you still stuck
+[37:09] B: I opened a new one again and now it says "finish game"
+[37:12] A: i mean i know it wouldnt cause a rejection but at worse it would make you go through again with
+[37:17] A: oh goos
+[37:20] A: good
+[37:22] B: let's do it!
+[38:53] A: i would have been stuck anyway it requires us both to fill oyt feedback form
+[39:06] A: which i wrote a lot for and im sure you will too
+[39:59] B: Ok, it wouldn't let me send my last message before.  Glad you got to the feedback page too
+[41:05] B: I'm still writing my feedback...
+[42:59] B: Thanks for figuring out how to make it work!
+[43:22] A: i just randomly thought it might work
+[43:54] B: Did you submit your feedback?
+[43:59] A: yup
+[44:18] A: you?\
+[44:34] B: crap.  I did too but I don't see the button.
+[44:50] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[44:52] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[44:53] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[45:30] B: Maybe it's because I have 2 open still?  This chat is on the new one whereas I submitted t
+[45:54] B: you just have your original tab?
+
+- - Game statistics - -
+Duration: 47:17 min. Score: 30/30 points.
+[Round 0] Duration: 07:56 min. Score: 6/6 points. Number of messages: 18.
+[Round 1] Duration: 04:03 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 03:30 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 02:05 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 14:24 min. Score: 6/6 points. Number of messages: 56.

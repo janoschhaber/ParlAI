@@ -1,0 +1,101 @@
+Game ID: 32XVDSJFP0VWKHJAUWVAPO9ADQB2MN3U0SRXB7CE3J6JLVLNPB3B6IU81NRN
+Domain ID: 7
+Player A: A3H6KECCE83132
+Player B: ASW9MABLSXSPK
+
+- - Round 1 - -
+[00:00] B: Hello! Do you have the shirtless guy holding a green frisbee?
+[00:08] A: yes i do 
+[00:11] B: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[00:19] A: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[00:32] B: How about the man and woman on phones walking in front of a Mercedes?
+[00:45] A: yes i do 
+[00:47] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[00:47] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[01:18] B: Do you have the kids playing soccer in green uniforms? One child is about to throw the ball?
+[01:41] A: no i dont , my last pic is a man sitting on a bench on a phone
+[01:44] A: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[01:47] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[01:55] B: I do not have that one.
+[02:07] A: do you have anymore questions ?
+[02:11] B: Nope
+- - Round 2 - -
+[02:35] B: I have the shirtless frisbee guy again.
+[03:20] A: i dont have it 
+[03:23] B: Also, the kids playing soccer in green jerseys.
+[03:25] B: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[03:33] A: i dont have it either
+[03:51] B: Do you have the man in a suit on a bench.  Talking on the phone with his hand in his pocket?
+[03:56] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[03:59] A: yes i do
+[04:02] B: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[04:02] A: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[04:19] B: I got all of mine. Do you have another?
+[04:32] A: do you have a person on a motorcycle , with a golden retriever ?
+[04:38] B: No
+[04:48] A: <selection> <dif> person_car/COCO_train2014_000000195449.jpg
+[05:06] A: my last pic, is a man with a white t shirt, sitting on a wall
+[05:23] B: With parking meters?
+[05:32] A: yes 
+[05:33] B: I have that one too.
+[05:38] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[05:48] A: ok , i have no more questions 
+[05:57] B: me neither :)
+- - Round 3 - -
+[06:15] B: I have the dog on the motorcycle.
+[06:22] A: so do i
+[06:26] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[06:27] B: I have the man on the wall with parking meters.
+[06:30] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[06:35] A: i dont have that one 
+[06:44] A: i have the kids in green jerseys
+[06:56] B: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[06:58] B: Do you have the man in a suit on a bench talking on a phone?
+[07:07] A: no i dont
+[07:08] B: I do not have the kids in jerseys
+[07:13] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[07:20] A: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[07:37] A: my last picture is a man smiling , with a phone next to him
+[08:00] B: I have that one too.  I've got all of mine. 
+[08:19] A: same , easy money !!!
+[08:22] A: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+- - Round 4 - -
+[08:38] B: I have the dog on a motorcycle.
+[08:49] A: same aswell
+[08:51] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[08:56] B: Do you have the suit man on a bench talking on phone?
+[08:59] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[09:05] A: no i dont 
+[09:15] B: How about the man and woman on phones in front of Mercedes?
+[09:18] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[09:25] A: yes i do
+[09:27] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[09:28] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[09:42] A: my last pic is shirtless dude with freesbi
+[09:43] B: What do you have left? I'm done. :O)
+[09:53] B: I do not have him.
+[09:58] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+- - Round 5 - -
+[10:23] B: I have the smiling man on the phone.
+[10:33] A: i dont have him this time
+[10:36] B: Do you have the soccer kids?
+[10:37] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[10:42] A: yes i do
+[10:45] A: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[10:53] B: I've got the man on the wall by the parking meters.
+[10:56] B: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[11:02] A: so do i
+[11:04] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[11:08] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[11:16] A: my last pic , is shirtless man with freesbi
+[11:32] B: Nope, I don't have him.  Have a good night!
+[11:36] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[11:57] A: same to you , good night 
+
+- - Game statistics - -
+Duration: 12:44 min. Score: 30/30 points.
+[Round 0] Duration: 02:18 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 03:26 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 02:08 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 01:24 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 01:36 min. Score: 6/6 points. Number of messages: 9.

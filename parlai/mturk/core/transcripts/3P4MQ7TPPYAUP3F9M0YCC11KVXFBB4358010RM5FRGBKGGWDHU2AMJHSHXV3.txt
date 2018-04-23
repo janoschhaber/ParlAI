@@ -1,0 +1,106 @@
+Game ID: 3P4MQ7TPPYAUP3F9M0YCC11KVXFBB4358010RM5FRGBKGGWDHU2AMJHSHXV3
+Domain ID: 15
+Player A: A17KN7NAP48L4B
+Player B: A30J4IZCMCR31F
+
+- - Round 1 - -
+[00:00] B: Okay, does one of your yellow ones have an officer in it?
+[00:08] A: Yes.
+[00:13] A: <selection> <com> person_motorcycle/COCO_train2014_000000270912.jpg
+[00:13] B: <selection> <com> person_motorcycle/COCO_train2014_000000270912.jpg
+[00:28] B: How about a kind of chubby guy in plaid with a hat?
+[00:39] A: Yes.
+[00:43] A: <selection> <com> person_motorcycle/COCO_train2014_000000039100.jpg
+[00:57] B: And 2 dudes with blurred background? Yellow and blue shirt with backpack
+[01:00] B: <selection> <com> person_motorcycle/COCO_train2014_000000039100.jpg
+[01:09] A: No.
+[01:11] B: <selection> <dif> person_motorcycle/COCO_train2014_000000226176.jpg
+[01:21] B: Okay so just 2 commons
+[02:25] A: Do you have one someone on a big motorcycle and their head isnt visible?
+[02:36] A: There is a blue car in the background.
+[02:49] B: No
+[02:56] A: In any of the pictures?
+[03:01] B: no
+[03:05] A: Okay, thank you.
+[03:10] A: <selection> <dif> person_motorcycle/COCO_train2014_000000210052.jpg
+- - Round 2 - -
+[03:45] B: Same officer picture
+[03:50] A: Yea
+[03:53] A: <selection> <com> person_motorcycle/COCO_train2014_000000270912.jpg
+[03:54] B: same 2 dudes picture
+[03:56] B: <selection> <com> person_motorcycle/COCO_train2014_000000270912.jpg
+[04:09] A: I don't have it.
+[04:13] B: <selection> <dif> person_motorcycle/COCO_train2014_000000226176.jpg
+[04:25] B: How about a dirt bike, grean front, yellow banner?
+[04:31] B: ugh, green
+[04:48] A: Nope!
+[04:53] B: <selection> <dif> person_motorcycle/COCO_train2014_000000168627.jpg
+[05:15] A: Do you have a picture with a lady in a fancy dress standing by a motorcycle?
+[05:25] B: no
+[05:28] B: wait
+[05:32] B: yes, in black?
+[05:43] A: Yes, it's a black dress with white trim.
+[05:47] A: <selection> <com> person_motorcycle/COCO_train2014_000000279373.jpg
+[05:47] B: yes
+[06:08] A: What about one where a guy is driving around two ladies.
+[06:17] B: no
+[06:25] A: Okay, thank you.
+[06:27] A: <selection> <dif> person_motorcycle/COCO_train2014_000000122863.jpg
+- - Round 3 - -
+[07:17] A: Same officer. lol.
+[07:35] B: lol, no for me
+[07:39] B: I have the same 2 dudes though
+[07:41] A: <selection> <dif> person_motorcycle/COCO_train2014_000000270912.jpg
+[07:43] A: <selection> <com> person_motorcycle/COCO_train2014_000000226176.jpg
+[07:43] B: And i have the guy with the 2 ladies
+[07:48] A: I have that one.
+[07:55] A: Not the guy with the ladies though.
+[08:00] B: <selection> <com> person_motorcycle/COCO_train2014_000000226176.jpg
+[08:01] B: <selection> <dif> person_motorcycle/COCO_train2014_000000122863.jpg
+[08:12] B: I have half of a dude riding around in a suit
+[08:21] A: I don't have that one.
+[08:25] B: <selection> <dif> person_motorcycle/COCO_train2014_000000210052.jpg
+[08:48] A: I have a guy on a dirt bike with a lime green front, looks like hes in a competition.
+[08:54] A: Yellow banner in the background.
+[09:01] B: I have him
+[09:04] A: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+[09:16] A: Thanks!
+- - Round 4 - -
+[09:38] B: same dirtbike
+[09:44] A: I have that one.
+[09:46] B: same dude with 2 ladies
+[09:46] A: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+[09:48] B: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+[09:50] B: <selection> <com> person_motorcycle/COCO_train2014_000000122863.jpg
+[09:52] A: I have that one too.
+[09:55] B: same lady in fancy dress
+[09:55] A: <selection> <com> person_motorcycle/COCO_train2014_000000122863.jpg
+[10:01] A: I don't have that one.
+[10:04] B: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[10:11] A: I have the guy in a suit with his head cut off. Lol.
+[10:27] B: lol not for me this time
+[10:32] A: <selection> <dif> person_motorcycle/COCO_train2014_000000210052.jpg
+[10:43] A: Haha, thanks :)
+- - Round 5 - -
+[11:12] B: same half dude in suit
+[11:17] A: I have that one.
+[11:20] B: <selection> <com> person_motorcycle/COCO_train2014_000000210052.jpg
+[11:21] A: <selection> <com> person_motorcycle/COCO_train2014_000000210052.jpg
+[11:24] B: same dude with 2 ladies
+[11:31] A: I don't have that one.
+[11:47] B: <selection> <dif> person_motorcycle/COCO_train2014_000000122863.jpg
+[11:53] B: same chubby guy in plaid
+[12:02] A: I have that one.
+[12:04] A: <selection> <com> person_motorcycle/COCO_train2014_000000039100.jpg
+[12:16] A: two guys on a bike with a blurred background for me.
+[12:26] B: <selection> <dif> person_motorcycle/COCO_train2014_000000039100.jpg
+[12:28] B: no over here
+[12:32] A: <selection> <dif> person_motorcycle/COCO_train2014_000000226176.jpg
+
+- - Game statistics - -
+Duration: 13:34 min. Score: 29/30 points.
+[Round 0] Duration: 03:12 min. Score: 6/6 points. Number of messages: 13.
+[Round 1] Duration: 02:44 min. Score: 6/6 points. Number of messages: 16.
+[Round 2] Duration: 02:00 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 01:06 min. Score: 6/6 points. Number of messages: 9.
+[Round 4] Duration: 01:46 min. Score: 5/6 points. Number of messages: 8.

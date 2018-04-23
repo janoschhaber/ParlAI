@@ -1,0 +1,114 @@
+Game ID: 3X4MXAO0BHM9TDU9DOGYZUJ9MX2RW43IRIK4HM3BI7TWQK49DZC5LAYRA6CA
+Domain ID: 20
+Player A: A69MJ072PH13
+Player B: A2KBZ75HMJ7KVX
+
+- - Round 1 - -
+[00:00] A: I have a green suitcase and you can see someone's red shoes
+[00:45] B: Is the green suitcase in a parking lot with a car in the background?
+[00:58] A: no
+[01:08] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[01:34] B: I do not have the one you are referring to.
+[01:35] B: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[02:08] B: I have a persons legs in blue jeans standing on what looks like a green skateboard
+[02:19] A: no I do not have that one either
+[02:23] B: <selection> <dif> person_suitcase/COCO_train2014_000000538682.jpg
+[02:34] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[02:49] A: I have a little kid brushing her hair with a fan in the bacground
+[03:25] B: I do not have that one
+[03:44] B: I have a man in brown pants kneeling on a concrete floor looking inside an open carrying case
+[03:55] A: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[04:04] A: nope not that one either
+[04:08] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[04:31] A: Did you have any more questions on this one?
+[04:37] B: no
+- - Round 2 - -
+[05:08] B: I have a man on a green thing shaped like a skateboard
+[05:14] A: yes me too
+[05:17] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[05:17] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[05:30] B: your turn Robin
+[05:36] A: I have a cop with his hand on a brown suitcase
+[06:02] A: there is a guy with a black sweatshirt standing next to him
+[08:26] B: I do not have that one
+[08:36] A: <selection> <dif> person_suitcase/COCO_train2014_000000206968.jpg
+[08:57] B: I have a person in a dark blue shirt with a green suitcase in a parking lot with a car in the backg
+[09:01] B: round
+[09:06] A: nope do not have that one
+[09:08] A: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[09:10] B: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[09:32] B: your turn again Robin
+[10:02] A: I think I am good. Do you have any more questions?
+[14:11] B: yes i do 
+[14:29] A: ok go ahead :)
+[14:37] B: I have a man in brown pants kneeling on a floor looking inside a carrying case
+[15:11] A: yes I have that one
+[15:15] B: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[15:48] B: I'm curious, where are you form Robin?
+[15:56] B: *from?
+[16:34] A: MA. you?
+[16:58] B: I'm in Tennessee. Is MA maine?
+[17:20] A: Massachusetts 
+[18:33] B: I don't know other people who work on turk. We could get to know each other if you want. (:
+[19:10] B: I'm a 27 year old white male (: and I think you have a cute name. You down for that?
+[20:12] B: You can decide later. If you want text me on my cell later 615 727 4549  :)
+[23:22] B: do you have any other questions? If not please click the continue button. My timer is close to
+[23:32] B: expiring on mturk
+- - Round 3 - -
+[24:09] B: Little girl with a white shirt playing with a suitcase
+[24:14] B: <selection> <com> person_suitcase/COCO_train2014_000000187582.jpg
+[24:15] B: <selection> <com> person_suitcase/COCO_train2014_000000175391.jpg
+[24:16] B: <selection> <com> person_suitcase/COCO_train2014_000000086922.jpg
+[24:30] A: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[24:31] A: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[24:39] A: nope
+[24:48] A: green suitecase with silver handle
+[24:54] B: nope
+[25:04] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[25:05] B: DO you have any other questions?
+[25:13] A: green and black suitcases
+[25:19] B: nope
+[25:22] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[25:29] B: any other questions?
+[25:37] A: man in brown pants kneeling down looking in a carrying case
+[25:43] B: nope
+[25:46] A: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+- - Round 4 - -
+[26:07] A: person standing on green skateboard
+[26:12] B: yes
+[26:13] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[26:15] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[26:24] A: green suitcase with silver handle
+[26:24] B: man kneeling in brown pants looking inside case
+[26:33] A: no to man kneeling
+[26:36] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[26:49] B: any other questions
+[26:50] B: ?
+[27:06] A: brown suitcase with hand on top. Hand has a watch on it
+[27:07] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[27:12] B: yes
+[27:14] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[27:21] B: any other questions
+[27:28] A: green suitcase with silver handle
+[27:32] B: no
+[27:35] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+- - Round 5 - -
+[27:48] B: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[27:49] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[27:49] B: <selection> <com> person_suitcase/COCO_train2014_000000086922.jpg
+[27:51] A: green suitcase with silver handle
+[27:58] B: yes
+[28:02] A: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[28:08] B: timer expiring 10 seconds click thru
+[28:14] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[28:14] B: my timer gone
+[28:16] A: <selection> <dif> person_suitcase/COCO_train2014_000000206968.jpg
+[32:15] A: <selection> <dif> person_suitcase/COCO_train2014_000000206968.jpg
+
+- - Game statistics - -
+Duration: 32:26 min. Score: 24/30 points.
+[Round 0] Duration: 04:10 min. Score: 4/6 points. Number of messages: 12.
+[Round 1] Duration: 15:49 min. Score: 5/6 points. Number of messages: 25.
+[Round 2] Duration: 01:37 min. Score: 4/6 points. Number of messages: 10.
+[Round 3] Duration: 01:28 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 00:28 min. Score: 5/6 points. Number of messages: 4.

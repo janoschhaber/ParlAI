@@ -1,0 +1,102 @@
+Game ID: 345LHZDEDYQ4I7K27Y01Z8VWWQ13UE3K4J6M3CXFRLXAISW8QUI18BTSEGAN
+Domain ID: 23
+Player A: A3HYLVFUDKJFKC
+Player B: A4J7IJ84V1PJL
+
+- - Round 1 - -
+[00:00] A: you go first
+[00:05] B: I have 2 men shirtless with surfboards
+[00:13] A: yes'
+[00:15] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[00:16] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[00:32] B: I have a guy riding a bike with a green surfboard
+[00:35] A: guy on bike with red cap and green surfboard
+[00:41] B: Yup
+[00:45] B: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[00:47] A: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[00:57] B: Guy on bike with white cap with a red and white surfboard?
+[01:06] A: balck wet suit holding gblue board
+[01:11] B: Nope
+[01:16] A: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[01:36] B: Do you have the guy with the white cap and red and white surfboard?
+[01:40] A: no red white surfboard
+[01:42] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+- - Round 2 - -
+[02:01] B: Same guy with white hat and red and white surfboard
+[02:11] A: guy iobn bike red and white surfboard
+[02:16] A: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[02:17] B: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[02:19] A: yes
+[02:21] B: I have a kid holding a bright red surboard
+[02:33] A: no 
+[02:37] B: I have a guy riding a tan surfboard that has the print M10 on it
+[02:39] B: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[02:44] A: yes
+[02:46] B: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[02:53] B: I'm done, what do you have left?
+[02:59] A: red hat guy on bike green bopard
+[03:05] B: Nope
+[03:07] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[03:14] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+- - Round 3 - -
+[03:31] B: I have a girl laying on a pink and white surboard that has the word blue on it
+[03:38] A: girl on ground on red white board
+[03:41] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[03:43] B: Yup
+[03:45] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[03:52] B: I have the two shirtless guys holding surfboards
+[03:56] A: 2 guys 2 boards
+[03:59] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[04:00] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[04:03] A: lol
+[04:14] B: I have a guy carrying a blue snowboard with a shark on it
+[04:19] A: red hat on bioke with green surfboard
+[04:27] B: Nope
+[04:29] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[04:34] A: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[04:39] B: Do you have shark guy?
+[04:45] A: no shark board
+[04:53] B: Ok, I'm done.
+- - Round 4 - -
+[05:14] B: M10 surfboard guy
+[05:26] A: white hat dude red and white board
+[05:33] A: no 10
+[05:35] B: Nope
+[05:40] A: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[05:42] B: I have shark surfboard guy
+[05:43] B: <selection> <dif> person_surfboard/COCO_train2014_000000097094.jpg
+[06:00] A: no bright red surboard wuith 2 people
+[06:08] B: Are they kids?
+[06:13] A: kids
+[06:14] B: I have that one
+[06:23] B: Girl laying down with pink and white surfboard?
+[06:23] A: <selection> <com> person_surfboard/COCO_train2014_000000340331.jpg
+[06:25] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[06:30] A: yes
+[06:31] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[06:32] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+- - Round 5 - -
+[06:44] B: Shark surfboard guy again
+[06:56] A: yes
+[06:58] B: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+[06:58] A: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+[07:06] A: girl layinmg dowen
+[07:06] B: Green board guy with bike red helmet
+[07:09] B: Nope
+[07:15] B: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[07:15] A: no
+[07:18] A: <selection> <dif> person_surfboard/COCO_train2014_000000204735.jpg
+[07:27] B: Guy with white cap riding back with red and white surfboard
+[07:30] A: m10 gray board
+[07:34] B: Yup
+[07:36] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[07:52] A: no duy with white cap
+[07:57] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+
+- - Game statistics - -
+Duration: 09:29 min. Score: 29/30 points.
+[Round 0] Duration: 01:48 min. Score: 6/6 points. Number of messages: 11.
+[Round 1] Duration: 01:14 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:23 min. Score: 5/6 points. Number of messages: 12.
+[Round 3] Duration: 01:19 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 01:13 min. Score: 6/6 points. Number of messages: 10.

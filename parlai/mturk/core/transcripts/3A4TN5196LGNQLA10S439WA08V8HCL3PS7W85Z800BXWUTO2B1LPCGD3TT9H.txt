@@ -1,0 +1,123 @@
+Game ID: 3A4TN5196LGNQLA10S439WA08V8HCL3PS7W85Z800BXWUTO2B1LPCGD3TT9H
+Domain ID: 27
+Player A: ANCCKNF1DKRZO
+Player B: A1YX741QQSMKPS
+
+- - Round 1 - -
+[00:00] A: do you have a photo of a woman standing close to a yellow train?
+[00:22] B: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[00:49] B: Yes Now i have new. old locomotive with away facing blue sweater guy
+[01:19] A: I do not have that image
+[01:29] B: <selection> <dif> person_train/COCO_train2014_000000525163.jpg
+[02:00] A: Do you have an image of a train platform with a person standing outside the train watching a phone?
+[02:08] A: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[02:16] B: 4 persons on a subway/train platform appears car in motion
+[02:37] B: no yellow can for me
+[02:44] A: Yes! I also have that one
+[02:49] A: <selection> <com> person_train/COCO_train2014_000000085179.jpg
+[03:05] A: No yellow can?
+[03:12] B: I mean watching a phone, do not have
+[03:18] A: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[03:35] A: but you do have the woman smiling holding onto a yellow train car?
+[03:39] B: <selection> <com> person_train/COCO_train2014_000000085179.jpg
+[03:50] B: affirmative
+[04:09] A: do you have any more questions for me?
+[04:13] B: waiting for new page
+- - Round 2 - -
+[04:54] B: man eating sub?
+[05:03] A: I do not have
+[05:08] B: <selection> <dif> person_train/COCO_train2014_000000480295.jpg
+[05:16] A: Man and woman waiting for a train door to open?
+[05:26] B: yup
+[05:29] A: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[05:47] A: A woman watching her cell phone with a yellow train car in background?
+[06:21] B: yes not hi-lit
+[06:31] B: person in winter coat and hat as silver train passes
+[06:38] A: <selection> <dif> person_train/COCO_train2014_000000246396.jpg
+[06:40] B: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[06:59] A: I do not have that photo
+[07:10] B: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[07:18] B: any others
+[07:23] A: do you have man in a purple shirt with a locomotive in the background?
+[07:32] B: no
+[07:35] A: <selection> <dif> person_train/COCO_train2014_000000525163.jpg
+[07:45] A: That's it for me. You?
+[08:14] B: is having same phot not hi-lit same as different if you have it
+[08:37] A: we are only interested in the high lighted ones
+[09:23] B: gotcha.person again in winter gear as silver train passes
+- - Round 3 - -
+[09:54] A: I do not have
+[09:59] B: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[10:15] A: Woman smiling in front of yellow train car holding it and wearing glasses?
+[10:20] B: 2 persons waiting for car doors to open
+[10:33] A: YES. I do have that one
+[10:36] A: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[10:36] B: yes have the woman.
+[10:54] B: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[10:56] A: The woman smiling in front of yellow car?
+[11:05] A: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[11:32] A: Do you have four people waiting on platform with the train in motion?
+[11:32] B: um, the woman holding onto it wearing glassess?
+[11:45] A: yes
+[12:02] B: no, don't have the four persons.
+[12:08] A: <selection> <dif> person_train/COCO_train2014_000000085179.jpg
+[12:08] B: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[12:22] A: Any more questions?
+[12:24] B: next page?
+[12:29] A: yes! 
+- - Round 4 - -
+[13:02] B: old locomotive blue sweater again
+[13:06] A: Do you have the twp people waiting for the train doors to open?
+[13:22] A: I do not have the locomotive photo
+[13:40] B: i don't have the two people
+[13:44] A: <selection> <dif> person_train/COCO_train2014_000000313709.jpg
+[13:58] A: Do you have a man eating a sandwich?
+[14:21] B: Yes I have him un-lit
+[14:27] A: <selection> <dif> person_train/COCO_train2014_000000480295.jpg
+[14:48] B: <selection> <dif> person_train/COCO_train2014_000000525163.jpg
+[15:15] A: I have someone standing in front if a train car but looking at cell phone?
+[15:28] B: guy in the winter coat with train passing again, got it?
+[15:44] A: He's wearing a black hat?
+[15:58] B: yes, correct
+[16:01] A: <selection> <com> person_train/COCO_train2014_000000382203.jpg
+[16:03] B: <selection> <com> person_train/COCO_train2014_000000382203.jpg
+[16:07] A: anymore for me?
+[16:59] B: Did you ask about four persons on platform, closest in hoodie as car passes"
+[17:32] A: I DO NOT have that one. 
+[17:36] B: <selection> <dif> person_train/COCO_train2014_000000085179.jpg
+[17:43] B: next page
+- - Round 5 - -
+[18:10] A: Do you have the locomotive with a man in purple sweater?
+[18:43] B: the older looking locomotive?
+[19:11] A: yes. It is green and there are 3 people on top of it?
+[19:18] B: <selection> <com> person_train/COCO_train2014_000000525163.jpg
+[19:27] B: yes, I do.
+[19:40] A: Highlighted, right?
+[19:43] A: <selection> <com> person_train/COCO_train2014_000000525163.jpg
+[19:47] B: The hoagie eater is up again for me.
+[19:56] A: Me too! 
+[19:58] A: <selection> <com> person_train/COCO_train2014_000000480295.jpg
+[20:00] B: and yes hi-lit
+[20:15] A: Train in motion with the four people on the platform?
+[20:16] B: <selection> <com> person_train/COCO_train2014_000000480295.jpg
+[21:17] A: yes
+[21:18] B: Four people not here.
+[21:51] A: So you do not have the people on the platform?
+[21:54] A: <selection> <dif> person_train/COCO_train2014_000000085179.jpg
+[21:55] B: yellow train and female staring into phone this time, see her
+[22:11] B: no people on the platform.
+[22:15] A: I do not have that image
+[22:22] B: <selection> <dif> person_train/COCO_train2014_000000246396.jpg
+[22:41] B: Do we both move on?
+[22:50] A: yes. 
+[23:13] B: We may be done, if so thanks.
+[23:13] A: Any questions?
+[23:20] A: Thank you! 
+
+- - Game statistics - -
+Duration: 24:47 min. Score: 28/30 points.
+[Round 0] Duration: 04:16 min. Score: 6/6 points. Number of messages: 13.
+[Round 1] Duration: 04:37 min. Score: 5/6 points. Number of messages: 15.
+[Round 2] Duration: 02:37 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 04:47 min. Score: 5/6 points. Number of messages: 14.
+[Round 4] Duration: 04:43 min. Score: 6/6 points. Number of messages: 20.

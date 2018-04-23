@@ -1,0 +1,129 @@
+Game ID: 3N1FSUEFL6Y3J1SKLHFVZDJEOQ8D4533M4IA01QHZOIDZZNTCK1DXGWM4RX4
+Domain ID: 4
+Player A: A1V2H0UF94ATWY
+Player B: AAF1SJ9FCBF75
+
+- - Round 1 - -
+[00:00] A: I have a man in a kilt standing with a woman in front of a large pile of donuts
+[00:40] B: black woman and he has a blue tie?
+[00:53] A: yes, we match
+[00:56] A: <selection> <com> person_cake/COCO_train2014_000000405246.jpg
+[00:59] B: <selection> <com> person_cake/COCO_train2014_000000405246.jpg
+[01:20] A: I have a picture with a huge pile of brownies
+[01:42] B: hopw about lady with flag on table and slodier in background?
+[02:09] A: no
+[02:25] B: in the brownoe pic are the people in foreground in blue whose faces are not shown?
+[02:31] B: <selection> <dif> person_cake/COCO_train2014_000000210010.jpg
+[02:35] B: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[02:41] A: yes, we match
+[02:43] A: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[03:04] B: ok I have mine.  you need any more?
+[03:11] A: I have a lady holding a child, sitting at a table with a large cake on it
+[03:29] A: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[03:59] A: you must not have that if you already have yours. so we are ready to submit.
+[04:20] B: that's not necessarily true
+[04:33] B: but I don't think I have that one
+[04:46] A: ok
+[05:12] B: you don't mean the kid in red and white leaning over teh table and you can't really see whoever els
+[05:25] A: ok, I understand, but now we are ready to submit, right
+[05:50] A: no, you would recognize it from the description, you must not have it
+[05:51] B: it's not that one right?
+[06:02] B: ok, submit
+- - Round 2 - -
+[06:38] B: I have the kilt guy again you?
+[06:52] A: no, not this time
+[07:00] B: <selection> <dif> person_cake/COCO_train2014_000000405246.jpg
+[07:11] A: I have the kid in red and white, you?
+[07:27] B: I have the lady with flag on table again.  you
+[07:39] B: nope, I don't have the kid this time
+[07:45] A: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[08:16] A: I do not have a lady with a flag
+[08:37] B: <selection> <dif> person_cake/COCO_train2014_000000210010.jpg
+[09:05] B: How about a guy in blue and candles in foreground?
+[09:06] A: I have the lady holding the kid, both sitting down, in front of cake, do you have that one?
+[09:23] A: yes I have guy in blue
+[09:25] A: <selection> <com> person_cake/COCO_train2014_000000343799.jpg
+[09:41] B: no to lady holding kid
+[09:44] B: <selection> <com> person_cake/COCO_train2014_000000343799.jpg
+[09:47] A: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[10:03] B: ready to submit?
+[10:03] A: ok, I have got mine, what do you need from me?
+[10:09] A: yes
+- - Round 3 - -
+[10:50] B: guy in blue again?
+[11:06] A: no guy in blue for me
+[11:11] B: kilt dude with black lady?
+[11:13] B: <selection> <dif> person_cake/COCO_train2014_000000343799.jpg
+[11:17] A: yes
+[11:19] A: <selection> <com> person_cake/COCO_train2014_000000405246.jpg
+[11:21] B: <selection> <com> person_cake/COCO_train2014_000000405246.jpg
+[11:30] A: big pile of brownies?
+[12:09] B: once again I have that lady with the flag ion table.
+[12:20] A: I have that too
+[12:22] B: no pile of brownies this time
+[12:23] A: <selection> <com> person_cake/COCO_train2014_000000210010.jpg
+[12:26] B: <selection> <com> person_cake/COCO_train2014_000000210010.jpg
+[12:26] A: <selection> <dif> person_cake/COCO_train2014_000000475999.jpg
+[12:40] A: ok, I can submit, can you?
+[12:45] B: I am ready.  You?
+[12:52] B: let's do it
+[12:52] A: yes
+- - Round 4 - -
+[13:16] A: I have flag lady
+[13:23] B: I have the red and white shirt kid again.  You?
+[13:34] A: no red and white
+[13:38] B: For once I do not have the flag lady
+[13:44] A: <selection> <dif> person_cake/COCO_train2014_000000210010.jpg
+[13:53] B: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[13:55] A: lol, I have blue shirt guy
+[14:19] B: I don't have him this time.
+[14:22] A: <selection> <dif> person_cake/COCO_train2014_000000343799.jpg
+[14:38] A: I have the mom and kid sitting
+[14:47] B: I have a bunch of women behind a table with a cake I guess on it
+[14:58] B: I still don't have that one
+[15:04] A: no, I don't have that
+[15:10] A: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[15:14] B: <selection> <dif> person_cake/COCO_train2014_000000084211.jpg
+[15:28] A: submit time?
+[15:34] B: no
+[15:47] A: ok
+[16:23] B: do you havea guy on camo looking down at a big cale with red white and blue?
+[16:27] B: <selection> <dif> person_cake/COCO_train2014_000000488127.jpg
+[16:38] B: *in camo
+[16:52] A: not highlighted no
+[17:05] B: doesn't matter if it hioghlighted or not
+[17:12] A: your right
+[17:12] B: so you have it then?
+[17:16] A: sorry
+[17:44] B: do you have it then?
+[17:47] B: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[17:51] A: yes
+[18:08] B: Ok, I think we are ready now then
+[18:14] A: ok
+- - Round 5 - -
+[18:43] B: red and white kid?
+[18:43] A: I have pile of brownies
+[18:58] A: yes, I have red and white kid
+[18:59] B: I have the brownies too
+[19:01] B: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[19:04] B: <selection> <com> person_cake/COCO_train2014_000000478537.jpg
+[19:04] A: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[19:13] A: blue shirt with candles
+[19:16] B: I finally have the woman holding the kid
+[19:27] A: so do I
+[19:30] A: <selection> <com> person_cake/COCO_train2014_000000126144.jpg
+[19:32] B: no blue shirt with candles
+[19:34] B: <selection> <com> person_cake/COCO_train2014_000000126144.jpg
+[19:36] A: <selection> <dif> person_cake/COCO_train2014_000000343799.jpg
+[19:50] A: ok, I am set, what do you need?
+[19:51] B: Ok, I am ready.  you?
+[19:56] A: yes
+[20:01] B: let's do it then
+
+- - Game statistics - -
+Duration: 21:17 min. Score: 30/30 points.
+[Round 0] Duration: 06:06 min. Score: 6/6 points. Number of messages: 19.
+[Round 1] Duration: 03:46 min. Score: 6/6 points. Number of messages: 13.
+[Round 2] Duration: 02:02 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 05:01 min. Score: 6/6 points. Number of messages: 24.
+[Round 4] Duration: 01:18 min. Score: 6/6 points. Number of messages: 12.

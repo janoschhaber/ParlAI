@@ -1,0 +1,118 @@
+Game ID: 3TS1AR6UQRCX08OZEL8SQP69R58F7W3QHK8ZVMING62C1LDDN6Q4XP7RLLBT
+Domain ID: 30
+Player A: A1NUKP1UCT2R2R
+Player B: A3ODVV1SM7DCXN
+
+- - Round 1 - -
+[00:00] A: There we go
+[00:16] A: Do you have a tv remote?
+[00:29] B: ok. i have a guy smiling in front of a tv holding something.
+[00:51] A: I don't think I have that one. Is he by himself?
+[00:55] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[01:18] B: yes. i also have another guy holding something with a wire pointing at a tv.
+[01:24] B: <selection> <dif> person_tv/COCO_train2014_000000263385.jpg
+[01:44] A: I don't have that one either. 
+[01:57] A: Do you have two girls looking at a tv with their backs to us?
+[02:09] B: no. definately not.
+[02:12] A: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[02:50] B: do you have a woman sitting down at a table, guys standing and the tv is on between them?
+[03:07] A: Yes I have that one.
+[03:13] B: me too, common.
+[03:16] B: <selection> <com> person_tv/COCO_train2014_000000493114.jpg
+[03:30] B: you have the guy pointing something with a wire at the tv?
+[03:41] A: That doesn't look like anything I have.
+[03:56] B: ok, thats different, i have 3, submitting
+[04:00] B: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[04:07] A: Do you have to two plaid socks?
+[04:13] B: nope
+[04:15] A: Ok
+[04:17] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+- - Round 2 - -
+[04:27] A: 2 of 5? yikes
+[04:43] A: Okay I have the two plaid socks again. You?
+[04:47] B: i have the 2 girls watch tv, backs to us. u have it
+[04:51] B: no socks.
+[04:52] A: Not this time.
+[04:54] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[04:58] B: ok, different
+[05:00] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[05:14] B: do you have guys pointing remotes at tvs?
+[05:24] A: Yes two different ones.
+[05:33] A: One is wearing a blue shirt and the other a red shirt.
+[05:46] A: As in two different images.
+[05:48] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[05:49] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[05:51] B: me too. both common, submitting.
+[05:56] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[05:57] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[06:00] A: Submitting
+- - Round 3 - -
+[06:13] A: Ok I have the two socks again. You?
+[06:18] B: i have the closup of the remote. u?
+[06:21] B: no socks
+[06:27] A: Yes I have the remote close-up.
+[06:28] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[06:29] A: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[06:30] B: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[06:32] B: common
+[06:41] B: got the red shirt guy again, u?
+[06:46] A: Not this time.
+[06:59] B: different, 2 girs watching tv?
+[07:02] A: Have a purple shirt guy holding some wires near a tv?
+[07:02] B: <selection> <dif> person_tv/COCO_train2014_000000323226.jpg
+[07:09] A: Don't have two girls.
+[07:23] B: nope. girls is different. submitting
+[07:26] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[07:30] A: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+- - Round 4 - -
+[07:44] A: Wow. Two socks again. Got it?
+[08:08] B: u have guy with the wire thing?  I have a guy with 2 socks playing a video game on a tv.
+[08:18] B: is that the socks?
+[08:20] A: Yeah that's the one. 
+[08:23] A: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[08:29] B: ok, common right?
+[08:33] A: Yeah.
+[08:36] B: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[08:47] B: blue shirt pointing the remote, u got him?
+[08:53] A: yes
+[08:55] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[08:57] B: common
+[08:59] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[09:01] A: Have the remote close-up?
+[09:08] B: no.
+[09:12] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[09:20] B: u have the wire thing pointing at the tv guy?
+[09:37] A: I don't think so. Is he wearing a purple shirt?
+[09:43] B: yes
+[09:50] A: And it's a weird angle?
+[10:00] B: yes. wallpaper behind tv?
+[10:09] A: Yes that's it. I have that also.
+[10:18] B: ok, common. submitting.
+[10:19] B: <selection> <com> person_tv/COCO_train2014_000000035771.jpg
+- - Round 5 - -
+[10:35] B: red shirt remote guy?
+[10:45] A: Yes, he is back.
+[10:48] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[10:51] B: ok. common.
+[10:52] A: Blue shirt remote guy?
+[10:53] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[10:59] B: not this time.
+[11:01] A: <selection> <dif> person_tv/COCO_train2014_000000400064.jpg
+[11:05] B: close-up of remote?
+[11:18] A: No
+[11:23] A: Do you have the two girls in front of the tv?
+[11:25] B: ok, different
+[11:33] B: yes, 2 girls again.
+[11:38] B: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[11:38] A: Ok, common.
+[11:40] A: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[11:41] B: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[11:45] B: submitting
+
+- - Game statistics - -
+Duration: 12:09 min. Score: 30/30 points.
+[Round 0] Duration: 04:17 min. Score: 6/6 points. Number of messages: 17.
+[Round 1] Duration: 01:33 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 01:17 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 02:36 min. Score: 6/6 points. Number of messages: 18.
+[Round 4] Duration: 01:12 min. Score: 6/6 points. Number of messages: 12.

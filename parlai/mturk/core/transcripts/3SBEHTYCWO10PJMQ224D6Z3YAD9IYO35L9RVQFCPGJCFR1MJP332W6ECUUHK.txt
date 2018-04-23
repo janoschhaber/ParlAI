@@ -1,0 +1,136 @@
+Game ID: 3SBEHTYCWO10PJMQ224D6Z3YAD9IYO35L9RVQFCPGJCFR1MJP332W6ECUUHK
+Domain ID: 2
+Player A: AJM4334V07JDQ
+Player B: A24FT8EL2YEZVK
+
+- - Round 1 - -
+[00:00] B: hi
+[00:09] B: i'll start
+[00:14] A: hi
+[00:17] A: ok
+[00:19] B: guy leaning on railing with striped shirt and black vest
+[00:27] A: no
+[00:33] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[00:37] B: lady in red kayak
+[00:43] A: no
+[00:47] B: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[00:48] A: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[00:50] A: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[00:54] B: kid in orange shirt on one leg
+[01:11] A: I have it buy is not with yellow
+[01:17] B: ok, thanks
+[01:18] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[01:23] A: <selection> <dif> person_boat/COCO_train2014_000000302166.jpg
+[01:28] B: ur turn
+[01:30] A: submit?
+[01:40] A: I have a kid jumping
+[01:42] B: are all yours that are yellow filled out?
+[01:55] B: the kid in orange shirt jumping?
+[01:58] B: or different
+[02:02] A: yes
+[02:09] A: orange shirt
+[02:16] B: yep so that is common
+[02:24] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[02:26] B: any others?
+[02:27] A: solders on a boat
+[02:36] B: i do not have the soldiers
+[02:38] A: and a guy on a boat in a suit
+[02:50] B: the guy in the suit is leaning over the railing?
+[03:03] A: yes
+[03:09] B: oh i asked that first lol
+[03:16] B: i already submitted and said that you didn't have him
+[03:21] A: my mistake, sorry
+[03:23] B: so it should have been common
+[03:28] B: its ok
+[03:35] A: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+- - Round 2 - -
+[03:52] B: ok i have the lady in the red kayak again
+[04:02] A: yes, I have it to
+[04:04] B: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[04:05] A: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[04:10] B: i have the suit guy leaning over the railing
+[04:21] A: no, I don't have it
+[04:27] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[04:32] B: and i have the kid in the orange shirt
+[04:34] B: jumping
+[04:48] A: no, I don't have it
+[04:51] B: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[04:55] A: I have the kayak lady
+[05:05] B: yep, 
+[05:29] A: I have 2 lady s on a boat with a panda
+[05:36] B: dont have
+[06:01] A: and a woman with a pile of woods behind her 
+[06:06] B: dont have
+[06:12] A: ok
+[06:14] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[06:15] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+- - Round 3 - -
+[06:27] B: good work
+[06:33] A: you to
+[06:35] B: ok i have the two ladies with panda
+[06:45] A: yes, I have it
+[06:49] A: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[06:49] B: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[06:56] B: i have the lady with the pile of wood behind her
+[07:13] A: yes, I have it but without the yellow
+[07:21] B: <selection> <com> person_boat/COCO_train2014_000000004834.jpg
+[07:28] B: so you can mark common for that one
+[07:34] B: and i have the soldiers on the boat
+[07:43] A: I have them too
+[07:46] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[07:47] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[07:50] B: any others
+[08:03] A: I have the lady in the red kayak
+[08:08] B: i dont have it
+[08:13] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[08:19] A: ok, next
+- - Round 4 - -
+[08:33] B: soldiers on the boatr
+[08:39] A: yes
+[08:42] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[08:42] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[08:46] B: orange shirt jumping
+[08:55] A: yes
+[08:57] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[09:02] B: guy in suit leaning on the railing
+[09:08] A: no
+[09:19] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[09:23] A: I have the lady s with the panda
+[09:31] B: i dont
+[09:47] A: And I have a lady cooking on boat 
+[09:52] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[09:59] B: yeah i have that one
+[10:17] A: the kid jumping in orange shirt?
+[10:21] A: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[10:24] B: yep 
+[10:27] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[10:30] A: ok
+- - Round 5 - -
+[10:52] B: woman cooking on boat
+[10:58] A: yes
+[11:07] B: <selection> <com> person_boat/COCO_train2014_000000424434.jpg
+[11:12] B: guy with dog on boat
+[11:18] A: no
+[11:29] B: <selection> <dif> person_boat/COCO_train2014_000000436717.jpg
+[11:34] B: lady with wood logs behind her
+[11:41] A: no
+[11:51] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[11:51] A: red kayak lady
+[11:57] B: nope
+[12:11] A: lady s with panda
+[12:20] B: nope
+[12:22] A: and the guy in the suit
+[12:26] A: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[12:27] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[12:29] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[12:33] B: nope
+[12:49] A: great working with you!
+[12:54] B: you too
+
+- - Game statistics - -
+Duration: 13:11 min. Score: 29/30 points.
+[Round 0] Duration: 03:37 min. Score: 5/6 points. Number of messages: 31.
+[Round 1] Duration: 02:28 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 01:56 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 02:04 min. Score: 6/6 points. Number of messages: 13.
+[Round 4] Duration: 02:00 min. Score: 6/6 points. Number of messages: 14.

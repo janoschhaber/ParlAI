@@ -1,0 +1,123 @@
+Game ID: 3C6FJU71TRR5YAHQWJTRP2R95R1YUK31EUONYN2W1THB2OVMUYJXVQ5ODOVQ
+Domain ID: 44
+Player A: A3TM9RWWBPQBVM
+Player B: A3BDVHNMJECSKG
+
+- - Round 1 - -
+[00:00] B: I have a living room with a red leather chair and a tan/gray couch
+[00:36] A: I don't think I have that one
+[01:01] B: There's a white blanket with some sort of design on it over the red chair, if that helps clarify.
+[01:04] B: <selection> <dif> chair_couch/COCO_train2014_000000410024.jpg
+[01:24] A: does the red chair have weird patterns on it?
+[01:55] B: no.  It's straight up red leather.  It's kind of on the left/middle side of the photo.
+[02:23] A: Oh. Then I don't have that one
+[02:31] B: Cool.  I also have a living room with a tv in the left corner and a chair in the right. 
+[02:43] B: There chair has a yellow/orange afgan on it.
+[02:59] B: And phonebooks stacked in the seat.
+[03:23] A: I don't have that one
+[03:26] B: <selection> <dif> chair_couch/COCO_train2014_000000119002.jpg
+[03:33] B: My final one is a living room with green floral fabrics and light wood.  There's a grid of 8
+[03:39] B: 8 photos over the fireplace.
+[03:50] A: I have that one
+[03:53] B: <selection> <com> chair_couch/COCO_train2014_000000408925.jpg
+[03:59] B: Great!  What are your remaining two?
+[04:04] A: Oh wait no I don't
+[04:09] A: Sorry
+[04:17] B: <selection> <dif> chair_couch/COCO_train2014_000000408925.jpg
+[04:27] B: No worries.  
+[04:32] B: What are your three then?
+[04:50] A: I have a green striped chair on the left and a TV on the right
+[05:02] B: No.  I don't have that.
+[05:42] A: Ok. then I have a red floor with a brown stripe chair
+[05:45] A: <selection> <dif> chair_couch/COCO_train2014_000000002347.jpg
+[05:57] A: in the middle
+[05:58] B: Is the floor like a checkerboard?
+[06:13] A: No just plain red 
+[06:27] B: I don't have that then.
+[06:31] A: <selection> <dif> chair_couch/COCO_train2014_000000581136.jpg
+[07:10] A: Last one is a chair with some deep indents o it
+[07:13] A: on
+[07:25] B: Color of the chair?
+[07:46] A: red. Also a small brown table in the middle
+[08:03] B: Nope.  All six different this time!
+[08:07] A: <selection> <dif> chair_couch/COCO_train2014_000000269431.jpg
+[08:12] A: That's new
+- - Round 2 - -
+[08:41] B: I have the weird red indent chair this time.
+[08:53] A: Ahh. I don't have that one
+[08:55] B: <selection> <dif> chair_couch/COCO_train2014_000000269431.jpg
+[09:17] B: I also have a room where all the furniture is on the left side.  Then there's a tv on a dresser
+[09:24] B: that tv is in the back right corner
+[09:29] A: Got that one
+[09:31] B: <selection> <com> chair_couch/COCO_train2014_000000399122.jpg
+[09:31] A: <selection> <com> chair_couch/COCO_train2014_000000399122.jpg
+[09:40] B: Last one: red floor
+[09:46] A: I have that.
+[09:49] A: <selection> <com> chair_couch/COCO_train2014_000000581136.jpg
+[09:50] A: <selection> <dif> chair_couch/COCO_train2014_000000512515.jpg
+[10:00] B: crazy patterned chair in the middle front of the pic?
+[10:04] B: <selection> <com> chair_couch/COCO_train2014_000000581136.jpg
+[10:15] A: Nope don't have that
+[10:44] B: The crazy pattern chair is on the red floor, so maybe different ones?
+[11:08] A: Yeah. My last picture is a brown bed
+[11:22] B: I don't have a bed.
+- - Round 3 - -
+[11:54] B: red floor again
+[11:58] B: and red indent chair
+[11:59] B: <selection> <com> chair_couch/COCO_train2014_000000581136.jpg
+[12:01] B: <selection> <com> chair_couch/COCO_train2014_000000269431.jpg
+[12:06] A: Nope don't have that one
+[12:12] A: I have red indent
+[12:15] A: <selection> <com> chair_couch/COCO_train2014_000000269431.jpg
+[12:17] B: <selection> <dif> chair_couch/COCO_train2014_000000581136.jpg
+[12:23] B: Room with all the furniture on the left
+[12:32] B: how the heck did I get the same three as round 2!
+[12:51] A: I don't have all left furniture
+[12:54] B: <selection> <dif> chair_couch/COCO_train2014_000000399122.jpg
+[13:02] A: Do you have a green stripe chair?
+[13:03] B: Sounds good.  What are the two you have left?
+[13:21] B: I have black striped chairs, but no green stripe.
+[13:26] A: <selection> <dif> chair_couch/COCO_train2014_000000002347.jpg
+[13:53] A: Last one. Large TV on the left books on chairs on the right
+[14:05] B: No big TV
+[14:11] A: <selection> <dif> chair_couch/COCO_train2014_000000119002.jpg
+- - Round 4 - -
+[15:21] B: Brown bed on right, two brown chairs on left
+[15:29] A: Got it
+[15:31] A: <selection> <com> chair_couch/COCO_train2014_000000512515.jpg
+[15:32] B: <selection> <com> chair_couch/COCO_train2014_000000512515.jpg
+[15:41] B: tv on left, chair with orange/yellow afgan over back on right
+[15:55] A: Nope
+[15:59] B: <selection> <dif> chair_couch/COCO_train2014_000000119002.jpg
+[16:10] B: Big window, red and green striped chair on left.
+[16:18] A: I have that
+[16:21] B: <selection> <com> chair_couch/COCO_train2014_000000002347.jpg
+[16:22] A: <selection> <com> chair_couch/COCO_train2014_000000002347.jpg
+[16:23] A: <selection> <dif> chair_couch/COCO_train2014_000000269431.jpg
+[16:27] B: Great!  What's your last one?
+[16:34] A: Red indent?
+[16:40] B: no
+- - Round 5 - -
+[17:02] B: Red floor
+[17:11] A: Nope
+[17:12] B: brown bed/brown chair
+[17:14] B: <selection> <dif> chair_couch/COCO_train2014_000000581136.jpg
+[17:18] A: Yup
+[17:21] B: <selection> <com> chair_couch/COCO_train2014_000000512515.jpg
+[17:21] A: <selection> <com> chair_couch/COCO_train2014_000000512515.jpg
+[17:29] B: all the furniture on left
+[17:32] A: <selection> <com> chair_couch/COCO_train2014_000000399122.jpg
+[17:38] A: I have that too
+[17:39] B: <selection> <com> chair_couch/COCO_train2014_000000399122.jpg
+[17:40] A: <selection> <dif> chair_couch/COCO_train2014_000000002347.jpg
+[17:43] B: Yours?
+[17:50] A: Green stripe?
+[17:54] B: No.
+
+- - Game statistics - -
+Duration: 18:10 min. Score: 28/30 points.
+[Round 0] Duration: 08:14 min. Score: 5/6 points. Number of messages: 31.
+[Round 1] Duration: 03:00 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 02:18 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 01:22 min. Score: 5/6 points. Number of messages: 9.
+[Round 4] Duration: 00:53 min. Score: 6/6 points. Number of messages: 9.

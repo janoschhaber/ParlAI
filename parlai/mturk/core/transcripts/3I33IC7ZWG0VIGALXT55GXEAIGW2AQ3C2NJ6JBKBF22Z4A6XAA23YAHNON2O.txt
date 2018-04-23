@@ -1,0 +1,116 @@
+Game ID: 3I33IC7ZWG0VIGALXT55GXEAIGW2AQ3C2NJ6JBKBF22Z4A6XAA23YAHNON2O
+Domain ID: 40
+Player A: A1PYZX3R89GXWB
+Player B: A2WVCXVSE0YGML
+
+- - Round 1 - -
+[00:00] A: There is a motorcycle parked and you can see a silver car behind. He has jeans, u can see left leg.
+[00:01] B: my first highli picture is a person on a sport bike, stopped at an intersection sitting and waiting
+[00:17] B: that's the one I was just talking about, that's in common I think
+[00:22] A: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[00:24] A: yes
+[00:27] B: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[00:27] A: what is your next one?
+[00:55] B: My next one is a motorcycle that almost looks like it's in a parade, hauling a trailer
+[00:56] A: there are 2 dogs in a red car attached to a motorcycle, that is one of my highlighted ones.
+[01:09] B: with a very small car behind it. Looks like there's a dog in there
+[01:17] A: yes same here
+[01:19] A: <selection> <com> car_motorcycle/COCO_train2014_000000477807.jpg
+[01:22] B: yep, common!
+[01:31] B: My last one is a motorcycle sitting in a parking lot with grass around it
+[01:34] A: motorcycle at a gas station is my last one
+[01:37] B: <selection> <com> car_motorcycle/COCO_train2014_000000477807.jpg
+[01:43] B: OK, that one is different
+[01:44] A: behind a white car
+[01:45] B: <selection> <dif> car_motorcycle/COCO_train2014_000000256560.jpg
+[01:46] A: cool
+[01:48] A: <selection> <dif> car_motorcycle/COCO_train2014_000000494833.jpg
+[01:54] A: that is all I have highlighted
+[02:01] B: Same, I just submitted
+- - Round 2 - -
+[02:31] B: My first one is a motorcycle next to a red sports car
+[02:38] A: same photo as last time with the biker by the silver car is highlighted for me.
+[02:42] A: same I have that one
+[02:44] A: <selection> <com> car_motorcycle/COCO_train2014_000000054286.jpg
+[02:50] B: <selection> <com> car_motorcycle/COCO_train2014_000000054286.jpg
+[03:04] B: I don't have the biker next to the silver car
+[03:06] A: <selection> <dif> car_motorcycle/COCO_train2014_000000514839.jpg
+[03:13] B: I have the motorcycle at the gas station this time
+[03:15] A: bike next to a black car with a cup on the ground
+[03:19] A: I do not
+[03:29] B: <selection> <dif> car_motorcycle/COCO_train2014_000000494833.jpg
+[03:42] B: I have the bike next to the black car with a cup in front as well, common
+[03:46] B: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[03:46] A: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[03:52] A: I will submit
+[03:54] B: Ok, that's my three
+[04:04] B: yay!
+- - Round 3 - -
+[04:15] A: bike at gas station, I have that one
+[04:23] B: I also have that one
+[04:25] A: <selection> <com> car_motorcycle/COCO_train2014_000000494833.jpg
+[04:27] B: <selection> <com> car_motorcycle/COCO_train2014_000000494833.jpg
+[04:32] A: bike with dogs in the back in red trailer, I have that one
+[04:45] B: I do not have that one
+[04:47] A: <selection> <dif> car_motorcycle/COCO_train2014_000000477807.jpg
+[04:49] B: I have the bike next to the black car with the cut in front again
+[04:54] A: I do not
+[04:59] B: <selection> <dif> car_motorcycle/COCO_train2014_000000480807.jpg
+[05:09] B: My last one is the motorcycle next to the red sports car in the parking lot
+[05:15] A: my third one is a parked bike with nobody on it. Bike is silver and black parked by a black car
+[05:21] A: no not me
+[05:25] B: <selection> <dif> car_motorcycle/COCO_train2014_000000054286.jpg
+[05:27] A: <selection> <dif> car_motorcycle/COCO_train2014_000000256560.jpg
+[05:43] B: I don't have the parke one
+[05:48] B: That's all three of mine
+[05:55] A: submit
+- - Round 4 - -
+[06:13] A: bike with cup on ground
+[06:24] B: I have that one
+[06:27] A: bike with dogs in the back red trailer I have also
+[06:28] A: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[06:32] B: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[06:41] B: I do not have that one
+[06:44] A: <selection> <dif> car_motorcycle/COCO_train2014_000000477807.jpg
+[06:49] B: I have the motorcycle next to the red sports car
+[06:58] A: not me
+[07:01] B: <selection> <dif> car_motorcycle/COCO_train2014_000000054286.jpg
+[07:14] B: My last one is the motorcycle stopped at the intersection with the silver car next to it
+[07:18] A: bike parked by silver car
+[07:21] A: yes
+[07:24] A: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[07:28] B: Person on it, correct?
+[07:31] A: yes
+[07:38] B: OK common!
+[07:41] B: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+- - Round 5 - -
+[07:54] B: Yeah, last page!
+[07:54] A: bike with dogs again
+[08:04] B: I do not have the motorcycle with dogs
+[08:06] A: <selection> <dif> car_motorcycle/COCO_train2014_000000477807.jpg
+[08:11] A: gas station bike
+[08:24] B: I do not have a gas station bike
+[08:26] A: <selection> <dif> car_motorcycle/COCO_train2014_000000494833.jpg
+[08:30] A: bike by red sports car
+[08:40] B: I do not have that one either
+[08:41] A: <selection> <dif> car_motorcycle/COCO_train2014_000000054286.jpg
+[08:45] A: those are my 3
+[08:45] B: I have the orange motorcycle
+[08:49] A: not me
+[08:52] B: The motorcycle parked next to grass
+[08:55] A: not me
+[09:01] B:  The motorcycle parked next to a white car
+[09:05] A: not me!
+[09:09] B: ok, Nice working with you, good job!
+[09:18] A: Thanks :)
+[09:24] B: <selection> <dif> car_motorcycle/COCO_train2014_000000345207.jpg
+[09:27] B: <selection> <dif> car_motorcycle/COCO_train2014_000000256560.jpg
+[09:28] B: <selection> <dif> car_motorcycle/COCO_train2014_000000144597.jpg
+
+- - Game statistics - -
+Duration: 11:38 min. Score: 28/30 points.
+[Round 0] Duration: 02:03 min. Score: 5/6 points. Number of messages: 17.
+[Round 1] Duration: 01:28 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 01:42 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 01:30 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 01:36 min. Score: 5/6 points. Number of messages: 16.

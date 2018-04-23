@@ -1,0 +1,99 @@
+Game ID: 3LJ7UR74RIBC5DJXABTYVIV818ZN4D3WSELTNVR40P2F4YG8P1HKN0IWETAK
+Domain ID: 52
+Player A: A1QVLNM0795FRM
+Player B: A16SAB417Y96G4
+
+- - Round 1 - -
+[00:00] B: banana on laptop
+[00:07] A: Yea and a strawberry
+[00:10] B: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[00:13] A: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[00:17] B: phone next to laptop in another one
+[00:25] A: Yep
+[00:28] B: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[00:28] A: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[00:33] B: two phones on laptop in last one
+[00:52] A: No, I have a mouse on a laptop
+[00:59] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000380128.jpg
+[01:00] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000468357.jpg
+[01:05] B: nope
+- - Round 2 - -
+[01:22] B: phone next to laptop again
+[01:28] A: me too
+[01:35] A: Got the mouse on a laptop again
+[01:43] A: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[01:46] B: yes
+[01:47] B: <selection> <com> dining_table_laptop/COCO_train2014_000000380128.jpg
+[01:48] A: <selection> <com> dining_table_laptop/COCO_train2014_000000380128.jpg
+[01:48] B: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[01:52] B: flowers by laptop
+[02:15] A: yes
+[02:17] B: <selection> <com> dining_table_laptop/COCO_train2014_000000259745.jpg
+[02:20] B: i'm good
+[02:28] A: I have a white laptop with a glass next to it
+[02:44] B: no
+[02:45] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000096757.jpg
+[02:50] A: okay i'm done
+- - Round 3 - -
+[03:07] B: flowers by laptop again
+[03:27] A: nope,
+[03:28] B: outside eating at a cafe with laptop on table
+[03:30] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000259745.jpg
+[03:38] A: nope
+[03:41] B: cup of coffee with a toy on it
+[03:43] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000082894.jpg
+[03:51] A: yeap
+[03:55] B: <selection> <com> dining_table_laptop/COCO_train2014_000000483794.jpg
+[03:59] B: kk
+[04:03] A: laptop with two phones on it
+[04:11] B: no
+[04:14] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000468357.jpg
+[04:16] A: laptop with mouse on it
+[04:21] B: no
+[04:28] A: laptop next to glass 
+[04:30] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000380128.jpg
+[04:33] B: no
+[04:35] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000096757.jpg
+[04:39] A: okay i'm done
+- - Round 4 - -
+[04:51] B: laptop with two phones on it
+[04:54] A: nope
+[05:11] B: laptop playing movie with glass of wine next to it
+[05:16] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000468357.jpg
+[05:19] A: yep
+[05:20] A: <selection> <com> dining_table_laptop/COCO_train2014_000000096757.jpg
+[05:21] B: banana and strawberry pic
+[05:23] B: <selection> <com> dining_table_laptop/COCO_train2014_000000096757.jpg
+[05:26] A: nope
+[05:32] A: Laptop with mouse on it
+[05:38] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000420523.jpg
+[05:41] B: no
+[05:44] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000380128.jpg
+[05:46] A: laptop next to flowers
+[05:55] B: no
+[05:57] A: <selection> <dif> dining_table_laptop/COCO_train2014_000000259745.jpg
+[06:00] A: okay done
+- - Round 5 - -
+[06:14] B: laptop w two phones on it
+[06:17] A: yep
+[06:29] B: movie with wine next to it
+[06:30] B: <selection> <com> dining_table_laptop/COCO_train2014_000000468357.jpg
+[06:34] A: no
+[06:35] B: banana strawberry
+[06:37] B: <selection> <dif> dining_table_laptop/COCO_train2014_000000096757.jpg
+[06:39] A: yes
+[06:48] A: phone next to laptop
+[06:50] A: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[06:51] A: <selection> <com> dining_table_laptop/COCO_train2014_000000468357.jpg
+[07:03] B: yes
+[07:06] A: <selection> <com> dining_table_laptop/COCO_train2014_000000524866.jpg
+[07:08] B: <selection> <com> dining_table_laptop/COCO_train2014_000000420523.jpg
+[07:10] A: okay done
+
+- - Game statistics - -
+Duration: 07:36 min. Score: 29/30 points.
+[Round 0] Duration: 01:11 min. Score: 6/6 points. Number of messages: 7.
+[Round 1] Duration: 01:28 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:33 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 01:11 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 00:56 min. Score: 5/6 points. Number of messages: 9.

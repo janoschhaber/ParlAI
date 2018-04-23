@@ -1,0 +1,100 @@
+Game ID: 3E7TUJ2EGDK4G7YW2CBMGLUU9PX9DL3J2UYBXQQMANZ4V4STKFH4J9PZJ06B
+Domain ID: 54
+Player A: A3N3LHDJHLHLTQ
+Player B: A3D2U4QF7821ZW
+
+- - Round 1 - -
+[00:00] A: do you have a man in a hat walking towards a white fridge?
+[00:11] B: no
+[00:16] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000177775.jpg
+[00:40] B: Have a guy in a kithchen with cake in an aluminum pan?
+[00:50] A: no
+[01:21] B: Have a woman in blue on the left with older guy on the right sitting at a table
+[01:31] A: no
+[01:34] A: Do you have a kitchen scene with light brown cabinets and brown table?
+[01:35] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[02:09] B: no
+[02:14] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[02:17] B: Bright Kitchen with no people and candles on  the table
+[02:41] A: Bag on table counter with green stripe?
+[02:47] B: yea
+[02:50] A: yes
+[02:52] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[02:53] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[03:16] B: have a lady in black with a coca cola cup and pizza
+[03:22] A: no
+[03:25] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+- - Round 2 - -
+[04:02] A: do you have a lady in black with pizza and a cup of cola?
+[04:08] B: yes
+[04:10] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[04:11] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[04:31] B: woman in blue on left older man with glasses on right at table?
+[04:49] A: cake with candles in a pan in front of the woman?
+[04:53] B: yep
+[04:57] A: yes
+[04:57] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[04:59] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[05:23] A: A table with bottles, cups and flowers?
+[05:31] B: no
+[05:33] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[05:46] B: Have the bright kitchen with candles from last set?
+[05:53] A: no
+[05:55] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+- - Round 3 - -
+[06:21] A: Do you have the brown table with an orange bowl, cups, and bottles?
+[06:30] B: yes
+[06:32] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[06:33] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[06:55] B: kitchen with no people brown table microwave top left
+[07:12] A: yes
+[07:15] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[07:15] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[07:26] A: Bright kitchen with candles and green striped bag?
+[07:31] B: no
+[07:34] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[07:56] B: kitchen double door white fridge counter on right with bags
+[08:02] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000177775.jpg
+[08:10] A: no
+- - Round 4 - -
+[08:45] B: woman in blue on left older man on right
+[08:49] A: yes
+[08:51] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[08:51] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000075726.jpg
+[09:04] A: kitchen with microwave under cabinet and no people?
+[09:14] B: no
+[09:18] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[09:24] B: woman in black with pizza and coke
+[09:34] A: no
+[09:37] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[09:40] A: brown table with orange bowl and bottles?
+[09:44] B: yes
+[09:46] B: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+[09:50] A: <selection> <com> dining_table_refrigerator/COCO_train2014_000000303703.jpg
+- - Round 5 - -
+[10:18] A: lady in black with pizza and a cup of cola?
+[10:25] B: no
+[10:28] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000449904.jpg
+[10:36] B: small child eating from a bowl
+[10:45] A: no
+[10:48] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000317237.jpg
+[10:57] A: kitchen with white microwave under the cabinet?
+[11:03] B: no
+[11:06] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000330112.jpg
+[11:19] B: double door white fridge guy in black and white shirt
+[11:30] A: no
+[11:32] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000177775.jpg
+[11:43] A: bright kitchen with green stripe bag?
+[11:47] B: no
+[11:49] A: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000311337.jpg
+[12:04] B: orange cabinet maybe fridge on the left
+[12:12] A: no
+[12:14] B: <selection> <dif> dining_table_refrigerator/COCO_train2014_000000043256.jpg
+
+- - Game statistics - -
+Duration: 13:05 min. Score: 28/30 points.
+[Round 0] Duration: 03:27 min. Score: 6/6 points. Number of messages: 14.
+[Round 1] Duration: 01:54 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:52 min. Score: 5/6 points. Number of messages: 8.
+[Round 3] Duration: 01:12 min. Score: 6/6 points. Number of messages: 8.
+[Round 4] Duration: 01:56 min. Score: 5/6 points. Number of messages: 12.

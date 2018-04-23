@@ -1,0 +1,130 @@
+Game ID: 3XC1O3LBOTK6YYV2DZERQY3BDYYLTW3OSWBBLG1FVUH3GU5SH0WOGCHLLDXS
+Domain ID: 1
+Player A: A22ON3MIIG0IJA
+Player B: AG1BNU31ZP490
+
+- - Round 1 - -
+[00:00] A: Do you have a guy on a lowrider bike in a parking lot? With a flame on his sleeve
+[00:19] B: yes I do 
+[00:21] B: <selection> <com> person_bicycle/COCO_train2014_000000386722.jpg
+[00:26] A: <selection> <com> person_bicycle/COCO_train2014_000000386722.jpg
+[00:46] B: Do  you have two people with bikes in front of a train 
+[00:50] A: Ok. I also have a guy on the beach squatting down between two bikes with a cell phone in his hands.
+[00:59] B: <selection> <com> person_bicycle/COCO_train2014_000000441488.jpg
+[01:06] A: Yes.
+[01:15] A: One is a man and one is a woman.
+[01:17] B: I have the same one too.
+[01:28] B: Yes I have the same one.
+[01:36] A: You have the beach one?
+[01:48] B: I also have a guy puting is bike on a bike rack in front of a bus. 
+[01:54] B: Yes i do
+[02:02] A: I also have one with a guy on a train leaning on a bike with a handicap logo behind him.
+[02:12] A: <selection> <com> person_bicycle/COCO_train2014_000000441488.jpg
+[02:22] B: I don't have that one.
+[02:32] A: I dont have the bike rack one in front of a bus.
+[02:36] A: <selection> <dif> person_bicycle/COCO_train2014_000000326202.jpg
+[02:43] B: I have a guy on a bike with a red white and blue shirts on with a red helmet. 
+[02:55] A: Nope, dont have that one either.
+[02:59] B: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+- - Round 2 - -
+[03:30] A: Ok, I have the same guy on the beach between two bikes again, you?
+[03:39] B: I have a guy on a low rider bike on the street.  He is wearing the shirt with flames.
+[03:53] A: I dont have the lowrider guy this time.
+[03:55] B: I don't have that one this time.
+[04:00] A: Ok
+[04:01] B: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[04:02] A: <selection> <dif> person_bicycle/COCO_train2014_000000441488.jpg
+[04:24] A: Do you have a weird wheelbarrow looking bike that is orange in color and has a kid inside?
+[04:30] B: I have a guy on a train leaning up against his bike and a green pole behind him.
+[04:47] A: Yeah, I don't have that one.
+[04:49] B: No I don't have that one.
+[04:53] A: OK.
+[04:55] B: <selection> <dif> person_bicycle/COCO_train2014_000000326202.jpg
+[04:56] A: <selection> <dif> person_bicycle/COCO_train2014_000000495580.jpg
+[05:23] B: Do you have a guy sitting on the middle bar of his bike with a plaid shirt on and black pants?
+[05:39] A: Yep with his head cut off at the top of the pic?
+[05:47] A: Cant see his eyes?
+[05:49] B: That is the one. 
+[05:52] A: Ok.
+[05:53] B: <selection> <com> person_bicycle/COCO_train2014_000000098596.jpg
+[05:54] A: <selection> <com> person_bicycle/COCO_train2014_000000098596.jpg
+[06:18] A: You said you dont have the guy on the beach this time?
+[06:32] B: No I do not.
+[06:36] A: OK.
+[06:43] A: Any other questions for me?
+[06:55] B: NO I am good thank you.
+- - Round 3 - -
+[08:00] B: Do you have the same pic of the guy on the bike with his head cut off above his mouth?
+[08:11] A: Not this time, no.
+[08:16] B: <selection> <dif> person_bicycle/COCO_train2014_000000098596.jpg
+[08:27] A: I have that same weird wheelbarrow looking one with a kid sitting inside.
+[08:38] B: I have the funny orange wheelbarrow this time, do you?
+[08:44] A: Yep.
+[08:47] A: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[08:49] B: Looks like we both have it.
+[08:52] B: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[09:03] A: I have the guy on the train leaning on his bike in front of the green pole too.
+[09:15] B: I don't have that one this time.
+[09:19] A: Ok.
+[09:25] A: <selection> <dif> person_bicycle/COCO_train2014_000000326202.jpg
+[09:30] B: Do you have a guy in blue standing by his bike next to a bus.
+[09:41] A: I have a guy in front of a bus with a blue shirt with gas canisters.
+[09:47] B: It looks like he has tanks
+[09:51] B: Yes thats the one
+[09:55] A: Affirmative.
+[09:59] A: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[09:59] B: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[10:08] B: Any other questions for me?
+[10:17] A: Nope I think were good.
+- - Round 4 - -
+[10:43] B: I have the same guy we just had with the canisters.
+[10:44] A: Ok, I have the same guy leaning on his bike in front of the green pole again.
+[10:51] A: Me too.
+[10:52] B: <selection> <com> person_bicycle/COCO_train2014_000000326202.jpg
+[10:55] B: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[11:05] B: I have that one with the green pole too.
+[11:17] B: Do you happen to have the low rider bike?
+[11:25] A: <selection> <com> person_bicycle/COCO_train2014_000000386326.jpg
+[11:26] A: <selection> <com> person_bicycle/COCO_train2014_000000326202.jpg
+[11:30] A: Nope
+[11:35] B: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[11:39] B: ok
+[11:41] A: But I have the guy with his eyes cut off
+[11:46] A: With the plaid shirt
+[11:52] B: I don't have that one.
+[12:03] A: Ok
+[12:05] A: <selection> <dif> person_bicycle/COCO_train2014_000000098596.jpg
+[12:11] B: Do you have any others?
+[12:47] A: A guy putting a bike on the rack in front of a bus
+[13:01] B: I don't have that one this time.
+[13:28] A: A man and a woman with bikes in front of a train.
+[13:41] B: Not this time.
+[14:00] A: A girl shot from the back on a bike with a pink skirt
+[14:10] B: Nope
+- - Round 5 - -
+[14:27] A: I have the guy with the lowrider this time, you?
+[14:31] B: Do you have the orange wheel barrow one?
+[14:35] A: Yes.
+[14:38] B: I don't have him this time
+[14:38] A: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[14:40] B: <selection> <com> person_bicycle/COCO_train2014_000000495580.jpg
+[14:56] B: I have the guy with the plaid shirt on 
+[15:09] A: Ok, I don't have him this time.
+[15:10] A: <selection> <dif> person_bicycle/COCO_train2014_000000386722.jpg
+[15:13] B: <selection> <dif> person_bicycle/COCO_train2014_000000098596.jpg
+[15:25] A: I have a guy on a bike with a red helmet and black pants
+[15:35] B: I don't have that one.
+[15:43] A: Ok.
+[15:46] A: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[15:47] B: Do you have the guy between the two bikes at the beach?
+[15:53] A: Nope.
+[15:58] B: <selection> <dif> person_bicycle/COCO_train2014_000000441488.jpg
+[16:40] B: Thanks for playing.
+
+- - Game statistics - -
+Duration: 16:47 min. Score: 28/30 points.
+[Round 0] Duration: 03:04 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:25 min. Score: 5/6 points. Number of messages: 20.
+[Round 2] Duration: 02:13 min. Score: 6/6 points. Number of messages: 16.
+[Round 3] Duration: 01:23 min. Score: 6/6 points. Number of messages: 18.
+[Round 4] Duration: 01:35 min. Score: 5/6 points. Number of messages: 12.

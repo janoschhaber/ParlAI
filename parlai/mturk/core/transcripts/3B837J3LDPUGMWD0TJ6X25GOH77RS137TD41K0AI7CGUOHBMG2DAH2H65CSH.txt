@@ -1,0 +1,112 @@
+Game ID: 3B837J3LDPUGMWD0TJ6X25GOH77RS137TD41K0AI7CGUOHBMG2DAH2H65CSH
+Domain ID: 51
+Player A: AWTA622HM0OUH
+Player B: A11AY2OGRK92GV
+
+- - Round 1 - -
+[00:00] B: i have an english breakfast bisquet with egg tomato and sausage on it
+[00:03] A: I have tomato, egg, and sausage on an english muffin.
+[00:10] A: LOL.  Yes.
+[00:14] B: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[00:15] A: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[00:25] B: a cup of noodles in front of a keyboard
+[00:27] A: A mug with its shadow behind it.
+[00:33] B: yes
+[00:36] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[00:42] A: I don't have the noodles.
+[00:45] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[00:45] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[00:54] B: ready
+[01:19] A: A pitcher of beer, a mug of beer, some food, a fork, and a bottle with JB on it.
+[01:34] B: no
+[01:40] A: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[02:02] A: I submitted.
+- - Round 2 - -
+[02:43] B: the cofee with a shadow
+[02:48] A: English muffin sandwich.
+[02:53] B: no
+[02:58] A: I have the coffee and shadow.
+[03:03] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[03:04] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[03:10] B: a hamburger with a dunkin donuts cup
+[03:12] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[03:17] A: Yes
+[03:20] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[03:31] B: a hotdog and a beer and a JB bottle
+[03:35] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[03:44] A: No.
+[03:50] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[04:05] B: ready
+[04:30] A: I submitted.
+- - Round 3 - -
+[04:48] A: Hamburger with Dunkin Donuts cup.
+[04:51] B: the JB bottle 
+[04:52] B: yes
+[05:02] A: No JB bottle.
+[05:03] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[05:04] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[05:05] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[05:22] B: some type of food with a blakc mug of coffee
+[05:27] A: Mug with straw, donut or bagel on a plate.
+[05:35] B: yes
+[05:48] A: I have a black mug of coffee with Mickey Mouse heads on it, is that it?
+[05:54] A: <selection> <com> cup_dining_table/COCO_train2014_000000566432.jpg
+[05:55] B: yes
+[06:14] B: some type of food with a blakc mug of coffee
+[06:27] A: Metal mug with foam in front of a keyboard.
+[06:35] B: no
+[06:39] A: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[06:50] A: Is the food round?
+[06:54] B: no
+[07:11] A: Then no, I don't have the food with a black mug of coffee.
+[07:15] B: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[07:22] B: ready
+- - Round 4 - -
+[07:42] B: english muffin
+[07:46] A: Hamburger with Dunkin Donuts cup.
+[07:50] B: jb bottle
+[07:52] B: no
+[07:58] A: No english muffin.
+[08:04] B: cup of noodles infront of keyboard
+[08:07] B: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[08:09] A: Yes to JB bottle.
+[08:12] A: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[08:12] B: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[08:15] A: <selection> <dif> cup_dining_table/COCO_train2014_000000035407.jpg
+[08:28] A: No noodles, no keyboard.
+[08:34] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[08:34] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[09:00] A: Some kind of sandwich on a white plate, mug of brown liquid.
+[09:09] B: yes
+[09:14] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[09:22] B: ready
+- - Round 5 - -
+[09:44] A: English muffin.
+[09:47] A: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[09:47] B: cup of noodles with keyboard
+[09:50] B: no
+[09:58] B: black mug with weird food
+[10:04] A: Yes to noodles and keyboard.
+[10:07] B: bagel with blue mug and straw
+[10:08] A: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[10:13] B: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[10:29] A: I don't have the blue mug and straw.
+[10:39] B: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+[10:48] A: I have a black mug with Mickey Mouse heads.  Otherwise, no.
+[11:05] B: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[11:10] B: no to the mickey mouse
+[11:14] A: Sandwich on white plate, mug of brown liquid.
+[11:42] B: no
+[11:47] A: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[12:03] A: Done.
+[12:07] B: samew
+[12:14] B: its been fun
+[12:21] A: Same, thanks.
+
+- - Game statistics - -
+Duration: 13:27 min. Score: 26/30 points.
+[Round 0] Duration: 02:14 min. Score: 5/6 points. Number of messages: 11.
+[Round 1] Duration: 01:08 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 02:38 min. Score: 6/6 points. Number of messages: 16.
+[Round 3] Duration: 01:43 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 02:17 min. Score: 3/6 points. Number of messages: 15.

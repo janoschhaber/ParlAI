@@ -1,0 +1,112 @@
+Game ID: 3OF2M9AATHMR04MJYRR8XMRD9UCKZ53IFS6Q0HJJH3TXAH3WCOODFXUBNSIX
+Domain ID: 30
+Player A: A1ZTSCPETU3UJW
+Player B: A11AY2OGRK92GV
+
+- - Round 1 - -
+[00:00] B: i have a picture of a guy holding a wii remote and pointing it at a screen
+[00:00] A: I have two girls watching tv
+[00:07] A: i got that one
+[00:08] B: i have that one
+[00:10] B: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[00:11] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[00:12] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[00:12] A: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[00:29] B: i have a person pushing a botton on a remote 
+[00:46] A: What color shirt is the guy wearing
+[01:00] B: you cant see a guy in it. only a hand
+[01:14] B: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[01:17] A: The first one you mentioned.
+[01:27] B: a red tshirt
+[01:53] A: Ok got it. My third picture is a guy wearing a blue shirt holding a remote.
+[02:01] B: i have that one
+[02:30] A: So you have two pictures of a guy holding a remote?
+[03:07] B: one is a wii remote and he is pointing it at the screen in a red shirt. 
+[03:23] B: one is a guy with a remote in a blue shirt and he is looking at the camera
+[03:34] A: I don't have that one
+[03:42] A: the blue shirt one
+[03:45] A: <selection> <dif> person_tv/COCO_train2014_000000400064.jpg
+[03:59] A: Cool, ready?
+[04:05] B: yes
+- - Round 2 - -
+[04:28] B: i have the same pictures as last time
+[04:41] A: i got the hand and remote one
+[04:47] B: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[05:09] B: do you have the girls or the red shirt?
+[05:13] A: No
+[05:18] B: <selection> <dif> person_tv/COCO_train2014_000000323226.jpg
+[05:19] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[05:27] B: what are your other 2 pictures
+[05:48] A: I got a person holding Wii remote and wearing wreird socks
+[05:56] B: dont have that one
+[06:12] A: I got a guy in blue shirt pointing something at the tv
+[06:17] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[06:18] A: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[06:25] B: dont have that one
+[06:27] A: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[06:33] A: Ok, ready?
+[06:37] B: yes
+- - Round 3 - -
+[06:55] A: red shirt guy 
+[07:00] B: yes
+[07:00] A: from before
+[07:02] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[07:05] B: 2 girls
+[07:09] A: no
+[07:14] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[07:24] B: guy in blue shirt pointing remote at tv
+[07:30] A: blue shirt guy pointing wii remote 
+[07:32] A: yes
+[07:34] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[07:34] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[07:39] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[07:42] A: cool
+[07:50] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[08:10] A: ready?
+[08:26] B: yes
+- - Round 4 - -
+[08:48] B: guy in weird socks
+[08:53] A: yes
+[08:56] B: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[09:01] A: same blue shirt guy from the last one
+[09:04] A: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[09:06] B: yes
+[09:08] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[09:09] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[09:19] A: hand with remote from earlier
+[09:22] B: guy in purple shirt pointing remote at tv
+[09:24] B: no
+[09:27] A: no
+[09:28] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[09:30] B: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[09:35] B: ready
+[09:38] A: yep
+- - Round 5 - -
+[09:59] A: two girls
+[10:02] B: no
+[10:07] A: weird socks?
+[10:09] A: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[10:10] B: no
+[10:13] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[10:17] B: guy in blue shirt lookinng at camera
+[10:19] A: hand with remote?
+[10:21] A: no
+[10:26] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[10:29] B: <selection> <dif> person_tv/COCO_train2014_000000263385.jpg
+[10:38] B: guy in purple shirt poitning remote at tv
+[10:40] A: Cool, no
+[10:44] B: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[10:56] A: I enjoyed working with you!
+[11:01] B: 5 people around a table with  cake
+[11:06] A: no
+[11:09] B: <selection> <dif> person_tv/COCO_train2014_000000493114.jpg
+[11:15] A: they are all different
+[11:18] B: yeah it was fun!
+
+- - Game statistics - -
+Duration: 11:39 min. Score: 28/30 points.
+[Round 0] Duration: 04:07 min. Score: 6/6 points. Number of messages: 18.
+[Round 1] Duration: 02:11 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 01:33 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 00:57 min. Score: 5/6 points. Number of messages: 10.
+[Round 4] Duration: 01:11 min. Score: 5/6 points. Number of messages: 14.

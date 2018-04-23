@@ -1,0 +1,48 @@
+Game ID: 3634BBTX0PSUPS5VXCB4P3RKVQEIF33DBQWDE4Y7WU1WNXOGBN8ZWOSVUN55
+Domain ID: 18
+Player A: A2CGTETPYOOK6T
+Player B: A5B78NV0LGCVQ
+
+- - Round 1 - -
+[00:00] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:06] B: <selection> <com> person_refrigerator/COCO_train2014_000000497591.jpg
+[00:08] B: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+[00:11] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:12] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[00:13] A: <selection> <com> person_refrigerator/COCO_train2014_000000217700.jpg
+- - Round 2 - -
+[00:26] B: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[00:32] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[00:33] B: <selection> <dif> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:36] A: <selection> <com> person_refrigerator/COCO_train2014_000000204987.jpg
+[00:37] A: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[00:38] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+- - Round 3 - -
+[00:48] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:52] B: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+[00:53] B: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[00:56] A: <selection> <dif> person_refrigerator/COCO_train2014_000000449904.jpg
+[00:57] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[00:58] A: <selection> <com> person_refrigerator/COCO_train2014_000000107157.jpg
+- - Round 4 - -
+[01:05] A: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+[01:13] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[01:15] A: <selection> <dif> person_refrigerator/COCO_train2014_000000204987.jpg
+[01:23] B: <selection> <com> person_refrigerator/COCO_train2014_000000418620.jpg
+[01:27] B: <selection> <dif> person_refrigerator/COCO_train2014_000000497591.jpg
+[01:28] B: <selection> <dif> person_refrigerator/COCO_train2014_000000305451.jpg
+- - Round 5 - -
+[01:37] A: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[01:38] A: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[01:40] A: <selection> <dif> person_refrigerator/COCO_train2014_000000217700.jpg
+[01:43] B: <selection> <com> person_refrigerator/COCO_train2014_000000254658.jpg
+[01:44] B: <selection> <com> person_refrigerator/COCO_train2014_000000449904.jpg
+[01:44] B: <selection> <dif> person_refrigerator/COCO_train2014_000000107157.jpg
+
+- - Game statistics - -
+Duration: 01:59 min. Score: 30/30 points.
+[Round 0] Duration: 00:14 min. Score: 6/6 points. Number of messages: 0.
+[Round 1] Duration: 00:12 min. Score: 6/6 points. Number of messages: 0.
+[Round 2] Duration: 00:10 min. Score: 6/6 points. Number of messages: 0.
+[Round 3] Duration: 00:23 min. Score: 6/6 points. Number of messages: 0.
+[Round 4] Duration: 00:08 min. Score: 6/6 points. Number of messages: 0.

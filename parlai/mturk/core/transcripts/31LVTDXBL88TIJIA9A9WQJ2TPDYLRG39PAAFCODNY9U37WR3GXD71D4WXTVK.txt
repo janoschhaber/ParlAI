@@ -1,0 +1,114 @@
+Game ID: 31LVTDXBL88TIJIA9A9WQJ2TPDYLRG39PAAFCODNY9U37WR3GXD71D4WXTVK
+Domain ID: 2
+Player A: A3S2R1NK6HZ9KP
+Player B: A3H6KECCE83132
+
+- - Round 1 - -
+[00:00] A: Hi
+[00:11] B: hello again
+[00:39] A: Do you have a lady on a boat with a bunch of logs?
+[00:48] B: no i dont
+[00:52] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[00:59] B: do you have a person on a red canoe
+[01:09] A: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[01:20] A: Yes
+[01:25] B: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[01:41] A: Do you have a lady with a panda bear?
+[01:50] B: no i do not 
+[01:55] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[02:17] B: do you have a boy wearing an orange shirt, looks like hes about to jump off
+[02:36] A: I don't have that one.
+[02:39] B: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[03:07] B: do you have a white person standing , looks like hes wearing a suite
+[03:32] A: I don't have that one, either.
+[03:34] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[04:02] B: i dont have any more questions
+[04:07] A: Do you have a guy holding a can with a straw and he has a dog sitting in his lap?
+[04:17] B: no i dont
+- - Round 2 - -
+[05:41] B: do you have a man , holding a can , with light brown dog on his lap
+[05:55] A: I do not have that one.
+[05:59] B: <selection> <dif> person_boat/COCO_train2014_000000436717.jpg
+[06:30] B: do you have lady sitting , with logs behind her
+[06:50] A: No, I don't.
+[06:53] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[07:42] B: do you have a asian lady , with a red pot next to her hand
+[08:11] A: Is she holding something green?
+[08:17] B: yes
+[08:22] A: I have that one.
+[08:25] B: <selection> <com> person_boat/COCO_train2014_000000424434.jpg
+[08:38] A: Do you have a dude in a suit leaning against a railing?
+[08:53] B: no i dont
+[08:57] A: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[09:13] A: How about a lady in a red canoe or kayak?
+[09:26] B: no i dont
+[09:31] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[09:47] A: Do you have a lady in a white shirt holding a stuffed panda bear?
+[10:03] B: no i dont 
+[10:07] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+- - Round 3 - -
+[12:11] B: do you have the lady sitting down, with logs behind her
+[12:35] A: Yes, I have that one.
+[12:45] B: <selection> <com> person_boat/COCO_train2014_000000004834.jpg
+[13:20] B: do you a lady next to a panda
+[13:40] A: I have the lady holding the panda.
+[13:42] A: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[13:45] B: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[15:05] B: do you have a picture with a man climbming down, and a boat full off people below him
+[15:34] A: I do have that one.
+[15:38] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[15:40] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[16:07] A: Do you have the one with the lady wearing a blue life jacket in a red canoe?
+[16:17] B: no i dont 
+[16:49] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[17:03] A: Do you have a kid on a boat in a yellow life jacket?
+[17:10] B: no i dont
+[17:33] A: Alright, I'm done with my questions.
+- - Round 4 - -
+[18:19] B: i have the lady on the red canoe , blue life jacket
+[18:57] A: No, I don't have that one.
+[19:03] B: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[19:19] B: i have the man standing next to rails, with a suite
+[19:25] A: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[19:44] A: I have him.
+[19:49] B: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[20:28] B: i have the boy with orange shirt leaping off, wearing blue jeans bare foot
+[20:48] A: I have that one.
+[20:53] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[20:57] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[21:10] B: no more questions , how about you ?
+[21:23] A: Do you have the one with the dude in the helmet climbing down towards people in the boat?
+[21:35] B: no i do not 
+[21:41] A: <selection> <dif> person_boat/COCO_train2014_000000302166.jpg
+[22:01] A: Do you have the one where the guy has the brown dog sitting in his lap?
+[22:14] B: no i do not 
+[22:51] A: Those were all of my questions.
+- - Round 5 - -
+[23:34] B: do you have the boy with orange shirt leaping off ?
+[23:40] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[23:56] A: Yes, I have that one.
+[24:24] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[25:21] B: how about the man standing next to rails, wearing suite 
+[25:59] A: No. I don't have that one this time.
+[26:07] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[26:26] B: how about the man climbing down, boat below full of people 
+[26:32] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[26:52] A: Yes, I have that one.
+[27:09] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[27:19] A: Do you have the woman in the white shirt holding the panda?
+[27:29] B: no i dont
+[27:36] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[28:04] A: Do you have the little boy in the yellow vest holding a stick?
+[28:12] B: no i do not 
+[28:46] A: Do you have the lady holding the green stuff with the red pot beside her?
+[28:57] B: no i do not
+[29:58] B: any more questions ?
+[30:16] A: No, that was it for me.
+
+- - Game statistics - -
+Duration: 31:12 min. Score: 30/30 points.
+[Round 0] Duration: 04:26 min. Score: 6/6 points. Number of messages: 15.
+[Round 1] Duration: 05:18 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 05:42 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 04:49 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 06:56 min. Score: 6/6 points. Number of messages: 14.

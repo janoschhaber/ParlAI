@@ -1,0 +1,97 @@
+Game ID: 3OVHNO1VE7ZJMYG96A5LT9WNO1LDZM35BLDD71I7V5GFGVXV5FZV2UO66ZVK
+Domain ID: 30
+Player A: A1HDD2B9I6D33I
+Player B: A2LC2DS8OH7NCA
+
+- - Round 1 - -
+[00:00] A: I see a TV funner with forward button being pressed.
+[00:04] B: I see a man with sunglasses standing in front of a TV
+[00:25] A: I do't see that.
+[00:35] A: don't see that
+[00:51] B: <selection> <dif> person_tv/COCO_train2014_000000263385.jpg
+[00:56] A: a man, wihh blue socks playing some game on tv
+[01:00] B: I didnt see the forward button
+[01:14] B: I dont see blue socks man
+[01:22] B: I see a man with purple shirt and a white pointer
+[01:24] A: Tow women  playing a tv game, one in white tshirt and other in grey.
+[01:30] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[01:40] B: I dont see that
+[01:49] A: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[01:55] B: I see a tv with people around and a cake on a chair
+[01:58] A: all mine are different
+[02:02] B: mine too
+[02:05] B: <selection> <dif> person_tv/COCO_train2014_000000493114.jpg
+[02:06] B: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[02:08] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+- - Round 2 - -
+[02:56] B: a manin blue pointing a wii controller
+[03:10] A: I have that.
+[03:13] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[03:14] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[03:25] B: a man in purple pointing a white stick
+[03:34] A: once again, a tv controll tuner pinting at forward button
+[03:44] B: dont have that
+[03:58] B: someone with blue socks and a white wii controller 
+[04:00] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[04:06] A: I have that.
+[04:09] A: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[04:10] B: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[04:12] B: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+- - Round 3 - -
+[05:00] B: I have two womeon playing video game white and grey shirts
+[05:04] A: man in red shirt, pointing game contoller at green screen.
+[05:10] A: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[05:10] B: I have man in red
+[05:13] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[05:17] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[05:23] A: I have the two wommen
+[05:26] B: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[05:33] B: I also have the tv remote control
+[06:18] B: do you have the remote?
+[06:24] B: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[06:30] A: Ihave man in blue shirt pointing blue screen on top of stero
+[06:34] A: no remote
+[06:39] B: ok different. submitting now
+[06:44] A: <selection> <dif> person_tv/COCO_train2014_000000400064.jpg
+- - Round 4 - -
+[06:54] B: I have tv remote again
+[06:58] A: TV tuner again
+[07:01] B: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[07:01] A: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[07:09] B: I have two women playing video games white and grey
+[07:09] A: two socks again too playing game
+[07:14] A: no two women
+[07:16] B: I dont have two socks
+[07:18] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[07:26] B: I have red man pointing controller
+[07:28] B: <selection> <dif> person_tv/COCO_train2014_000000323226.jpg
+[07:38] A: some man waving a wand a a blue grenn screen, blue shirt and panst
+[07:45] A: no red shirt here
+[07:52] B: ok different submitting
+[08:23] A: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[08:29] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+- - Round 5 - -
+[08:44] A: Two socks controller
+[08:53] B: I dont have two socks
+[08:54] A: Man in red shirt
+[08:58] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[09:02] B: I have man in red tshirt pointing
+[09:05] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[09:07] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[09:14] B: I have two women playing video games, white and grey shirts
+[09:23] A: man in blus shirt pointing at child face on screen animation
+[09:26] A: no two women
+[09:27] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[09:32] B: I have man in blue shirt
+[09:36] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[09:36] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[09:43] A: two socks..tunner
+[09:44] B: ok, submitting. thank you
+
+- - Game statistics - -
+Duration: 10:03 min. Score: 28/30 points.
+[Round 0] Duration: 02:09 min. Score: 5/6 points. Number of messages: 13.
+[Round 1] Duration: 01:16 min. Score: 5/6 points. Number of messages: 7.
+[Round 2] Duration: 01:45 min. Score: 6/6 points. Number of messages: 9.
+[Round 3] Duration: 01:36 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 01:04 min. Score: 6/6 points. Number of messages: 10.

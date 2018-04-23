@@ -1,0 +1,100 @@
+Game ID: 30MVJZJNHNBHJTYOC8XXJJP7F2UJ9W3Z7ISHFUH1T753KIP2U57HIMEUQZ89
+Domain ID: 0
+Player A: A348VZXJU4J66N
+Player B: AVHJ2SNIMGZ91
+
+- - Round 1 - -
+[00:00] A: hi
+[00:06] B: hey there :)
+[00:13] A: do yu have a girl in pink skirt on bike?
+[00:20] B: yes I do
+[00:20] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[00:25] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[00:32] B: do you have the man and woman with their bikes by a train?
+[00:32] A: guy doing handstand?
+[00:36] A: yes i do
+[00:39] A: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[00:39] B: nope. no handstand guy
+[00:41] B: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[00:44] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[00:48] A: ok
+[00:54] B: do you have the man in an orange shirt putting his bike on the front of a bus?
+[01:00] A: no
+[01:02] B: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+- - Round 2 - -
+[01:32] A: now i have orange short guy in front of bus
+[01:36] A: shirt
+[01:38] B: I don't have him
+[01:38] A: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[01:45] A: handstand?
+[01:50] B: nope
+[01:51] A: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[01:54] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[02:06] B: do you have the man squatting down with his phone between bikes?
+[02:19] A: no
+[02:21] A: guy on bike with blue garage and car behind him?
+[02:22] B: <selection> <dif> person_bicycle/COCO_train2014_000000441488.jpg
+[02:31] B: nope
+[02:34] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[02:39] B: man in red,white and blue with red helmet?
+[02:44] A: nope
+[02:47] B: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[03:01] B: man in blue shirt with some sort of tanks by a bus?
+[03:10] A: no
+[03:11] B: <selection> <dif> person_bicycle/COCO_train2014_000000386326.jpg
+- - Round 3 - -
+[03:26] B: I have the handstand guy
+[03:28] A: pink skirt?
+[03:31] A: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[03:33] B: I have her
+[03:34] B: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[03:40] A: i have headstand too
+[03:43] B: <selection> <com> person_bicycle/COCO_train2014_000000266311.jpg
+[03:43] A: <selection> <com> person_bicycle/COCO_train2014_000000086189.jpg
+[03:47] B: red white and blue guy?
+[03:52] A: no
+[03:55] B: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[03:55] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[03:55] A: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+- - Round 4 - -
+[04:14] B: couple by the bus?
+[04:19] A: nope
+[04:21] B: <selection> <dif> person_bicycle/COCO_train2014_000000034815.jpg
+[04:25] A: i have headstand again
+[04:30] B: not me
+[04:34] A: <selection> <dif> person_bicycle/COCO_train2014_000000266311.jpg
+[04:41] A: red, white and blue guy?
+[04:44] B: do you have orange shirt mounting his bike on the bus?
+[04:48] B: no on red white and blue
+[04:51] A: nope
+[04:55] A: <selection> <dif> person_bicycle/COCO_train2014_000000527112.jpg
+[04:56] B: <selection> <dif> person_bicycle/COCO_train2014_000000256981.jpg
+[05:05] B: how about the guy on the bike by the garage with blue doors?
+[05:08] B: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[05:16] A: yes i have him
+[05:18] A: <selection> <com> person_bicycle/COCO_train2014_000000293658.jpg
+[05:18] B: <selection> <com> person_bicycle/COCO_train2014_000000293658.jpg
+- - Round 5 - -
+[05:44] B: do you have blue garage doors again?
+[05:49] A: no
+[05:51] B: <selection> <dif> person_bicycle/COCO_train2014_000000293658.jpg
+[05:54] A: pink skirt?
+[05:58] B: nope
+[06:00] B: orange shirt?
+[06:01] A: <selection> <dif> person_bicycle/COCO_train2014_000000086189.jpg
+[06:04] A: yep
+[06:06] B: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[06:06] A: <selection> <com> person_bicycle/COCO_train2014_000000256981.jpg
+[06:13] A: 2 people in front of train?
+[06:14] B: the man and woman by the train?
+[06:15] B: yes
+[06:18] A: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+[06:18] B: <selection> <com> person_bicycle/COCO_train2014_000000034815.jpg
+
+- - Game statistics - -
+Duration: 06:34 min. Score: 28/30 points.
+[Round 0] Duration: 01:03 min. Score: 6/6 points. Number of messages: 11.
+[Round 1] Duration: 01:39 min. Score: 5/6 points. Number of messages: 13.
+[Round 2] Duration: 00:31 min. Score: 5/6 points. Number of messages: 6.
+[Round 3] Duration: 01:07 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 00:36 min. Score: 6/6 points. Number of messages: 9.

@@ -1,0 +1,141 @@
+Game ID: 336YQZE83WCOJE2XCFX8NVCMWJG5M637FMASSAYDP4CBTFSAQTYO5XP7KIB8
+Domain ID: 38
+Player A: A2DWPP1KKAY0HG
+Player B: A22X4H4XWMRFG7
+
+- - Round 1 - -
+[00:00] A: hello, I have teapot teacup and cake
+[00:08] B: I have a photo with a cute toddler trying to reach a cake
+[00:39] A: yes, toddler with blue and stripe shirt
+[00:45] B: yes
+[00:56] A: how about teapot
+[01:13] B: I don't have that one
+[01:17] A: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[01:42] A: I have red shirt photographer
+[02:13] B: I have piece cake that someone have started eaten it
+[02:30] B: I don't have the red shirt photographer
+[02:43] A: is there anything else with the cake
+[02:45] A: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[03:05] A: i have few of them
+[03:35] B: You need to check only the ones that highlighted in yellow
+[03:53] B: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[04:15] A: yes, but how about your half eaten cake - I have few half eaten cake pictues
+[05:09] B: I have one photo with half eaten cake behind a box written on it godiva
+[05:27] A: no godiva
+[05:57] B: I have one photo with half eaten cake and next to it a ice cream 
+[06:08] B: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[06:23] A: yellow icecrream?
+[06:52] B: white
+[07:10] B: the ice cream is in cup
+[07:17] B: <selection> <dif> cake_dining_table/COCO_train2014_000000501718.jpg
+[07:22] A: no i donn't
+[07:29] B: we have one photo in common
+[07:38] B: we can move to next page
+[07:48] A: I have a cake with in a white square plate
+[08:08] B: I don't have that one
+[08:12] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[08:14] A: done
+[08:16] A: ?
+[08:22] B: yes
+- - Round 2 - -
+[08:50] A: I have godiva cake
+[08:54] B: I have the teapot photo
+[09:04] A: no teapot
+[09:12] B: I don't have godiva anymore
+[09:16] A: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[09:28] A: i have red shirt photographer
+[09:38] B: yes
+[09:42] A: <selection> <com> cake_dining_table/COCO_train2014_000000322720.jpg
+[09:53] B: a photo of a white cake?
+[09:58] B: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[10:00] B: <selection> <com> cake_dining_table/COCO_train2014_000000322720.jpg
+[10:26] B: with a hand holding a knife
+[10:31] A: I have cake on a white square palate with some othe things
+[10:55] A: I have knife one
+[11:15] B: the knife is green?
+[11:39] A: no its a steel knife persons hand showing
+[12:05] B: No the same photo
+[12:13] B: one photo in common
+[12:16] B: <selection> <dif> cake_dining_table/COCO_train2014_000000134599.jpg
+[12:24] A: do you have cake in a square plate?
+[12:29] A: white plate
+[12:40] B: no
+[12:44] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[12:48] A: done
+[12:52] A: ?
+[12:54] B: done also
+- - Round 3 - -
+[13:14] B: teapot?
+[13:21] A: No teapot
+[13:25] B: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[13:46] B: white cake with hand holding a green knife?
+[14:04] A: yes
+[14:13] A: white cake w knife
+[14:18] A: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[14:39] A: cake and fork on red cloth
+[14:41] A: ?
+[15:06] B: A piece chocolate cake next to fork and red napkin
+[15:15] A: yes 
+[15:15] B: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[15:17] B: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[15:19] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[15:25] B: two photo in common
+[15:28] B: done?
+[15:41] A: cake and other things on square palte?
+[15:44] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[15:58] B: no
+[16:00] A: done
+- - Round 4 - -
+[16:13] A: teapot?
+[16:18] B: yes
+[16:27] B: the red photographer?
+[16:33] A: white cake w green knife?
+[16:36] A: <selection> <com> cake_dining_table/COCO_train2014_000000392943.jpg
+[16:38] B: yes
+[16:42] A: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[16:43] B: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[16:44] B: <selection> <com> cake_dining_table/COCO_train2014_000000392943.jpg
+[16:50] A: no photgrapher
+[16:59] A: red napkin?
+[17:02] B: no
+[17:07] A: <selection> <dif> cake_dining_table/COCO_train2014_000000222244.jpg
+[17:11] B: two photo in common
+[17:14] B: done?
+[17:14] A: done
+[17:17] B: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+- - Round 5 - -
+[17:28] A: photographer?
+[17:37] B: no, red napkin?
+[17:50] A: I have red napkin
+[17:53] B: godiva?
+[18:00] B: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[18:01] A: yes godiva
+[18:04] B: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[18:10] A: do you hav ered napkin
+[18:21] B: yes red napkin
+[18:24] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[18:30] A: photographer?
+[18:34] B: no
+[18:36] A: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[18:42] B: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[18:48] A: cake on white square plate?
+[19:22] A: with fork and spoon on both side
+[19:31] B: yes, there is a strawberry?
+[19:41] B: <selection> <com> cake_dining_table/COCO_train2014_000000152914.jpg
+[19:45] A: yes rd stewberry
+[19:52] A: <selection> <com> cake_dining_table/COCO_train2014_000000152914.jpg
+[19:55] B: 3 photo in common
+[20:10] B: godiva?
+[20:19] A: yes godiva
+[20:24] B: done?
+[20:26] A: donw
+[20:36] A: thanks
+[20:42] B: thanks
+
+- - Game statistics - -
+Duration: 21:09 min. Score: 30/30 points.
+[Round 0] Duration: 08:25 min. Score: 6/6 points. Number of messages: 27.
+[Round 1] Duration: 04:07 min. Score: 6/6 points. Number of messages: 20.
+[Round 2] Duration: 02:48 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 01:04 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 03:02 min. Score: 6/6 points. Number of messages: 20.

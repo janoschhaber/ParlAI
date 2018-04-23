@@ -1,0 +1,104 @@
+Game ID: 3A7Y0R2P2PM7KPGMFO3BZMBPM4AXJG3GFK2QRXXAFKOQWBGH3VWTEDV1T5WT
+Domain ID: 23
+Player A: A12723JDRPT207
+Player B: A30KYQGABO7JER
+
+- - Round 1 - -
+[00:00] A: do you have a ma holding a green surf board w/ a truck in the background?
+[00:28] B: no
+[00:31] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[00:47] A: I also have a  man wearing a man surfing on water on a yellow surf board
+[01:07] B: yes, I have that one
+[01:09] B: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[01:09] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[01:30] A: Do you have a man riding a bike while holding a red and while surf board
+[01:46] B: yes
+[01:49] A: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[01:50] B: <selection> <com> person_surfboard/COCO_train2014_000000515743.jpg
+[01:58] A: what questions do you have?
+[02:27] B: one kid is carrying a red surf board. Do you have that one?
+[02:53] B: <selection> <dif> person_surfboard/COCO_train2014_000000340331.jpg
+[02:59] A: is it above his head, if yes then yes if no then no
+[03:05] B: no
+- - Round 2 - -
+[03:50] A: do you have the boy on the bike with the red and white board again?
+[04:15] B: no
+[04:23] A: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[04:44] A:  What about a girl laying down on a white board with 2 red stripes?
+[05:02] B: yes, I have that one
+[05:04] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[05:45] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[06:10] B: A man is surfing on a yellow surf board. Do you have it?
+[06:14] A: Do you have a boy holding a red board with green sticker 
+[06:25] A: No I do not , not this time
+[06:42] B: yes
+[06:53] A: <selection> <com> person_surfboard/COCO_train2014_000000340331.jpg
+[07:05] A: Any other questions?
+[07:34] B: A man is carrying a blue surf bord with a shark picture on it. Do you have?
+[08:07] A: no
+[08:11] B: <selection> <dif> person_surfboard/COCO_train2014_000000097094.jpg
+[08:12] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[08:20] B: thanks.
+- - Round 3 - -
+[08:59] A: Do you have the lady with the white and double red striped board again?
+[09:24] B: yes
+[09:26] B: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[09:35] A: <selection> <com> person_surfboard/COCO_train2014_000000204735.jpg
+[10:01] A: Do you have a photo of 2 guys standing beside their boards one in black trunk the other in blue?
+[10:21] B: yes
+[10:28] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[10:31] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[10:52] B: Do you have the man carrying a blue surf board?
+[10:56] A: Do you have the guy with the green board in front of the truck? 
+[10:58] A: no I dont
+[11:32] B: no, I dont
+[11:37] B: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[11:48] A: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[11:56] B: any other questions?
+[12:01] A: any other questions
+[12:13] B: no thanks
+- - Round 4 - -
+[15:15] B: Do you have the picture of a man with a green surf board in front of a truck?
+[16:18] A: sorry I am here, crying baby
+[16:22] A: Yes I do
+[16:22] A: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[16:29] B: <selection> <com> person_surfboard/COCO_train2014_000000083580.jpg
+[16:32] A: So you have a guy with a shark head board?
+[16:56] B: no, I dont
+[17:02] A: <selection> <dif> person_surfboard/COCO_train2014_000000287084.jpg
+[17:17] A: What about the 2 guys with the surfboard again?
+[17:31] B: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[17:32] A: The ones with the black and blue swim trunks
+[17:40] B: yes, I do.
+[17:43] A: <selection> <com> person_surfboard/COCO_train2014_000000387812.jpg
+[17:55] A: any other questionss?
+[18:36] B: Do you have a man on a bike carrying red-white surf board?
+[18:48] A: no
+[19:02] B: thanks, that's it.
+[19:04] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+- - Round 5 - -
+[19:30] A: Do you have the lady laying on the surfboy with the double red stripe
+[19:51] B: no, I don't have.
+[19:55] A: <selection> <dif> person_surfboard/COCO_train2014_000000204735.jpg
+[20:11] A: Do you have the shark head board?
+[20:32] B: yes, I have.
+[20:34] A: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+[20:35] B: <selection> <com> person_surfboard/COCO_train2014_000000287084.jpg
+[20:43] B: Do you have a man on a bike carrying red-white surf board? 
+[21:08] A: What about the guy on the yellow surfboard surfing, and no I do not have that one you mentioned
+[21:38] B: Yes, I have that, too
+[21:44] A: <selection> <com> person_surfboard/COCO_train2014_000000097094.jpg
+[21:51] A: any other questions
+[21:52] B: <selection> <dif> person_surfboard/COCO_train2014_000000515743.jpg
+[22:38] B: do you have the man with green surf board in front of  a truck?
+[22:50] A: not this time no
+[22:52] B: <selection> <dif> person_surfboard/COCO_train2014_000000083580.jpg
+[23:02] B: thanks, that's it
+
+- - Game statistics - -
+Duration: 23:40 min. Score: 30/30 points.
+[Round 0] Duration: 03:26 min. Score: 6/6 points. Number of messages: 10.
+[Round 1] Duration: 04:33 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 03:17 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 03:49 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 03:41 min. Score: 6/6 points. Number of messages: 11.

@@ -1,0 +1,115 @@
+Game ID: 32UTUBMZ7HU9YHDFRHPCDDVRX4ABVI37XITHEISX70FFO4WXGXN0C6UJWCRW
+Domain ID: 2
+Player A: A5EU1AQJNC7F2
+Player B: APD8A11HXR94C
+
+- - Round 1 - -
+[00:00] A: hi 
+[00:04] A: I have a woman in a red kayak
+[00:10] A: A woman with a panda bear
+[00:19] A: And a woman in a wooden hat with logs behind her
+[00:21] B: Hi yes I have that
+[00:39] B: The red boat
+[00:48] A: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[00:52] A: ok cool
+[00:55] B: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[01:08] B: No panda bear
+[01:22] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[01:25] A: ok
+[01:32] B: Dont have tohe one with the logs
+[01:43] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[01:53] A: ok submitting mine. thanks
+[02:03] B: do you have the man with a black waistcoat 
+[02:17] A: no
+[02:21] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[02:45] B: What about a boy with orange top jumping?
+[02:55] A: nope
+[02:58] B: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[03:00] B: Im done thanks
+- - Round 2 - -
+[03:29] A: i have again the woman in a red kayak
+[03:34] B: I've got the one with the logs
+[03:41] A: i do not 
+[03:46] B: I dont have that one
+[03:53] A: do you have the woman with the panda?
+[03:55] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[03:56] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[04:09] B: No I dont
+[04:13] A: ok
+[04:16] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[04:22] A: last one is the man in a tuxedo on a boat
+[04:58] B: I have a woman with a big strange hat with 2 men behind her
+[05:05] A: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[05:07] A: i do not
+[05:07] B: No I dont have that one
+[05:13] B: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[05:35] B: Do you have a man on a boat with a dog?
+[05:38] A: no
+[05:41] B: <selection> <dif> person_boat/COCO_train2014_000000436717.jpg
+[05:46] B: Im done
+- - Round 3 - -
+[06:13] A: i have the woman in a red kayak
+[06:14] B: I have the one with the panda
+[06:16] A: and the woman with panda
+[06:18] A: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[06:20] A: ok
+[06:24] B: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[06:29] A: i also have soldiers in a raft
+[06:36] B: No kayak
+[06:53] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[06:54] A: ok
+[07:13] B: Is the soldier climbing?
+[07:22] A: yes
+[07:25] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[07:30] B: I got that
+[07:40] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[07:42] B: Do you have the one with the logs
+[07:44] A: ok got my 3 :)
+[07:46] A: no
+[07:49] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[07:52] A: not highlighted anyway
+- - Round 4 - -
+[08:42] B: You are still meant to tell me if you have it
+[09:00] B: Boy jumping in orange?
+[09:03] A: yes i have that
+[09:05] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[09:09] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[09:13] A: do you have the man in a suit on a boat?
+[09:21] B: Man in Tux?
+[09:31] B: yes
+[09:35] B: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[09:40] A: ok
+[09:41] A: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[09:46] A: i also have the soldiers again
+[10:05] B: I dont have that
+[10:12] B: Red kayak?
+[10:19] A: no
+[10:21] A: <selection> <dif> person_boat/COCO_train2014_000000302166.jpg
+[10:24] B: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[10:26] B: Im done
+- - Round 5 - -
+[11:07] A: me too
+[11:15] A: i have the soldiers again
+[11:19] A: and the woman with a panda
+[11:24] A: and the boy in orange jumping
+[11:44] B: Yes I have that Soldier
+[11:51] B: No panda
+[12:00] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[12:01] B: I have the boy
+[12:01] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[12:02] A: ok
+[12:03] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[12:04] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[12:06] A: perfect
+[12:19] B: Man with Tux on boat?
+[12:25] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[12:30] A: no 
+[12:34] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+
+- - Game statistics - -
+Duration: 13:00 min. Score: 28/30 points.
+[Round 0] Duration: 03:01 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:20 min. Score: 5/6 points. Number of messages: 14.
+[Round 2] Duration: 01:39 min. Score: 5/6 points. Number of messages: 14.
+[Round 3] Duration: 01:43 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 01:28 min. Score: 6/6 points. Number of messages: 11.

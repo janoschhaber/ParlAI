@@ -1,0 +1,132 @@
+Game ID: 3QFUFYSY9ZD0HL6GCNALNDMZZA74F33X4MXAO0BHM9TDU9DOGYZUJ9MRCWR7
+Domain ID: 7
+Player A: A3GWRDHAURRNK6
+Player B: AJM4334V07JDQ
+
+- - Round 1 - -
+[00:00] B: a guy sating on a wall?
+[00:06] A: I have kids playing soccer in green jerseys, one is about to throw a ball.
+[00:18] B: yes. i have kids to
+[00:19] A: Yes I have that one, with a parking meter in front of him?
+[00:25] B: yes
+[00:28] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[00:30] B: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[00:48] A: Ok yes to both of those. What about a guy holding a green frisbee next to a white car?
+[00:50] B: a guy talks on the phone?
+[01:00] B: no
+[01:11] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[01:19] A: Umm, I think the guy on the wall is on his phone. But thats the only one.
+[01:23] A: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[01:25] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[01:27] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[01:51] B: mine is next to a car, white guy talking on the phone
+[01:59] A: Nope not that one
+[02:07] B: plus the other one on the wal
+[02:10] B: wall
+[02:10] A: What else you have?
+[02:42] B: boy and and a girl on a bus
+[02:56] A: Just ask about the ones highlighted in yellow remember. Nope no bus.
+[03:30] B: i have the kids, the white guy with the phone and the guy on the wall
+[03:39] B: this are the 3 ones
+[03:43] A: Cool we're done then. submit it!
+[03:47] B: ok
+- - Round 2 - -
+[04:12] A: I have that guy with the green frisbee again next to a white car...
+[04:29] B: no
+[04:39] A: Two people crossing the street on their phones in front of a mercedez.
+[04:45] B: a guy sitting on a bench talking on the phone?
+[04:50] A: and a guy and his dog on a scooter.
+[04:56] B: yes I have the mercedes one
+[04:59] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[05:04] A: nobody on  a bench.
+[05:07] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[05:11] B: yes I have the dog to
+[05:16] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[05:17] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[05:19] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[05:19] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[05:40] B: so I have the picture with the dog
+[05:53] B: the picture with the 2 people and the mercedes
+[05:57] A: And no to the guy with the green frisbee?
+[06:10] B: and the picture with a guy on a bench talking on the phone
+[06:20] B: no green frisbee
+[06:33] A: Ok we're done with that one I think.
+[06:41] B: ok
+[06:49] B: submit
+- - Round 3 - -
+[07:16] A: Ok white guy on phone and smiling...
+[07:24] B: yes I have it
+[07:27] A: guy on scooter with dog...
+[07:34] A: kids playing soccer.
+[07:38] A: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+[07:44] B: wait the one with the smiling guy is not yellow to me
+[07:54] B: I have the one with the dog
+[07:58] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[08:14] B: I have the one with that guy sitting on the wall
+[08:20] A: that's ok, I just need to know if you have it (any of the six)...
+[08:35] A: you ask me about your yellow ones (if they are any of my 6)
+[08:39] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[08:53] A: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[08:57] A: No wall guy
+[09:04] B: I have the one with the dog and it is yellow
+[09:11] A: me too
+[09:11] B: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[09:18] B: guy on the bench?
+[09:25] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[09:26] A: no bench guy
+[09:38] A: is that all your yellows?
+[09:42] B: so this are my 3 ones
+[09:46] A: cool submit
+[09:50] B: ok
+- - Round 4 - -
+[10:08] A: this is really taking long lol
+[10:14] A: ok frisbee guy again
+[10:20] A: mercedez couple
+[10:27] A: and i finally got bench guy
+[11:20] B: kids playing soccer 
+[11:25] A: no
+[11:30] B: the mercedes couple
+[11:35] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[11:42] A: yes
+[11:44] B: and the guy with the freesbie
+[11:47] B: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[11:49] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[11:52] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[11:52] A: haha finally you got that one
+[11:55] A: yes
+[11:57] A: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[11:59] B: yes
+[12:08] B: submit?
+[12:10] A: is that your three?
+[12:14] A: no bench guy?
+[12:21] B: no this time
+[12:21] A: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[12:25] A: k submit
+- - Round 5 - -
+[12:41] A: wall guy...
+[12:45] A: bench guy...
+[12:46] B: no
+[12:50] A: dog on scooter
+[12:52] B: yes bench guy
+[12:58] A: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[13:00] A: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[13:20] B: I have bench guy, ids playing and the guy with the frieesbie
+[13:28] B: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[13:29] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[13:31] B: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[13:32] A: no scooter?
+[13:37] B: no
+[13:44] A: ok just bench guy in common then
+[13:47] A: <selection> <dif> person_car/COCO_train2014_000000195449.jpg
+[13:50] B: yes
+[13:55] A: submit
+[14:12] A: nice meeting you lol
+[14:12] B: nice playing with you
+
+- - Game statistics - -
+Duration: 14:48 min. Score: 29/30 points.
+[Round 0] Duration: 03:50 min. Score: 6/6 points. Number of messages: 20.
+[Round 1] Duration: 02:39 min. Score: 6/6 points. Number of messages: 16.
+[Round 2] Duration: 02:37 min. Score: 6/6 points. Number of messages: 18.
+[Round 3] Duration: 02:20 min. Score: 6/6 points. Number of messages: 17.
+[Round 4] Duration: 01:17 min. Score: 5/6 points. Number of messages: 13.

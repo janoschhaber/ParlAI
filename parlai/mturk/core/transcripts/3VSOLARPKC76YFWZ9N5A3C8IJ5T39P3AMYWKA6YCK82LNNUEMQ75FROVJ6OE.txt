@@ -1,0 +1,137 @@
+Game ID: 3VSOLARPKC76YFWZ9N5A3C8IJ5T39P3AMYWKA6YCK82LNNUEMQ75FROVJ6OE
+Domain ID: 35
+Player A: A1GKD3NG1NNHRP
+Player B: A3S2R1NK6HZ9KP
+
+- - Round 1 - -
+[00:00] B: Hello
+[00:12] A: hi, i have a white plate with food and white bowl with a spoon init
+[00:35] B: I don't have that one.
+[00:43] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000356290.jpg
+[01:19] A: i have white plate with food on left and salad in clear glass on right
+[01:26] A: bowl
+[01:29] B: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[01:36] B: I have that one.
+[01:40] A: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[02:03] A: i have bowl of rice, red soup in black bowl and plate with three sections
+[02:13] B: I have that one.
+[02:19] A: <selection> <com> bowl_dining_table/COCO_train2014_000000144797.jpg
+[02:24] A: ok your turn
+[02:42] B: I have a bento box with veggies, oranges, pinapple, and a sandwich.
+[03:04] A: no
+[03:09] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000260248.jpg
+[03:40] B: I have one that looks like a Halloween cat.
+[03:48] A: no
+[03:52] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000132002.jpg
+[04:06] B: I have one that is in two pink dishes.
+[04:12] A: yes
+[04:17] B: Awesome.
+[04:34] A: ready
+[04:57] B: It says it's waiting on you?
+- - Round 2 - -
+[05:10] A: ok
+[05:25] B: It's cool, I'm patient. :)
+[05:51] A: three plates, one white, one trimmed in blue and a smaller one behind them
+[05:59] A: food in all of them
+[06:21] B: I don't have that one.
+[06:27] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000310714.jpg
+[06:49] A: i have the black cat pink sky, orange tree
+[06:59] B: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[07:20] B: I have that one, too.
+[07:25] A: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[07:31] A: great
+[07:36] A: one more for me
+[07:53] B: Take your time, dude. It's cool.
+[07:57] A: big white plate of food and white bowl with spoon
+[08:10] B: I have that one.
+[08:13] B: <selection> <com> bowl_dining_table/COCO_train2014_000000356290.jpg
+[08:19] A: <selection> <com> bowl_dining_table/COCO_train2014_000000356290.jpg
+[08:26] A: that's my three
+[08:38] B: A white plate divided in thirds, bowl of red stuff, bowl of rice.
+[08:48] A: naw
+[09:09] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000144797.jpg
+[09:23] B: The one with two pink containers?
+[09:28] A: yes
+[09:37] B: One more.
+[09:50] B: I have a bowl of salad and someone is picking it up with a fork.
+[10:06] A: no
+[10:16] B: Great!
+[10:18] B: I'm done.
+[10:27] A: ok
+- - Round 3 - -
+[11:12] A: i have a four sectioned plate, pineapple, oranges, veggies, and sandwich
+[11:36] B: I have that one.
+[11:38] B: <selection> <com> bowl_dining_table/COCO_train2014_000000260248.jpg
+[11:40] A: <selection> <com> bowl_dining_table/COCO_train2014_000000260248.jpg
+[11:54] A: i have the black cat and pink sky, red tree
+[12:12] B: I have that one, too.
+[12:18] A: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[12:52] A: i have the meat on white plate, white rolled up napkin on left and salad in clear bowl on right
+[13:23] B: I don't have that one.
+[13:29] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000244425.jpg
+[13:31] B: That's all of yours right?
+[13:34] A: ok
+[13:36] A: yes
+[14:13] B: I have the two white plates, one larger than the other and the big plate has noodles.
+[14:26] A: no
+[14:29] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000356290.jpg
+[14:54] B: How about the one that has three plates, one plate has a blue edge, and the small plate has a bowl.
+[15:10] A: no
+[15:16] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000310714.jpg
+[16:30] B: I'm ready when you are. :)
+- - Round 4 - -
+[17:31] A: blood red grapefuit, other bowl of fruit and another container behind it
+[17:44] B: I have that one.
+[17:47] B: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[17:49] A: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[18:22] A: i have the white p;ate with blue trimmed plate beside it and smaller plate with small bowl behind i
+[18:39] B: I don't have that one.
+[18:44] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000310714.jpg
+[18:48] A: one more
+[19:09] A: its the white plate with mean and rolled napkin on left wit clear bowl of salad
+[19:17] A: meat
+[19:46] B: The white plate has pizza on it?
+[20:06] A: maybe on the right
+[20:11] A: of the plate
+[20:18] B: I have that.
+[20:22] B: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[20:31] A: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[20:37] A: ok that my three
+[21:05] B: Do you have the one with the veggies, the pineapple, oranges, and sandwich?
+[21:13] A: no
+[21:18] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000260248.jpg
+[21:40] A: i like the hot dog and fries myself
+[21:46] B: The one with the fries on the red tray and the hot dogs in the paper trays?
+[21:50] B: You have that one?
+[21:58] A: yes, just kidding i don't have it
+[22:12] A: i'm done
+[22:24] B: Me too.
+- - Round 5 - -
+[22:58] A: i have blood red grapefruit
+[23:10] B: I have that one, too.
+[23:12] B: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[23:12] A: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[23:33] A: i have the half sandwich, fruit tray, four sections
+[24:00] B: I don't have that one, this time.
+[24:13] A: i have the white bowl on left, blue trimmed bowl on right and small plate with small bowl behind th
+[24:18] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000260248.jpg
+[24:26] B: <selection> <com> bowl_dining_table/COCO_train2014_000000310714.jpg
+[24:31] B: I have that one.
+[24:34] A: <selection> <com> bowl_dining_table/COCO_train2014_000000310714.jpg
+[24:41] A: now your turn
+[24:53] B: Do you have the one with the two white dishes, large one in front with noodles?
+[25:05] A: no
+[25:09] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000356290.jpg
+[25:15] B: The hot dog and fries?
+[25:21] A: no
+[25:33] B: I'm done. Thanks.
+[25:36] A: ok
+[25:50] A: ty
+
+- - Game statistics - -
+Duration: 26:06 min. Score: 30/30 points.
+[Round 0] Duration: 04:24 min. Score: 6/6 points. Number of messages: 18.
+[Round 1] Duration: 05:11 min. Score: 6/6 points. Number of messages: 23.
+[Round 2] Duration: 05:22 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 05:02 min. Score: 6/6 points. Number of messages: 20.
+[Round 4] Duration: 02:40 min. Score: 6/6 points. Number of messages: 14.

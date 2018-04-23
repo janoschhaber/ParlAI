@@ -1,0 +1,94 @@
+Game ID: 31UV0MXWNRA2NVC6R0ZGV255GR45IX339ANSOTR6055EX9YN3MXRONDHZKIX
+Domain ID: 42
+Player A: A2CF2BD4Q0ZDJN
+Player B: A2O762LZEZN3JC
+
+- - Round 1 - -
+[00:00] B: do you have a pic with fed ex trucks?
+[00:18] A: No, do you have truck with Schepps on the back?
+[00:35] B: no
+[00:37] B: <selection> <dif> car_truck/COCO_train2014_000000339250.jpg
+[00:38] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+[00:51] B: do you have a girl with an umbrella?
+[00:58] A: no
+[01:12] A: how about an old blue truck with the hood missing?
+[01:12] B: <selection> <dif> car_truck/COCO_train2014_000000237372.jpg
+[01:22] B: no
+[01:24] A: <selection> <dif> car_truck/COCO_train2014_000000056549.jpg
+[01:45] B: an open cargo truck with a man wearing a red vest
+[01:57] A: Yes,  How about what appears to be 2 red emergency vehicles?
+[02:04] B:  no
+[02:06] B: <selection> <com> car_truck/COCO_train2014_000000075299.jpg
+[02:08] A: <selection> <dif> car_truck/COCO_train2014_000000115639.jpg
+[02:31] A: great, 
+- - Round 2 - -
+[02:52] A: I have the Schepps vehicle again, you?
+[03:00] B: nope
+[03:02] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+[03:07] B: girl with an umbrella?
+[03:13] A: yes
+[03:17] B: <selection> <com> car_truck/COCO_train2014_000000237372.jpg
+[03:23] A: 2 red emergency vehicles?
+[03:30] B: <selection> <com> car_truck/COCO_train2014_000000379766.jpg
+[03:34] B: np
+[03:38] A: <selection> <dif> car_truck/COCO_train2014_000000115639.jpg
+[03:52] A: old car, covered in suit cases?
+[03:52] B: old blue truck covered with suit cases?
+[03:57] A: yes :-)
+[04:00] A: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[04:01] B: yes
+[04:05] B: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+- - Round 3 - -
+[04:51] A: old car with suit cases again?
+[04:58] B: no
+[05:01] A: <selection> <dif> car_truck/COCO_train2014_000000565975.jpg
+[05:07] B: old blue and black show truck?
+[05:16] A: yes
+[05:18] A: <selection> <com> car_truck/COCO_train2014_000000056549.jpg
+[05:28] B: <selection> <com> car_truck/COCO_train2014_000000056549.jpg
+[05:50] A: silver multi wheeled truck ?
+[05:51] B: red emergncy vehicles?
+[05:57] A: no
+[06:02] B: yes on the silver
+[06:05] A: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[06:05] B: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[06:07] B: <selection> <dif> car_truck/COCO_train2014_000000115639.jpg
+- - Round 4 - -
+[06:32] B: blue suit case car?
+[06:49] A: yes
+[06:51] A: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[06:58] A: silver truck again?
+[07:00] B: <selection> <com> car_truck/COCO_train2014_000000565975.jpg
+[07:03] B: yes
+[07:05] B: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[07:06] A: <selection> <com> car_truck/COCO_train2014_000000151371.jpg
+[07:12] B: show truck again?
+[07:25] A: No....truck with schepps written on back?
+[07:31] B: no
+[07:34] B: <selection> <dif> car_truck/COCO_train2014_000000056549.jpg
+[07:34] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+- - Round 5 - -
+[07:49] A: girl with umbrella?
+[07:59] B: no
+[08:02] A: <selection> <dif> car_truck/COCO_train2014_000000237372.jpg
+[08:06] B: red emergency trucks?
+[08:10] A: yes
+[08:12] A: <selection> <com> car_truck/COCO_train2014_000000115639.jpg
+[08:13] B: <selection> <com> car_truck/COCO_train2014_000000115639.jpg
+[08:16] A: schepps truck?
+[08:19] B: show truck?
+[08:23] A: no
+[08:25] B: no on schepps
+[08:28] A: <selection> <dif> car_truck/COCO_train2014_000000379766.jpg
+[08:28] B: <selection> <dif> car_truck/COCO_train2014_000000056549.jpg
+[08:37] B: silver multi wheel?
+[08:42] A: no
+[08:47] B: <selection> <dif> car_truck/COCO_train2014_000000151371.jpg
+
+- - Game statistics - -
+Duration: 09:08 min. Score: 29/30 points.
+[Round 0] Duration: 02:22 min. Score: 6/6 points. Number of messages: 11.
+[Round 1] Duration: 01:19 min. Score: 5/6 points. Number of messages: 10.
+[Round 2] Duration: 01:18 min. Score: 6/6 points. Number of messages: 8.
+[Round 3] Duration: 01:04 min. Score: 6/6 points. Number of messages: 7.
+[Round 4] Duration: 00:58 min. Score: 6/6 points. Number of messages: 10.

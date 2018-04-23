@@ -1,0 +1,137 @@
+Game ID: 3LYA37P8IRLVI6J3SDB5B4KAH1JKBB3FQ5JJ512MMXJF80V3GE2ZK4YQCKNF
+Domain ID: 6
+Player A: A3AFC26CB0AXMI
+Player B: A2ETY1O927Z1IF
+
+- - Round 1 - -
+[00:00] B: do you have a man write something on his hand
+[00:04] B: by a parking meter
+[00:07] A: Hi do you have a person standing behind a car on a stool
+[00:14] A: no
+[00:15] B: no
+[00:18] A: <selection> <dif> person_car/COCO_train2014_000000394151.jpg
+[00:24] B: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[00:30] A: and and woman in a vehicle?
+[00:37] A: man and woman in a vehicle
+[00:47] B: is the women wearing glasses
+[00:51] A: yes
+[01:02] B: and showing the man her cellphone
+[01:07] A: yes
+[01:09] B: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[01:09] A: <selection> <com> person_car/COCO_train2014_000000011619.jpg
+[01:15] B: yes i have that image
+[01:25] B: do you have a women interviewing a man with a hat
+[01:35] A: yes 
+[01:37] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[01:38] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[01:46] B: im done do you have anymore images
+[01:56] A: im  done also
+- - Round 2 - -
+[02:13] A: man and woman eating a donut
+[02:16] B: yes
+[02:17] B: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[02:19] A: <selection> <com> person_car/COCO_train2014_000000282514.jpg
+[02:26] A: man by parking meter
+[02:28] B: do you have a person standing on a stool
+[02:32] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[02:36] A: behind a car?
+[02:38] B: is the man talking on his cellphone
+[02:42] B: sitting down
+[03:11] B: go first
+[03:16] B: and describe
+[03:23] A: i have a person on a stool by a car trunt
+[03:29] A: trunk which is open
+[03:32] B: yes
+[03:35] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[03:41] A: you next
+[03:41] B: i have that one
+[03:55] B: do you have a man smiling on his cellphone
+[03:59] B: wearing a blue shirt
+[04:03] A: in a blue shirt yes
+[04:07] B: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+[04:20] A: i have the pan writing on his hand by a parking meter
+[04:25] A: man sorry
+[04:30] B: no i do not have
+[04:32] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[04:35] A: ok im done
+[04:37] B: im done 
+- - Round 3 - -
+[04:49] B: man writing on his hand
+[04:51] A: man on phone again
+[04:54] A: yes i have that
+[04:57] A: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[04:58] B: <selection> <com> person_car/COCO_train2014_000000121619.jpg
+[05:11] B: describe the picture
+[05:28] A: man in blue shirt smiling holing a cell phone by his ear
+[05:35] B: no i do not have that one
+[05:37] A: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[05:47] A: the man and a woman eating donuts
+[05:54] B: no 
+[05:56] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[05:58] A: you now
+[05:58] B: do you have a women interviewing a man with a hat
+[06:03] A: no
+[06:06] B: <selection> <dif> person_car/COCO_train2014_000000563545.jpg
+[06:27] A: im done anymore for you?
+[06:31] B: do you have a women showing a man her cellphone 
+[06:37] B: the women has glasses
+[06:40] A: no
+[06:43] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[06:46] B: im done
+- - Round 4 - -
+[07:08] A: you go first
+[07:09] B: do you have the man with the blue shirt smiling on his cellphone
+[07:23] A: no
+[07:26] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[07:37] A: the two people eating pink donuts
+[07:40] B: no
+[07:43] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[07:57] B: do you have a man sitting down talking on his cellphone by the parking meter
+[08:10] B: he has a white tshirt on and blue jeans
+[08:16] A: yes
+[08:19] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[08:27] A: woman in glasses showing her cell phone
+[08:30] B: no
+[08:33] A: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[08:59] B: do you have a man talking on phone hold a cup of coffee and a women is also talking on the phone
+[09:12] B: she has a green bag
+[09:16] A: no
+[09:18] B: <selection> <dif> person_car/COCO_train2014_000000405991.jpg
+[09:21] A: do you have the man writing on his hand by a parking meter
+[09:26] B: no
+[09:29] A: <selection> <dif> person_car/COCO_train2014_000000121619.jpg
+[09:33] A: im alld one
+[09:34] B: im done
+- - Round 5 - -
+[09:58] A: do you have the person on a stool by a car
+[10:08] B: trunk opened?
+[10:11] A: yes
+[10:14] B: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[10:15] B: yes
+[10:17] A: <selection> <com> person_car/COCO_train2014_000000394151.jpg
+[10:20] B: do you have the man smiling wearing a blue shirt talking on his cell phone 
+[10:27] A: no
+[10:37] A: do you have the two people eating pink donuts
+[10:42] B: no
+[10:44] A: <selection> <dif> person_car/COCO_train2014_000000282514.jpg
+[11:02] B: do you have the one wear a women is interviewing a man with a hat
+[11:07] A: yes
+[11:10] A: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[11:11] B: <selection> <com> person_car/COCO_train2014_000000563545.jpg
+[11:14] A: im done
+[11:21] B: do you have a picture of a women showing her cellphone
+[11:23] B: to a man
+[11:27] B: she has glasses on
+[11:28] A: no
+[11:31] B: <selection> <dif> person_car/COCO_train2014_000000011619.jpg
+[11:33] B: im done
+[11:51] A: thanks have a good one
+[11:56] B: you too
+
+- - Game statistics - -
+Duration: 12:07 min. Score: 30/30 points.
+[Round 0] Duration: 01:58 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:25 min. Score: 6/6 points. Number of messages: 22.
+[Round 2] Duration: 01:58 min. Score: 6/6 points. Number of messages: 16.
+[Round 3] Duration: 02:31 min. Score: 6/6 points. Number of messages: 17.
+[Round 4] Duration: 01:46 min. Score: 6/6 points. Number of messages: 18.

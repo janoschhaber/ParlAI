@@ -1,0 +1,105 @@
+Game ID: 3K772S5NP992NJUFWJAYZKA3SK7EHM308XBLVESJ2H5AWYIXK2CG6OCVPBRB
+Domain ID: 58
+Player A: AZZA3J049G7R5
+Player B: A16SAB417Y96G4
+
+- - Round 1 - -
+[00:00] A: Hello
+[00:05] B: hi
+[00:13] B: i see a lady on a bus with a water bottle
+[00:25] A: I have it as well.
+[00:36] B: i have two ladies on a bench looking at a camera
+[00:41] B: <selection> <com> person_bench/COCO_train2014_000000372319.jpg
+[00:48] A: Yes.
+[00:50] B: i also see a buddhist monk on a bench
+[00:50] A: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[00:52] B: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[00:56] A: I have it.
+[00:58] A: <selection> <com> person_bench/COCO_train2014_000000239417.jpg
+[01:02] B: <selection> <com> person_bench/COCO_train2014_000000239417.jpg
+[01:05] B: ok i'm good
+[01:26] A: Two old ladies on a sunny day sitting and talking?
+[01:31] B: yes
+[01:38] A: <selection> <com> person_bench/COCO_train2014_000000335696.jpg
+- - Round 2 - -
+[01:59] B: lady on bus with water bottle again
+[02:04] A: No
+[02:06] B: man on bench with a cane
+[02:09] B: <selection> <dif> person_bench/COCO_train2014_000000372319.jpg
+[02:13] A: Yes.
+[02:15] B: lady with hotdog
+[02:17] B: <selection> <com> person_bench/COCO_train2014_000000220226.jpg
+[02:20] A: No
+[02:23] B: <selection> <dif> person_bench/COCO_train2014_000000196545.jpg
+[02:24] B: good
+[02:37] A: Two OLD ladies talking on a sunny day
+[02:45] B: no
+[02:47] A: NOT the ones with a phone.
+[02:51] A: <selection> <dif> person_bench/COCO_train2014_000000335696.jpg
+[02:58] B: no
+[02:58] A: Monk sitting?
+[03:02] B: no
+[03:05] A: <selection> <dif> person_bench/COCO_train2014_000000239417.jpg
+[03:12] A: Lady in a blue dress reading a book?
+[03:23] B: no
+[03:26] A: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+- - Round 3 - -
+[03:46] B: old ladies on bench outside no phone
+[03:53] A: No.
+[03:55] B: lady in green dress reading a book
+[03:57] B: <selection> <dif> person_bench/COCO_train2014_000000335696.jpg
+[04:03] A: Yes.
+[04:04] B: man on skateboard with a hat
+[04:06] B: <selection> <com> person_bench/COCO_train2014_000000015354.jpg
+[04:10] A: Yes.
+[04:11] B: im good
+[04:12] B: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[04:12] A: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[04:27] A: The lady with a book is not laying down right?
+[04:32] B: right
+[04:32] A: <selection> <com> person_bench/COCO_train2014_000000015354.jpg
+[04:39] A: Two ladies with a phone?
+[04:43] B: no
+[04:50] A: <selection> <dif> person_bench/COCO_train2014_000000580257.jpg
+- - Round 4 - -
+[05:01] B: man on skateboard
+[05:05] A: No
+[05:06] B: old ladies outside no phone
+[05:11] A: Yes.
+[05:12] B: lady in green dress reading
+[05:14] B: <selection> <dif> person_bench/COCO_train2014_000000326499.jpg
+[05:14] A: <selection> <com> person_bench/COCO_train2014_000000335696.jpg
+[05:15] B: <selection> <com> person_bench/COCO_train2014_000000335696.jpg
+[05:18] A: No.
+[05:20] B: good
+[05:22] B: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+[05:28] A: Sitting monk?
+[05:32] B: no
+[05:37] A: <selection> <dif> person_bench/COCO_train2014_000000239417.jpg
+[05:40] A: Woman on a bus?
+[05:43] B: no
+[05:46] A: <selection> <dif> person_bench/COCO_train2014_000000372319.jpg
+- - Round 5 - -
+[05:58] B: two ladies outside looking at phone or camera
+[06:13] A: Yes.
+[06:14] B: lady in green dress reading
+[06:15] B: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[06:16] A: <selection> <com> person_bench/COCO_train2014_000000580257.jpg
+[06:20] A: No.
+[06:21] B: man on skateboard
+[06:23] B: <selection> <dif> person_bench/COCO_train2014_000000015354.jpg
+[06:24] A: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[06:27] A: Yes.
+[06:28] B: im good
+[06:29] B: <selection> <com> person_bench/COCO_train2014_000000326499.jpg
+[06:32] A: Sitting monk?
+[06:34] B: no
+[06:37] A: <selection> <dif> person_bench/COCO_train2014_000000239417.jpg
+
+- - Game statistics - -
+Duration: 06:48 min. Score: 29/30 points.
+[Round 0] Duration: 01:38 min. Score: 5/6 points. Number of messages: 11.
+[Round 1] Duration: 01:27 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 01:04 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 00:45 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 00:39 min. Score: 6/6 points. Number of messages: 9.

@@ -1,0 +1,107 @@
+Game ID: 3CTOC39K38OD5AAVXBZD5NY1JJ97JO3VHP9MDGROI3CPJV52G36BYNROHCFJ
+Domain ID: 35
+Player A: A10XW6SNPNQX16
+Player B: AZZA3J049G7R5
+
+- - Round 1 - -
+[00:00] A: do you have a bowl of vegetables that looks a cat at night
+[00:18] B: yes. Carrot tree right?
+[00:22] A: yes
+[00:24] A: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[00:26] B: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[00:49] A: do you have 3 bowls of food
+[01:00] B: Does it have a white rice?
+[01:09] A: yes
+[01:11] B: <selection> <com> bowl_dining_table/COCO_train2014_000000144797.jpg
+[01:12] A: <selection> <com> bowl_dining_table/COCO_train2014_000000310714.jpg
+[01:42] A: 2 plates, one larger than the other glass bottles in the background
+[01:53] B: Are we on a new one?
+[01:59] A: no
+[02:02] B: Or still the 3 bowls
+[02:09] A: new one
+[02:37] B: I think I also have that the one you just described.
+[02:42] B: <selection> <com> bowl_dining_table/COCO_train2014_000000356290.jpg
+[02:44] A: <selection> <com> bowl_dining_table/COCO_train2014_000000356290.jpg
+- - Round 2 - -
+[03:05] A: do you have slices of pizza with a salad?
+[03:11] B: no
+[03:15] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000244425.jpg
+[03:21] A: the veggie cat one?
+[03:25] B: Yes.
+[03:28] A: <selection> <com> bowl_dining_table/COCO_train2014_000000132002.jpg
+[03:45] A: last one, looks like a bento lunch box
+[04:10] B: one with vegetables, oranges sandwich and that yellow stuff?
+[04:35] A: yes
+[04:38] B: <selection> <com> bowl_dining_table/COCO_train2014_000000260248.jpg
+[04:39] A: <selection> <com> bowl_dining_table/COCO_train2014_000000260248.jpg
+[04:41] B: I have it.
+[05:08] B: Do you have the one with the two plates and glasses in the background?
+[05:12] A: no
+[05:18] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000356290.jpg
+[05:29] B: How about three plates with one glass?
+[05:32] A: no
+[05:36] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000310714.jpg
+- - Round 3 - -
+[05:49] B: That bento box again?
+[05:49] A: pizza and salad?
+[05:52] A: no
+[05:55] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000260248.jpg
+[06:01] B: I have no pizza and salad
+[06:07] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000244425.jpg
+[06:07] B: The cat in the night again?
+[06:10] A: no
+[06:16] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000132002.jpg
+[06:18] B: Wait
+[06:25] B: I do have the pizza and salad.
+[06:31] B: I did not see it as pizza at first.
+[06:32] A: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[06:34] B: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[06:37] A: white rice, soup, another dish?
+[06:40] A: ok :)
+[06:54] B: I have that one.
+[06:57] A: <selection> <com> bowl_dining_table/COCO_train2014_000000144797.jpg
+[07:08] A: 2 plates with glasses in the background?
+[07:15] B: No
+[07:18] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000356290.jpg
+- - Round 4 - -
+[07:30] A: bento box?
+[07:33] B: no
+[07:36] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000260248.jpg
+[07:42] A: 3 plates with one glass?
+[07:46] B: yes
+[07:48] B: <selection> <com> bowl_dining_table/COCO_train2014_000000310714.jpg
+[07:50] A: <selection> <com> bowl_dining_table/COCO_train2014_000000310714.jpg
+[08:00] A: round containters with fruits and veggies?
+[08:00] B: Two plates with glasses in the background?
+[08:04] A: no
+[08:07] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000356290.jpg
+[08:16] B: Okay
+[08:24] B: Going back to your round containers
+[08:24] A: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[08:35] B: does it have carrots on the edge on one of them?
+[08:39] A: yes
+[08:52] B: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+- - Round 5 - -
+[09:09] B: Do you have the bento box?
+[09:10] A: round containers with fruit and veggies again
+[09:11] A: no
+[09:15] A: pizza and salad
+[09:15] B: <selection> <dif> bowl_dining_table/COCO_train2014_000000260248.jpg
+[09:17] B: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[09:19] B: Yes
+[09:30] B: Round containers with carrots?
+[09:30] A: <selection> <com> bowl_dining_table/COCO_train2014_000000244425.jpg
+[09:37] A: yes
+[09:39] A: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[09:42] B: <selection> <com> bowl_dining_table/COCO_train2014_000000161846.jpg
+[09:42] A: 3 plates with one glass
+[09:48] B: No
+[09:49] A: <selection> <dif> bowl_dining_table/COCO_train2014_000000310714.jpg
+
+- - Game statistics - -
+Duration: 10:05 min. Score: 28/30 points.
+[Round 0] Duration: 02:45 min. Score: 4/6 points. Number of messages: 12.
+[Round 1] Duration: 02:31 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 01:30 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 01:23 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 00:40 min. Score: 6/6 points. Number of messages: 9.

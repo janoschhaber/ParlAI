@@ -1,0 +1,112 @@
+Game ID: 3X4MXAO0BHM9TDU9DOGYZUJ9M31RWF3G2UL9A02EC1HFVODS5OWJTWXPM763
+Domain ID: 51
+Player A: A1Y6YA93AFCHPY
+Player B: A2W3I2GBGDB637
+
+- - Round 1 - -
+[00:00] A: Do you have the coffee cup with the long shadow
+[00:06] B: yes
+[00:10] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[00:12] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[00:25] A: Do you have the hamburger with the tomato sticking out
+[00:57] B: the one I have looks like a breakfast sandwich with a tomato sticing out...I can see fried egg
+[01:10] A: I have that one
+[01:14] B: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[01:16] A: <selection> <com> cup_dining_table/COCO_train2014_000000038305.jpg
+[01:29] A: Do you have the beers with something that has jb on it
+[01:45] B: no
+[01:50] A: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[01:57] A: what else do you need
+[02:24] B: do you have a tin cup with rice noodles in it and it's in front of a keyboard
+[02:35] A: no
+[02:37] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[02:41] B: done
+[02:45] A: done
+- - Round 2 - -
+[03:07] A: do you have the long shadow coffee cup
+[03:12] B: yes
+[03:15] B: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[03:16] A: <selection> <com> cup_dining_table/COCO_train2014_000000496196.jpg
+[03:24] A: do you have the tomato one
+[03:40] B: no
+[03:42] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[04:05] B: do you have the one with a glass of beer and a bottle with JB on it
+[04:19] A: do you have something on a bun with red packets on each side on a red placemat
+[04:26] A: I don't have jb
+[04:28] B: yes
+[04:32] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[04:33] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[04:34] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[04:38] A: done
+[04:42] B: done
+- - Round 3 - -
+[05:14] A: I have rice
+[05:31] B: do you have the JB one 
+[05:31] A: and the red packet sandwich
+[05:37] B: no rice here
+[05:42] A: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[05:44] B: red packet yes
+[05:48] B: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[05:49] A: no JB
+[05:52] B: <selection> <dif> cup_dining_table/COCO_train2014_000000570019.jpg
+[06:02] A: <selection> <com> cup_dining_table/COCO_train2014_000000035407.jpg
+[06:13] A: do you have a straw and up with donut
+[06:19] A: cup sorry
+[06:22] B: do you have a messed up looking sandwich and you can see part of a guys checkered shirt
+[06:40] A: no
+[06:54] B: <selection> <dif> cup_dining_table/COCO_train2014_000000316663.jpg
+[07:05] A: do you have the dark blue cup with straw and donut
+[07:06] B: yes, I have that one
+[07:14] A: <selection> <com> cup_dining_table/COCO_train2014_000000566432.jpg
+[07:28] B: yes
+[07:32] B: done
+[07:37] A: done
+- - Round 4 - -
+[07:57] A: I have rice
+[07:58] B: rice noodles in cup?
+[08:04] B: k me too
+[08:04] A: yes
+[08:06] B: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[08:07] A: <selection> <com> cup_dining_table/COCO_train2014_000000163939.jpg
+[08:11] A: tomato?
+[08:14] B: cup with straw
+[08:20] A: no straw
+[08:20] B: no tomato
+[08:24] B: <selection> <dif> cup_dining_table/COCO_train2014_000000566432.jpg
+[08:24] A: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[08:32] A: messed up sandwich
+[08:35] B: messed up sandwich?
+[08:39] B: yes
+[08:42] A: that's funny
+[08:43] B: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[08:49] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[08:49] B: lol
+[08:52] B: done
+[08:53] A: done
+- - Round 5 - -
+[09:04] A: jb?
+[09:15] B: yes
+[09:17] B: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[09:20] A: <selection> <com> cup_dining_table/COCO_train2014_000000570019.jpg
+[09:21] B: rice?
+[09:26] A: messed up sandwich
+[09:31] B: yes
+[09:33] A: no rice
+[09:37] B: <selection> <dif> cup_dining_table/COCO_train2014_000000163939.jpg
+[09:39] A: <selection> <com> cup_dining_table/COCO_train2014_000000316663.jpg
+[09:41] B: tomato?
+[09:43] A: red packets
+[09:49] B: no
+[09:52] A: no tomato
+[09:57] B: <selection> <dif> cup_dining_table/COCO_train2014_000000038305.jpg
+[09:57] A: <selection> <dif> cup_dining_table/COCO_train2014_000000035407.jpg
+[10:03] A: done
+[10:06] B: done
+
+- - Game statistics - -
+Duration: 10:45 min. Score: 30/30 points.
+[Round 0] Duration: 02:48 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 01:44 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 02:25 min. Score: 6/6 points. Number of messages: 15.
+[Round 3] Duration: 00:59 min. Score: 6/6 points. Number of messages: 15.
+[Round 4] Duration: 01:04 min. Score: 6/6 points. Number of messages: 12.

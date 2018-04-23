@@ -1,0 +1,101 @@
+Game ID: 323Q6SJS8JEUTXUBRUU4H2V358MFHG3F1567XTNX3Y5G217YH6GK1TTXNQ9V
+Domain ID: 14
+Player A: A3VP27UUQ34OXK
+Player B: AVHJ2SNIMGZ91
+
+- - Round 1 - -
+[00:00] B: Do you have the row of men in yellow jackets and white helmets on motorcycles?
+[00:10] A: Yes, I do!
+[00:13] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[00:14] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[00:33] A: Do you have the one with a guy on a green motorcycle and green backpack?
+[00:46] B: no
+[00:51] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[01:17] B: do you have one with a heavy set person riding an orange motorcycle.  They're wearing a blk helmet
+[01:29] A: No
+[01:31] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[01:51] A: How about the one with I guy on a motorcylce facing the camera, with a white tank top and sun glass
+[02:18] B: yes
+[02:19] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[02:21] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+- - Round 2 - -
+[02:50] B: do you have the man on the black motorcycle wearing shorts and a green plaid shirt-no helmet?
+[03:14] A: No
+[03:17] B: <selection> <dif> person_motorcycle/COCO_train2014_000000039100.jpg
+[03:19] A: I have the same one with the guy on a green bike and green backpack.
+[03:40] B: nope...I don't have that one
+[03:43] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[04:00] A: How about the heavy person on the orange bike?
+[04:10] B: How about the one with  the green dirt bike.  Driver has a white helmet and white and black clothes
+[04:12] B: nope
+[04:18] A: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[05:15] A: Is it only green in the front of the bike?  And the bike is leaning to our right?
+[05:24] B: yes
+[05:26] B: that's the one
+[05:31] A: It'
+[05:39] B: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+[05:45] A: It's on my page but not highlighted yellow.
+[06:07] B: how about the one with a woman in a dark blue or black dress standing by a motorcycle
+[06:23] A: Do you have the one with a close up of a man's face with a helmet on looking in his rearview mirror
+[06:29] B: nope
+[06:43] A: I dont have your last one either.
+[06:45] B: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[06:46] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+- - Round 3 - -
+[07:15] B: I have the one with the man looking in his mirror this time
+[07:24] A: Me, too.
+[07:27] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[07:27] B: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[07:39] B: How about the heavy guy on the orange bike?  Do you have him?
+[07:48] A: I have the one with the guy on the green motorcyle and green backpack.
+[07:57] B: I don't have that one
+[07:59] A: No, not on the orange bike.
+[08:02] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[08:03] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[08:24] B: how about the row of guys in yellow with white helmets?
+[08:28] A: I have one with a woman dressed in midevil times dress standing next to a bike.
+[08:34] B: I don't have that one
+[08:35] A: No. not that one
+[08:37] A: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[08:39] B: <selection> <dif> person_motorcycle/COCO_train2014_000000560615.jpg
+- - Round 4 - -
+[09:25] B: Do you have the heavy guy on the orange bike?
+[09:26] A: I have the one with the five guys in the yellow jackets.
+[09:36] A: Yes, I have that one.
+[09:39] A: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[09:39] B: I have the one with the row of yellow guys too
+[09:41] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[09:42] B: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[09:44] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[09:49] B: do you have the guy looking in the mirror?
+[09:58] A: No.
+[10:02] B: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[10:15] A: I have the one with the guy facing forward, tank top and sun glasses.
+[10:21] B: I don't have that one
+[10:25] A: <selection> <dif> person_motorcycle/COCO_train2014_000000238178.jpg
+- - Round 5 - -
+[10:55] A: Guy in the rearview mirror?
+[10:57] B: I have the guy on the green bike with the green backpack
+[11:02] B: nope not this time
+[11:06] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[11:17] A: Guy with the green bike and backpack?
+[11:43] B: I have the guy on the green bike.  I do not have the rearview mirror guy
+[12:02] A: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[12:20] A: Ok.  How about the guy with the tank top and sun glasses?
+[12:28] B: yes I have him
+[12:30] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[12:36] B: did you have the guy on the green bike?
+[12:46] A: Yes, I did. 
+[12:50] B: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[12:52] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[12:57] B: did you have the woman in the dress again?
+[13:11] A: No. I did not
+[13:13] B: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+
+- - Game statistics - -
+Duration: 13:39 min. Score: 28/30 points.
+[Round 0] Duration: 02:23 min. Score: 6/6 points. Number of messages: 8.
+[Round 1] Duration: 03:58 min. Score: 6/6 points. Number of messages: 16.
+[Round 2] Duration: 01:25 min. Score: 5/6 points. Number of messages: 10.
+[Round 3] Duration: 01:02 min. Score: 6/6 points. Number of messages: 8.
+[Round 4] Duration: 02:19 min. Score: 5/6 points. Number of messages: 11.

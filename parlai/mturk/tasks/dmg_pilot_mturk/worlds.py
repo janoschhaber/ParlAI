@@ -95,7 +95,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
             self.images = {self.player_labels[0]: [entry[0] for entry in self.data[self.player_labels[0]][self.rounds_random[self.round_nr]]],
                            self.player_labels[1]: [entry[0] for entry in self.data[self.player_labels[1]][self.rounds_random[self.round_nr]]]}
 
-            self.higlighted = {self.player_labels[0]: [entry[1] for entry in self.data[self.player_labels[0]][self.rounds_random[self.round_nr]]],
+            self.highlighted = {self.player_labels[0]: [entry[1] for entry in self.data[self.player_labels[0]][self.rounds_random[self.round_nr]]],
                                self.player_labels[1]: [entry[1] for entry in self.data[self.player_labels[1]][self.rounds_random[self.round_nr]]]}
 
             self.common = list(set(self.images[self.player_labels[0]]).intersection(set(self.images[self.player_labels[1]])))
@@ -117,7 +117,7 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
                 action = {}
                 action['text'] = WELCOME_MESSAGE.format(self.round_nr+1, player, image_list)
                 action['images'] = self.images[player_label]
-                action['highlighted'] = self.higlighted[player_label]
+                action['highlighted'] = self.highlighted[player_label]
                 action['name'] = self.names[counter]
                 agent.observe(validate(action))
                 counter += 1
@@ -256,8 +256,12 @@ class MTurkDMGDialogWorld(MTurkTaskWorld):
         # Write the log data to file
         if VERBOSE: print("Logging data")
         self.round_log['round_nr'] = self.round_nr
-        self.round_log['images'] = {self.player_labels[0]: self.data[self.player_labels[0]][self.round_nr],
-                                    self.player_labels[1]: self.data[self.player_labels[1]][self.round_nr]}
+        self.round_log['images'] = {"A": self.images["A"],
+                                    "B": self.images["B"]}
+        self.round_log['common'] = self.common
+        self.round_log['highlighted'] = {"A": self.highlighted["A"],
+                                         "B": self.highlighted["B"]}
+
         self.conversation_log['rounds'].append(deepcopy(self.round_log))
 
         if VERBOSE: print("Writing log to file")
@@ -497,6 +501,9 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         # Log the message
         log_entry = self.create_message_log_entry(agent, player, player_label, message)
         self.round_log['messages'].append(log_entry)
+        self.round_log['images'] = {"A": self.images["A"],
+                                    "B": self.images["B"]}
+
         message = message.split(" ")
 
         # Message is a selection. Parse it
@@ -609,9 +616,9 @@ class MTurkDMGDialogWarmupWorld(MTurkTaskWorld):
         self.warmup_log['rounds'].append(deepcopy(self.round_log))
 
         if VERBOSE: print("Writing log to file")
-        if not os.path.exists("logs"):
-            os.makedirs("logs")
-        with open('logs/dmg_pilot_data_{}_{}_warmup.json'.format(self.assignment_ids[0], self.assignment_ids[1]), 'w') as f:
+        if not os.path.exists("logs/warmup"):
+            os.makedirs("logs/warmup")
+        with open('logs/warmup/dmg_pilot_data_{}_{}_warmup.json'.format(self.assignment_ids[0], self.assignment_ids[1]), 'w') as f:
             json.dump(copy(self.warmup_log), f)
 
     def create_message_log_entry(self, agent, player, player_label, message):

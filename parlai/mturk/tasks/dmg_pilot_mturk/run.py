@@ -329,7 +329,7 @@ def main():
 
                     agent.approve_work()
                     with open('records/payments.txt', 'a') as f:
-                        f.write("{}; {}; {}; payment\n".format(agent.worker_id, 2.00, agent.assignment_id))
+                        f.write("{}; {}; {}; payment\n".format(agent.worker_id, 1.75, agent.assignment_id))
 
                 else:
                     print("Rejecting agent {}'s work as he or she disconnected (too early) or score is too low.".format(agent.worker_id))
@@ -433,11 +433,12 @@ def main():
             duration_mins = duration / 60.0
             time_bonus = None
 
-            if duration_mins > 10:
+            if duration_mins > 1:
                 if duration_mins >= 25:
                     time_bonus = 1.50
                 else:
                     time_bonus = int(duration_mins - 10) * 0.10
+                    time_bonus = round(time_bonus, 2)
 
             if time_bonus and time_bonus > 1.5:
                 time_bonus = 1.5

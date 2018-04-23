@@ -1,0 +1,114 @@
+Game ID: 3SUWZRL0MZBMQUAY00JU2TLDKTDE6I39GXDJN2OUCQWJF8O552MB5QQJ78V5
+Domain ID: 2
+Player A: AD7A7J28H5JDT
+Player B: A2VF6506WDNXKS
+
+- - Round 1 - -
+[00:00] B: I have a young boy wearing an orange tshirt jumping off of a boat/dock
+[00:28] A: Same, with a boat and a building in the background?
+[00:39] B: Yes, that is it
+[00:41] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[00:42] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[01:01] B: I have one with a soldier climbing up to a helicopter from a oat
+[01:23] B: boat, sorry
+[01:40] A: Same, black gloves and helmet with a tan shirt?
+[01:50] B: Yes, that is correct as well
+[01:52] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[01:53] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[02:08] A: I have one with two ladies on a boat with a stuffed toy panda
+[02:22] B: My last one is a man wearing a blue tie, black vest, on an black backgroud
+[02:27] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[02:41] B: I do not have one with a toy panda
+[02:57] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[02:59] A: I don't have the one with the man
+[03:09] B: I think we have found all 3
+[03:19] A: I think so too
+- - Round 2 - -
+[03:41] A: I got the one with the toy pands again
+[03:47] B: I have the photo with the boy in the orange shirt
+[03:51] A: *toy panda
+[03:53] B: I do not have the panda one
+[03:58] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[04:08] B: I have a woman in a red kayak
+[04:08] A: I don't have the boy in the orange shirt
+[04:14] B: <selection> <dif> person_boat/COCO_train2014_000000191616.jpg
+[04:33] A: I have the red kayak, with a rocky hill in the back?
+[04:40] B: I have the man in the black vest on the back background as well
+[04:48] B: Yes, that is the right kayak photo 
+[04:50] B: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[04:51] A: <selection> <com> person_boat/COCO_train2014_000000167783.jpg
+[05:22] A: I don't have the man in the black vest
+[05:36] B: Ok, sounds good.
+[05:37] B: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[05:42] A: I have some with a pile of wood and a rice patty hat
+[05:52] B: I do not have that one
+[05:53] A: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[06:28] A: I think we only have the same kayak photo
+[06:37] B: Yes, that's right
+- - Round 3 - -
+[07:11] A: I have kayak lady again
+[07:19] B: I do not have that one
+[07:22] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[07:32] B: I have one with a man in a boat with a dog on his lap
+[07:45] A: I don't have that
+[07:50] B: <selection> <dif> person_boat/COCO_train2014_000000436717.jpg
+[07:57] A: I have toy panda again
+[08:12] B: I have one with a woman wearing a pointed hat, sitting on a boat, with wood behind her
+[08:21] B: I do not have the toy panda
+[08:22] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[08:24] B: <selection> <dif> person_boat/COCO_train2014_000000424434.jpg
+[08:44] A: I had the pointed hat lady in the last one but not this one
+[08:48] B: My third one is a woman on a boat chopping a green leafy stalk.  There are two men behind her 
+[09:03] B: I think all 3 of ours are different this time
+[09:09] A: I have that but it's not highlighted
+[09:16] A: I have black vest guy
+[09:22] A: <selection> <dif> person_boat/COCO_train2014_000000289248.jpg
+[09:23] A: <selection> <dif> person_boat/COCO_train2014_000000079517.jpg
+[09:23] B: I don't have him this time
+[09:45] A: I think they're all different this time
+[09:50] B: Agreed
+- - Round 4 - -
+[10:16] A: Kayak lady is back
+[10:18] B: I have the military soldier again
+[10:24] B: No kayak lady for me
+[10:40] B: I have the toy panda this time too
+[10:42] A: I have the military soldier
+[10:47] B: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[10:52] A: And toy panda
+[10:54] A: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[10:54] A: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[10:56] A: <selection> <com> person_boat/COCO_train2014_000000302166.jpg
+[11:07] B: <selection> <com> person_boat/COCO_train2014_000000289248.jpg
+[11:17] B: I have the woman with the stack of wood for my 3rd
+[11:40] A: I have that buy not highlighted
+[11:44] A: *but
+[12:02] B: <selection> <com> person_boat/COCO_train2014_000000004834.jpg
+[12:18] A: So just military soldier and toy panda for us this time
+[12:23] B: <selection> <dif> person_boat/COCO_train2014_000000004834.jpg
+[12:31] B: Yes, that is correct I think
+- - Round 5 - -
+[13:13] B: I have the red kayak
+[13:26] A: No red kayak for me
+[13:29] A: Got military soldier again
+[13:30] B: <selection> <dif> person_boat/COCO_train2014_000000167783.jpg
+[13:36] B: I do not have that one
+[13:43] B: Black vest guy is on mine
+[13:49] A: <selection> <dif> person_boat/COCO_train2014_000000302166.jpg
+[13:59] A: Got black vest as well
+[14:03] A: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[14:03] B: <selection> <com> person_boat/COCO_train2014_000000079517.jpg
+[14:15] B: I also have the boy in organe
+[14:18] A: My last one is the kid in orange jumping
+[14:22] A: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[14:28] B: <selection> <com> person_boat/COCO_train2014_000000191616.jpg
+[14:32] B: mine too, perfect
+[14:36] A: I guess we got it
+[14:43] B: I think so
+
+- - Game statistics - -
+Duration: 15:01 min. Score: 28/30 points.
+[Round 0] Duration: 03:19 min. Score: 6/6 points. Number of messages: 13.
+[Round 1] Duration: 02:58 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 02:41 min. Score: 5/6 points. Number of messages: 15.
+[Round 3] Duration: 02:23 min. Score: 5/6 points. Number of messages: 11.
+[Round 4] Duration: 01:32 min. Score: 6/6 points. Number of messages: 11.

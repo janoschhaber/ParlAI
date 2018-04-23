@@ -1,0 +1,131 @@
+Game ID: 3OE22WJIGJMWP8Q459CXCGO75S7QUF38F5OAUN5OAHE4F59BWSTAIM6VN7H9
+Domain ID: 38
+Player A: AZZA3J049G7R5
+Player B: A2ETY1O927Z1IF
+
+- - Round 1 - -
+[00:00] B: do you have a white cake that is about to be cut with a green knife
+[00:10] A: No
+[00:18] B: <selection> <dif> cake_dining_table/COCO_train2014_000000134599.jpg
+[00:33] A: How about one that is currently being cut by a knife? It's like a giant donut
+[00:56] B: yes
+[00:59] B: do you have a cake that is next to a teapot and tea cup
+[01:30] A: white sprinkles?
+[01:48] B: with white frosting in the middle
+[01:58] B: the tea pot is brown
+[02:11] A: I don't think we're describing the same thing
+[02:25] A: So I don't think I have that
+[02:29] B: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[02:45] A: Photographer taking a picture of a construction cake?
+[02:48] B: yes
+[02:50] B: <selection> <com> cake_dining_table/COCO_train2014_000000322720.jpg
+[02:53] A: <selection> <com> cake_dining_table/COCO_train2014_000000322720.jpg
+[03:12] A: Unifinished chocolate cake with a fork in front?
+[03:18] A: *unfinished
+[03:37] B: is there a icecream sundae on a red plate
+[04:04] A: I have that one, but there's another one
+[04:23] A: The angle is really close to the cake, with the fork almost blurred
+[04:40] B: is the fork on top of a knife
+[05:10] A: I do see a picture like that, but what I am describing to you is different.
+[05:19] A: There's like an envelope in the background.
+[05:20] B: no i do not have
+[05:24] A: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[05:42] A: How about a round brown cake with white sprinkles?
+[05:53] B: no
+[05:56] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[07:00] A: Do you still have a picture?
+[07:02] B: do you have the cake that is next to a tea pot and tea cup
+[07:24] A: What color are they
+[07:37] B: cup is white pot is brown
+[07:44] A: no
+[07:48] B: im done
+[08:00] A: Go next page
+- - Round 2 - -
+[08:27] A: You go first then we switch next page
+[08:43] B: do you have a chocolate cake that has white frosting in between with a fork on a red napkin
+[08:52] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[08:54] A: Yes.
+[08:57] B: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[09:57] B: did you want me to ask all my question?
+[10:02] A: Yes
+[10:05] B: do you have a cake that is round that has white sugar on top next to a strawberry and banana 
+[10:19] A: I thought that was a rose.
+[10:23] A: <selection> <com> cake_dining_table/COCO_train2014_000000152914.jpg
+[10:28] A: Yes I have it.
+[10:30] B: <selection> <com> cake_dining_table/COCO_train2014_000000152914.jpg
+[10:33] B: do you have a chocolate cake from godiva
+[10:49] A: Yes.
+[10:52] B: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[10:58] B: im done 
+[11:08] A: Photographer with construction cake?
+[11:10] B: no
+[11:13] A: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[11:39] A: You can submit without waiting
+- - Round 3 - -
+[11:53] B: go first
+[12:18] A: The white cup brown pot cake
+[12:23] B: yes
+[12:26] A: <selection> <com> cake_dining_table/COCO_train2014_000000392943.jpg
+[12:27] B: <selection> <com> cake_dining_table/COCO_train2014_000000392943.jpg
+[12:46] A: Red cloth, icing in the middle, and a fork?
+[12:52] B: no
+[12:55] A: <selection> <dif> cake_dining_table/COCO_train2014_000000222244.jpg
+[13:20] A: Tall round cake with white icing about to be sliced?
+[13:27] B: yes
+[13:30] A: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[13:33] B: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[13:34] A: You go
+[13:42] B: man taking a picture of a cake
+[13:46] A: No
+[13:48] B: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[13:49] B: done
+- - Round 4 - -
+[14:00] A: Go
+[14:18] B: chocolate cake with white filling next to a fork on a red napkin 
+[14:26] A: Yes.
+[14:28] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[14:30] B: white cake about to be cut with a knife
+[14:32] B: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[14:36] A: Yes.
+[14:37] A: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[14:42] B: white cup brown pot with cake
+[14:43] B: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[14:46] A: No.
+[14:49] B: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[14:51] B: go
+[14:57] A: Brown cake, banana, strawberry?
+[15:01] B: no
+[15:03] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[15:06] A: done
+- - Round 5 - -
+[15:16] B: go
+[15:21] A: Photographer with cake?
+[15:24] B: no
+[15:27] A: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[15:39] A: White cup, brown teapot?
+[15:43] B: no
+[15:45] A: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[15:58] A: Banana, strawberry, white sugar in cake?
+[16:01] B: no
+[16:04] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[16:07] A: Go
+[16:08] B: chocolate cake from godiva
+[16:13] A: No.
+[16:18] B: kid reaching for cake
+[16:19] B: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[16:21] A: Yes.
+[16:24] B: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[16:43] B: choco cake fork on top of the knife
+[16:46] B: next to a sundae
+[16:52] A: No
+[16:54] B: <selection> <dif> cake_dining_table/COCO_train2014_000000501718.jpg
+[16:56] B: done
+[17:08] B: have a good day
+
+- - Game statistics - -
+Duration: 17:10 min. Score: 30/30 points.
+[Round 0] Duration: 08:01 min. Score: 6/6 points. Number of messages: 30.
+[Round 1] Duration: 03:20 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 01:57 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 01:03 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 01:41 min. Score: 6/6 points. Number of messages: 17.

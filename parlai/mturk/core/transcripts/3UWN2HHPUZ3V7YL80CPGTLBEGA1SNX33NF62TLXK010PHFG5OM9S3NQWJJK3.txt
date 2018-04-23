@@ -1,0 +1,103 @@
+Game ID: 3UWN2HHPUZ3V7YL80CPGTLBEGA1SNX33NF62TLXK010PHFG5OM9S3NQWJJK3
+Domain ID: 46
+Player A: A22X4H4XWMRFG7
+Player B: A1LOUZD99NZCT2
+
+- - Round 1 - -
+[00:00] B: two women eating donuts, one in orange shirt one in red shirt
+[00:00] A: do you have a photo of a toddler eaten?
+[00:05] B: yes
+[00:07] B: <selection> <com> couch_dining_table/COCO_train2014_000000560969.jpg
+[00:07] A: no
+[00:10] A: <selection> <com> couch_dining_table/COCO_train2014_000000560969.jpg
+[00:11] B: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[00:27] B: lady on couch sitting with little child at the end of a coffee table?
+[00:40] A: a woman drinking wine?
+[00:41] A: no
+[00:50] B: nope
+[00:52] B: <selection> <dif> couch_dining_table/COCO_train2014_000000010877.jpg
+[01:00] A: she wearing a blue shirt
+[01:22] A: a man cuting a big pizza?
+[01:26] A: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+[01:28] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[01:39] B: no
+[01:44] A: i am done
+[01:47] A: you?
+[02:15] B: yes
+[02:34] A: we move to next page
+- - Round 2 - -
+[03:05] B: two women eating at restaurant, one orange shirt, one red shirt
+[03:32] A: the woman sitting on the couch with a toddler nearby?
+[03:40] B: yes
+[03:41] B: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[03:50] A: the couch is blue
+[04:01] A: two women no
+[04:01] B: beer bottles, cans, and candles on a wooden table
+[04:07] A: yes
+[04:08] B: yes couch is blue
+[04:10] B: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[04:11] B: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[04:12] A: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[04:13] A: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[04:25] A: a man cutting a big pizza?
+[04:28] B: nope
+[04:33] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[04:39] A: i am done
+- - Round 3 - -
+[06:03] B: same pic as last time, woman on blue couch with kid?
+[06:21] A: I have two woman in front of muffin?
+[06:23] A: yes
+[06:27] A: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[06:30] B: <selection> <com> couch_dining_table/COCO_train2014_000000010877.jpg
+[06:37] B: in orange and red shirts?
+[06:43] A: yes
+[06:45] B: also have toddler eating again
+[06:46] A: <selection> <com> couch_dining_table/COCO_train2014_000000249727.jpg
+[06:47] B: <selection> <com> couch_dining_table/COCO_train2014_000000249727.jpg
+[06:53] A: no
+[07:08] B: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[07:09] B: ok
+[07:10] A: the bottles on the white page ealier photo?
+[07:25] B: nope
+[07:35] A: i am done
+[07:40] A: <selection> <dif> couch_dining_table/COCO_train2014_000000509555.jpg
+- - Round 4 - -
+[07:56] A: toddler eating?
+[07:59] B: nope
+[08:06] B: bottles and cables and cans on the wooden table again
+[08:11] A: bottles on white table
+[08:13] A: yes
+[08:16] A: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[08:17] A: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[08:18] B: <selection> <com> couch_dining_table/COCO_train2014_000000509555.jpg
+[08:24] B: man slicing pizza
+[08:29] A: yes
+[08:32] A: I am done
+[08:34] A: <selection> <com> couch_dining_table/COCO_train2014_000000180606.jpg
+[08:39] B: <selection> <com> couch_dining_table/COCO_train2014_000000180606.jpg
+[08:45] B: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+- - Round 5 - -
+[09:00] A: toddler eating?¸
+[09:04] B: two kids sleeping at a booth in restaurant 
+[09:05] B: nope
+[09:10] A: yes
+[09:20] A: man slicing pizza?
+[09:28] B: no
+[09:29] A: <selection> <dif> couch_dining_table/COCO_train2014_000000560969.jpg
+[09:34] A: <selection> <dif> couch_dining_table/COCO_train2014_000000180606.jpg
+[09:47] B: <selection> <com> couch_dining_table/COCO_train2014_000000330652.jpg
+[09:48] A: two womans in front of muffin?
+[09:52] B: nope
+[09:55] A: <selection> <dif> couch_dining_table/COCO_train2014_000000249727.jpg
+[10:00] A: I am done
+[10:09] B: <selection> <com> couch_dining_table/COCO_train2014_000000275014.jpg
+[10:11] B: <selection> <dif> couch_dining_table/COCO_train2014_000000109895.jpg
+[10:12] B: <selection> <dif> couch_dining_table/COCO_train2014_000000275014.jpg
+
+- - Game statistics - -
+Duration: 10:27 min. Score: 29/30 points.
+[Round 0] Duration: 02:21 min. Score: 6/6 points. Number of messages: 15.
+[Round 1] Duration: 01:38 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 01:38 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 00:50 min. Score: 5/6 points. Number of messages: 8.
+[Round 4] Duration: 01:12 min. Score: 6/6 points. Number of messages: 9.

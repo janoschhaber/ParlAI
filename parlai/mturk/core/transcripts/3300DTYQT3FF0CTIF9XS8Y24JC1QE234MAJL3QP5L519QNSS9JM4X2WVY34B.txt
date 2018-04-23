@@ -1,0 +1,102 @@
+Game ID: 3300DTYQT3FF0CTIF9XS8Y24JC1QE234MAJL3QP5L519QNSS9JM4X2WVY34B
+Domain ID: 29
+Player A: A2R0YYUAWNT7UD
+Player B: A2W355OIAMEPCY
+
+- - Round 1 - -
+[00:00] A: Do you have the two people next to the pink truck?
+[00:05] B: Yes. I do.
+[00:07] A: <selection> <com> person_truck/COCO_train2014_000000265781.jpg
+[00:08] B: <selection> <com> person_truck/COCO_train2014_000000265781.jpg
+[00:23] B: Do you have a boy playing in front of a red car
+[00:29] A: Nope.
+[00:33] B: <selection> <dif> person_truck/COCO_train2014_000000185945.jpg
+[00:40] A: Do you have the man putting something in the back of a truck?
+[01:16] B: I don't think so. I have a men standing near a white truck/
+[01:24] A: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[01:24] A: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[01:31] A: I have that one too
+[01:34] A: <selection> <com> person_truck/COCO_train2014_000000190016.jpg
+[01:35] B: <selection> <com> person_truck/COCO_train2014_000000190016.jpg
+[01:40] A: Thats all 3 for me.
+[01:52] B: That's it for me as well. 
+- - Round 2 - -
+[02:27] A: Do you have the lady in a green shirt holding fruit?
+[02:35] B: Yes, I do. 
+[02:37] B: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[02:47] B: Do you have the man putting something in the truck
+[02:56] A: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[02:59] A: yup
+[03:00] A: <selection> <com> person_truck/COCO_train2014_000000032674.jpg
+[03:03] B: <selection> <com> person_truck/COCO_train2014_000000032674.jpg
+[03:16] A: do you have the man and woman standing near the road with a truck in the background
+[03:27] B: No
+[03:42] A: <selection> <dif> person_truck/COCO_train2014_000000292358.jpg
+[03:50] B: Do you have the pink food truck with two people in front of it
+[03:59] A: Nope.
+[04:03] B: <selection> <dif> person_truck/COCO_train2014_000000265781.jpg
+[04:19] B: That's all of my photos. Do you have more?
+[04:31] A: nope
+- - Round 3 - -
+[04:47] A: Do you have the fruit lady?
+[04:55] B: Yes.
+[04:56] A: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[04:58] B: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[05:20] B: Do you have the Salvation Army truck with people standing in line?
+[05:24] A: yep
+[05:26] A: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[05:26] B: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[05:37] A: Do you have the guy putting something in the red truck?
+[06:03] B: No. I don't. 
+[06:14] A: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[06:20] B: Do you have the two people standing in front of the white truck?
+[06:23] A: nope.
+[06:27] B: <selection> <dif> person_truck/COCO_train2014_000000292358.jpg
+[06:28] A: Thats it for me
+[06:38] B: I'm done.
+- - Round 4 - -
+[07:06] A: Do you have the kid playing near the truck
+[07:12] B: Yes. 
+[07:15] A: <selection> <com> person_truck/COCO_train2014_000000185945.jpg
+[07:21] A: Do you have the salvation army truck?
+[07:27] B: I have the Salvation Army truck.
+[07:28] A: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[07:30] B: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[07:34] A: Do you have the pink truck?
+[07:40] B: No. 
+[07:42] A: <selection> <dif> person_truck/COCO_train2014_000000265781.jpg
+[07:53] B: Do you have the two people in front of the white truck?
+[08:00] A: nope
+[08:03] B: <selection> <dif> person_truck/COCO_train2014_000000292358.jpg
+[08:18] A: Thats it for me
+[08:35] B: Do you have the white truck filled with junk? Has some people standing beside it.
+[08:43] A: nope
+[08:47] B: <selection> <dif> person_truck/COCO_train2014_000000190016.jpg
+[08:53] B: That's it for me. 
+- - Round 5 - -
+[09:15] B: I have the pink food truck again.
+[09:26] A: I dont
+[09:30] B: <selection> <dif> person_truck/COCO_train2014_000000265781.jpg
+[09:33] A: Do you have the people near the white truck
+[09:48] B: Yes.
+[10:05] A: <selection> <com> person_truck/COCO_train2014_000000190016.jpg
+[10:06] B: Do you have the guy putting something in the red truck?
+[10:08] A: Nope
+[10:12] B: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[10:12] A: Salvation army?
+[10:15] B: No
+[10:29] B: Do you have the people in front of the white truck?
+[10:36] A: <selection> <com> person_truck/COCO_train2014_000000292358.jpg
+[10:37] A: yeah
+[10:40] A: <selection> <dif> person_truck/COCO_train2014_000000087219.jpg
+[10:41] B: <selection> <com> person_truck/COCO_train2014_000000292358.jpg
+[10:50] B: That's it for me. 
+[10:58] A: same
+
+- - Game statistics - -
+Duration: 11:21 min. Score: 30/30 points.
+[Round 0] Duration: 02:13 min. Score: 6/6 points. Number of messages: 9.
+[Round 1] Duration: 01:55 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:53 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 01:49 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 01:47 min. Score: 6/6 points. Number of messages: 12.

@@ -1,0 +1,122 @@
+Game ID: 33L7PJKHCHWBJRBJJA5NLTH5SFN8TI33JKGHPFYDSS9383GFTUHCC8N2SNMM
+Domain ID: 48
+Player A: AH31QLJ57XC8W
+Player B: A1AF25FCVKC87X
+
+- - Round 1 - -
+[00:00] A: Is there a cat touching any laptop?
+[00:20] B: Do you have one with a cat laying on a laptop?
+[00:26] A: yep
+[00:30] B: Yes I have one with a cat on a laptop
+[00:32] B: <selection> <com> couch_laptop/COCO_train2014_000000292101.jpg
+[00:52] A: is it also staring into the camera? 
+[01:08] B: The cat?  yeah
+[01:13] A: <selection> <com> couch_laptop/COCO_train2014_000000292101.jpg
+[01:34] B: Do you have one with a laptop that has a green wireless mouse?
+[01:44] A: no
+[01:48] B: <selection> <dif> couch_laptop/COCO_train2014_000000474562.jpg
+[02:30] A: do you have one with one cat with one hand on the laptop, bot full body?
+[02:49] A: not*
+[02:54] B: Do you have one with a grey laptop and a cup and bowl to its left?
+[02:57] B: yes I do
+[03:01] A: <selection> <com> couch_laptop/COCO_train2014_000000174573.jpg
+[03:14] A: no
+[03:20] B: <selection> <dif> couch_laptop/COCO_train2014_000000166853.jpg
+[03:40] A: do you have with a guy holding a black berry?
+[03:53] B: no
+[04:03] A: ok
+[04:05] A: <selection> <dif> couch_laptop/COCO_train2014_000000297632.jpg
+- - Round 2 - -
+[04:40] A: you have one with a laptop on a couch and a stand
+[04:55] B: no
+[05:00] A: <selection> <dif> couch_laptop/COCO_train2014_000000474562.jpg
+[05:15] A: one with anothe cat on the laptop staring into the camera?
+[05:28] B: do you have one witha laptop thats on the windows loading screen?
+[05:31] B: no
+[05:35] A: <selection> <dif> couch_laptop/COCO_train2014_000000292101.jpg
+[05:39] A: no
+[05:44] B: <selection> <dif> couch_laptop/COCO_train2014_000000380128.jpg
+[05:59] A: do you have one with a guy holding a blackberry phone?
+[06:22] B: do you have one with a little girl on a laptop and has a plastic glass of juice?
+[06:25] B: no
+[06:28] A: <selection> <dif> couch_laptop/COCO_train2014_000000297632.jpg
+[06:32] A: no
+[06:40] B: <selection> <dif> couch_laptop/COCO_train2014_000000179961.jpg
+[07:01] B: Do you have one with a cat staring at the camera and one paw on a laptop?
+[07:19] A: yes
+[07:23] B: <selection> <com> couch_laptop/COCO_train2014_000000174573.jpg
+[07:31] A: opps no
+[07:39] B: <selection> <dif> couch_laptop/COCO_train2014_000000174573.jpg
+[07:59] B: do you have any more questions?
+[08:37] A: nope
+- - Round 3 - -
+[09:05] A: ha again do you have the black berry phone?
+[09:13] B: Do you have one with a hand holding a hpone?
+[09:17] B: no
+[09:20] A: <selection> <dif> couch_laptop/COCO_train2014_000000297632.jpg
+[09:23] B: I mean yes
+[09:28] A: <selection> <com> couch_laptop/COCO_train2014_000000297632.jpg
+[09:28] B: <selection> <com> couch_laptop/COCO_train2014_000000297632.jpg
+[09:45] A: one with a grey cat sitting on laptop and sharing inot camera?
+[10:24] B: is it a black laptop?
+[10:38] A: its a grey laptop
+[10:55] B: no
+[11:03] A: but i do you have one with a black laptop with a grey and white cat looking down?
+[11:04] A: <selection> <dif> couch_laptop/COCO_train2014_000000292101.jpg
+[11:14] B: no
+[11:41] B: Do you have one with a black laptop and a cat laying on it?
+[11:47] A: <selection> <dif> couch_laptop/COCO_train2014_000000145629.jpg
+[12:08] A: yes
+[12:26] B: <selection> <com> couch_laptop/COCO_train2014_000000145629.jpg
+[12:32] A: no more questions for me
+[12:55] B: ok last one.  Do you have one with a white cat and its right paw is on a laptop?
+[13:21] A: yes
+[13:26] B: <selection> <com> couch_laptop/COCO_train2014_000000174573.jpg
+- - Round 4 - -
+[13:53] A: do you have one with a laptop and bowl next to it and a coffee cup
+[14:00] B: yes
+[14:04] A: <selection> <com> couch_laptop/COCO_train2014_000000166853.jpg
+[14:06] B: <selection> <com> couch_laptop/COCO_train2014_000000166853.jpg
+[14:35] B: Do you have one with a grey cat laying on a laptop and staring at the camera?
+[14:51] A: no
+[14:57] B: <selection> <dif> couch_laptop/COCO_train2014_000000292101.jpg
+[15:06] A: do you have one with a laptop laying on a stand on a couch
+[15:17] B: no
+[15:23] A: <selection> <dif> couch_laptop/COCO_train2014_000000474562.jpg
+[15:34] B: Do you have one that has a green wireless mouse?
+[15:54] A: yes
+[15:56] A: <selection> <com> couch_laptop/COCO_train2014_000000474562.jpg
+[15:59] B: <selection> <com> couch_laptop/COCO_train2014_000000474562.jpg
+[16:05] B: ok i'm good
+[16:14] A: one with a cat laying partially on a black laptop
+[16:21] B: no
+[16:33] A: <selection> <dif> couch_laptop/COCO_train2014_000000145629.jpg
+[16:37] A: ok i think im done
+- - Round 5 - -
+[17:04] A: happen to have the one with the black berry again?
+[17:15] B: Again with the green mouse one haha
+[17:18] B: no
+[17:27] A: <selection> <dif> couch_laptop/COCO_train2014_000000297632.jpg
+[17:40] A: one with the bowl to the left?
+[17:43] B: Sorry mine should have been a question
+[17:46] B: yes
+[17:49] B: <selection> <com> couch_laptop/COCO_train2014_000000166853.jpg
+[17:56] A: <selection> <com> couch_laptop/COCO_train2014_000000166853.jpg
+[17:56] A: <selection> <com> couch_laptop/COCO_train2014_000000166853.jpg
+[18:30] B: Do you have the one with a green mouse?
+[18:45] A: no
+[18:51] B: <selection> <dif> couch_laptop/COCO_train2014_000000474562.jpg
+[18:59] A: do you have one with a cat  on a black lap top?
+[19:06] B: yes
+[19:08] B: <selection> <com> couch_laptop/COCO_train2014_000000145629.jpg
+[19:15] A: <selection> <com> couch_laptop/COCO_train2014_000000145629.jpg
+[19:22] B: Do you have any more questions?
+[19:52] A: no
+
+- - Game statistics - -
+Duration: 20:10 min. Score: 27/30 points.
+[Round 0] Duration: 04:06 min. Score: 5/6 points. Number of messages: 16.
+[Round 1] Duration: 03:59 min. Score: 5/6 points. Number of messages: 15.
+[Round 2] Duration: 04:21 min. Score: 5/6 points. Number of messages: 15.
+[Round 3] Duration: 02:45 min. Score: 6/6 points. Number of messages: 12.
+[Round 4] Duration: 02:51 min. Score: 6/6 points. Number of messages: 12.

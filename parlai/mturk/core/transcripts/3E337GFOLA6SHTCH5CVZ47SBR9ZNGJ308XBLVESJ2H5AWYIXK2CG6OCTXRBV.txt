@@ -1,0 +1,152 @@
+Game ID: 3E337GFOLA6SHTCH5CVZ47SBR9ZNGJ308XBLVESJ2H5AWYIXK2CG6OCTXRBV
+Domain ID: 38
+Player A: A1RH3X41J9J05R
+Player B: A2RUHO7I7Y4XFA
+
+- - Round 1 - -
+[00:00] B: okay i have a chocolate cake with icing in the middle and a red napkin
+[00:14] A: it have a bite taken out of it?
+[00:23] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[00:26] B: yes one small bit is out of it on the tip
+[00:32] B: bite i mean
+[00:35] A: we both have that
+[00:41] B: okay cool
+[00:42] B: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[01:05] B: I have a white cake on a rainbow striped table
+[01:07] A: i also have what looks like a flourless chocolate cake with a pot of sauce above it
+[01:33] A: there looks like there is a strawberry and some other friut on the plate too
+[01:42] B: I do not have that one
+[01:47] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[02:52] B: do you have that white cake 
+[02:53] A: the third one i have is a cake with white frosting. looks like meringue
+[03:10] A: there is a green knife above it
+[03:19] B: yes the knife is blurry right?
+[03:26] A: on a striped tablecloth. yes blurry
+[03:31] B: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[03:36] B: yes that's the one
+[03:39] A: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[03:43] B: we both have that
+[03:51] A: do you have thing else?
+[04:39] B: okay I have one with a white cake slice with buttercream icing inside, next to a teapot and teacup
+[04:49] A: I don't have that one
+[04:55] B: okay
+[04:58] B: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[05:03] A: ready to submit?
+[05:05] B: okay do you have any others?
+[05:08] B: I am ready yes
+[05:14] A: not that are marked
+[05:23] B: Okay lets submit
+- - Round 2 - -
+[06:20] A: i have a guy taking a picture of a cake
+[06:49] B: I don't have anything like that. 
+[07:01] A: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[07:18] B: I have a square piece of chocolate cake with a godiva box behind it 
+[07:22] A: I also have the same picture from the last page of the cake on the red napkin
+[07:51] B: yes you mean the one the little bite out?
+[07:56] B: I have that same one too
+[07:57] A: yes
+[08:02] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[08:02] B: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[08:08] B: okay we both have that one
+[08:44] A: I ahve one with a godiva box but the cake looks like a mouse cake and it almost finished
+[08:57] A: the box is on the left side
+[09:05] A: mine is not marked though
+[09:07] B: yes that's the one I have too
+[09:12] B: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[09:39] A: is there a fork on the plate?
+[09:47] B: yes covered in chocolate
+[10:05] A: yeah. i wonder why it is not makred for me
+[10:28] B: it says in the instructions the highlighted ones wont be the same 
+[11:06] A: my last highlighted on is the cake with a pot of choclate sauce above it with friut
+[11:29] B: yes the one with strawberry and banana with it right?
+[11:46] A: yes, and the cake has powdered sugar on it
+[11:54] A: <selection> <com> cake_dining_table/COCO_train2014_000000152914.jpg
+[12:01] B: yes that one has powdered sugar 
+[12:09] B: <selection> <com> cake_dining_table/COCO_train2014_000000152914.jpg
+[12:13] B: we both have it
+[12:23] A: I am ready to submit
+[12:29] B: me too okay lets go
+- - Round 3 - -
+[13:00] A: I have the cake with the blurry knife again
+[13:17] B: Yes I have that same one with the blurry knife above.
+[13:20] B: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[13:23] A: <selection> <com> cake_dining_table/COCO_train2014_000000134599.jpg
+[13:34] A: i also have the cake with the red napkin again
+[13:48] B: I have one with the guy taking a picture of the cake
+[13:54] A: <selection> <com> cake_dining_table/COCO_train2014_000000222244.jpg
+[14:02] A: i don't have that one
+[14:06] B: I don't have that same one again 
+[14:11] B: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[14:23] A: i have a cream filled cake slice with a brown tea pot
+[14:59] A: it's one a red patterned table cloth
+[15:08] B: Yes it's on a red and green tablecloth 
+[15:11] B: I have that one too.
+[15:18] B: <selection> <com> cake_dining_table/COCO_train2014_000000392943.jpg
+[15:25] A: and the is a white cup and saucer to the left?
+[15:41] B: yes and the brown tea kettle above
+[15:44] A: <selection> <com> cake_dining_table/COCO_train2014_000000392943.jpg
+[15:57] A: you ready to submit?
+[16:18] A: i hope we get a bonus on this
+[16:29] B: Yes I am ready.
+- - Round 4 - -
+[17:05] A: I have the one with the brown tea pot again
+[17:09] B: Okay I have the one with the godiva box behind it again
+[17:16] A: i don't have that
+[17:29] B: No I don't have that one again this time
+[17:33] B: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[17:35] A: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[17:53] A: i also have the cake with the chocolate sauce and fruit again
+[18:10] B: I do not have that one this time
+[18:13] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[18:32] A: And i have the guy photographing the cake
+[18:39] B: Okay I have a birthday cake with a lady holding a baby in front of it 
+[18:46] B: No I don't have that one this time either
+[18:50] A: <selection> <dif> cake_dining_table/COCO_train2014_000000322720.jpg
+[19:05] A: the baby is in a blue striped shirt?
+[19:13] B: yes that's the one 
+[19:17] A: i have it
+[19:23] B: okay cool
+[19:25] B: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[19:39] A: we ready to submit?
+[19:45] B: and I have one it's a chocolate cake slice with chocolate and white icing on top
+[19:51] B: with a knife and fork on the plate
+[19:59] A: i don't have that
+[20:14] B: Okay 
+[20:16] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[20:19] B: that is my last one
+[20:22] B: <selection> <dif> cake_dining_table/COCO_train2014_000000501718.jpg
+[20:42] A: i submitted
+[20:44] B: ready to submit now
+- - Round 5 - -
+[21:05] A: i got the godiva chocolate one again
+[21:05] B: I have now the one of the guy taking a picture of the cake
+[21:14] A: i have that one
+[21:18] A: <selection> <com> cake_dining_table/COCO_train2014_000000322720.jpg
+[21:27] B: okay we both have
+[21:31] A: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[21:34] B: <selection> <com> cake_dining_table/COCO_train2014_000000322720.jpg
+[21:40] B: I dont have that godiva one
+[21:48] A: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[21:58] A: and then i have the one with the sauce and fruit
+[22:09] B: I dont have that
+[22:20] B: I have the one with the blurry knife again do you?
+[22:29] A: i don't have that one
+[22:41] B: <selection> <dif> cake_dining_table/COCO_train2014_000000134599.jpg
+[23:02] B: okay and I have the one with the brown kettle again
+[23:14] B: with the red tablecloth
+[23:15] A: I don't have that either
+[23:19] B: <selection> <dif> cake_dining_table/COCO_train2014_000000392943.jpg
+[23:25] B: okay do you have any others?
+[23:46] A: I just have the one with the chocolate sauce next to the cake with fruit
+[23:57] A: <selection> <dif> cake_dining_table/COCO_train2014_000000152914.jpg
+[24:01] B: No I dont have that one
+[24:10] A: ok. i am ready to submit then
+[24:17] B: me too
+
+- - Game statistics - -
+Duration: 24:51 min. Score: 29/30 points.
+[Round 0] Duration: 05:47 min. Score: 6/6 points. Number of messages: 26.
+[Round 1] Duration: 06:14 min. Score: 6/6 points. Number of messages: 23.
+[Round 2] Duration: 03:35 min. Score: 5/6 points. Number of messages: 15.
+[Round 3] Duration: 03:40 min. Score: 6/6 points. Number of messages: 21.
+[Round 4] Duration: 03:14 min. Score: 6/6 points. Number of messages: 17.

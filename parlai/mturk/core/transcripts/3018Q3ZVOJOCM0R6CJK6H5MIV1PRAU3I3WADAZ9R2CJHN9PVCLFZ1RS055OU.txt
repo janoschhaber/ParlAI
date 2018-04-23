@@ -1,0 +1,103 @@
+Game ID: 3018Q3ZVOJOCM0R6CJK6H5MIV1PRAU3I3WADAZ9R2CJHN9PVCLFZ1RS055OU
+Domain ID: 30
+Player A: A1CY01G7686ORZ
+Player B: A4J7IJ84V1PJL
+
+- - Round 1 - -
+[00:00] A: do you have someone using a remote control up close?
+[00:02] B: Hand holding remote and pressing the center button?
+[00:04] B: Yup
+[00:07] A: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[00:15] B: Guy holding a remote pointed at a green screen?
+[00:22] B: <selection> <com> person_tv/COCO_train2014_000000288713.jpg
+[00:26] A: no
+[00:28] B: <selection> <dif> person_tv/COCO_train2014_000000323226.jpg
+[00:36] A: wii controler in hands with feet up on a table?
+[00:46] B: Nope
+[00:49] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[00:51] B: 2 girls with a wii controller in front of an old crt tv
+[01:39] A: no.  guy in purple shirt holding some kind of controller with a cord attatching them
+[02:15] B: Maybe is he next to a logo that looks like a blueish A?
+[02:32] A: no but I do have that one
+[02:39] B: Ok, I don't have the purple shirt one
+[02:42] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+[02:44] A: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+- - Round 2 - -
+[03:14] B: I have the purple shirt guy now
+[03:18] A: the big remote with the hand pushing the middle button?
+[03:22] B: Nope
+[03:23] A: I don't have the purple shirt guy
+[03:25] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[03:26] B: <selection> <dif> person_tv/COCO_train2014_000000035771.jpg
+[03:46] A: The person with the wii controller and the feet propped up on a coffee table?
+[03:55] B: I have a bunch of people standing around with one girl sitting at a small table with a cake
+[04:01] A: I have that one 
+[04:07] B: <selection> <com> person_tv/COCO_train2014_000000493114.jpg
+[04:19] B: Guy next to the blueish A logo
+[04:22] A: no
+[04:28] B: What's your last one?
+[04:31] B: <selection> <dif> person_tv/COCO_train2014_000000263385.jpg
+[04:34] A: The person with the wii controller and feet propped up on table?
+[04:43] B: Nope
+[04:48] A: and two girls with wii controller in front of older style tv
+[04:50] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[04:58] B: Nope
+[04:59] A: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+- - Round 3 - -
+[05:14] B: up close remote
+[05:18] A: the two girls in front of older tv again?
+[05:20] A: no for upclose remote
+[05:22] B: Yup
+[05:24] B: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[05:24] A: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[05:25] B: <selection> <com> person_tv/COCO_train2014_000000160102.jpg
+[05:32] B: Guy pointing remote at green screen
+[05:38] A: in a red shirt?
+[05:44] B: Yup
+[05:46] A: yes
+[05:49] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[05:54] B: I'm done. Do you have any more?
+[05:59] A: guy in blue polo shirt pointing remote at small tv?
+[06:04] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[06:16] B: No
+[06:24] A: <selection> <dif> person_tv/COCO_train2014_000000400064.jpg
+- - Round 4 - -
+[06:32] A: big remote?
+[06:35] B: I have the blue polo guy now?
+[06:37] B: nope
+[06:39] A: <selection> <dif> person_tv/COCO_train2014_000000288713.jpg
+[06:43] A: I have blue polo guy
+[06:46] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[06:46] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[06:54] B: feet propped on desk with wii remote?
+[06:55] A: person with wii controller and feet propped up?
+[06:57] A: yup
+[06:58] A: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[07:01] B: <selection> <com> person_tv/COCO_train2014_000000544994.jpg
+[07:09] B: Purple shirt cord attached?
+[07:12] A: yes
+[07:15] B: <selection> <com> person_tv/COCO_train2014_000000035771.jpg
+[07:32] B: I'm done. You?
+- - Round 5 - -
+[07:43] A: blue polo shirt guy?
+[07:43] B: green screen red shirt
+[07:48] B: Yup
+[07:50] B: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[07:51] A: yes for red shirt
+[07:53] A: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[07:55] B: <selection> <com> person_tv/COCO_train2014_000000323226.jpg
+[07:55] A: <selection> <com> person_tv/COCO_train2014_000000400064.jpg
+[07:59] B: 2 girls wii old tv
+[08:03] A: wii controller with feet propped up?
+[08:07] A: no for two girls
+[08:11] B: nope
+[08:13] A: <selection> <dif> person_tv/COCO_train2014_000000544994.jpg
+[08:13] B: <selection> <dif> person_tv/COCO_train2014_000000160102.jpg
+
+- - Game statistics - -
+Duration: 08:30 min. Score: 30/30 points.
+[Round 0] Duration: 02:45 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 01:45 min. Score: 6/6 points. Number of messages: 14.
+[Round 2] Duration: 01:11 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 01:00 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 00:31 min. Score: 6/6 points. Number of messages: 8.

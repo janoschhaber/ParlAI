@@ -1,0 +1,120 @@
+Game ID: 3YMU66OBIO607XQ62E0MZNVF6NAHG53KRVW3HTZOJPPG08OBAGG6MEBK2MS2
+Domain ID: 4
+Player A: AWTA622HM0OUH
+Player B: A3A8P4UR9A0DWQ
+
+- - Round 1 - -
+[00:00] A: I have a woman holding a baby, and they are looking at a cake.
+[00:13] B: I have baby eating a big cake but not held
+[00:18] A: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[00:34] A: I don't have the baby eating a big cake.
+[00:54] A: I have a toddler in a chair and a cake with two lit candles.
+[01:02] B: A Marine in camo cutting cake as a man with sunglasses on his head watches?
+[01:20] A: Yes, I have the Marine and the man with sunglasses.
+[01:24] B: I have no more children Just the one with a baby
+[01:28] B: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[01:29] B: <selection> <dif> person_cake/COCO_train2014_000000084211.jpg
+[01:31] B: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[01:58] A: I have an older man in a blue shirt and a cake with five blue candles and one yellow.
+[01:58] B: Thats the common one I chose ( the marine)
+[02:08] B: No older men
+[02:11] A: <selection> <dif> person_cake/COCO_train2014_000000343799.jpg
+[02:30] A: I have a woman cutting a giant cake with a flag on it in one corner.
+[03:23] B: I only have women standing around a cake posing
+[03:28] A: <selection> <dif> person_cake/COCO_train2014_000000210010.jpg
+[03:43] A: I don't have that one.
+[03:58] B: Our common is the marine
+[04:03] A: Yep.
+[04:07] B: the other two are different
+- - Round 2 - -
+[05:00] B: Man in a kilt?
+[05:18] A: No, I don't have a man in a kilt.
+[05:33] B: Woman cutting as a marine watches?
+[05:38] A: A blond woman cutting a very large flag cake.
+[05:59] A: A marine is watching her cut it.
+[06:00] B: Yes her hair is pulled up
+[06:09] A: Okay, I think it's the same then.
+[06:12] A: <selection> <com> person_cake/COCO_train2014_000000210010.jpg
+[06:13] B: <selection> <com> person_cake/COCO_train2014_000000210010.jpg
+[06:29] B: Older man blowing candles out
+[06:35] A: A big pile of chocolate cake sheets.
+[06:46] B: I don't have that one
+[06:51] A: I don't have an older man or any lit candles.
+[06:52] B: <selection> <dif> person_cake/COCO_train2014_000000405246.jpg
+[06:55] A: <selection> <dif> person_cake/COCO_train2014_000000475999.jpg
+[06:55] B: <selection> <dif> person_cake/COCO_train2014_000000343799.jpg
+[07:03] B: I submitted
+[07:24] A: A white man and a black woman with a big pile of cupcakes (I think).
+[07:42] B: I don't have that one
+[07:45] A: <selection> <dif> person_cake/COCO_train2014_000000405246.jpg
+[07:56] A: Okay, I'll submit.
+- - Round 3 - -
+[08:35] A: A baby with red and white stripes eating cake.
+[08:48] B: I don't have that one.
+[08:53] A: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[09:06] B: A toddler looking at a cake with two candles
+[09:11] A: A man in a blue shirt, cake with five blue candles and one yellow.
+[09:25] A: I have a toddler with a cake with two lit candles.
+[09:29] B: Yes I have a man with blown out candles
+[09:37] B: <selection> <com> person_cake/COCO_train2014_000000343799.jpg
+[09:39] B: <selection> <dif> person_cake/COCO_train2014_000000405246.jpg
+[09:41] B: <selection> <dif> person_cake/COCO_train2014_000000210010.jpg
+[09:46] A: <selection> <com> person_cake/COCO_train2014_000000343799.jpg
+[10:00] A: A woman holding a baby.
+[10:07] B: I don't have the toddler high lighted in yellow sorry
+[10:32] B: I do have the man in the blue shirt with the 5 blue and one yellow candle
+[10:41] B: Man in a kilt?
+[10:58] A: I don't have the man in a kilt.
+[11:31] B: Blonde woman cutting the cake while a matine watches
+[11:48] A: I don't have the one with the marine.
+[12:07] B: our common is the man in the blue shirt
+[12:08] A: Baby in blue and white striped shirt?
+[12:15] A: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[12:18] B: I don't have that one
+[12:27] A: Okay, I'll submit.
+- - Round 4 - -
+[13:46] A: Big pile of chocolate cake sheets
+[13:56] B: baby in the red and white stripe with a fork in a big cake
+[14:30] A: I have the baby with red and white stripes, but not highlighted.
+[14:39] B: With the big pile of chocolate is someone wearing blue and someone wearing grey
+[14:58] A: Yes.  You can see part of the people in blue and gray.
+[15:03] A: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[15:08] B: I have that one
+[15:38] B: I also have a baby in blue and white stripe sitting in a womans lap about to put his hand in the ca
+[15:40] B: cake
+[15:40] A: Man with long-sleeved blue shirt, five blue candles and one yellow.
+[15:50] B: I don't have that one
+[15:55] A: I have the baby in blue and white stripe being held by a woman.
+[15:55] B: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[15:57] B: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[15:58] B: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[15:58] A: <selection> <com> person_cake/COCO_train2014_000000126144.jpg
+[16:01] A: <selection> <dif> person_cake/COCO_train2014_000000343799.jpg
+[16:03] B: <selection> <com> person_cake/COCO_train2014_000000126144.jpg
+[16:12] B: 2 common 1 different
+[16:27] A: I submitted.
+- - Round 5 - -
+[17:29] B: Man in a kilt
+[17:34] A: Baby in blue and white stripe shirt
+[17:40] B: No baby
+[17:40] A: I have the man in the kilt.
+[17:45] A: <selection> <com> person_cake/COCO_train2014_000000405246.jpg
+[17:46] B: <selection> <com> person_cake/COCO_train2014_000000405246.jpg
+[17:46] A: <selection> <dif> person_cake/COCO_train2014_000000126144.jpg
+[18:01] B: Sheets of chocolate cake?
+[18:09] A: I have the sheets of chocolate cake.
+[18:13] B: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[18:14] A: <selection> <com> person_cake/COCO_train2014_000000475999.jpg
+[18:22] A: Two common, one different.
+[18:39] B: Blonde woman cutting cake with the marine watching is my other one
+[18:49] A: I submitted.
+[18:50] B: 2 common 1 different yes
+[18:55] B: <selection> <dif> person_cake/COCO_train2014_000000210010.jpg
+
+- - Game statistics - -
+Duration: 19:48 min. Score: 27/30 points.
+[Round 0] Duration: 04:42 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 03:00 min. Score: 4/6 points. Number of messages: 15.
+[Round 2] Duration: 04:00 min. Score: 6/6 points. Number of messages: 17.
+[Round 3] Duration: 03:27 min. Score: 5/6 points. Number of messages: 13.
+[Round 4] Duration: 01:26 min. Score: 6/6 points. Number of messages: 10.

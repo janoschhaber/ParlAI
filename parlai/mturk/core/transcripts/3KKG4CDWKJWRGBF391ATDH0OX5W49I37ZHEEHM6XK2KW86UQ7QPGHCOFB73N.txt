@@ -1,0 +1,115 @@
+Game ID: 3KKG4CDWKJWRGBF391ATDH0OX5W49I37ZHEEHM6XK2KW86UQ7QPGHCOFB73N
+Domain ID: 7
+Player A: AWTA622HM0OUH
+Player B: A1GKD3NG1NNHRP
+
+- - Round 1 - -
+[00:00] B: guy on a scooter with a yellow dog
+[00:11] A: Yes, I have that one.
+[00:15] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[00:17] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[00:31] B: girl with black hair and glasses on right and guy on left looking down
+[00:31] A: Two people on phones in front of a car.
+[00:39] B: yes
+[00:59] A: I don't have the girl with black hair one.
+[01:02] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[01:12] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[01:21] A: Man without a shirt, green frisbee, and a white car.
+[01:31] B: no
+[01:35] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[01:48] B: guy on phone with big belly
+[02:00] B: on a bench
+[02:02] A: I don't have that.
+[02:18] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[02:24] A: I submitted.
+[02:34] B: me too
+- - Round 2 - -
+[02:54] A: No shirt guy, frisbee, white car.
+[03:02] B: guy sitting on a wall , white tshirt, jeans
+[03:23] A: Yes, I have the guy on the wall.
+[03:34] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[04:17] A: Kids playing soccer in green shirts.
+[04:40] B: yes
+[04:42] B: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[04:54] B: guy on phone smiling into camera
+[05:02] A: no
+[05:02] B: his left hand to his ear
+[05:08] B: <selection> <dif> person_car/COCO_train2014_000000425647.jpg
+[05:10] B: ok
+[05:13] A: Was the yes to the kids playing soccer?
+[05:26] B: guy on wall
+[05:31] B: yes
+[05:41] A: <selection> <com> person_car/COCO_train2014_000000258505.jpg
+[06:00] B: guy on wall
+[06:00] A: I have the guy on the wall.  He's in a white shirt and jeans.
+[06:07] B: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[06:18] B: yes
+[06:35] A: Guy with no shirt and a white car.
+[07:39] B: no
+[07:43] A: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[07:53] A: I submitted.
+[08:03] B: me too
+- - Round 3 - -
+[08:25] A: Person on scooter with yellow dog.
+[08:31] B: guy sitting on bench with suit on , big belly , on a phone
+[08:36] B: yes
+[08:39] B: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[08:39] A: <selection> <com> person_car/COCO_train2014_000000195449.jpg
+[08:49] A: No bench.
+[08:54] B: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[09:04] B: guy on wall
+[09:17] A: No wall.
+[09:23] B: <selection> <dif> person_car/COCO_train2014_000000126097.jpg
+[09:27] A: Kids wearing green shirts playing soccer.
+[09:32] B: no
+[09:36] A: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[09:48] A: Man in blue shirt with cell phone.
+[09:56] B: yes
+[10:00] A: <selection> <com> person_car/COCO_train2014_000000425647.jpg
+[10:21] A: I submitted.
+[10:41] B: me too
+- - Round 4 - -
+[10:51] A: Guy on wall.
+[11:01] B: soccer kids playing
+[11:07] B: yes
+[11:10] A: No soccer kids.
+[11:14] A: <selection> <com> person_car/COCO_train2014_000000126097.jpg
+[11:15] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[11:22] B: bench guy on phone
+[11:23] A: Guy with big belly on bench.
+[11:27] A: Yes
+[11:32] A: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[11:34] B: <selection> <com> person_car/COCO_train2014_000000461187.jpg
+[11:50] B: girl with green frisbee
+[12:01] B: guy
+[12:10] A: No green frisbee.
+[12:18] B: <selection> <dif> person_car/COCO_train2014_000000440460.jpg
+[12:19] A: Scooter with yellow dog.
+[12:33] B: i submitted
+[12:44] A: <selection> <dif> person_car/COCO_train2014_000000195449.jpg
+[12:57] A: Me too.
+- - Round 5 - -
+[13:14] A: Guy on bench.
+[13:17] B: guy, no shirt, green frisbee
+[13:21] B: no
+[13:24] A: <selection> <dif> person_car/COCO_train2014_000000461187.jpg
+[13:34] A: I have the no shirt guy with the frisbee.
+[13:39] A: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[13:41] B: <selection> <com> person_car/COCO_train2014_000000440460.jpg
+[13:48] B: two people walking in front of a mercedes
+[13:58] A: Yes, I have that one.
+[13:59] A: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[14:02] B: <selection> <com> person_car/COCO_train2014_000000405991.jpg
+[14:09] B: soccer kids
+[14:18] A: No soccer kids.
+[14:23] B: <selection> <dif> person_car/COCO_train2014_000000258505.jpg
+[14:29] A: I submitted.
+[14:57] B: ok
+
+- - Game statistics - -
+Duration: 15:06 min. Score: 30/30 points.
+[Round 0] Duration: 02:19 min. Score: 6/6 points. Number of messages: 13.
+[Round 1] Duration: 04:51 min. Score: 6/6 points. Number of messages: 19.
+[Round 2] Duration: 01:49 min. Score: 6/6 points. Number of messages: 12.
+[Round 3] Duration: 02:02 min. Score: 6/6 points. Number of messages: 13.
+[Round 4] Duration: 01:10 min. Score: 6/6 points. Number of messages: 10.

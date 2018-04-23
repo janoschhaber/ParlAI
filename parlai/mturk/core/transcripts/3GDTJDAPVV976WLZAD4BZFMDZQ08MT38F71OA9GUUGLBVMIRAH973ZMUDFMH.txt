@@ -1,0 +1,157 @@
+Game ID: 3GDTJDAPVV976WLZAD4BZFMDZQ08MT38F71OA9GUUGLBVMIRAH973ZMUDFMH
+Domain ID: 39
+Player A: A1RATFICCKLCQ
+Player B: AAF1SJ9FCBF75
+
+- - Round 1 - -
+[00:00] B: I am probably dumb for trying this again but here goes...
+[00:05] A: Hello, do you have a photo of an upside down pineapple cake with a bunch of bananas behind it?
+[00:35] B: no
+[00:58] B: How about a white cake whit pink and green and all litup?
+[01:12] A: Does it have lit candles?
+[01:22] A: Yes I do
+[01:31] A: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[01:32] A: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[01:48] A: Do you have a woman and child reaching for a large square cake?
+[01:50] B: How about the woman holding the kid with blue and white stripes?
+[01:59] A: Yes that's the one
+[02:02] B: that's probably it?
+[02:03] A: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[02:06] B: ok
+[02:10] B: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[02:11] B: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[02:11] A: Yes
+[02:34] A: Do you have any questions?
+[03:01] B: a plate with something brwon on it and something gold colored in background?
+[03:36] B: it has writing on it but I can't make out yet
+[03:40] A: I have a chocolate slice of cake on a plate with a red napkin.
+[03:56] A: I don't have that one.
+[03:56] B: I have that one too
+[04:09] B: but not the one I was trying to describe
+[04:22] A: I don't have the one with the writing on it.
+[04:43] B: <selection> <dif> cake_dining_table/COCO_train2014_000000381996.jpg
+[04:50] B: ok.  ready?
+[04:55] A: Yes
+- - Round 2 - -
+[05:40] A: Do you have the photo with the woman and child with blue stripes reaching for the large cake?
+[05:55] B: I have the cake with the lit candles again
+[06:03] B: yes
+[06:14] A: I don't have that one with the lit candles
+[06:22] B: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[06:29] A: Do you the child reaching for the cake?
+[06:50] B: do you have a plate with chocolate cake and vanilla ice cream.  the pic has a yellow tint
+[07:05] A: Yes there is red drizzle around the plate?
+[07:17] A: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[07:20] B: That's what I was trying to say yes to above - the kid with the blue and white stripes reaching
+[07:27] B: yes
+[07:30] B: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[07:33] A: Thanks
+[07:35] A: <selection> <com> cake_dining_table/COCO_train2014_000000126144.jpg
+[07:56] B: bananas?
+[08:06] A: Do you have the one with a sponge cake and a large knife?
+[08:14] A: no bananas today
+[08:31] B: I guess that must be an upside down pianeapple cak in front of them form you teaching me before
+[08:34] B: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[08:45] A: Yes
+[08:53] B: ok, I am ready then
+[09:09] A: Do you have the one with a sponge cake being cut with a large knife on black granite counter?
+[09:30] B: no
+[09:43] A: Ok thanks I'll submit my answers
+[09:47] A: <selection> <dif> cake_dining_table/COCO_train2014_000000545573.jpg
+- - Round 3 - -
+[10:16] A: I have the pineapple upside down cake. Do you?
+[10:35] B: the bananas? yes.
+[10:49] B: the lit cnadles?
+[11:01] A: I also have the slice of chocolate cake with the YELLOW tint and red drizzle. Do you?
+[11:02] B: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[11:09] A: No lit candles.
+[11:13] A: <selection> <com> cake_dining_table/COCO_train2014_000000134238.jpg
+[11:15] B: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[11:44] B: crap my one picture never loaded so it might be that
+[12:15] A: Do you have two slices of chocolate with knife and fork on a white plate with a red plate behind it
+[12:19] B: I told myself I wasn't going to type until all were loaded .  I should have stuck to that.  I shoul
+[12:36] A: No worries, we'll work with it
+[12:39] B: yes
+[12:45] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[13:01] A: You have the photo with the two slices of chocolate cake?
+[13:14] B: so I have mine, but you'll have to guess on that one the wya it is now
+[13:28] A: <selection> <com> cake_dining_table/COCO_train2014_000000336593.jpg
+[13:29] B: yes the one where you said the red plate behind
+[13:31] A: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[13:34] A: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[13:40] A: ok no problems
+[13:49] A: Do you any questions?
+[14:14] B: nmo.  So how about next round, don't type untikl I tell you all of mine have loaded
+[14:22] A: Sure
+[14:30] A: Ok to submit?
+[14:34] B: I don't know if that will help or not, but worth a try I guess
+[14:38] B: yes
+- - Round 4 - -
+[15:42] B: all right, they all loaded this tiem.  I hope you got that one right.
+[15:54] A: glad to hear
+[16:02] B: yellow tint?
+[16:11] A: No
+[16:18] B: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[16:21] A: Upside down pineapple cake?
+[16:28] B: red plate behindt?
+[16:35] B: no
+[16:35] A: Yes
+[16:38] A: <selection> <dif> cake_dining_table/COCO_train2014_000000134238.jpg
+[16:40] A: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[16:43] B: <selection> <com> cake_dining_table/COCO_train2014_000000501718.jpg
+[17:10] A: Cake being cut with large knife and on a black countertop?
+[17:18] B: that one you said before being cut.  I forget what kind of cake you called it
+[17:34] B: that must be it
+[17:35] A: I think it is a bundt cake or a sponge cake
+[17:43] A: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[17:48] B: yeah
+[17:52] A: Ok any questions?
+[18:05] B: the kind that tapers toward the top with hole in center
+[18:09] B: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[18:24] B: nope, we are ready.
+[18:32] A: ok
+- - Round 5 - -
+[19:23] B: bundt cake?
+[19:29] A: yes
+[19:38] A: Cake with lit candles?
+[19:49] A: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[19:50] B: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[21:56] A: Slice of chocolate cake with brown box that say Godiva behind it?
+[23:55] B: yes
+[24:12] A: <selection> <com> cake_dining_table/COCO_train2014_000000235744.jpg
+[24:40] A: What about the box with Godiva writing and a slice of chocolate cake?
+[24:47] B: if it isn't working right, try reopening the HIT again from the queue.  mine is working again now. 
+[25:02] A: Good to hear
+[25:50] A: You have the photo with the lit candles?
+[26:20] A: We have the bundt cake photo in common
+[28:34] A: When you are ready, let me know
+[28:57] A: I have the lit candles cake
+[29:26] A: I also have a slice of chocolate cake on a plate with Godiva box behind it
+[29:33] B: not lit candles cake
+[29:40] A: <selection> <dif> cake_dining_table/COCO_train2014_000000235744.jpg
+[29:57] B: *no for me I mean
+[30:04] A: ok
+[33:26] B: <selection> <com> cake_dining_table/COCO_train2014_000000545573.jpg
+[33:29] B: <selection> <dif> cake_dining_table/COCO_train2014_000000126144.jpg
+[33:30] B: <selection> <dif> cake_dining_table/COCO_train2014_000000336593.jpg
+[33:52] A: <selection> <com> cake_dining_table/COCO_train2014_000000381996.jpg
+[34:08] A: Are you there?
+[35:51] A: This is the large page to get done.
+[37:50] A: Do you have the box with the Godiva writing and brown slice of cake on a plate?
+[42:08] A: Hello, are you there?
+[45:30] B: hello?
+[45:36] A: Here
+[45:46] A: Everything ok?
+[46:21] A: We have the bundt cake in common
+[46:37] A: I have the lit candles cake, you don't.
+[46:51] A: Do you have the box with the Godiva writing?
+[51:40] B: yes
+[52:02] A: any questions for me?
+
+- - Game statistics - -
+Duration: 02:27 min. Score: 30/30 points.
+[Round 0] Duration: 05:01 min. Score: 6/6 points. Number of messages: 22.
+[Round 1] Duration: 04:10 min. Score: 6/6 points. Number of messages: 19.
+[Round 2] Duration: 04:28 min. Score: 6/6 points. Number of messages: 20.
+[Round 3] Duration: 02:54 min. Score: 6/6 points. Number of messages: 17.
+[Round 4] Duration: 34:34 min. Score: 6/6 points. Number of messages: 28.

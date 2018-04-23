@@ -1,0 +1,91 @@
+Game ID: 3V0Z7YWSIZYFA4DJ8OW1CKSN4J92VQ31HQ4X3T3T85JYINOZ91GT7PBF6SL0
+Domain ID: 14
+Player A: A3AHY83AP9XLZ9
+Player B: A1CY01G7686ORZ
+
+- - Round 1 - -
+[00:00] A: Green backpack, green bike, on road
+[00:05] B: no
+[00:08] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[00:15] B: woman in dark dress standing in front of a motorcycle on dirt road
+[00:21] A: No
+[00:24] B: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[00:29] A: Helmeted man looking in mirror
+[00:33] B: no
+[00:35] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[00:52] B: man in plad cut off shirt and tan shorts riding a bike going right
+[01:11] A: No, big person on orange bike.
+[01:15] B: <selection> <dif> person_motorcycle/COCO_train2014_000000039100.jpg
+[01:37] B: no.  green dirt bike with people watching.  dirt flying up everywhere
+[01:43] A: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[01:45] A: Yes
+[01:48] B: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+- - Round 2 - -
+[02:12] B: green bike with guy with green backpack and white shorts?
+[02:15] A: Guy in tank and sunglasses on bike with headlight
+[02:19] A: Yes
+[02:23] A: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[02:23] B: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[02:34] B: the guy in the tank - does he have a woman behind him?
+[02:42] A: Yes
+[02:44] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[02:44] B: yes i have it
+[02:53] B: woman in dark dress in front of bike on dirt road?
+[03:00] A: Yes
+[03:01] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[03:02] B: <selection> <com> person_motorcycle/COCO_train2014_000000279373.jpg
+[03:07] A: Helmeted guy looking in mirror
+[03:19] B: no
+[03:21] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+- - Round 3 - -
+[03:41] A: green backpack, green bike
+[03:41] B: helmeted guy looking in mirror?
+[03:44] A: Yes
+[03:48] A: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[03:48] B: no for green backpack green bike
+[03:51] B: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[03:51] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[03:55] A: dark dress lady
+[03:58] B: no
+[04:02] A: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[04:06] B: large person on orange bike with black helmet
+[04:09] A: No
+[04:11] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[04:27] B: group of five people in a row with white helmets and yellow jackets?
+[04:34] A: No
+[04:36] B: <selection> <dif> person_motorcycle/COCO_train2014_000000560615.jpg
+- - Round 4 - -
+[04:56] A: tank top and woman
+[04:56] B: helmet selfie guy?
+[05:00] A: no
+[05:03] B: no for tank top and woman
+[05:05] B: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[05:06] A: <selection> <dif> person_motorcycle/COCO_train2014_000000238178.jpg
+[05:13] B: orange bike with large person?
+[05:14] A: five yellow jackets
+[05:17] A: Yes orange
+[05:19] A: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[05:20] B: yes for five yellow jackets
+[05:24] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[05:25] B: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[05:25] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+- - Round 5 - -
+[05:34] A: yellow jackets
+[05:46] B: yes.   orange bike with long hair woman?
+[05:48] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[06:04] A: No, green bike green bag
+[06:07] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[06:18] B: no.  kid in tank top and sunglasses with woman on the back?
+[06:21] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[06:24] A: Yes
+[06:27] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[06:28] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[06:33] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+
+- - Game statistics - -
+Duration: 06:51 min. Score: 30/30 points.
+[Round 0] Duration: 01:52 min. Score: 6/6 points. Number of messages: 10.
+[Round 1] Duration: 01:11 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 01:04 min. Score: 6/6 points. Number of messages: 10.
+[Round 3] Duration: 00:30 min. Score: 6/6 points. Number of messages: 8.
+[Round 4] Duration: 01:00 min. Score: 6/6 points. Number of messages: 5.

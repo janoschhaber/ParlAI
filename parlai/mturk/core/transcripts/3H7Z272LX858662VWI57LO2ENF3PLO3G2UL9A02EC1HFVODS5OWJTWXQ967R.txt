@@ -1,0 +1,128 @@
+Game ID: 3H7Z272LX858662VWI57LO2ENF3PLO3G2UL9A02EC1HFVODS5OWJTWXQ967R
+Domain ID: 5
+Player A: A1HIQZEC2ER7GS
+Player B: A1HAOXJVRYT43K
+
+- - Round 1 - -
+[00:00] B: Hey,
+[00:00] A: HI
+[00:14] A: DO YOU GUYS CUTTING A RED BLUE WHITE CAKE?
+[00:22] B: nope.
+[00:25] A: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[00:33] A: DO YOU HAVE A LITTLE BOY WITH 2 CANDLES?
+[00:38] B: Yes!
+[00:41] B: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[00:42] A: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[00:51] A: DO YOU HAVE A BOY WITH A WOMAN?
+[00:57] B: nope
+[01:06] B: do you have three men cutting a yellow cake?
+[01:08] A: DO YOU HAVE LITTLE BOY CUTTING CAKE
+[01:10] A: NO
+[01:14] B: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[01:18] B: Nope.
+[01:21] A: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[01:35] B: do you have a man in a camo outfit cutting a cake?
+[01:42] A: NO
+[01:45] B: okay.
+[01:51] B: <selection> <dif> person_cake/COCO_train2014_000000488127.jpg
+[01:53] B: You good?
+[01:56] A: YES
+- - Round 2 - -
+[02:19] B: little boy again with two candles?
+[02:26] A: yes
+[02:29] B: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[02:33] A: two guys cutting red and white stripe cake?
+[02:33] B: okay. great
+[02:37] A: <selection> <com> person_cake/COCO_train2014_000000055912.jpg
+[02:37] B: nope.
+[02:40] A: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[02:46] B: three guys cutting a yellow cake?
+[02:51] A: no
+[02:55] B: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[02:57] A: three ladies stadning around cake?
+[03:10] B: Nope, I have five women around a cake.
+[03:24] A: yes 5 sorry i dont know why i typed three
+[03:29] A: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[03:29] B: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[03:39] B: alright cool, no problem. Is that all for you?
+[03:43] A: yes
+- - Round 3 - -
+[03:58] A: 2 guys cutting red and white stripe cake?
+[04:14] B: Nope, little boy cutting his cake?
+[04:21] A: no
+[04:25] A: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[04:26] B: <selection> <dif> person_cake/COCO_train2014_000000478537.jpg
+[04:31] A: soldier cutting cake?
+[04:47] B: one in camo with people watching?
+[04:52] A: yes
+[04:53] B: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[04:56] B: then Yes.
+[05:05] A: 4 men in front of blue red and white cake?
+[05:07] A: <selection> <com> person_cake/COCO_train2014_000000488127.jpg
+[05:20] B: are they all cutting the cake together?
+[05:33] A: no
+[05:44] A: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[05:46] B: is one taller than the others?
+[05:50] A: yes
+[05:55] A: hes wearing glasses
+[06:06] B: okay I see him. 
+[06:07] A: <selection> <com> person_cake/COCO_train2014_000000447941.jpg
+[06:09] B: <selection> <com> person_cake/COCO_train2014_000000447941.jpg
+- - Round 4 - -
+[06:24] A: boy with two candles?
+[06:35] B: Nope, two guys and a red striped cake.
+[06:52] A: nope , 3 guys in white suits cutting cake?
+[07:06] B: yellow cake?
+[07:18] B: <selection> <dif> person_cake/COCO_train2014_000000481931.jpg
+[07:19] A: the frosting is yellow and it has wite nd blue and red
+[07:44] B: yeah, one guy has a light blue outfit and the others are white.
+[08:09] A: not sure, is there a guy on the left with red jacket?
+[08:26] B: behind them, yes.
+[08:29] B: <selection> <com> person_cake/COCO_train2014_000000052928.jpg
+[08:32] A: ok then yes
+[08:35] A: <selection> <com> person_cake/COCO_train2014_000000052928.jpg
+[08:43] A: do you have the soldier cutting cake?
+[08:43] B: okay, I have the four guys cutting the red, white and blue cake.
+[08:50] B: oh, no.
+[08:53] A: i dont have that one
+[08:54] A: <selection> <dif> person_cake/COCO_train2014_000000488127.jpg
+[08:56] B: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[08:57] A: <selection> <dif> person_cake/COCO_train2014_000000055912.jpg
+[09:06] B: You good?
+[09:14] A: no
+[09:22] B: what is your other one?
+[09:35] A: you said you didnt have the soldier cutting the cake.. and it says i got it wrong. you know its not
+[09:41] A: just the highlighted pics right
+[09:49] B: yeah mine is grey.
+[10:01] B: I have that one but its not marked yellow.
+[10:10] A: yeah but it still counts 
+[10:35] B: really I thought it was just the yellow ones? uhm well yeah I have that one then
+[10:47] A: lol ok well moving on i cant change it anymore
+[10:57] B: sorrryyy :(
+- - Round 5 - -
+[11:10] A: do you have two guys cutting red and white stripe?
+[11:18] B: yeah
+[11:24] A: <selection> <com> person_cake/COCO_train2014_000000481931.jpg
+[11:25] B: <selection> <com> person_cake/COCO_train2014_000000481931.jpg
+[11:29] A: 5 ladies again?
+[11:34] B: yup.
+[11:36] A: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[11:37] B: <selection> <com> person_cake/COCO_train2014_000000084211.jpg
+[11:45] A: guy with red jacket behind 3 guys
+[12:08] B: nope, I have four guys in black suits cutting the red white and blue cake together.
+[12:18] A: i dont have that one
+[12:22] B: okay.
+[12:24] A: <selection> <dif> person_cake/COCO_train2014_000000052928.jpg
+[12:25] B: <selection> <dif> person_cake/COCO_train2014_000000447941.jpg
+[13:09] B: What else do you need?
+[13:13] A: thats all 
+[13:17] B: okay cool.
+[13:18] A: im submittin right noq
+
+- - Game statistics - -
+Duration: 13:31 min. Score: 28/30 points.
+[Round 0] Duration: 01:58 min. Score: 5/6 points. Number of messages: 17.
+[Round 1] Duration: 01:26 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 02:12 min. Score: 6/6 points. Number of messages: 14.
+[Round 3] Duration: 02:33 min. Score: 5/6 points. Number of messages: 24.
+[Round 4] Duration: 01:40 min. Score: 6/6 points. Number of messages: 12.

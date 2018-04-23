@@ -1,0 +1,119 @@
+Game ID: 3R2UR8A0IBELL07JV1VG7ISBKGPOXU3LO69W1SU4B2TT9WTZFKRFOMMLUGLJ
+Domain ID: 29
+Player A: A2G0H0EMDFSOZZ
+Player B: A1N8TKTLXV92QR
+
+- - Round 1 - -
+[00:00] B: Woman in green holding friut
+[00:09] A: yes! 
+[00:14] B: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[00:18] B: You go
+[00:53] A: A salvation army truck with people around a someone holding a umbrella
+[00:58] A: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[01:07] B: Yes have it... I'll go
+[01:11] B: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[01:24] A: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[01:32] B: Two women, one in red one in black, truck in background
+[02:01] A: nope. Different
+[02:03] A: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[02:05] B: Maybe its a guy in red
+[02:13] B: OK, let's alternate...
+[02:16] B: <selection> <dif> person_truck/COCO_train2014_000000292358.jpg
+[02:24] B: I'm done...
+[02:52] A: I have a guy carrying a TV maybe? in an orange shirt next to a red truck
+[03:00] B: Nope
+[04:23] B: Done?
+[04:29] A: I think so
+- - Round 2 - -
+[04:54] B: I have the guy in orange with TV
+[05:38] A: dang, i dont have it this time. I have 2 people next to a white truck with stuff in the back like t
+[05:43] B: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[06:00] B: I have it but its in grey
+[06:34] B: Have two people, guy in red, girl in black, truck in background
+[06:34] A: Hmmm, does it have red "Sport" on the truck next to "4x4?
+[07:08] B: Yes, again, its in grey
+[07:33] A: ok, im guessing our colors are different. I bet its the same one
+[07:35] A: <selection> <com> person_truck/COCO_train2014_000000190016.jpg
+[07:55] A: I have the salvation army truck with the person and the umbrella again, do you?
+[07:55] B: It's the same but not in yellow so, it's a no
+[08:43] A: gotcha. What about a guy in a red shirt holding a backpack next to a girl with a truck in back?
+[08:52] B: No
+[08:56] B: Have two people, guy in red, girl in black, truck in background
+[09:06] A: yes, I have that one
+[09:08] A: <selection> <com> person_truck/COCO_train2014_000000292358.jpg
+[09:09] A: <selection> <dif> person_truck/COCO_train2014_000000087219.jpg
+[09:10] B: <selection> <com> person_truck/COCO_train2014_000000292358.jpg
+[09:15] A: So i think were done than right?
+[09:19] B: No
+[09:49] B: I have girl, red hair buying something from a pink panel truck 
+[10:03] B: <selection> <dif> person_truck/COCO_train2014_000000265781.jpg
+[10:05] A: Oh right, you have different. Sorry. I dont have that one
+[10:17] B: OK done
+[10:33] B: You go next
+[10:37] A: k
+- - Round 3 - -
+[11:01] A: I have a boy about to catch a yellow ball with a baseball glove
+[11:09] B: Nope
+[11:13] A: <selection> <dif> person_truck/COCO_train2014_000000185945.jpg
+[11:38] B: I have the 4x4 white pickup with junk, cops standing by it
+[11:48] A: I have the red haired girl by the pink truck this time, do you? 
+[12:04] B: One at a time but no.  
+[12:35] A: sorry, i tried to answer. I dont have that truck this time
+[12:37] A: <selection> <dif> person_truck/COCO_train2014_000000265781.jpg
+[12:45] B: <selection> <dif> person_truck/COCO_train2014_000000190016.jpg
+[13:04] B: Have the red black with truck in background again
+[13:24] A: I dont have that one.
+[13:29] B: <selection> <dif> person_truck/COCO_train2014_000000292358.jpg
+[13:32] A: Do you have the salvation army truck again?
+[13:51] B: Yes, with a guy with umbrella?
+[14:00] A: yes!
+[14:02] A: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[14:08] B: OK, got it.  I'm done
+[14:11] B: <selection> <com> person_truck/COCO_train2014_000000087219.jpg
+[14:14] A: me too :)
+[14:27] B: You go
+- - Round 4 - -
+[14:47] A: I have the lady holding fruit
+[14:54] B: Yep, have it
+[14:56] B: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[15:10] B: Guy with orange loading TV
+[15:30] A: cool. Yep, i have that one too. Guy in red holfing backpack again?
+[15:36] B: <selection> <com> person_truck/COCO_train2014_000000032674.jpg
+[16:07] B: Nope, have red haired girl buying something from pink panel truck
+[16:31] A: <selection> <com> person_truck/COCO_train2014_000000032674.jpg
+[16:34] A: <selection> <com> person_truck/COCO_train2014_000000099245.jpg
+[16:35] A: <selection> <dif> person_truck/COCO_train2014_000000292358.jpg
+[16:42] A: i dont have that one
+[16:46] B: <selection> <dif> person_truck/COCO_train2014_000000265781.jpg
+[16:54] B: Done, you?
+[18:01] A: yep
+[18:15] A: I have the lady with fruit again
+[18:15] B: You go please
+- - Round 5 - -
+[18:26] B: No
+[18:29] A: my bad
+[18:38] A: I have the lady with red hair by the pink truck
+[18:45] B: Yes
+[18:48] B: <selection> <com> person_truck/COCO_train2014_000000265781.jpg
+[18:59] A: <selection> <com> person_truck/COCO_train2014_000000265781.jpg
+[19:01] B: I have boy catching yellow ball
+[19:19] A: I dont have that one this time. What about the guy in orange moving the tv?
+[19:32] B: No not guy with TV
+[19:42] A: <selection> <dif> person_truck/COCO_train2014_000000032674.jpg
+[19:45] B: I have the 4x4 truck with junk again
+[19:56] B: <selection> <dif> person_truck/COCO_train2014_000000185945.jpg
+[20:08] A: yep, i have that one too
+[20:11] A: <selection> <com> person_truck/COCO_train2014_000000190016.jpg
+[20:13] B: <selection> <com> person_truck/COCO_train2014_000000190016.jpg
+[20:21] B: I'm done, you?
+[20:35] A: yes, thanks
+[20:43] B: Thanks you did great
+[21:07] A: you too! you were very helpful. I think we got them right
+
+- - Game statistics - -
+Duration: 21:51 min. Score: 29/30 points.
+[Round 0] Duration: 04:33 min. Score: 6/6 points. Number of messages: 14.
+[Round 1] Duration: 05:25 min. Score: 6/6 points. Number of messages: 20.
+[Round 2] Duration: 03:18 min. Score: 5/6 points. Number of messages: 14.
+[Round 3] Duration: 03:18 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 02:21 min. Score: 6/6 points. Number of messages: 13.

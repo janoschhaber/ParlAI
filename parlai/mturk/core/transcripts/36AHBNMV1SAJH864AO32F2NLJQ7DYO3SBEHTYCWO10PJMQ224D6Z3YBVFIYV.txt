@@ -1,0 +1,125 @@
+Game ID: 36AHBNMV1SAJH864AO32F2NLJQ7DYO3SBEHTYCWO10PJMQ224D6Z3YBVFIYV
+Domain ID: 20
+Player A: A2A6FH0F7LD9ND
+Player B: A2BFMV6DQYMYEV
+
+- - Round 1 - -
+[00:00] A: do you have a photo of green luggage with someone standing next to it with red shoes on?
+[00:13] B: No I don't have that one.
+[00:28] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[00:28] B: Do you have a photo of someone in jeans and brown shoes standing on a green skateboard indoors?
+[00:44] A: no not that one
+[00:53] B: <selection> <dif> person_suitcase/COCO_train2014_000000538682.jpg
+[01:10] A: I have a little blonde girl trying to brush her hair with a blue bucket behind her
+[01:13] B: Do you have a red-tinted photo of someone in a white shirt in front of an open hard case?
+[01:20] B: I do not have the photo of the blonde girl.
+[01:26] A: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[01:33] A: no red tinted photo at all
+[01:38] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[02:10] A: I have a person standing next to another green suitcase with either a blue or purple shirt on
+[02:13] B: I have one of many suitcases and someone in a purple shirt holding the handle of a green one
+[02:22] A: yes thats the one
+[02:25] B: Ok, that's the same one I just described I think
+[02:26] B: <selection> <com> person_suitcase/COCO_train2014_000000037327.jpg
+[02:29] A: <selection> <com> person_suitcase/COCO_train2014_000000037327.jpg
+[02:33] B: Do you have any more?
+[03:12] A: a little girl sitting in a black suitcase or something next to a book shelf
+[03:29] B: I do not have that one.
+[03:46] A: a woman in a purple dress holding a brown suitcase behind her
+[04:01] B: I have that one
+[04:23] A: ok, and i have a child in a white sweat shirt touching a black suitcase
+[04:41] B: Is the child standing up holding onto the handle?
+[04:46] A: yes
+[04:50] B: yes I have that one
+[05:04] A:  I don't have anymore
+[05:08] B: I don't either
+- - Round 2 - -
+[05:37] B: I have the exact same three photos from last time highlighted.
+[05:56] A: I have the red tinted photo with someone kneeling down looking into a suitcase of some sort
+[06:04] B: Yes I have that one still.
+[06:06] B: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[06:12] A: ok, what else is there?
+[06:15] A: <selection> <com> person_suitcase/COCO_train2014_000000553308.jpg
+[06:19] B: I have the person in the blue or purple shirt holding the green suitcase again
+[06:30] A: don't have that
+[06:34] B: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[06:39] B: What else do you have?
+[06:50] A: I have the skateboard with a guy with brown shoes standing on it and jeans on
+[07:07] B: I have that one
+[07:09] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[07:12] B: That's all of mine
+[07:32] A: and then i have three people standing by a brown suitcase with one of them touching it
+[07:39] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[07:39] B: I don't have that one.
+[07:42] A: <selection> <dif> person_suitcase/COCO_train2014_000000206968.jpg
+- - Round 3 - -
+[08:18] B: I have the girl brushing her hair with a yellow comb.
+[08:39] A:  don't have it this time
+[08:42] B: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[08:57] A: i have the red tinted photo with someone kneeling down and looking into a suitcase
+[08:58] B: I have a boy smiling being zipped inside a suitcase
+[09:22] A: i have that 
+[09:38] B: I don't have the red tinted one.
+[09:43] A: okay
+[09:45] A: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[09:59] A: i have the green suitcase again with the woman with red shoes standing next to it
+[10:33] B: I don't have the green suitcase.
+[10:37] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[10:38] B: <selection> <com> person_suitcase/COCO_train2014_000000175391.jpg
+[10:44] A: do you have anything else?
+[10:48] B: Sorry, do you have the girl combing her hair?
+[10:52] A: no
+[10:58] B: And I also have the girl standing holding onto the black suitcase.
+[11:00] B: <selection> <dif> person_suitcase/COCO_train2014_000000086922.jpg
+[11:07] A: not that one either
+[11:23] B: <selection> <dif> person_suitcase/COCO_train2014_000000187582.jpg
+[11:31] B: That's all I have.
+[11:44] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[11:53] A: okay thanks
+- - Round 4 - -
+[12:13] A: what do you have this round?
+[12:16] B: I have the red tinted one this time.
+[12:21] A: don't have
+[12:31] B: <selection> <dif> person_suitcase/COCO_train2014_000000553308.jpg
+[12:33] A: green suitcase and red shoe lady again i have
+[12:40] B: I don't have that one
+[12:45] A: <selection> <dif> person_suitcase/COCO_train2014_000000113123.jpg
+[12:48] B: I have the green skateboard and brown shoes guy
+[12:52] A: I have that
+[12:55] B: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[12:55] A: <selection> <com> person_suitcase/COCO_train2014_000000538682.jpg
+[13:11] A: i have the three people and one brown suitcase with one holding it down
+[13:18] B: I have that one.
+[13:20] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[13:22] A: cool
+[13:26] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[13:31] A: anything else?
+[13:31] B: Any more?
+[13:34] B: Not for me
+[13:41] A: me neither 
+- - Round 5 - -
+[14:06] B: I have the three people with the brown suitcase being held up by one.
+[14:17] A: me too
+[14:20] A: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[14:26] B: <selection> <com> person_suitcase/COCO_train2014_000000206968.jpg
+[14:31] B: I have the girl combing her hair.
+[14:41] A: i have her
+[14:50] A: the red shoed lady with the green suitcase again 
+[14:51] B: <selection> <com> person_suitcase/COCO_train2014_000000086922.jpg
+[14:56] B: I have that one too finally
+[15:00] B: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[15:00] A: <selection> <com> person_suitcase/COCO_train2014_000000113123.jpg
+[15:18] A: and the one with the many suitcases and someone holding the handle of the green one
+[15:25] B: I don't have that one.
+[15:31] A: <selection> <dif> person_suitcase/COCO_train2014_000000037327.jpg
+[15:35] A: anything else?
+[15:37] B: That's all mine, do you have any more?
+[15:44] A: no more here
+
+- - Game statistics - -
+Duration: 16:29 min. Score: 30/30 points.
+[Round 0] Duration: 05:12 min. Score: 6/6 points. Number of messages: 23.
+[Round 1] Duration: 02:08 min. Score: 6/6 points. Number of messages: 12.
+[Round 2] Duration: 03:40 min. Score: 6/6 points. Number of messages: 16.
+[Round 3] Duration: 01:30 min. Score: 6/6 points. Number of messages: 14.
+[Round 4] Duration: 01:45 min. Score: 6/6 points. Number of messages: 11.

@@ -1,0 +1,111 @@
+Game ID: 37QW5D2ZRHKA4RY4UA0XBOLJRFQS8X36U2A8VAG2XRVECE25PPJFIB30IKYO
+Domain ID: 40
+Player A: AVHJ2SNIMGZ91
+Player B: AAF1SJ9FCBF75
+
+- - Round 1 - -
+[00:00] B: Hi.  DO you have a red motorcycle in front of a red car?
+[00:15] A: yes
+[00:17] A: <selection> <com> car_motorcycle/COCO_train2014_000000477807.jpg
+[00:22] B: <selection> <com> car_motorcycle/COCO_train2014_000000054286.jpg
+[00:32] A: do you have a motorcycle parked by a black car in a parking lot?
+[01:16] B: I have one with a black vehicle behind a red motorcycle.  Is it that?
+[01:53] A: no.  This is in a parked in a parking lot.  Bike and car are both black
+[02:25] B: no
+[02:29] A: <selection> <dif> car_motorcycle/COCO_train2014_000000256560.jpg
+[02:41] A: do you have a black motorcycle in a gas station parking lot near a red suv?
+[02:49] B: <selection> <dif> car_motorcycle/COCO_train2014_000000480807.jpg
+[03:11] B: yes
+[03:16] B: <selection> <com> car_motorcycle/COCO_train2014_000000494833.jpg
+[03:16] A: <selection> <com> car_motorcycle/COCO_train2014_000000494833.jpg
+[03:36] B: I have all mine.  you?
+[03:40] A: yes
+- - Round 2 - -
+[04:21] A: do you have the one at the gas station again?
+[04:31] B: no
+[04:35] A: <selection> <dif> car_motorcycle/COCO_train2014_000000494833.jpg
+[04:45] B: <selection> <com> car_motorcycle/COCO_train2014_000000256560.jpg
+[04:51] A: do you have the one with the motorcycle pulling the car with dogs in it?
+[05:12] B: no
+[05:14] A: <selection> <dif> car_motorcycle/COCO_train2014_000000054286.jpg
+[05:18] A: <selection> <dif> car_motorcycle/COCO_train2014_000000477807.jpg
+[05:29] A: how about the red bike in front of the red sports car?
+[05:32] B: do you have one with an orange motorcycle?
+[05:36] A: no
+[05:43] B: no
+[05:50] B: <selection> <dif> car_motorcycle/COCO_train2014_000000345207.jpg
+[06:59] B: How about a guy bending over and then a white car in background?
+[07:08] A: yes
+[07:14] B: <selection> <com> car_motorcycle/COCO_train2014_000000144597.jpg
+[07:56] B: How about the motorcycle in the parking lot by a black car and then a red car among the others on t
+[08:07] B: ..the other side
+[08:08] A: no
+[08:14] B: <selection> <dif> car_motorcycle/COCO_train2014_000000256560.jpg
+[08:43] B: I guess I'm ready then.  You?
+[08:47] A: yup
+- - Round 3 - -
+[09:08] B: gas station one
+[09:13] A: nope
+[09:16] B: <selection> <dif> car_motorcycle/COCO_train2014_000000494833.jpg
+[09:33] A: do you have the red motorcycle by the black car.  It has a coffee cup on the ground by the kickstan
+[09:46] B: red motorcycle in front of black vehicle in friont of fence with lattice on top?
+[09:52] A: yes
+[09:54] A: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[09:57] B: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[10:34] B: red motorcycle in front of red car?  The first time I thought yopu agreed you had this one but it w
+[11:00] A: if the driver has a plaid shirt I have it
+[11:06] A: <selection> <com> car_motorcycle/COCO_train2014_000000054286.jpg
+[11:11] B: yes
+[11:15] B: <selection> <com> car_motorcycle/COCO_train2014_000000054286.jpg
+[11:31] B: ready to submit?
+[11:35] A: do you have the one with the silver/black bike parked next to a silver car.  driver in a blk helmet
+[11:51] A: he's next to two silver cars
+[12:00] B: no
+[12:02] A: <selection> <dif> car_motorcycle/COCO_train2014_000000514839.jpg
+[12:06] A: ready to submit
+- - Round 4 - -
+[12:29] A: do you have the gas station one?
+[12:40] B: no
+[12:42] A: <selection> <dif> car_motorcycle/COCO_train2014_000000494833.jpg
+[12:51] A: do you have the guy with the two silver cars?
+[12:55] B: Now I have the one with the silver cars
+[13:00] A: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[13:02] B: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[13:09] A: how about the motorcycle pulling the dogs in the car
+[13:37] B: little red ferrari or some kind of sports car?
+[13:42] A: yeah
+[13:44] A: <selection> <com> car_motorcycle/COCO_train2014_000000477807.jpg
+[13:46] B: <selection> <com> car_motorcycle/COCO_train2014_000000477807.jpg
+[13:58] B: how about the parking lot one?
+[14:08] A: yes
+[14:15] B: <selection> <com> car_motorcycle/COCO_train2014_000000256560.jpg
+[14:39] B: Ok.  need any more?
+[14:45] A: nope. I'm all set
+- - Round 5 - -
+[15:10] A: do you have the silver cars one?
+[15:19] B: silver cars?
+[15:22] A: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[15:22] B: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[15:25] A: yup
+[15:32] B: plaid?
+[15:37] A: no plaid
+[15:46] B: <selection> <dif> car_motorcycle/COCO_train2014_000000054286.jpg
+[15:48] A: do you have the bike pulling the dogs in the car?
+[16:42] B: no
+[16:46] A: <selection> <dif> car_motorcycle/COCO_train2014_000000477807.jpg
+[16:54] A: do you have the red bike by the black car and fence?
+[17:02] B: yes
+[17:04] A: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[17:07] B: <selection> <com> car_motorcycle/COCO_train2014_000000480807.jpg
+[17:12] B: <selection> <com> car_motorcycle/COCO_train2014_000000514839.jpg
+[17:14] B: <selection> <dif> car_motorcycle/COCO_train2014_000000054286.jpg
+[17:25] B: ready?
+[17:30] A: yup
+
+- - Game statistics - -
+Duration: 18:03 min. Score: 28/30 points.
+[Round 0] Duration: 03:50 min. Score: 4/6 points. Number of messages: 10.
+[Round 1] Duration: 04:30 min. Score: 6/6 points. Number of messages: 15.
+[Round 2] Duration: 03:07 min. Score: 6/6 points. Number of messages: 13.
+[Round 3] Duration: 02:26 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 02:30 min. Score: 6/6 points. Number of messages: 11.

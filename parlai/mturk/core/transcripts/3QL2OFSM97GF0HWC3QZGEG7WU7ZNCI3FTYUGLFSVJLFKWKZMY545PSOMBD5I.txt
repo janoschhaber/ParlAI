@@ -1,0 +1,116 @@
+Game ID: 3QL2OFSM97GF0HWC3QZGEG7WU7ZNCI3FTYUGLFSVJLFKWKZMY545PSOMBD5I
+Domain ID: 27
+Player A: A22DDO8NILSX6O
+Player B: A212OY08MFDGU3
+
+- - Round 1 - -
+[00:00] B: Trains is the theme today. Do you have a black Coal engine train and a guy in purple shirt 
+[00:01] A: There's one with a smiling woman in glasses in the open doorway of a train.
+[00:10] B: Got that one
+[00:13] B: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[00:22] A: No to coal engine and purple shirt.
+[00:27] A: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[00:42] B: speeding passenger train with four people waiting?
+[00:57] A: Yes.
+[00:59] A: <selection> <com> person_train/COCO_train2014_000000085179.jpg
+[01:00] B: <selection> <com> person_train/COCO_train2014_000000085179.jpg
+[01:01] B: <selection> <dif> person_train/COCO_train2014_000000525163.jpg
+[01:20] A: Older man in black baseball cap, blue shirt, black vest, looking at papers
+[01:39] B: Not in my three other that I have either.
+[02:31] A: oops, I was wrong on that one, it's not highlighted. Speeding silver train, lone guy in coat, hat?
+[03:30] B: Sounds similar to the one I have but I have four people in line
+[03:47] A: Nope. So that's probably our different.
+[03:50] A: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[05:24] B: Got it
+- - Round 2 - -
+[06:37] B: Oh I have the coal train one again
+[06:55] A: Dark green with people on the side of it?
+[07:07] B: Thats the one
+[07:09] B: <selection> <com> person_train/COCO_train2014_000000525163.jpg
+[07:11] A: <selection> <com> person_train/COCO_train2014_000000525163.jpg
+[07:19] B: Man enjoying a hot dog?
+[07:27] A: Got that too.
+[07:29] A: <selection> <com> person_train/COCO_train2014_000000480295.jpg
+[07:32] B: <selection> <com> person_train/COCO_train2014_000000480295.jpg
+[07:35] B: Haha.
+[07:51] A: Last one I have is the four people on the platform while train is going by
+[08:01] B: Don't see that today.
+[08:04] B: <selection> <dif> person_train/COCO_train2014_000000246396.jpg
+[08:17] B: So two common one different
+[08:19] A: So...different and...submti
+[08:30] A: *submit
+[08:32] A: <selection> <dif> person_train/COCO_train2014_000000085179.jpg
+- - Round 3 - -
+[08:51] B: Man eating hotdog reappears
+[08:55] A: Coal train again
+[09:24] A: No hot dog guy for me this time, two people waiting for silver train door to open
+[09:37] B: Nope. The other two I have are shiny trains. Got the two people waiting and another one similar to 
+[09:41] B: <selection> <dif> person_train/COCO_train2014_000000480295.jpg
+[09:42] B: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[09:45] B: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[09:45] B: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[09:53] B: Probably different, then?
+[10:13] A: The two people one has woman in black dress on left, guy in white shirt on right?
+[10:45] B: Sorry, thats guy in cap and cargo jeans and woman in short black dress
+[11:09] A: Yeah, your description is more accurate. 
+[11:19] A: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[11:50] A: Do you have lone woman looking at her phone with train in background
+[12:02] B: Highlighted? No.
+[12:08] A: <selection> <dif> person_train/COCO_train2014_000000246396.jpg
+[12:34] A: So that's different. Did you see I have the coal train one highlighted again?
+[12:54] B: Oh now that you mention it we have went through these already
+[13:19] A: You have that one too, then?
+[13:33] B: No, sir.
+[13:52] A: So we have two differents and one common then?
+[14:01] B: Yes, sir
+[14:22] A: Haha, sir. You're so polite. I'll see you on the next page, ma'am.
+[14:27] A: <selection> <dif> person_train/COCO_train2014_000000525163.jpg
+- - Round 4 - -
+[15:59] B: Silver train going past a (woman?) in jacket waiting
+[16:25] A: Jacket and hat? And scarf?
+[16:41] B: Yes
+[16:50] B: <selection> <com> person_train/COCO_train2014_000000382203.jpg
+[16:54] A: Yes. And hot dog man is back.
+[17:01] A: <selection> <com> person_train/COCO_train2014_000000382203.jpg
+[17:26] B: He's everywhere
+[17:33] B: but not here
+[17:41] A: And he's always hungry.
+[17:42] B: I have four people waiting again
+[18:03] A: I don't have that but I have cargo pants and dress waiting again.
+[18:08] A: <selection> <dif> person_train/COCO_train2014_000000480295.jpg
+[18:19] B: no sir. Whats your last card?
+[18:29] B: <selection> <dif> person_train/COCO_train2014_000000085179.jpg
+[18:33] B: <selection> <dif> person_train/COCO_train2014_000000525163.jpg
+[18:49] B: Oh we went over that already!
+[19:06] A: Yeah. So two different, one common again.
+[19:08] A: <selection> <dif> person_train/COCO_train2014_000000313709.jpg
+[19:16] B: Yes
+- - Round 5 - -
+[19:54] B: Smiling glasses
+[19:56] A: Cargo pants and dress. Again.
+[19:57] B: these are familiar
+[20:04] B: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[20:06] A: Yes to smiling glasses lady.
+[20:10] A: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[20:14] B: cargo dress duo
+[20:20] A: <selection> <com> person_train/COCO_train2014_000000313709.jpg
+[20:26] B: and beanie jacket scarf silver speeding train
+[20:32] A: My last one is the four people waiting on platform
+[20:39] A: <selection> <dif> person_train/COCO_train2014_000000085179.jpg
+[20:41] B: so close!
+[20:46] A: there's our different.
+[20:55] B: <selection> <com> person_train/COCO_train2014_000000178018.jpg
+[20:57] B: <selection> <dif> person_train/COCO_train2014_000000382203.jpg
+[21:14] A: Do you have any more questions, partner?
+[21:22] B: It's been nice .. playing?
+[21:53] A: Sure, we'll go with playing. Thanks for making it relatively painless. :)
+[22:29] B: I'm going to get a bowl of ice cream
+[22:43] A: Sounds good. Me too.
+
+- - Game statistics - -
+Duration: 22:47 min. Score: 28/30 points.
+[Round 0] Duration: 05:33 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 01:55 min. Score: 6/6 points. Number of messages: 11.
+[Round 2] Duration: 05:36 min. Score: 5/6 points. Number of messages: 17.
+[Round 3] Duration: 03:21 min. Score: 5/6 points. Number of messages: 13.
+[Round 4] Duration: 01:31 min. Score: 6/6 points. Number of messages: 14.

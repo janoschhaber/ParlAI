@@ -1,0 +1,101 @@
+Game ID: 3OJSZ2ATDTU5YBVA89VJ4DFW1P47563NAPMVF0ZXDDZECNQQTL66CKHDS27B
+Domain ID: 13
+Player A: A5BMKZRGHNSRT
+Player B: A1PAH9JWSKI0G7
+
+- - Round 1 - -
+[00:00] A: do you have an elephant painting while someone in a blue top watches?
+[00:04] B: yes
+[00:06] B: <selection> <com> person_elephant/COCO_train2014_000000571351.jpg
+[00:07] A: <selection> <com> person_elephant/COCO_train2014_000000571351.jpg
+[00:21] B: do you have a photo of someone riding on top of an elephant? there is a guy in a white shirt in fro
+[00:26] B: front of it*
+[00:26] A: yes I do
+[00:29] A: <selection> <com> person_elephant/COCO_train2014_000000576598.jpg
+[00:30] B: <selection> <com> person_elephant/COCO_train2014_000000576598.jpg
+[00:52] B: he isn't wearing a hat is he?
+[00:52] A: do you have a picture of an elephant walking holding the tail of another? there is a person--
+[00:58] A: he is not wearing a hat, no
+[01:03] B: okay
+[01:15] B: i do not have that photo
+[01:18] A: <selection> <dif> person_elephant/COCO_train2014_000000013763.jpg
+[01:41] B: do you have a photo of an elephant with a young boy in front wearing a brown hat?
+[01:53] A: no
+[01:56] B: <selection> <dif> person_elephant/COCO_train2014_000000041649.jpg
+- - Round 2 - -
+[02:20] A: do you have a woman in a tanktop feeding an elephant?
+[02:35] B: is the tang top black and white?
+[02:38] A: yes
+[02:40] B: tank*
+[02:42] B: yes
+[02:43] A: <selection> <com> person_elephant/COCO_train2014_000000095257.jpg
+[02:59] B: do you have the photo of a boy in a brown hat in front of an elephant?
+[03:13] A: yes
+[03:15] A: <selection> <com> person_elephant/COCO_train2014_000000041649.jpg
+[03:15] B: <selection> <com> person_elephant/COCO_train2014_000000041649.jpg
+[03:36] A: do you have a photo a man in a white shirt in front of two people riding elephants?
+[03:54] B: no 
+[04:09] A: <selection> <dif> person_elephant/COCO_train2014_000000576598.jpg
+[04:12] B: do you have the photo of a man in a green shirt petting an elephant on its snout?
+[04:16] A: no
+[04:18] B: <selection> <dif> person_elephant/COCO_train2014_000000296747.jpg
+[05:10] B: do you have a photo of an elephant holding on to another elephants tail?
+[05:19] A: no
+[05:22] B: <selection> <dif> person_elephant/COCO_train2014_000000013763.jpg
+- - Round 3 - -
+[05:41] A: do you have a photo of an elephant holding another elephant's tail?
+[05:55] B: no
+[05:58] A: <selection> <dif> person_elephant/COCO_train2014_000000013763.jpg
+[06:11] B: do you have a photo of a woman feeding an elephant, shes wearing that tanktop
+[06:23] A: yes
+[06:24] A: <selection> <com> person_elephant/COCO_train2014_000000095257.jpg
+[06:26] B: <selection> <com> person_elephant/COCO_train2014_000000095257.jpg
+[06:37] A: do you have a photo of a man in a light green shirt petting an elephant's head?
+[06:41] B: yes
+[06:43] B: <selection> <com> person_elephant/COCO_train2014_000000296747.jpg
+[06:44] A: <selection> <com> person_elephant/COCO_train2014_000000296747.jpg
+[06:57] B: do you have a photo of a woman in a blue shirt in front while two elephants are in water?
+[07:00] A: no
+[07:03] B: <selection> <dif> person_elephant/COCO_train2014_000000532644.jpg
+- - Round 4 - -
+[07:24] A: do you have a photo of a man in a light green shirt petting an elephant's head?
+[07:30] B: no
+[07:32] A: <selection> <dif> person_elephant/COCO_train2014_000000296747.jpg
+[07:43] B: do you have the photo of the woman in a tanktop feeding an elephant?
+[07:51] A: no
+[07:54] B: <selection> <dif> person_elephant/COCO_train2014_000000095257.jpg
+[08:05] A: do you have a photo of a woman in a blue top in front of two elephants in the water?
+[08:09] B: yes
+[08:12] A: <selection> <com> person_elephant/COCO_train2014_000000532644.jpg
+[08:24] B: do you have a photo of an elephant in the background with a kid wearing a brown hat in front?
+[08:34] A: no
+[08:37] B: <selection> <dif> person_elephant/COCO_train2014_000000041649.jpg
+[08:53] A: do you have a photo of a man in a white shirt in front of two elephants being ridden?
+[08:58] B: yes
+[09:00] B: <selection> <com> person_elephant/COCO_train2014_000000576598.jpg
+[09:02] A: <selection> <com> person_elephant/COCO_train2014_000000576598.jpg
+- - Round 5 - -
+[09:20] B: do you have the photo of the elephant painting?
+[09:29] A: with a person wearing a blue top watching?
+[09:33] B: yes
+[09:35] A: yes
+[09:36] A: <selection> <com> person_elephant/COCO_train2014_000000571351.jpg
+[09:38] B: <selection> <com> person_elephant/COCO_train2014_000000571351.jpg
+[09:53] A: do you have a photo of one elephant walking and holding the tail of another?
+[09:57] B: yes
+[09:59] B: <selection> <com> person_elephant/COCO_train2014_000000013763.jpg
+[09:59] A: <selection> <com> person_elephant/COCO_train2014_000000013763.jpg
+[10:09] B: do you have the photo of the man in the green shirt petting the elephant?
+[10:12] A: no
+[10:15] B: <selection> <dif> person_elephant/COCO_train2014_000000296747.jpg
+[10:28] A: do you have a photo of a boy with a brown hat in front of an elephant?
+[10:34] B: no
+[10:37] A: <selection> <dif> person_elephant/COCO_train2014_000000041649.jpg
+
+- - Game statistics - -
+Duration: 10:50 min. Score: 30/30 points.
+[Round 0] Duration: 01:59 min. Score: 6/6 points. Number of messages: 12.
+[Round 1] Duration: 03:03 min. Score: 6/6 points. Number of messages: 13.
+[Round 2] Duration: 01:23 min. Score: 6/6 points. Number of messages: 8.
+[Round 3] Duration: 01:39 min. Score: 6/6 points. Number of messages: 10.
+[Round 4] Duration: 01:17 min. Score: 6/6 points. Number of messages: 10.

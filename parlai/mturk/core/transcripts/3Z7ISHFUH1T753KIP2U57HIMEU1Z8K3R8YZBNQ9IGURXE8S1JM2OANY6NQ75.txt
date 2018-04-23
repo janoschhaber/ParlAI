@@ -1,0 +1,113 @@
+Game ID: 3Z7ISHFUH1T753KIP2U57HIMEU1Z8K3R8YZBNQ9IGURXE8S1JM2OANY6NQ75
+Domain ID: 14
+Player A: A1CY01G7686ORZ
+Player B: A89R5XGMHOTJE
+
+- - Round 1 - -
+[00:00] A: I have a man wearing a black shirt riding a bright green motorcycle down a road.
+[00:10] B: I don't have that
+[00:25] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[00:45] B: I have one of a man taking a mirror picture in the mirror of his motorcycle. 
+[00:56] B: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[01:00] A: With a dark full helmet? 
+[01:20] B: Yes
+[01:24] A: I have that too
+[01:26] A: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[01:26] B: <selection> <com> person_motorcycle/COCO_train2014_000000198072.jpg
+[01:46] A: I have a woman in a long dark blue or black dress standing in front of a motorcycle
+[01:58] A: I think she has some kind of veil on too
+[02:08] B: I don't have that one
+[02:15] A: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[02:37] B: I have one of 5 people wearing yellow uniforms on their motorcycles.
+[02:49] B: They all have helmets on
+[02:50] A: I don't have that one
+[02:53] B: <selection> <dif> person_motorcycle/COCO_train2014_000000560615.jpg
+[03:50] B: Do you have any more?
+[03:54] A: nope, do you?
+[04:24] B: I have 1 more, it's of a person with long hair riding an orange motorcycle with a helmet on.
+[04:40] A: I don't have that one
+[04:45] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+- - Round 2 - -
+[05:16] A: Do you have the one of the 5 people with white helmets lined up on bikes?  Yellow jackets
+[05:30] B: Yep, I have that one.
+[05:33] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[05:38] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[05:55] B: Do you have one of the person with long hair on an orange motorcycle with a black helmet on?
+[06:02] A: yes
+[06:07] A: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[06:22] B: <selection> <com> person_motorcycle/COCO_train2014_000000324228.jpg
+[06:40] A: Do you have the one with it looks like a younger kid riding with no helmet and a woman on the back?
+[07:04] B: No, I don't have that
+[07:07] A: <selection> <dif> person_motorcycle/COCO_train2014_000000238178.jpg
+[07:20] B: Do you have one of the man taking a mirror selfie with a helmet?
+[07:24] A: no
+[07:26] B: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[07:35] B: Are we both done? I'm done
+[07:45] A: i'm done
+- - Round 3 - -
+[08:47] A: do you have the 5 guys with yellow jackets and white helmets?
+[08:55] B: Yes I have that one
+[08:58] B: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[08:59] A: <selection> <com> person_motorcycle/COCO_train2014_000000560615.jpg
+[09:22] B: Do you have the one with the person with black helmet on orange motorcycle?
+[09:31] A: no
+[09:33] B: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[09:57] A: Do you have the one with the guy with white shorts riding the green motorcycle?
+[10:18] B: No I don't have that one. 
+[10:41] B: Do you have one with the youngish boy in white with no helmet with a woman on the back?
+[10:45] A: yes
+[10:47] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[10:48] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[10:54] A: do you have any more?
+[10:58] B: Nope!
+[11:00] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[11:08] A: I'm done too
+- - Round 4 - -
+[11:24] A: Do you have the mirror selfie one?
+[11:33] B: No, don't have that.
+[11:37] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[11:47] B: Do you have the young boy in white with woman on the back?
+[12:13] A: yes
+[12:15] A: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[12:25] B: <selection> <com> person_motorcycle/COCO_train2014_000000238178.jpg
+[12:28] A: do you have the guy on the green motorcycle with white shorts?
+[12:33] B: Yep
+[12:37] B: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[12:38] A: <selection> <com> person_motorcycle/COCO_train2014_000000212969.jpg
+[12:44] A: any more?
+[12:51] B: I have 1 more.
+[13:18] B:  Do you have one of a woman wearing a black dress standing in front of some motorcycles?
+[13:26] A: yes
+[13:28] B: <selection> <com> person_motorcycle/COCO_train2014_000000279373.jpg
+[13:31] B: Okay I'm done.
+- - Round 5 - -
+[13:47] A: Do you have the mirror selfie?
+[13:54] B: Nope
+[13:59] A: <selection> <dif> person_motorcycle/COCO_train2014_000000198072.jpg
+[14:09] B: Do you have the one of the woman wearing the black dress in front of motorcycles?
+[14:24] A: no
+[14:33] A: do you have the guy on the green motorcycle with white shorts?
+[14:37] B: <selection> <dif> person_motorcycle/COCO_train2014_000000279373.jpg
+[14:42] B: No
+[14:49] A: <selection> <dif> person_motorcycle/COCO_train2014_000000212969.jpg
+[15:20] B: Do you have one of a man wearing a black cap and a green plaid shirt on his black motorcycle?
+[15:38] A: no
+[15:41] B: <selection> <dif> person_motorcycle/COCO_train2014_000000039100.jpg
+[15:50] A: Do you have the woman with long hair on an orange motorcycle?
+[16:04] B: Nope
+[16:12] A: <selection> <dif> person_motorcycle/COCO_train2014_000000324228.jpg
+[16:23] A: do you have more?
+[16:40] B: Do you have one of a person on a green motorcycle with dirt flying and his face is not showing?
+[17:05] A: with people in the background watching?  like a race?
+[17:12] B: Yes
+[17:17] A: yes i have it
+[17:20] B: <selection> <com> person_motorcycle/COCO_train2014_000000168627.jpg
+[17:22] B: Okay I'm done 
+
+- - Game statistics - -
+Duration: 17:38 min. Score: 30/30 points.
+[Round 0] Duration: 04:46 min. Score: 6/6 points. Number of messages: 16.
+[Round 1] Duration: 02:32 min. Score: 6/6 points. Number of messages: 10.
+[Round 2] Duration: 02:22 min. Score: 6/6 points. Number of messages: 11.
+[Round 3] Duration: 02:08 min. Score: 6/6 points. Number of messages: 11.
+[Round 4] Duration: 03:36 min. Score: 6/6 points. Number of messages: 16.
