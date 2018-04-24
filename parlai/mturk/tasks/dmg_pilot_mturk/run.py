@@ -425,7 +425,7 @@ def main():
             if world.end_time:
                 conversation_end_time = world.end_time
             else:
-                conversation_end_time = conversation_start_time.copy()
+                conversation_end_time = conversation_start_time
             world.shutdown()
             print("# # # Game ended # # #")
 
@@ -442,6 +442,8 @@ def main():
 
             if time_bonus and time_bonus > 1.5:
                 time_bonus = 1.5
+            if time_bonus and time_bonus < 0:
+                time_bonus = None
             pay_workers(agents, get_pay, time_bonus)
             print("Conversation closed.")
 
